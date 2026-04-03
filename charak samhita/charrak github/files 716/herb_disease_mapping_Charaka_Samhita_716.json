@@ -1,0 +1,316 @@
+{
+  "mappings": [
+    {
+      "disease_id": "disease_002",
+      "disease_name": "Atisara (Diarrhoea)",
+      "herbs": [
+        { "herb_name": "Ashvavarohika", "role": "primary", "dosage_specific": "", "anupana": "milk", "duration": "" },
+        { "herb_name": "Kakanasa", "role": "primary", "dosage_specific": "", "anupana": "milk", "duration": "" },
+        { "herb_name": "Rajakasheruka", "role": "primary", "dosage_specific": "", "anupana": "milk with honey, anjana and ghee", "duration": "" },
+        { "herb_name": "Nyagrodhadi group (four plants)", "role": "primary", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Jivanti", "role": "primary", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Dhataki flowers", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Vatsaka", "role": "primary", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Aragvadha", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Khadira", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" }
+      ],
+      "formulations": ["form_015", "form_016", "form_025", "form_026"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X"
+      }
+    },
+    {
+      "disease_id": "disease_003",
+      "disease_name": "Udavarta (Upward movement of Vata)",
+      "herbs": [
+        { "herb_name": "Punarnava", "role": "primary", "dosage_specific": "", "anupana": "cow's urine", "duration": "" },
+        { "herb_name": "Eranda", "role": "primary", "dosage_specific": "", "anupana": "cow's urine", "duration": "" },
+        { "herb_name": "Danti", "role": "primary", "dosage_specific": "", "anupana": "cow's urine", "duration": "" },
+        { "herb_name": "Citraka", "role": "supporting", "dosage_specific": "", "anupana": "cow's urine", "duration": "" },
+        { "herb_name": "Devadaru", "role": "supporting", "dosage_specific": "", "anupana": "cow's urine", "duration": "" },
+        { "herb_name": "Trivrita", "role": "supporting", "dosage_specific": "", "anupana": "cow's urine", "duration": "" },
+        { "herb_name": "Kantakari", "role": "supporting", "dosage_specific": "", "anupana": "cow's urine", "duration": "" }
+      ],
+      "formulations": ["form_033", "form_038"],
+      "pathya": {
+        "diet_include": ["Meat soup of wild animals"],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XI"
+      }
+    },
+    {
+      "disease_id": "disease_005",
+      "disease_name": "Akshepaka (Contracture / convulsion)",
+      "herbs": [
+        { "herb_name": "Bilva", "role": "primary", "dosage_specific": "", "anupana": "four fats and meat soup", "duration": "" },
+        { "herb_name": "Agnimantha", "role": "primary", "dosage_specific": "", "anupana": "four fats and meat soup", "duration": "" },
+        { "herb_name": "Salaparni", "role": "supporting", "dosage_specific": "", "anupana": "four fats and meat soup", "duration": "" },
+        { "herb_name": "Eranda", "role": "supporting", "dosage_specific": "", "anupana": "four fats and meat soup", "duration": "" }
+      ],
+      "formulations": ["form_001", "form_002", "form_003"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": ["Vata alleviating treatment", "Unction", "Sudation"],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X"
+      }
+    },
+    {
+      "disease_id": "disease_006",
+      "disease_name": "Adhmana (Tympanitis / abdominal distension)",
+      "herbs": [
+        { "herb_name": "Devadaru", "role": "primary", "dosage_specific": "", "anupana": "decoction in enema", "duration": "" },
+        { "herb_name": "Ela", "role": "primary", "dosage_specific": "", "anupana": "decoction in enema", "duration": "" },
+        { "herb_name": "Kustha", "role": "supporting", "dosage_specific": "", "anupana": "decoction in enema", "duration": "" },
+        { "herb_name": "Madhuka", "role": "supporting", "dosage_specific": "", "anupana": "decoction in enema", "duration": "" },
+        { "herb_name": "Pippali", "role": "supporting", "dosage_specific": "", "anupana": "decoction in enema", "duration": "" }
+      ],
+      "formulations": [],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X"
+      }
+    },
+    {
+      "disease_id": "disease_007",
+      "disease_name": "Prameha (Urinary disorders / Diabetes)",
+      "herbs": [
+        { "herb_name": "Somavalka", "role": "primary", "dosage_specific": "", "anupana": "decoction as enema", "duration": "" },
+        { "herb_name": "Haridra", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Triphala", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Musta", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Daruharidra", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Pippali", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Citraka", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" }
+      ],
+      "formulations": ["form_032", "form_033"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X"
+      }
+    },
+    {
+      "disease_id": "disease_008",
+      "disease_name": "Kustha (Skin disorders)",
+      "herbs": [
+        { "herb_name": "Jimutaka", "role": "primary", "dosage_specific": "", "anupana": "as enema", "duration": "" },
+        { "herb_name": "Haridra", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Daruharidra", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" }
+      ],
+      "formulations": [],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XI"
+      }
+    },
+    {
+      "disease_id": "disease_009",
+      "disease_name": "Arsha (Haemorrhoids / Piles)",
+      "herbs": [
+        { "herb_name": "Musta", "role": "primary", "dosage_specific": "40 gm", "anupana": "decoction with milk as enema", "duration": "" },
+        { "herb_name": "Rasna", "role": "supporting", "dosage_specific": "40 gm", "anupana": "", "duration": "" },
+        { "herb_name": "Bala", "role": "supporting", "dosage_specific": "40 gm", "anupana": "", "duration": "" },
+        { "herb_name": "Guduchi", "role": "supporting", "dosage_specific": "40 gm", "anupana": "", "duration": "" },
+        { "herb_name": "Punarnava", "role": "supporting", "dosage_specific": "40 gm", "anupana": "", "duration": "" }
+      ],
+      "formulations": ["form_033", "form_034"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": ["Day sleep", "Sexual intercourse during convalescence", "Excessive walking"],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII"
+      }
+    },
+    {
+      "disease_id": "disease_011",
+      "disease_name": "Pandu (Anaemia)",
+      "herbs": [
+        { "herb_name": "Dhamargava", "role": "primary", "dosage_specific": "", "anupana": "as enema", "duration": "" },
+        { "herb_name": "Manjishtha", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Sariva", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" }
+      ],
+      "formulations": [],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XI"
+      }
+    },
+    {
+      "disease_id": "disease_013",
+      "disease_name": "Kasa (Cough)",
+      "herbs": [
+        { "herb_name": "Brhati", "role": "primary", "dosage_specific": "", "anupana": "milk enema", "duration": "" },
+        { "herb_name": "Kantakari", "role": "primary", "dosage_specific": "", "anupana": "milk enema", "duration": "" },
+        { "herb_name": "Shatavari", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Guduchi", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Pippali", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Madhuka", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" }
+      ],
+      "formulations": ["form_036", "form_037"],
+      "pathya": {
+        "diet_include": ["Milk and ghee processed with vitaliser drugs"],
+        "diet_avoid": [],
+        "lifestyle_follow": ["Vata alleviating massage", "Poultice"],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII"
+      }
+    },
+    {
+      "disease_id": "disease_016",
+      "disease_name": "Vata-Rakta (Gout)",
+      "herbs": [
+        { "herb_name": "Hapusa", "role": "primary", "dosage_specific": "80 gm", "anupana": "milk-water enema", "duration": "" },
+        { "herb_name": "Yava (Barley)", "role": "supporting", "dosage_specific": "double of hapusa", "anupana": "", "duration": "" },
+        { "herb_name": "Bala", "role": "supporting", "dosage_specific": "4 kg (for large formulation)", "anupana": "", "duration": "" },
+        { "herb_name": "Gokshura", "role": "supporting", "dosage_specific": "4 kg (for large formulation)", "anupana": "", "duration": "" },
+        { "herb_name": "Rasna", "role": "supporting", "dosage_specific": "4 kg (for large formulation)", "anupana": "", "duration": "" },
+        { "herb_name": "Ashvagandha", "role": "supporting", "dosage_specific": "4 kg (for large formulation)", "anupana": "", "duration": "" }
+      ],
+      "formulations": ["form_039"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": ["Sexual indulgence", "Physical exertions", "Wine", "Honey", "Cold water", "Over-eating", "Vehicular jerking"],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII"
+      }
+    },
+    {
+      "disease_id": "disease_019",
+      "disease_name": "Raktapitta (Haemorrhagic disorder)",
+      "herbs": [
+        { "herb_name": "Brhati", "role": "primary", "dosage_specific": "", "anupana": "milk with ghee, anjana, honey and sugar", "duration": "" },
+        { "herb_name": "Kshirakakoli", "role": "primary", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Prishniparni", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Shatavari", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Gambhari", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Badari", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Ushira", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Priyangu", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Chandana", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Draksha", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Amalaki", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Madhuka", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Manjishtha", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Sariva", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" }
+      ],
+      "formulations": ["form_027", "form_028", "form_029", "form_030", "form_031"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X"
+      }
+    },
+    {
+      "disease_id": "disease_020",
+      "disease_name": "Mutrakrichra (Dysuria)",
+      "herbs": [
+        { "herb_name": "Shatapushpa", "role": "primary", "dosage_specific": "20 gm", "anupana": "honey and ghee enema", "duration": "" },
+        { "herb_name": "Vidarigandhadi group herbs", "role": "primary", "dosage_specific": "", "anupana": "oil cooked with milk for urethral douche", "duration": "" }
+      ],
+      "formulations": [],
+      "pathya": {
+        "diet_include": ["Milk and ghee processed with vitaliser drugs"],
+        "diet_avoid": [],
+        "lifestyle_follow": ["Urethral douche (Uttara basti) with oil cooked with vidarigandhadi and vitaliser groups"],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII"
+      }
+    },
+    {
+      "disease_id": "disease_023",
+      "disease_name": "Vishama Jwara (Intermittent fever)",
+      "herbs": [
+        { "herb_name": "Laghu Panchamula", "role": "primary", "dosage_specific": "", "anupana": "milk decoction as enema", "duration": "" },
+        { "herb_name": "Pippali", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Madhuka", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Madana", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Shalaparni root", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Prishniparni root", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" },
+        { "herb_name": "Gokshuraka", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": "" }
+      ],
+      "formulations": ["form_040", "form_043"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII"
+      }
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "diseases": [
+    {
+      "id": "disease_001",
+      "names": {
+        "sanskrit": "Jwara",
+        "english": "Fever",
+        "hindi": "Jwara / Bukhar",
+        "gujarati": "Tav"
+      },
+      "category": "Santapa Roga (heat-related disorder)",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": ["Rasa", "Rakta", "Mamsa", "Meda", "Asthi", "Majja", "Shukra"],
+      "srotas_affected": ["Rasavaha", "Raktavaha", "Svedavaha"],
+      "nidana": {
+        "ahara": [
+          "Heavy, hot, unctuous, sweet and astringent foods in excess",
+          "Intake during acute fever of heavy foods"
+        ],
+        "vihara": [
+          "Excessive exercise",
+          "Day sleep during fever",
+          "Sexual intercourse during fever",
+          "Exposure to wind"
+        ],
+        "manasa": [
+          "Anger",
+          "Passion",
+          "Anxiety",
+          "Fear",
+          "Grief"
+        ],
+        "agantuja": [
+          "Injury by weapon, brickbat, whip, wood, fist or teeth",
+          "Ill attachment with evil spirits or organisms",
+          "Poisonous air contact",
+          "Exorcism and cursing"
+        ]
+      },
+      "purvaroopa": [
+        "Lassitude",
+        "Congested eyes",
+        "Yawning",
+        "Heaviness",
+        "Exhaustion",
+        "Unstable desire",
+        "Aversion to fire, sun, air and water",
+        "Indigestion",
+        "Distaste in mouth",
+        "Loss of strength and complexion",
+        "Slight derangement in behaviour"
+      ],
+      "roopa": [
+        "Pyrexia (excessive heat in body and mind)",
+        "Anorexia",
+        "Thirst",
+        "Bodyache",
+        "Distress in cardiac region",
+        "Absence of perspiration (due to blocking of channels)",
+        "Heaviness in abdomen in ama stage"
+      ],
+      "bheda": [
+        "Somatic (sharira) and Psychic (manasa)",
+        "Saumya (soma-predominant) and Agneya (agni-predominant)",
+        "Internal and External",
+        "Natural and Unnatural",
+        "Curable and Incurable",
+        "Santata (remittent fever)",
+        "Satata (rising twice a day)",
+        "Anyedushka (quotidian/daily fever)",
+        "Tryitiyaka (tertian fever)",
+        "Chaturthaka (quartan fever)",
+        "Seven types by location in dhatus",
+        "Eight types by etiology (vataja, pittaja, kaphaja, vata-pittaja, vata-kaphaja, pitta-kaphaja, sannipataja, agantuja)",
+        "Thirteen types of Sannipatajwara"
+      ],
+      "sadhyata": "Curable if caused by one dosa and recently arisen in strong patient without complication; maintainable if caused by two dosas; incurable if caused by three dosas with full symptoms",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III",
+        "verse": "1-346"
+      }
+    },
+    {
+      "id": "disease_002",
+      "names": {
+        "sanskrit": "Raktapitta",
+        "english": "Internal Haemorrhage / Bleeding disorder",
+        "hindi": "Raktapitta",
+        "gujarati": "Raktapitta"
+      },
+      "category": "Rakta-Pitta Roga",
+      "dosha_involved": ["Pitta", "Rakta", "Vata", "Kapha"],
+      "dhatu_affected": ["Rakta", "Rasa"],
+      "srotas_affected": ["Raktavaha", "Annavaha"],
+      "nidana": {
+        "ahara": [
+          "Intake of hot, sharp, sour, pungent and salty substances in excess",
+          "Gastric hyperacidity"
+        ],
+        "vihara": [
+          "Over-saturation in strong patient",
+          "Exposure to sun and fire",
+          "Load-carrying",
+          "Travelling on foot"
+        ],
+        "manasa": [
+          "Grief"
+        ],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Bleeding from upper orifices (nose, mouth, ears, eyes) or lower orifices (rectum, urinary)",
+        "Viscous, pale, unctuous, slimy blood indicates Kapha association",
+        "Blackish, reddish, frothy, thin, rough blood indicates Vata type",
+        "Ochre-like, black, cow-urine-like, smoky, collyrium-like colour indicates Pitta type",
+        "Constipation due to aggravated vata",
+        "Fainting",
+        "Thirst",
+        "Burning sensation"
+      ],
+      "bheda": [
+        "Upward (urdhvaga) - through seven orifices in head",
+        "Downward (adhoga) - through two lower orifices",
+        "Both passages (ubhayatoga) - incurable"
+      ],
+      "sadhyata": "Curable if one passage and one dosa in strong patient without complication; maintainable if two dosas; incurable if all three dosas, exceedingly forceful, corpse-like smell, deeply emaciated patient",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "IV",
+        "verse": "1-110"
+      }
+    },
+    {
+      "id": "disease_003",
+      "names": {
+        "sanskrit": "Gulma",
+        "english": "Abdominal Lump / Phantom Tumour",
+        "hindi": "Gulma",
+        "gujarati": "Gulma"
+      },
+      "category": "Udara Roga",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": ["Rasa", "Rakta"],
+      "srotas_affected": ["Annavaha", "Purishavaha"],
+      "nidana": {
+        "ahara": [
+          "Excessive intake of rough food and drinks (vatika)",
+          "Pungent, sour, irritant, hot, burning, rough substances in excess (paittika)",
+          "Cold, heavy, unctuous food in excess (kaphaja)",
+          "Over-saturation (kaphaja)"
+        ],
+        "vihara": [
+          "Uneven and excessive activities",
+          "Suppression of natural urges",
+          "External injury",
+          "Excessive loss of excrements",
+          "Fasting",
+          "Excessive sleep in day (kaphaja)",
+          "Lack of movement (kaphaja)"
+        ],
+        "manasa": [
+          "Anxiety",
+          "Grief"
+        ],
+        "agantuja": [
+          "Faulty application of evacuative measures",
+          "Excessive pressure on abdomen"
+        ]
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Pain in cardiac region, navel, sides, abdomen and pelvis",
+        "Lump palpable in abdomen",
+        "Obstruction in faeces and flatus (vatika)",
+        "Dryness in throat and mouth (vatika)",
+        "Blackish and reddish complexion (vatika)",
+        "Fever with shivering (vatika)",
+        "Fever, thirst, reddishness on face and body, pain aggravating during digestion, sweating, burning, tenderness (paittika)",
+        "Feeling of weakness, cold fever, malaise, nausea, cough, anorexia, heaviness, coldness, mild pain, hardness with elevation (kaphaja)"
+      ],
+      "bheda": [
+        "Vatika Gulma",
+        "Paittika Gulma",
+        "Kaphaja Gulma",
+        "Sannipatika Gulma",
+        "Raktaja Gulma (in women - from accumulated menstrual blood)",
+        "Five sites: pelvic region, umbilical region, cardiac region, flanks"
+      ],
+      "sadhyata": "Incurable if intense pain, burning, stony hard, elevated, quickly inflaming, severe, with loss of strength of mind, body and agni; incurable if widely accumulated, deep-rooted, covered with veins, associated with fever, dyspnoea, vomiting, diarrhoea and swelling",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "V",
+        "verse": "1-189"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1554 @@
+{
+  "formulations": [
+    {
+      "id": "form_001",
+      "name": "Mahatikta Ghrta",
+      "type": "Ghrta (medicated ghee)",
+      "ingredients": [],
+      "preparation_method": "Ghee cooked with bitter drugs",
+      "indications": [
+        "Paittika kustha",
+        "Visarpa (erysipelas) — pitta predominant"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [
+        "Not to be administered with profuse impurity — decompose skin, flesh and blood"
+      ],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI",
+        "verse": "62"
+      }
+    },
+    {
+      "id": "form_002",
+      "name": "Trayamana Ghrta",
+      "type": "Ghrta (medicated ghee)",
+      "ingredients": [
+        {
+          "herb_name": "Trayamana",
+          "quantity": "",
+          "form": "decoction for cooking ghee"
+        }
+      ],
+      "preparation_method": "Ghee cooked with Trayamana decoction. Also milk boiled with Trayamana used as purgative.",
+      "indications": [
+        "Gulma",
+        "Visarpa (erysipelas)",
+        "Erysipelas with fever"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI",
+        "verse": "63-64"
+      }
+    },
+    {
+      "id": "form_003",
+      "name": "Patoladi Decoction (visarpa variant)",
+      "type": "Kwatha (decoction)",
+      "ingredients": [
+        {
+          "herb_name": "Patola",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Nimba",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Daruharida",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Katurohini",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Madhuyasti",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Trayamana",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Triphala",
+          "quantity": "",
+          "form": "added"
+        },
+        {
+          "herb_name": "Grain of lentils",
+          "quantity": "",
+          "form": "added"
+        },
+        {
+          "herb_name": "Ghee",
+          "quantity": "",
+          "form": "added"
+        }
+      ],
+      "preparation_method": "Decoction of patola, nimba, daruharida, katurohini, madhuyasti and trayamana; triphala and grains of lentils added with ghee",
+      "indications": [
+        "Visarpa (erysipelas)"
+      ],
+      "dosage": "",
+      "anupana": "Ghee",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI",
+        "verse": "59-60"
+      }
+    },
+    {
+      "id": "form_004",
+      "name": "Kiratatikta-Lodhra compound decoction",
+      "type": "Kwatha (decoction)",
+      "ingredients": [
+        {
+          "herb_name": "Kiratatikta",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Lodhra",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Candana",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Duralaha",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Sunthi",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Padmakesara",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Utpala",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Bibhitaka",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Madhuka",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Nagakesara",
+          "quantity": "",
+          "form": "decoction"
+        }
+      ],
+      "preparation_method": "All ingredients made into decoction",
+      "indications": [
+        "Visarpa (erysipelas)"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI",
+        "verse": "56"
+      }
+    },
+    {
+      "id": "form_005",
+      "name": "Draksa-Parpataka overnight decoction (thirst / visarpa)",
+      "type": "Kwatha (overnight cold infusion)",
+      "ingredients": [
+        {
+          "herb_name": "Draksa",
+          "quantity": "",
+          "form": "kept overnight in water"
+        },
+        {
+          "herb_name": "Parpataka",
+          "quantity": "",
+          "form": "kept overnight in water"
+        },
+        {
+          "herb_name": "Sunthi",
+          "quantity": "",
+          "form": "kept overnight in water"
+        },
+        {
+          "herb_name": "Gudici",
+          "quantity": "",
+          "form": "kept overnight in water"
+        },
+        {
+          "herb_name": "Dhanvayasa",
+          "quantity": "",
+          "form": "kept overnight in water"
+        }
+      ],
+      "preparation_method": "All herbs kept overnight in water, given as drink",
+      "indications": [
+        "Excessive thirst (in visarpa)",
+        "Visarpa (erysipelas)"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI",
+        "verse": "58"
+      }
+    },
+    {
+      "id": "form_006",
+      "name": "Ghrta cooked with Darva juice",
+      "type": "Ghrta (medicated ghee)",
+      "ingredients": [
+        {
+          "herb_name": "Darva (Berberis / Barberry)",
+          "quantity": "",
+          "form": "juice for cooking"
+        },
+        {
+          "herb_name": "Ghee",
+          "quantity": "",
+          "form": "base"
+        }
+      ],
+      "preparation_method": "Ghee cooked with juice of darva",
+      "indications": [
+        "Wound healing in erysipelas"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI",
+        "verse": "95"
+      }
+    },
+    {
+      "id": "form_007",
+      "name": "Kampillaka-Vidanga-Daruharidra-Karafija Taila",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        {
+          "herb_name": "Kampillaka",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Vidanga",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Daruharidra",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Karafija fruit",
+          "quantity": "",
+          "form": "pounded"
+        }
+      ],
+      "preparation_method": "All pounded together and cooked into oil",
+      "indications": [
+        "Granthi visarpa"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI",
+        "verse": "136"
+      }
+    },
+    {
+      "id": "form_008",
+      "name": "Mrtasamjivana Agada",
+      "type": "Agada (anti-poison pill / vati)",
+      "ingredients": [
+        {
+          "herb_name": "Sprkka",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Plava",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Sthauneya",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Kamksi",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Saileya",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Rocana",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Tagara",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Dhyamaka",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Kumkuma",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Mamsi",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Surasa (Tulasi)",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Agryaila (Sthula ela)",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Ala (orpiment)",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Khadira",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Brhati",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Sirisa flowers",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Srivestaka",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Padma carati",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Visala",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Devadaru",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Padmakesara",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Sabaraka",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Realgar",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Kaunti",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Jati flowers",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Arka flowers",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Rasa (Bola)",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Haridra",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Daruharidra",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Hingu",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Pippali",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Lac",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Balaka",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Mudgaparni",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Candana",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Madhuka",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Madana",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Sindhuvara",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Aragvadha",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Lodhra",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Mayuraka",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Gandhaphala",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Nakuli",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Vidanga",
+          "quantity": "equal parts",
+          "form": "pounded"
+        }
+      ],
+      "preparation_method": "Collected in pusya constellation. Pounded together in equal quantity. Made into pills. Recitation of specific hymn during pounding.",
+      "indications": [
+        "All types of poison",
+        "Revival of apparently dead by poisoning",
+        "Fever",
+        "Evil spirits",
+        "Poisons and organisms",
+        "Fire, thunderbolt, enemies",
+        "Bad dreams",
+        "Fear of untimely death",
+        "Floods and thieves"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "routes": [
+        "Snuff",
+        "Paste",
+        "Amulet",
+        "Smoking",
+        "Intake"
+      ],
+      "contraindications": [],
+      "special_notes": "Revealed by Brahma before appearance of nectar. Promotes auspiciousness, corpulence and life-span.",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIII",
+        "verse": "54-60"
+      }
+    },
+    {
+      "id": "form_009",
+      "name": "Gandhahasti Agada",
+      "type": "Agada (anti-poison formulation)",
+      "ingredients": [
+        {
+          "herb_name": "Sveta",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Vaca",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Asvagandha",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Hingu",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Gudici",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Kustha",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Saindhava",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Laguna (garlic)",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Sarsapa",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Kapittha (fruit pulp)",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Seeds of syonaka",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Seeds of karafija",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Trikatu",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Sirisa flowers",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Haridra",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Daruharidra",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Vamsalocana",
+          "quantity": "",
+          "form": "pounded"
+        }
+      ],
+      "preparation_method": "All in equal parts pounded with goat urine. Impregnated alternately with cow's and horse's bile for one week.",
+      "indications": [
+        "Counteracts poison quickly when applied on incised scalp",
+        "All sorts of fever",
+        "Seizures by evil spirits",
+        "Visucika",
+        "Indigestion",
+        "Fainting",
+        "Insanity, epilepsy, cataract, patala, nilika, head-diseases, suskaksipaka, pilla, arbuda, arma, itching (as collyrium)",
+        "Poison from poisoned arrow, licking, biting, ingestion (as paste)",
+        "Piles and hardness of bowels (on anus)",
+        "Obstructed foetus (on vagina)",
+        "Coryza (on forehead)",
+        "Scrotal enlargement, kitibha, kustha, leucoderma, eczema"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "routes": [
+        "Incised scalp application",
+        "Collyrium",
+        "Paste",
+        "Snuff"
+      ],
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIII",
+        "verse": "65-76"
+      }
+    },
+    {
+      "id": "form_010",
+      "name": "Mahagandhahasti Agada",
+      "type": "Agada (anti-poison pills — 60 drugs)",
+      "ingredients": [
+        {
+          "herb_name": "Patra",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Aguru",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Musta",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Ela (cardamom)",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Five exudations (panca ksira)",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Candana",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Sprkka",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Twak",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Nalada",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Utpala",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Balaka",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Harenuka",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Usira",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Vanya",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Nakha",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Devadaru",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Nagakesara",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Kumkuma",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Dhyamaka",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Kustha",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Priyangu",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Tagara",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Five parts of Sirisa",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Trikatu",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Ala (orpiment)",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Realgar",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "White katabhi",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Karafija",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Rakshoghni",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Sindhuvara",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Haridra",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Surasa (tulasi)",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Anjana",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Gairika (ochre)",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Manjistha",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Nimba exudation",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Vamsa bark",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Asvagandha",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Hingu",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Kapittha",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Amlavetasa",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Lac",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Honey",
+          "quantity": "equal parts",
+          "form": "added"
+        },
+        {
+          "herb_name": "Madhuka",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Somaraji",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Vaca",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Ruha",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Rocana",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Tagara (second entry)",
+          "quantity": "equal parts",
+          "form": "pounded"
+        }
+      ],
+      "preparation_method": "In pusya constellation, pounded with cow bile, made into pills.",
+      "indications": [
+        "All poisons (rats, spiders, serpents, root poisons)",
+        "Eye diseases (pilla, itching, timira, night-blindness, cataract, arbuda)",
+        "Irregular fever",
+        "Indigestion",
+        "Skin diseases (ringworm, itching, eczema, pimples)",
+        "Hardness of bowels (on anus)",
+        "Obstructed labour (on vagina)",
+        "Fainting (on forehead)"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "routes": [
+        "Intake",
+        "Collyrium",
+        "Local paste"
+      ],
+      "special_notes": "60-drug formula revealed by Tryambaka (Rudra) to Kubera. Constant use with wholesome and measured diet gives best results.",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIII",
+        "verse": "77-104 (Ksaragada section)"
+      }
+    },
+    {
+      "id": "form_011",
+      "name": "Ksaragada (Alkali anti-poison pill)",
+      "type": "Agada / Kshara yoga (pills)",
+      "ingredients": [
+        {
+          "herb_name": "Alkali (kshara) from young palasa tree",
+          "quantity": "",
+          "form": "cooked"
+        },
+        {
+          "herb_name": "Gairika (ochre)",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Haridra",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Daruharidra",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "White tulasi flower stalk",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Madhuka",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Laksa (lac)",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Rock salt",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Mamsi",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Harenu",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Hingu",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Both types of sariva",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Kustha",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Trikatu",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Kumkuma",
+          "quantity": "equal parts",
+          "form": "powder"
+        }
+      ],
+      "preparation_method": "Alkali from young palasa tree cooked with all powders in equal quantity till it sticks to laddle. Made into pills, dried in shade.",
+      "indications": [
+        "All poisons",
+        "Swelling",
+        "Gulma",
+        "Skin disorder",
+        "Piles",
+        "Fistula-in-ano",
+        "Oedema",
+        "Epilepsy",
+        "Worms",
+        "Evil spirits",
+        "Hoarseness of voice",
+        "Anaemia",
+        "Loss of appetite",
+        "Cough",
+        "Insanity"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIII",
+        "verse": "97-104"
+      }
+    },
+    {
+      "id": "form_012",
+      "name": "Pancasirisa Agada",
+      "type": "Agada (anti-poison — best single-herb formula)",
+      "ingredients": [
+        {
+          "herb_name": "Sirisa fruit",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Sirisa root",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Sirisa bark",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Sirisa flower",
+          "quantity": "equal parts",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Sirisa leaf",
+          "quantity": "equal parts",
+          "form": "pounded"
+        }
+      ],
+      "preparation_method": "Five parts of Sirisa taken together in equal quantity",
+      "indications": [
+        "Best anti-poison for destroying all types of poison"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIII",
+        "verse": "218"
+      }
+    },
+    {
+      "id": "form_013",
+      "name": "Amrtaghrta",
+      "type": "Ghrta (medicated ghee — anti-poison)",
+      "ingredients": [
+        {
+          "herb_name": "Sirisa bark",
+          "quantity": "10 gm each",
+          "form": "paste for cooking"
+        },
+        {
+          "herb_name": "Trikatu",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Triphala",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Candana",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Utpala",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Bala",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Atibala",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Sariva",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Asphota",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Nimba",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Patala",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Bandhujiva",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Adhaki",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Surasa",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Vatsaka",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Asvagandha",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Arka root",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Yastyahva (madhuyasti)",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Padmaka",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Visala",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Brhati",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Lac",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Kovidara",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Satavari",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Katabhi",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Danti",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Apamarga",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Prsniparni",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Rasanjana",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Kustha",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Devadaru",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Priyangu",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Vidari",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Madhuka-sara",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Karafija (fruit and bark)",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Haridra",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Daruharidra",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Lodhra",
+          "quantity": "10 gm each",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Ghee (base)",
+          "quantity": "2.56 litres",
+          "form": "base"
+        },
+        {
+          "herb_name": "Water",
+          "quantity": "equal to ghee",
+          "form": "liquid"
+        },
+        {
+          "herb_name": "Goat urine",
+          "quantity": "7.68 litres",
+          "form": "liquid"
+        },
+        {
+          "herb_name": "Cow urine",
+          "quantity": "7.68 litres",
+          "form": "liquid"
+        }
+      ],
+      "preparation_method": "Each herb 10 gm used as paste for cooking ghee 2.56 litres with equal quantity of water and goat's and cow's urine 7.68 litres",
+      "indications": [
+        "Anti-poison — all types of poison",
+        "Revival of near-dead from poisoning and hanging",
+        "Epilepsy",
+        "Wasting",
+        "Insanity",
+        "Seizures of evil spirits and grahas",
+        "Dysyodara",
+        "Anaemia",
+        "Worms",
+        "Gulma",
+        "Splenomegaly",
+        "Trstambha (rigidity)",
+        "Jaundice",
+        "Stiffness of jaw and shoulder"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "routes": [
+        "Potion (internal)",
+        "Massage",
+        "Snuff"
+      ],
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIII",
+        "verse": "242-249"
+      }
+    },
+    {
+      "id": "form_014",
+      "name": "Vartaku-Phanita-Soot resuscitative formulation",
+      "type": "Anti-poison resuscitative compound",
+      "ingredients": [
+        {
+          "herb_name": "Vartaku",
+          "quantity": "",
+          "form": ""
+        },
+        {
+          "herb_name": "Phanita (concentrated molasses)",
+          "quantity": "",
+          "form": ""
+        },
+        {
+          "herb_name": "Soot (carbon)",
+          "quantity": "",
+          "form": ""
+        },
+        {
+          "herb_name": "Cow bile",
+          "quantity": "",
+          "form": ""
+        },
+        {
+          "herb_name": "Nimba",
+          "quantity": "",
+          "form": ""
+        }
+      ],
+      "preparation_method": "Combined together",
+      "indications": [
+        "Resuscitative in near-dead patients from poisoning (8th impulse)"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIII",
+        "verse": "51"
+      }
+    },
+    {
+      "id": "form_015",
+      "name": "Sankavisa (suspicion poisoning) Potion",
+      "type": "Compound potion (shama chikitsa)",
+      "ingredients": [
+        {
+          "herb_name": "Sarkara (sugar)",
+          "quantity": "",
+          "form": ""
+        },
+        {
+          "herb_name": "Saugandhika (lotus flowers)",
+          "quantity": "",
+          "form": ""
+        },
+        {
+          "herb_name": "Draksa (raisins)",
+          "quantity": "",
+          "form": ""
+        },
+        {
+          "herb_name": "Payasya",
+          "quantity": "",
+          "form": ""
+        },
+        {
+          "herb_name": "Madhuka",
+          "quantity": "",
+          "form": ""
+        },
+        {
+          "herb_name": "Honey",
+          "quantity": "",
+          "form": ""
+        }
+      ],
+      "preparation_method": "Combined and given as potion",
+      "indications": [
+        "Sankavisa — psychosomatic poisoning-like symptoms arising from fear/suspicion of bite in darkness",
+        "Fever",
+        "Vomiting",
+        "Fainting",
+        "Burning sensation",
+        "Mental confusion",
+        "Diarrhoea"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "special_notes": "Patient should also be consoled, sponged with incantation-purified water, and given exhilarating measures.",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIII",
+        "verse": "221-223"
+      }
+    },
+    {
+      "id": "form_016",
+      "name": "Animal anti-poison powder (universal for quadrupeds)",
+      "type": "Churna (powder) compound",
+      "ingredients": [
+        {
+          "herb_name": "Devadaru",
+          "quantity": "",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Haridra",
+          "quantity": "",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Daruharidra",
+          "quantity": "",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Sarala",
+          "quantity": "",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Candana",
+          "quantity": "",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Aguru",
+          "quantity": "",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Rasna",
+          "quantity": "",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Gorocana",
+          "quantity": "",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Jiraka",
+          "quantity": "",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Guggulu",
+          "quantity": "",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Iksuraka",
+          "quantity": "",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Tagara",
+          "quantity": "",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Rock salt",
+          "quantity": "",
+          "form": "added"
+        },
+        {
+          "herb_name": "Ananta",
+          "quantity": "",
+          "form": "powder"
+        }
+      ],
+      "preparation_method": "Powder of all drugs along with rock salt and ananta, mixed with cow bile and honey",
+      "indications": [
+        "Universal anti-poison for animals (quadrupeds bitten by poisonous animals)"
+      ],
+      "dosage": "",
+      "anupana": "Cow bile and honey",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIII",
+        "verse": "232"
+      }
+    }
+  ]
+}

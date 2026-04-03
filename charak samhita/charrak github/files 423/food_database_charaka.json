@@ -1,0 +1,699 @@
+{
+  "foods": [
+    {
+      "id": "food_001",
+      "names": {
+        "sanskrit": "Sali",
+        "english": "Old red/white rice varieties",
+        "hindi": "Chawal (purana)",
+        "gujarati": "Chawal (juna)"
+      },
+      "category": "Dhanya (grain / cereal)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": [
+          "Light",
+          "Well-drained"
+        ]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "Alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Prescribed in visarpa (erysipelas)",
+        "Prescribed in trsna (thirst) — liquid gruel of sali",
+        "Prescribed in poisoning",
+        "Old sali rice with soups of green gram, lentils or bengal gram"
+      ],
+      "contraindications": [
+        "Not suited for those with kapha predominance"
+      ],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI"
+      }
+    },
+    {
+      "id": "food_002",
+      "names": {
+        "sanskrit": "Gastika",
+        "english": "60-day rice / Sashtika rice",
+        "hindi": "Saathi chawal",
+        "gujarati": ""
+      },
+      "category": "Dhanya (grain / cereal)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": [
+          "Well-drained"
+        ]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Prescribed in visarpa",
+        "Prescribed in poisoning"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI"
+      }
+    },
+    {
+      "id": "food_003",
+      "names": {
+        "sanskrit": "Mudga",
+        "english": "Green gram / Mung bean",
+        "hindi": "Moong",
+        "gujarati": "Mag"
+      },
+      "category": "Shimbi dhanya (legume)",
+      "properties": {
+        "rasa": [
+          "Astringent",
+          "Sweet"
+        ],
+        "virya": "",
+        "vipaka": "",
+        "guna": [
+          "Light"
+        ]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "Alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Soup of green gram in visarpa (with patola and amalaka)",
+        "Green gram soup fried in ghee in trsna",
+        "Prescribed for pulse-soup in poisoning"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI"
+      }
+    },
+    {
+      "id": "food_004",
+      "names": {
+        "sanskrit": "Masura",
+        "english": "Lentil",
+        "hindi": "Masoor",
+        "gujarati": "Masur"
+      },
+      "category": "Shimbi dhanya (legume)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Soup of lentils in visarpa (with patola and amalaka)",
+        "Lentil soup fried in ghee in trsna",
+        "Patoladi decoction with grains of lentils"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI"
+      }
+    },
+    {
+      "id": "food_005",
+      "names": {
+        "sanskrit": "Yava",
+        "english": "Barley",
+        "hindi": "Jau",
+        "gujarati": "Jav"
+      },
+      "category": "Dhanya (grain / cereal)",
+      "properties": {
+        "rasa": [
+          "Astringent"
+        ],
+        "virya": "Cold",
+        "vipaka": "",
+        "guna": [
+          "Rough",
+          "Light"
+        ]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "Alleviates",
+        "kapha": "Alleviates"
+      },
+      "therapeutic_uses": [
+        "Mantha of barley and ali in visarpa",
+        "Prescribed for kapha-predominant persons in visarpa when rice is not suited",
+        "Vatya (cakes) of unripe barley grains cold with honey and sugar in trsna",
+        "Rough mantha of barley and ali — post-lightening in visarpa",
+        "Flour of parched barley as paste for visarpa",
+        "Barley powder with madhuka and ghee as paste"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI"
+      }
+    },
+    {
+      "id": "food_006",
+      "names": {
+        "sanskrit": "Amalaka",
+        "english": "Indian gooseberry / Amla",
+        "hindi": "Amla",
+        "gujarati": "Amla"
+      },
+      "category": "Phala (fruit)",
+      "properties": {
+        "rasa": [
+          "Sour",
+          "Astringent",
+          "Sweet",
+          "Pungent",
+          "Bitter"
+        ],
+        "virya": "Cold",
+        "vipaka": "Sweet",
+        "guna": [
+          "Light",
+          "Dry"
+        ]
+      },
+      "dosha_effect": {
+        "vata": "Alleviates",
+        "pitta": "Alleviates",
+        "kapha": "Alleviates"
+      },
+      "therapeutic_uses": [
+        "Decoction in visarpa (with sariva, usira, musta)",
+        "Juice of amalaka fruits mixed with ghee as purgative in visarpa",
+        "Souring agent in visarpa diet (with pomegranates)",
+        "Souring agent in trsna (for drink and soup)",
+        "Souring agent in poisoning diet"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI"
+      }
+    },
+    {
+      "id": "food_007",
+      "names": {
+        "sanskrit": "Dadima",
+        "english": "Pomegranate",
+        "hindi": "Anar",
+        "gujarati": "Dadam"
+      },
+      "category": "Phala (fruit)",
+      "properties": {
+        "rasa": [
+          "Sour",
+          "Sweet",
+          "Astringent"
+        ],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "Alleviates",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Souring agent for mantha in visarpa",
+        "Soup of wild animal meat with dadima in visarpa",
+        "With haridra and sugar in kaphaja trsna and ksayaja trsna",
+        "Souring agent in poisoning diet"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI"
+      }
+    },
+    {
+      "id": "food_008",
+      "names": {
+        "sanskrit": "Draksa",
+        "english": "Raisins / Grape",
+        "hindi": "Kishmish / Angoor",
+        "gujarati": "Draksh"
+      },
+      "category": "Phala (fruit)",
+      "properties": {
+        "rasa": [
+          "Sweet",
+          "Sour"
+        ],
+        "virya": "Cold",
+        "vipaka": "Sweet",
+        "guna": [
+          "Unctuous",
+          "Heavy"
+        ]
+      },
+      "dosha_effect": {
+        "vata": "Alleviates",
+        "pitta": "Alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Draksa decoction overnight in water for thirst in visarpa",
+        "Cold drink with honey for paittika trsna",
+        "Soup of wild animal meat with draksa in visarpa",
+        "Potion for Sankavisa (suspicion poisoning)"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI"
+      }
+    },
+    {
+      "id": "food_009",
+      "names": {
+        "sanskrit": "Ghrita / Sarpi",
+        "english": "Clarified butter / Ghee",
+        "hindi": "Ghee",
+        "gujarati": "Ghee"
+      },
+      "category": "Sneha (fat)",
+      "properties": {
+        "rasa": [
+          "Sweet"
+        ],
+        "virya": "Cold",
+        "vipaka": "Sweet",
+        "guna": [
+          "Unctuous",
+          "Heavy",
+          "Soft"
+        ]
+      },
+      "dosha_effect": {
+        "vata": "Alleviates",
+        "pitta": "Alleviates",
+        "kapha": "Increases in excess"
+      },
+      "therapeutic_uses": [
+        "Paste base in visarpa (ghee washed hundred times)",
+        "Purgative vehicle for trivrt in visarpa",
+        "Cold sprinkling (ghee washed hundred times) in pitta-rakta visarpa",
+        "Tagara and kustha with ghee and honey 160 gm for Taksaka snakebite",
+        "Heart protection in poisoning",
+        "Massage in trsna (ghee washed hundred times)",
+        "Ghee for scorpion sting intake",
+        "Buffalow ghee cooked with nagadanti, trivrt, danti etc. for snake and insect poison"
+      ],
+      "contraindications": [
+        "Not to be administered with profuse impurity in visarpa — decomposes skin flesh and blood"
+      ],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI"
+      }
+    },
+    {
+      "id": "food_010",
+      "names": {
+        "sanskrit": "Madhu",
+        "english": "Honey",
+        "hindi": "Shahad",
+        "gujarati": "Madhu"
+      },
+      "category": "Madhu (honey)",
+      "properties": {
+        "rasa": [
+          "Sweet",
+          "Astringent"
+        ],
+        "virya": "Cold (slight)",
+        "vipaka": "Pungent",
+        "guna": [
+          "Dry",
+          "Light",
+          "Rough"
+        ]
+      },
+      "dosha_effect": {
+        "vata": "Slightly aggravates",
+        "pitta": "Alleviates",
+        "kapha": "Alleviates"
+      },
+      "therapeutic_uses": [
+        "Mantha with honey in visarpa (post-lightening)",
+        "Juice of amalaka with ghee and honey in visarpa",
+        "Rain water with honey in trsna",
+        "Paittika trsna cold drink with draksa candana etc.",
+        "Heart protection in poisoning",
+        "Vehicle for many anti-poison compounds",
+        "Trikatu, soot, harenuka, tagara, katuki with honey for rajiman snakebite"
+      ],
+      "contraindications": [
+        "Should not be heated",
+        "Not to be used with hot food or drinks"
+      ],
+      "incompatible_with": [
+        "Hot things (heated honey is toxic — visha-kalpa)"
+      ],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXI"
+      }
+    },
+    {
+      "id": "food_011",
+      "names": {
+        "sanskrit": "Dugdha",
+        "english": "Milk (cow)",
+        "hindi": "Dudh",
+        "gujarati": "Dudh"
+      },
+      "category": "Gorasa (milk products)",
+      "properties": {
+        "rasa": [
+          "Sweet"
+        ],
+        "virya": "Cold",
+        "vipaka": "Sweet",
+        "guna": [
+          "Heavy",
+          "Unctuous",
+          "Soft"
+        ]
+      },
+      "dosha_effect": {
+        "vata": "Alleviates",
+        "pitta": "Alleviates",
+        "kapha": "Slightly increases"
+      },
+      "therapeutic_uses": [
+        "Milk boiled with sweet vitalising cold bitter drugs for trsna (drink, massage, snuff)",
+        "Purgative vehicle for trivrt in visarpa",
+        "Milk boiled with trayamana as purgative in visarpa",
+        "Milk for rough and debilitated patients in trsna",
+        "Milk processed with trnpancamula for trsna",
+        "Galaganda treatment — regular use of milk"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXII"
+      }
+    },
+    {
+      "id": "food_012",
+      "names": {
+        "sanskrit": "Sura / Madya",
+        "english": "Wine / Fermented liquor",
+        "hindi": "Sharab / Madira",
+        "gujarati": "Daru"
+      },
+      "category": "Madya (fermented beverage)",
+      "properties": {
+        "rasa": [
+          "Sour",
+          "Sweet",
+          "Bitter",
+          "Pungent",
+          "Astringent"
+        ],
+        "virya": "Hot",
+        "vipaka": "",
+        "guna": [
+          "Sharp",
+          "Hot",
+          "Rough",
+          "Light",
+          "Penetrating"
+        ]
+      },
+      "dosha_effect": {
+        "vata": "Aggravates",
+        "pitta": "Aggravates",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Diluted wine with sours, salt and aromatics for alcoholic thirst (after cold bath)",
+        "Jaggery with water as alternative",
+        "Worshipped by gods — used in sautramani sacrifice (Madatyaya chapter context)"
+      ],
+      "contraindications": [
+        "Excess causes Madatyaya (alcoholism)",
+        "Vitiates pitta and vata — absorbs body fluid",
+        "Excessively damaged wines cause visarpa (erysipelas)"
+      ],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXII"
+      }
+    },
+    {
+      "id": "food_013",
+      "names": {
+        "sanskrit": "Tanduliyaka",
+        "english": "Pigweed / Amaranth",
+        "hindi": "Chaulai",
+        "gujarati": "Tandaljo"
+      },
+      "category": "Shaka (vegetable)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Prescribed vegetable in poisoning",
+        "With root mixed with honey and ghee for Vasuki snakebite (soot, haridra, daruharidra, tanduliyaka)"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIII"
+      }
+    },
+    {
+      "id": "food_014",
+      "names": {
+        "sanskrit": "Jivanti",
+        "english": "Leptadenia reticulata",
+        "hindi": "Jivanti",
+        "gujarati": "Jivanti"
+      },
+      "category": "Shaka (vegetable)",
+      "properties": {
+        "rasa": [
+          "Sweet"
+        ],
+        "virya": "Cold",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "Alleviates",
+        "pitta": "Alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Prescribed vegetable in poisoning diet"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIII"
+      }
+    },
+    {
+      "id": "food_015",
+      "names": {
+        "sanskrit": "Kodo",
+        "english": "Kodo millet",
+        "hindi": "Kodon",
+        "gujarati": "Kodon"
+      },
+      "category": "Dhanya (grain / millet)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Liquid gruel of kodo for trsna",
+        "Prescribed in poisoning diet (with priyafigu and rock salt)"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXII"
+      }
+    },
+    {
+      "id": "food_016",
+      "names": {
+        "sanskrit": "Haridranna / Haridra",
+        "english": "Turmeric",
+        "hindi": "Haldi",
+        "gujarati": "Haldi"
+      },
+      "category": "Spice / Herb used as food medicine",
+      "properties": {
+        "rasa": [
+          "Bitter",
+          "Pungent"
+        ],
+        "virya": "Hot",
+        "vipaka": "Pungent",
+        "guna": [
+          "Dry",
+          "Light"
+        ]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "Slightly aggravates in excess",
+        "kapha": "Alleviates"
+      },
+      "therapeutic_uses": [
+        "6th impulse of poisoning — haridra with cow bile or with manjistha and pippali",
+        "Blood-letting stimulant in visarpa",
+        "Anti-poison in multiple formulations",
+        "Dadima or sour fruit with haridra and sugar in kaphaja trsna"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIII"
+      }
+    },
+    {
+      "id": "food_017",
+      "names": {
+        "sanskrit": "Priyafigu",
+        "english": "Panic seed / Foxtail millet",
+        "hindi": "Kangni",
+        "gujarati": ""
+      },
+      "category": "Dhanya (grain)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Prescribed in poisoning diet (with sali, gastika, kodo and rock salt)"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIII"
+      }
+    }
+  ]
+}

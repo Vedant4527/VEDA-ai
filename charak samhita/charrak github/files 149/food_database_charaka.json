@@ -1,0 +1,540 @@
+{
+  "foods": [
+    {
+      "id": "food_001",
+      "names": {
+        "sanskrit": "Shali",
+        "english": "Red Rice",
+        "hindi": "Lal Chawal",
+        "gujarati": "Lal Chaval"
+      },
+      "category": "Dhanya (Grain)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["Laghu (light)"]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Fever (as gruel, boiled rice, parched paddy)",
+        "Raktapitta (as diet)",
+        "Gulma (pitta type)",
+        "Alleviates pyrexia"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III"
+      }
+    },
+    {
+      "id": "food_002",
+      "names": {
+        "sanskrit": "Shashtika",
+        "english": "Sixty-day rice",
+        "hindi": "Saath Din ka Chawal",
+        "gujarati": ""
+      },
+      "category": "Dhanya (Grain)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["Laghu (light)"]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Fever (as gruel and boiled rice)",
+        "Raktapitta (as diet)"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III"
+      }
+    },
+    {
+      "id": "food_003",
+      "names": {
+        "sanskrit": "Mudga",
+        "english": "Green Gram",
+        "hindi": "Moong",
+        "gujarati": "Mag"
+      },
+      "category": "Shimbi Dhanya (Legume)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["Laghu (light)"]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Fever (soup recommended)",
+        "Raktapitta (pulse soup)"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III"
+      }
+    },
+    {
+      "id": "food_004",
+      "names": {
+        "sanskrit": "Patola",
+        "english": "Pointed Gourd",
+        "hindi": "Parwal",
+        "gujarati": "Parval"
+      },
+      "category": "Shakavarga (Vegetable)",
+      "properties": {
+        "rasa": ["Tikta (bitter)"],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "alleviates",
+        "kapha": "alleviates"
+      },
+      "therapeutic_uses": [
+        "Fever (leaves and fruits wholesome)",
+        "Raktapitta (as vegetable)",
+        "Anti-pyretic"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III"
+      }
+    },
+    {
+      "id": "food_005",
+      "names": {
+        "sanskrit": "Nimba",
+        "english": "Neem",
+        "hindi": "Neem",
+        "gujarati": "Limdo"
+      },
+      "category": "Shakavarga (Vegetable/Herb)",
+      "properties": {
+        "rasa": ["Tikta (bitter)"],
+        "virya": "Sheeta (cold)",
+        "vipaka": "",
+        "guna": ["Laghu (light)"]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "alleviates",
+        "kapha": "alleviates"
+      },
+      "therapeutic_uses": [
+        "Fever (leaves as vegetable)",
+        "Raktapitta (leaves as vegetable)"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III"
+      }
+    },
+    {
+      "id": "food_006",
+      "names": {
+        "sanskrit": "Amalaka",
+        "english": "Indian Gooseberry / Amla",
+        "hindi": "Amla",
+        "gujarati": "Amla"
+      },
+      "category": "Phallavarga (Fruit)",
+      "properties": {
+        "rasa": ["Amla (sour)", "Madhura (sweet)", "Tikta (bitter)", "Katu (pungent)", "Kashaya (astringent)"],
+        "virya": "Sheeta (cold)",
+        "vipaka": "Madhura",
+        "guna": ["Laghu", "Ruksha"]
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "alleviates",
+        "kapha": "alleviates"
+      },
+      "therapeutic_uses": [
+        "Fever (juice as purgative and antipyretic)",
+        "Raktapitta (juice mixed with honey and sugar; fruit as purgative)",
+        "Gulma (pittagulma as amalakadya ghrita)",
+        "Chronic fever",
+        "Constipation in fever (in gruel with long pepper)"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III, IV, V"
+      }
+    },
+    {
+      "id": "food_007",
+      "names": {
+        "sanskrit": "Dadima",
+        "english": "Pomegranate",
+        "hindi": "Anar",
+        "gujarati": "Dadam"
+      },
+      "category": "Phallavarga (Fruit)",
+      "properties": {
+        "rasa": ["Amla (sour)", "Madhura (sweet)", "Kashaya (astringent)"],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Fever gruel - soured with pomegranate and added with ginger",
+        "Gulma (vatajgulma in pippalyadya ghrita)",
+        "Raktapitta (fruit mixed with honey and sugar for saturation)"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III, V"
+      }
+    },
+    {
+      "id": "food_008",
+      "names": {
+        "sanskrit": "Kharjura",
+        "english": "Date Palm",
+        "hindi": "Khajur",
+        "gujarati": "Khajur"
+      },
+      "category": "Phallavarga (Fruit)",
+      "properties": {
+        "rasa": ["Madhura (sweet)"],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["Guru (heavy)", "Snigdha (unctuous)"]
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Fever (milk boiled with kharjura, mrdwika and sunthi alleviates thirst and fever)",
+        "Raktapitta (water boiled with kharjura, mrdwika, madhuka and parusaka for saturation)",
+        "Gulma (pittagulma in drakshadya ghrita)"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III, IV"
+      }
+    },
+    {
+      "id": "food_009",
+      "names": {
+        "sanskrit": "Dugdha (Go-dugdha)",
+        "english": "Cow Milk",
+        "hindi": "Gaye ka Doodh",
+        "gujarati": "Gai nu Dudh"
+      },
+      "category": "Anupana / Ahara (Drink/Food)",
+      "properties": {
+        "rasa": ["Madhura (sweet)"],
+        "virya": "Sheeta (cold)",
+        "vipaka": "Madhura",
+        "guna": ["Snigdha (unctuous)", "Guru (heavy)"]
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "alleviates",
+        "kapha": "aggravates"
+      },
+      "therapeutic_uses": [
+        "Chronic fever - excellent pacifier of all types",
+        "Fever caused by vata and pitta - fresh warm milk overcomes quickly",
+        "Raktapitta - milk boiled with vidarigandhadi group or draksha or bala or gokshura",
+        "Vatajgulma - castor oil with milk",
+        "Non-unctuous enema in fever for eliminating excrements",
+        "Milk boiled with panchamula (five roots) for cough, dyspnoea, headache, pain in sides and chronic fever"
+      ],
+      "contraindications": [
+        "Kaphaja conditions without modification",
+        "Fever with kapha predominance (without bitter drugs)"
+      ],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "Hot or cold as per patient condition; boiled with respective drugs",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III, IV, V"
+      }
+    },
+    {
+      "id": "food_010",
+      "names": {
+        "sanskrit": "Ajadugdha",
+        "english": "Goat Milk",
+        "hindi": "Bakri ka Doodh",
+        "gujarati": "Bakri nu Dudh"
+      },
+      "category": "Anupana / Ahara (Drink/Food)",
+      "properties": {
+        "rasa": ["Madhura (sweet)"],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["Laghu (lighter than cow milk)"]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Raktapitta - excellent remedy when other treatments fail and vata is associated"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "IV"
+      }
+    },
+    {
+      "id": "food_011",
+      "names": {
+        "sanskrit": "Ghrita",
+        "english": "Clarified Butter / Ghee",
+        "hindi": "Ghee",
+        "gujarati": "Ghee"
+      },
+      "category": "Sneha (Fat)",
+      "properties": {
+        "rasa": ["Madhura (sweet)"],
+        "virya": "Sheeta (cold)",
+        "vipaka": "Madhura",
+        "guna": ["Snigdha (unctuous)", "Mrudu (soft)"]
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "alleviates",
+        "kapha": "aggravates in excess"
+      },
+      "therapeutic_uses": [
+        "Chronic fever with mild kapha and severe vata and pitta - acts like nectar",
+        "Fever with roughened heat - treats the rough heat",
+        "Bitter ghee for relapsed fever (massage)",
+        "Raktapitta - with various formulations",
+        "Gulma - all types in various formulations",
+        "Washed hundred times (shatadhouta ghrita) for fever with burning sensation as massage"
+      ],
+      "contraindications": [
+        "Acute fever (ama stage)",
+        "Fever with kapha predominance (till lightness is attained)",
+        "Fever with pitta and kapha predominance"
+      ],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "After ten days of fever when dosas are well digested",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III, IV, V"
+      }
+    },
+    {
+      "id": "food_012",
+      "names": {
+        "sanskrit": "Jangala Mamsa",
+        "english": "Meat of wild/desert animals",
+        "hindi": "Jangali Janvar ka Gosht",
+        "gujarati": "Jangali Prani nu Mans"
+      },
+      "category": "Mamsa Varga (Meat)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["Laghu (light)", "Ruksha (rough)"]
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Fever - soup of wild animal meat as diet",
+        "Raktapitta - soups soured or unsoured, fried with ghee and added with sugar",
+        "Chronic fever - for strength promotion",
+        "Gulma - meat soups for pittagulma diet"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III, IV, V"
+      }
+    },
+    {
+      "id": "food_013",
+      "names": {
+        "sanskrit": "Takra",
+        "english": "Buttermilk",
+        "hindi": "Chhaas / Mattha",
+        "gujarati": "Chhash"
+      },
+      "category": "Kritanna Varga (Processed food/drink)",
+      "properties": {
+        "rasa": ["Amla (sour)", "Kashaya (astringent)"],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["Laghu (light)", "Ruksha (rough)"]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "",
+        "kapha": "alleviates"
+      },
+      "therapeutic_uses": [
+        "Intermittent fever - commended",
+        "Kaphajgulma - buttermilk powdered with yavani and salted with bida as appetiser and carminative"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III, V"
+      }
+    },
+    {
+      "id": "food_014",
+      "names": {
+        "sanskrit": "Yava",
+        "english": "Barley",
+        "hindi": "Jau",
+        "gujarati": "Jav"
+      },
+      "category": "Dhanya (Grain)",
+      "properties": {
+        "rasa": ["Madhura (sweet)", "Kashaya (astringent)"],
+        "virya": "Sheeta (cold)",
+        "vipaka": "",
+        "guna": ["Laghu (light)", "Ruksha (rough)"]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "alleviates",
+        "kapha": "alleviates"
+      },
+      "therapeutic_uses": [
+        "Fever with constipation - liquid gruel of barley cooked with long pepper and amalaka fruits with ghee",
+        "Carminative in fever"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III"
+      }
+    },
+    {
+      "id": "food_015",
+      "names": {
+        "sanskrit": "Ikshu / Ikshurasa",
+        "english": "Sugarcane / Sugarcane juice",
+        "hindi": "Ganna / Ganne ka Ras",
+        "gujarati": "Sherdi / Sherdi no Ras"
+      },
+      "category": "Ikshu Varga",
+      "properties": {
+        "rasa": ["Madhura (sweet)"],
+        "virya": "Sheeta (cold)",
+        "vipaka": "Madhura",
+        "guna": ["Snigdha (unctuous)", "Guru (heavy)"]
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Fever - as after-drink",
+        "Raktapitta - juice as purgative and haemostatic",
+        "Gulma (pittagulma - in drakshadya ghrita preparation)",
+        "Emesis in fever - sugarcane juice with emetic drugs"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "III, IV"
+      }
+    }
+  ]
+}

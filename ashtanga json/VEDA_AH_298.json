@@ -1,0 +1,1352 @@
+{
+  "metadata": {
+    "database_name": "VEDA AyurMind AI — Ashtanga Hridayam Extraction",
+    "source_text": "Ashtanga Hrdayam (Sutrasthana)",
+    "translator": "Dr. R. Vidyanath",
+    "chunk_file": "Astanga_Hrdayam_298.pdf",
+    "pages_covered": "1–52",
+    "chapters_covered": [
+      "Chapter 13: Dosopakramaniya Adhyaya — General Line of Treatment for Tridosa",
+      "Chapter 14: Dvividhopakramaniya Adhyaya — Two Kinds of Therapies",
+      "Chapter 15: Sodhanadigana Sangraha Adhyaya — Collection of Purificatory & Palliative Drugs",
+      "Chapter 16: Sneha-Vidhi Adhyaya — Oleation Therapy"
+    ],
+    "extraction_date": "2026-03-26",
+    "version": "1.0",
+    "priority_hierarchy": "Charaka > Ashtanga Hridayam > Bhavaprakasha",
+    "contradictions_found": "None detected in this chunk",
+    "sections_found": ["herb_ganas", "panchakarma_protocols", "disease_treatment_data", "clinical_principles"],
+    "sections_missing": ["prakriti_dosha_data", "dinacharya", "ritucharya", "food_database", "herb_index"]
+  },
+
+  "herb_ganas": [
+    {
+      "gana_id": "AH_GANA_01",
+      "gana_number": 1,
+      "gana_name_sanskrit": "Chardana Gana",
+      "gana_name_english": "Emetic Drug Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "To induce vomiting (vamana karma); eliminates vitiated kapha from stomach",
+      "dosha_addressed": ["Kapha"],
+      "primary_action": "Vamana (emesis)",
+      "herbs": [
+        { "number": 1,  "sanskrit": "Madana / Madanaphala", "botanical": "Randia dumatorum",                    "family": "Rubiaceae" },
+        { "number": 2,  "sanskrit": "Madhuka / Yastimadhu",  "botanical": "Glycyrrhiza glabra",                 "family": "Fabaceae" },
+        { "number": 3,  "sanskrit": "Lamba / Ikswaku / Tiktalabu", "botanical": "Lagenaria siceraria",          "family": "Cucurbitaceae" },
+        { "number": 4,  "sanskrit": "Nimba / Arista",        "botanical": "Azadirachta indica",                 "family": "Meliaceae" },
+        { "number": 5,  "sanskrit": "Bimbi",                 "botanical": "Coccinia indica",                    "family": "Cucurbitaceae" },
+        { "number": 6,  "sanskrit": "Visala / Indravaruni",  "botanical": "Citrullus colocynthis",              "family": "Cucurbitaceae" },
+        { "number": 7,  "sanskrit": "Trapusa / Karkati",     "botanical": "Cucumis sativus",                    "family": "Cucurbitaceae" },
+        { "number": 8,  "sanskrit": "Kutaja",                "botanical": "Holarrhena antidysenterica",         "family": "Apocynaceae" },
+        { "number": 9,  "sanskrit": "Murva",                 "botanical": "Marsdenia tenacissima",              "family": "Apocynaceae" },
+        { "number": 10, "sanskrit": "Devadali / Jimutaka",   "botanical": "Luffa echinata",                     "family": "Cucurbitaceae" },
+        { "number": 11, "sanskrit": "Krmighna / Vidanga",    "botanical": "Embelia ribes",                      "family": "Primulaceae" },
+        { "number": 12, "sanskrit": "Vidula / Hicula",       "botanical": "Barringtonia acutangula",            "family": "Lecythidaceae" },
+        { "number": 13, "sanskrit": "Dahana / Citraka",      "botanical": "Plumbago zeylanica",                 "family": "Plumbaginaceae" },
+        { "number": 14, "sanskrit": "Citra / Citrandika",    "botanical": "Trichosanthes anguina",              "family": "Cucurbitaceae" },
+        { "number": 15, "sanskrit": "Kosataki",              "botanical": "Luffa acutangula",                   "family": "Cucurbitaceae" },
+        { "number": 16, "sanskrit": "Dhamargava",            "botanical": "Luffa cylindrica",                   "family": "Cucurbitaceae" },
+        { "number": 17, "sanskrit": "Karahja",               "botanical": "Pongamia pinnata",                   "family": "Fabaceae" },
+        { "number": 18, "sanskrit": "Kana / Pippali",        "botanical": "Piper longum",                       "family": "Piperaceae" },
+        { "number": 19, "sanskrit": "Lavana",                "botanical": "Salts (various)",                    "family": "Mineral" },
+        { "number": 20, "sanskrit": "Vaca",                  "botanical": "Acorus calamus",                     "family": "Acoraceae" },
+        { "number": 21, "sanskrit": "Ela",                   "botanical": "Elettaria cardamomum",               "family": "Zingiberaceae" },
+        { "number": 22, "sanskrit": "Sarsapa",               "botanical": "Brassica campestris var. sarson",    "family": "Brassicaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_02",
+      "gana_number": 2,
+      "gana_name_sanskrit": "Virecana Gana",
+      "gana_name_english": "Purgative Drug Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "To induce purgation (virecana karma); eliminates vitiated pitta and kapha from intestines",
+      "dosha_addressed": ["Pitta", "Kapha"],
+      "primary_action": "Virecana (purgation)",
+      "herbs": [
+        { "number": 1,  "sanskrit": "Nikumbha / Danti",       "botanical": "Baliospermum montanum",             "family": "Euphorbiaceae" },
+        { "number": 2,  "sanskrit": "Kumbha / Trivrt",        "botanical": "Operculina turpethum",              "family": "Convolvulaceae" },
+        { "number": 3,  "sanskrit": "Haritaki",               "botanical": "Terminalia chebula",                "family": "Combretaceae" },
+        { "number": 4,  "sanskrit": "Amalaki",                "botanical": "Emblica officinalis",               "family": "Phyllanthaceae" },
+        { "number": 5,  "sanskrit": "Vibhitaki",              "botanical": "Terminalia bellerica",              "family": "Combretaceae" },
+        { "number": 6,  "sanskrit": "Gavaksi / Indravaruni",  "botanical": "Citrullus colocynthis",             "family": "Cucurbitaceae" },
+        { "number": 7,  "sanskrit": "Snuk / Snuhi",           "botanical": "Euphorbia nerifolia",               "family": "Euphorbiaceae" },
+        { "number": 8,  "sanskrit": "Sankhini",               "botanical": "Clitoria ternatea",                 "family": "Fabaceae" },
+        { "number": 9,  "sanskrit": "Nilini",                 "botanical": "Indigofera angustifolia",           "family": "Fabaceae" },
+        { "number": 10, "sanskrit": "Tilvaka",                "botanical": "Symplocos racemosa",                "family": "Symplocaceae" },
+        { "number": 11, "sanskrit": "Samyaka / Aragwadha",    "botanical": "Cassia fistula",                    "family": "Fabaceae" },
+        { "number": 12, "sanskrit": "Kampillaka",             "botanical": "Mallotus philippinensis",           "family": "Euphorbiaceae" },
+        { "number": 13, "sanskrit": "Hemadugdha / Svarnaksiri","botanical": "Argemone mexicana",                "family": "Papaveraceae" },
+        { "number": 14, "sanskrit": "Dugdha",                 "botanical": "Milk (various animal sources)",     "family": "Food" },
+        { "number": 15, "sanskrit": "Mutra",                  "botanical": "Various types of urine",            "family": "Animal" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_03",
+      "gana_number": 3,
+      "gana_name_sanskrit": "Niruhana Gana",
+      "gana_name_english": "Niruha Vasti Drug Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Medicated decoction enema (niruha / asthapana vasti); eliminates vitiated vata from large intestines",
+      "dosha_addressed": ["Vata"],
+      "primary_action": "Niruha Vasti (decoction enema)",
+      "herbs": [
+        { "number": 1,  "sanskrit": "Madana / Madanaphala",   "botanical": "Randia dumatorum",                  "family": "Rubiaceae" },
+        { "number": 2,  "sanskrit": "Kutaja",                 "botanical": "Holarrhena antidysenterica",        "family": "Apocynaceae" },
+        { "number": 3,  "sanskrit": "Kustha",                 "botanical": "Saussurea lappa",                   "family": "Asteraceae" },
+        { "number": 4,  "sanskrit": "Devadali / Jimutaka",    "botanical": "Luffa echinata",                    "family": "Cucurbitaceae" },
+        { "number": 5,  "sanskrit": "Madhuka / Yastimadhu",   "botanical": "Glycyrrhiza glabra",                "family": "Fabaceae" },
+        { "number": 6,  "sanskrit": "Vaca",                   "botanical": "Acorus calamus",                    "family": "Acoraceae" },
+        { "number": 7,  "sanskrit": "Dasamula",               "botanical": "Bilva and nine other roots (group)","family": "Mixed" },
+        { "number": 8,  "sanskrit": "Daru / Devadaru",        "botanical": "Cedrus deodara",                    "family": "Pinaceae" },
+        { "number": 9,  "sanskrit": "Rasna",                  "botanical": "Pluchea lanceolata",                "family": "Asteraceae" },
+        { "number": 10, "sanskrit": "Yava",                   "botanical": "Hordeum vulgare",                   "family": "Poaceae" },
+        { "number": 11, "sanskrit": "Rnisi / Satapuspa",      "botanical": "Peucedanum graveolens",             "family": "Apiaceae" },
+        { "number": 12, "sanskrit": "Krtavedhana / Kosataki", "botanical": "Luffa acutangula",                  "family": "Cucurbitaceae" },
+        { "number": 13, "sanskrit": "Kulattha",               "botanical": "Dolichos biflorus",                 "family": "Fabaceae" },
+        { "number": 14, "sanskrit": "Madhu",                  "botanical": "Honey",                             "family": "Food" },
+        { "number": 15, "sanskrit": "Lavana",                 "botanical": "Various salts",                     "family": "Mineral" },
+        { "number": 16, "sanskrit": "Trivrt",                 "botanical": "Operculina turpethum",              "family": "Convolvulaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_04",
+      "gana_number": 4,
+      "gana_name_sanskrit": "Sirovirecana Gana",
+      "gana_name_english": "Nasya Drug Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Nasal administration (nasya karma); purifies head region, eliminates kapha from head and above shoulders",
+      "dosha_addressed": ["Kapha"],
+      "primary_action": "Nasya (nasal administration)",
+      "herbs": [
+        { "number": 1,  "sanskrit": "Vella / Vidanga",        "botanical": "Embelia ribes",                     "family": "Primulaceae" },
+        { "number": 2,  "sanskrit": "Apamarga",              "botanical": "Achyranthes aspera",                 "family": "Amaranthaceae" },
+        { "number": 3,  "sanskrit": "Sunthi",                 "botanical": "Zingiber officinale",               "family": "Zingiberaceae" },
+        { "number": 4,  "sanskrit": "Marica",                 "botanical": "Piper nigrum",                      "family": "Piperaceae" },
+        { "number": 5,  "sanskrit": "Pippali",                "botanical": "Piper longum",                      "family": "Piperaceae" },
+        { "number": 6,  "sanskrit": "Darvi / Daruharidra",    "botanical": "Berberis aristata",                 "family": "Berberidaceae" },
+        { "number": 7,  "sanskrit": "Surala / Srivestaka",    "botanical": "Pinus roxburghii",                  "family": "Pinaceae" },
+        { "number": 8,  "sanskrit": "Sirisa bija",            "botanical": "Albizzia lebbeck",                  "family": "Fabaceae" },
+        { "number": 9,  "sanskrit": "Barhata / Brhati",       "botanical": "Solanum indicum",                   "family": "Solanaceae" },
+        { "number": 10, "sanskrit": "Saigrava / Sigru",       "botanical": "Moringa pterygosperma",             "family": "Moringaceae" },
+        { "number": 11, "sanskrit": "Madhuka sara",           "botanical": "Madhuca indica",                    "family": "Sapotaceae" },
+        { "number": 12, "sanskrit": "Saindhava",              "botanical": "Rock salt (Sodium chloride)",       "family": "Mineral" },
+        { "number": 13, "sanskrit": "Tarksyasaila / Rasahjana","botanical": "Extract from Berberis aristata",  "family": "Berberidaceae" },
+        { "number": 14, "sanskrit": "Ela / Cardamum",         "botanical": "Elettaria cardamomum",              "family": "Zingiberaceae" },
+        { "number": 15, "sanskrit": "Sthulela / Sthula ela",  "botanical": "Amomum subulatum",                  "family": "Zingiberaceae" },
+        { "number": 16, "sanskrit": "Prthvika / Hingupatrika","botanical": "Gardenia gummifera / Ferula narthex","family": "Apiaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_05",
+      "gana_number": 5,
+      "gana_name_sanskrit": "Vatahara Dravya Gana",
+      "gana_name_english": "Vata-Alleviating Drug Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Mitigate vata dosha; used in vata disorders",
+      "dosha_addressed": ["Vata"],
+      "dosha_effect": "Decreases Vata",
+      "primary_action": "Vata shamana",
+      "herbs": [
+        { "number": 1, "sanskrit": "Bhadradaru / Devadaru",   "botanical": "Cedrus deodara",                    "family": "Pinaceae" },
+        { "number": 2, "sanskrit": "Nata / Granthitagara",    "botanical": "Valeriana wallichii",               "family": "Caprifoliaceae" },
+        { "number": 3, "sanskrit": "Kustha",                  "botanical": "Saussurea lappa",                   "family": "Asteraceae" },
+        { "number": 4, "sanskrit": "Dasamula",                "botanical": "Bilva and nine other roots (group)","family": "Mixed" },
+        { "number": 5, "sanskrit": "Bala",                    "botanical": "Sida cordifolia",                   "family": "Malvaceae" },
+        { "number": 6, "sanskrit": "Atibala",                 "botanical": "Abutilon indicum",                  "family": "Malvaceae" }
+      ],
+      "cross_references": ["AH_GANA_20 (Virataradi gana)", "AH_GANA_09 (Vidaryadi gana)"]
+    },
+    {
+      "gana_id": "AH_GANA_06",
+      "gana_number": 6,
+      "gana_name_sanskrit": "Pittahara Dravya Gana",
+      "gana_name_english": "Pitta-Alleviating Drug Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Mitigate pitta dosha; used in pitta disorders",
+      "dosha_addressed": ["Pitta"],
+      "dosha_effect": "Decreases Pitta",
+      "primary_action": "Pitta shamana",
+      "herbs": [
+        { "number": 1,  "sanskrit": "Durva",                  "botanical": "Cynodon dactylon",                  "family": "Poaceae" },
+        { "number": 2,  "sanskrit": "Ananta / Sariba",        "botanical": "Hemidesmus indicus",                "family": "Apocynaceae" },
+        { "number": 3,  "sanskrit": "Nimba",                  "botanical": "Azadirachta indica",                "family": "Meliaceae" },
+        { "number": 4,  "sanskrit": "Vasa",                   "botanical": "Adhatoda vasica",                   "family": "Acanthaceae" },
+        { "number": 5,  "sanskrit": "Atmagupta",              "botanical": "Mucuna pruriens",                   "family": "Fabaceae" },
+        { "number": 6,  "sanskrit": "Gundra / Eraka",         "botanical": "Typha elephantina",                 "family": "Typhaceae" },
+        { "number": 7,  "sanskrit": "Abhiru / Satavari",      "botanical": "Asparagus racemosus",               "family": "Asparagaceae" },
+        { "number": 8,  "sanskrit": "Sitapaki / Guhja",       "botanical": "Abrus precatorius",                 "family": "Fabaceae" },
+        { "number": 9,  "sanskrit": "Priyahgu",               "botanical": "Callicarpa macrophyllum",           "family": "Lamiaceae" },
+        { "number": 10, "sanskrit": "Saliparni",              "botanical": "Desmodium gangeticum",              "family": "Fabaceae" },
+        { "number": 11, "sanskrit": "Prsniparni",             "botanical": "Uraria picta",                      "family": "Fabaceae" },
+        { "number": 12, "sanskrit": "Padma",                  "botanical": "Nelumbo nucifera",                  "family": "Nelumbonaceae" }
+      ],
+      "cross_references": ["AH_GANA_31 (Nyagrodhadi gana)", "AH_GANA_11 (Padmakadi gana)", "AH_GANA_10 (Saribadi gana)"]
+    },
+    {
+      "gana_id": "AH_GANA_07",
+      "gana_number": 7,
+      "gana_name_sanskrit": "Kaphahara Dravya Gana",
+      "gana_name_english": "Kapha-Alleviating Drug Group (Balasajit)",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Mitigate kapha dosha; Balasajit = destroyer of kapha strength",
+      "dosha_addressed": ["Kapha"],
+      "dosha_effect": "Decreases Kapha",
+      "primary_action": "Kapha shamana",
+      "herbs": [],
+      "cross_references": [
+        "AH_GANA_16 (Aragwadhadigana)",
+        "AH_GANA_22 (Arkadigana)",
+        "AH_GANA_24 (Muskakadigana)",
+        "AH_GANA_17 (Asanadi gana)",
+        "AH_GANA_23 (Surasadigana)",
+        "AH_GANA_30 (Mustadigana)",
+        "AH_GANA_25 (Vatsakadigana)"
+      ],
+      "note": "This gana is defined by reference to seven sub-ganas rather than individual herbs"
+    },
+    {
+      "gana_id": "AH_GANA_08",
+      "gana_number": 8,
+      "gana_name_sanskrit": "Jivaniya Gana",
+      "gana_name_english": "Invigorators / Life-Promoting Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Nourish life, invigorate tissues, promote ojas",
+      "dosha_addressed": ["Vata", "Pitta"],
+      "dosha_effect": "Decreases Vata and Pitta; promotes Ojas",
+      "primary_action": "Jivaniya (life-promoting), Brmhana (nourishing)",
+      "total_herbs": 10,
+      "herbs": [
+        { "number": 1, "sanskrit": "Jivanti",                 "botanical": "Leptadenia reticulata",             "family": "Apocynaceae" },
+        { "number": 2, "sanskrit": "Kakoli",                  "botanical": "Roscoea procera",                   "family": "Zingiberaceae" },
+        { "number": 3, "sanskrit": "Ksirakakoli",             "botanical": "Roscoea procera (variety)",         "family": "Zingiberaceae" },
+        { "number": 4, "sanskrit": "Meda",                    "botanical": "Polygonatum cirrhifolium",          "family": "Asparagaceae" },
+        { "number": 5, "sanskrit": "Mahameda",                "botanical": "Polygonatum verticillatum",         "family": "Asparagaceae" },
+        { "number": 6, "sanskrit": "Mudgaparni",              "botanical": "Phaseolus trilobus",                "family": "Fabaceae" },
+        { "number": 7, "sanskrit": "Masaparni",               "botanical": "Teramnus labialis",                 "family": "Fabaceae" },
+        { "number": 8, "sanskrit": "Rsabhaka",                "botanical": "Microstylis muscifera",             "family": "Orchidaceae" },
+        { "number": 9, "sanskrit": "Jivaka",                  "botanical": "Microstylis wallichii",             "family": "Orchidaceae" },
+        { "number": 10,"sanskrit": "Madhuka",                 "botanical": "Glycyrrhiza glabra",                "family": "Fabaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_09",
+      "gana_number": 9,
+      "gana_name_sanskrit": "Vidaryadi Gana",
+      "gana_name_english": "Vidari Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Heart tonic, body nourishment, vata-pitta alleviating",
+      "dosha_addressed": ["Vata", "Pitta"],
+      "dosha_effect": "Decreases Vata and Pitta",
+      "primary_action": "Hrdya (cardiac tonic), Brmhana (nourishing), Kasahara (anti-cough)",
+      "indications": ["Emaciation", "Abdominal tumors", "Body pains", "Dyspnoea", "Cough"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Vidari",                 "botanical": "Pueraria tuberosa",                 "family": "Fabaceae" },
+        { "number": 2,  "sanskrit": "Pahcahgula / Eranda",    "botanical": "Ricinus communis",                  "family": "Euphorbiaceae" },
+        { "number": 3,  "sanskrit": "Vrscikali",              "botanical": "Pergularia extensa",                "family": "Apocynaceae" },
+        { "number": 4,  "sanskrit": "Vrsciva / Punarnava",    "botanical": "Boerhavia diffusa",                 "family": "Nyctaginaceae" },
+        { "number": 5,  "sanskrit": "Devahvaya / Devadaru",   "botanical": "Cedrus deodara",                    "family": "Pinaceae" },
+        { "number": 6,  "sanskrit": "Mudgaparni",             "botanical": "Phaseolus trilobus",                "family": "Fabaceae" },
+        { "number": 7,  "sanskrit": "Masaparni",              "botanical": "Teramnus labialis",                 "family": "Fabaceae" },
+        { "number": 8,  "sanskrit": "Laghu pancamula",        "botanical": "Five small roots (group)",          "family": "Mixed" },
+        { "number": 9,  "sanskrit": "Jivaniya pancamula",     "botanical": "Five roots from Jivaniya gana",     "family": "Mixed" },
+        { "number": 10, "sanskrit": "Kandukari / Atmagupta",  "botanical": "Mucuna pruriens",                   "family": "Fabaceae" },
+        { "number": 11, "sanskrit": "Gopasuta / Sariba",      "botanical": "Hemidesmus indicus",                "family": "Apocynaceae" },
+        { "number": 12, "sanskrit": "Tripadi / Hamsapadi",    "botanical": "Adiantum lunulatum",                "family": "Pteridaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_10",
+      "gana_number": 10,
+      "gana_name_sanskrit": "Saribadi Gana",
+      "gana_name_english": "Sariba Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Relieves burning sensation, bleeding disorders, thirst, fever",
+      "dosha_addressed": ["Pitta"],
+      "dosha_effect": "Decreases Pitta",
+      "indications": ["Daha (burning sensation)", "Raktapitta (bleeding disorders)", "Trsna (thirst)", "Jwara (fever)"],
+      "herbs": [
+        { "number": 1, "sanskrit": "Sariba",                  "botanical": "Hemidesmus indicus",                "family": "Apocynaceae" },
+        { "number": 2, "sanskrit": "Usira",                   "botanical": "Vetiveria zizanoides",              "family": "Poaceae" },
+        { "number": 3, "sanskrit": "Kasmarya",                "botanical": "Gmelina arborea",                   "family": "Lamiaceae" },
+        { "number": 4, "sanskrit": "Madhuka",                 "botanical": "Madhuca indica",                    "family": "Sapotaceae" },
+        { "number": 5, "sanskrit": "Sweta candana",           "botanical": "Santalum album",                    "family": "Santalaceae" },
+        { "number": 6, "sanskrit": "Rakta candana",           "botanical": "Pterocarpus santalinus",            "family": "Fabaceae" },
+        { "number": 7, "sanskrit": "Yastimadhu",              "botanical": "Glycyrrhiza glabra",                "family": "Fabaceae" },
+        { "number": 8, "sanskrit": "Parusaka",                "botanical": "Grewia asiatica",                   "family": "Malvaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_11",
+      "gana_number": 11,
+      "gana_name_sanskrit": "Padmakadi Gana",
+      "gana_name_english": "Padmaka Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Promotes breast milk, nourishes body, increases lifespan and semen",
+      "dosha_addressed": ["Vata", "Pitta"],
+      "dosha_effect": "Decreases Vata and Pitta",
+      "indications": ["Stanya janana (lactation promotion)", "Debility", "Longevity", "Sukra vrddhi (semen enhancement)"],
+      "herbs": [
+        { "number": 1, "sanskrit": "Padmaka",                 "botanical": "Prunus padus",                      "family": "Rosaceae" },
+        { "number": 2, "sanskrit": "Pundra / Prapoundarika",  "botanical": "Nymphaea species",                  "family": "Nymphaeaceae" },
+        { "number": 3, "sanskrit": "Vrddhi (Mahasravani)",    "botanical": "Habenaria intermedia",              "family": "Orchidaceae" },
+        { "number": 4, "sanskrit": "Rddhi / Sravani",         "botanical": "Sphaeranthus indicus",              "family": "Asteraceae" },
+        { "number": 5, "sanskrit": "Tuga / Tavaksiri",        "botanical": "Bambusa arundinacea",               "family": "Poaceae" },
+        { "number": 6, "sanskrit": "Srngi / Karkataka srngi", "botanical": "Pistacia integerrima",              "family": "Anacardiaceae" },
+        { "number": 7, "sanskrit": "Amrta / Guduci",          "botanical": "Tinospora cordifolia",              "family": "Menispermaceae" },
+        { "number": 8, "sanskrit": "Jivaniya gana (all 10)",  "botanical": "See AH_GANA_08",                    "family": "Mixed" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_12",
+      "gana_number": 12,
+      "gana_name_sanskrit": "Parusakadi Gana",
+      "gana_name_english": "Parusaka Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Relieves thirst, urinary disorders, mitigates vata",
+      "dosha_addressed": ["Vata"],
+      "dosha_effect": "Decreases Vata",
+      "indications": ["Trsna (thirst)", "Mutraroga (urinary disorders)", "Vata roga"],
+      "herbs": [
+        { "number": 1, "sanskrit": "Parusaka",                "botanical": "Grewia asiatica",                   "family": "Malvaceae" },
+        { "number": 2, "sanskrit": "Vara / Triphala",         "botanical": "Terminalia chebula + Emblica officinalis + Terminalia bellerica", "family": "Combretaceae / Phyllanthaceae" },
+        { "number": 3, "sanskrit": "Draksa",                  "botanical": "Vitis vinifera",                    "family": "Vitaceae" },
+        { "number": 4, "sanskrit": "Katphala",                "botanical": "Myrica nagi",                       "family": "Myricaceae" },
+        { "number": 5, "sanskrit": "Kataka",                  "botanical": "Strychnos potatorum",               "family": "Loganiaceae" },
+        { "number": 6, "sanskrit": "Rajahvala / Rajadana",    "botanical": "Mimusops hexandra",                 "family": "Sapotaceae" },
+        { "number": 7, "sanskrit": "Dadima",                  "botanical": "Punica granatum",                   "family": "Lythraceae" },
+        { "number": 8, "sanskrit": "Saka / Teak seeds",       "botanical": "Tectona grandis",                   "family": "Lamiaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_13",
+      "gana_number": 13,
+      "gana_name_sanskrit": "Anjanadi Gana",
+      "gana_name_english": "Anjana (Eye Collyrium) Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Antitoxic, relieves burning, mitigates pitta; primarily for eye diseases",
+      "dosha_addressed": ["Pitta"],
+      "dosha_effect": "Decreases Pitta",
+      "indications": ["Visa (toxicity)", "Daha (burning)", "Pitta roga", "Netra roga (eye diseases)"],
+      "herbs": [
+        { "number": 1, "sanskrit": "Srotohjana",              "botanical": "Antimony sulphide",                 "family": "Mineral" },
+        { "number": 2, "sanskrit": "Phalini / Prehkhana",     "botanical": "Callicarpa macrophylla",            "family": "Lamiaceae" },
+        { "number": 3, "sanskrit": "Mamsi / Jatamamsi",       "botanical": "Nardostachys jatamansi",           "family": "Caprifoliaceae" },
+        { "number": 4, "sanskrit": "Padma",                   "botanical": "Nelumbo nucifera",                  "family": "Nelumbonaceae" },
+        { "number": 5, "sanskrit": "Utpala",                  "botanical": "Nymphaea stellata",                 "family": "Nymphaeaceae" },
+        { "number": 6, "sanskrit": "Rasanjana",               "botanical": "Extract from Berberis aristata",   "family": "Berberidaceae" },
+        { "number": 7, "sanskrit": "Ela",                     "botanical": "Elettaria cardamomum",              "family": "Zingiberaceae" },
+        { "number": 8, "sanskrit": "Madhuka",                 "botanical": "Glycyrrhiza glabra",                "family": "Fabaceae" },
+        { "number": 9, "sanskrit": "Nagahva / Nagakesara",    "botanical": "Mesua ferrea",                      "family": "Calophyllaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_14",
+      "gana_number": 14,
+      "gana_name_sanskrit": "Patoladi Gana",
+      "gana_name_english": "Patola Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Mitigates kapha and pitta; treats skin, fever, poison, vomiting, anorexia, jaundice",
+      "dosha_addressed": ["Kapha", "Pitta"],
+      "dosha_effect": "Decreases Kapha and Pitta",
+      "indications": ["Kustha (skin diseases)", "Jwara (fever)", "Visa (poisoning)", "Chardi (vomiting)", "Arocaka (anorexia)", "Kamala (jaundice)"],
+      "herbs": [
+        { "number": 1, "sanskrit": "Patola",                  "botanical": "Trichosanthes cucumerina",          "family": "Cucurbitaceae" },
+        { "number": 2, "sanskrit": "Katuka rohini",           "botanical": "Picrorhiza kurroa",                 "family": "Plantaginaceae" },
+        { "number": 3, "sanskrit": "Candana",                 "botanical": "Santalum album",                    "family": "Santalaceae" },
+        { "number": 4, "sanskrit": "Madhusrava / Murva",      "botanical": "Marsdenia tenacissima",             "family": "Apocynaceae" },
+        { "number": 5, "sanskrit": "Guduci",                  "botanical": "Tinospora cordifolia",              "family": "Menispermaceae" },
+        { "number": 6, "sanskrit": "Patha",                   "botanical": "Cissampelos pareira",               "family": "Menispermaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_15",
+      "gana_number": 15,
+      "gana_name_sanskrit": "Guducyadi Gana",
+      "gana_name_english": "Guduci Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Mitigates pitta and kapha; fever, vomiting, thirst, burning, enhances digestion",
+      "dosha_addressed": ["Pitta", "Kapha"],
+      "dosha_effect": "Decreases Pitta and Kapha",
+      "indications": ["Jwara (fever)", "Chardi (vomiting)", "Trsna (thirst)", "Daha (burning sensation)", "Deepens agni (digestive power)"],
+      "herbs": [
+        { "number": 1, "sanskrit": "Guduci",                  "botanical": "Tinospora cordifolia",              "family": "Menispermaceae" },
+        { "number": 2, "sanskrit": "Padmaka",                 "botanical": "Prunus padus",                      "family": "Rosaceae" },
+        { "number": 3, "sanskrit": "Arista / Nimba",          "botanical": "Azadirachta indica",                "family": "Meliaceae" },
+        { "number": 4, "sanskrit": "Dhanyaka",                "botanical": "Coriandrum sativum",                "family": "Apiaceae" },
+        { "number": 5, "sanskrit": "Rakta candana",           "botanical": "Pterocarpus santalinus",            "family": "Fabaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_16",
+      "gana_number": 16,
+      "gana_name_sanskrit": "Aragwadadi Gana",
+      "gana_name_english": "Aragvadha Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Vomiting, skin diseases, toxicity, fevers, kapha, itching, diabetes, wound cleansing",
+      "dosha_addressed": ["Kapha", "Pitta"],
+      "dosha_effect": "Decreases Kapha and Pitta",
+      "indications": ["Chardi (vomiting)", "Kustha (skin diseases)", "Visa (toxicity)", "Jwara (fever)", "Kandu (itching)", "Prameha (diabetes)", "Chronic wounds"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Aragvadha",              "botanical": "Cassia fistula",                    "family": "Fabaceae" },
+        { "number": 2,  "sanskrit": "Indrayava",              "botanical": "Holarrhena antidysenterica",        "family": "Apocynaceae" },
+        { "number": 3,  "sanskrit": "Patala",                 "botanical": "Stereospermum suaveolens",          "family": "Bignoniaceae" },
+        { "number": 4,  "sanskrit": "Kakatikta / Sarngestha", "botanical": "Cardiospermum halicacabum",         "family": "Sapindaceae" },
+        { "number": 5,  "sanskrit": "Nimba",                  "botanical": "Azadirachta indica",                "family": "Meliaceae" },
+        { "number": 6,  "sanskrit": "Amrta / Guduci",         "botanical": "Tinospora cordifolia",              "family": "Menispermaceae" },
+        { "number": 7,  "sanskrit": "Madhurasa / Chaga",      "botanical": "Marsdenia tenacissima",             "family": "Apocynaceae" },
+        { "number": 8,  "sanskrit": "Sruvavrksa / Vikankata", "botanical": "Flacourtia indica",                 "family": "Salicaceae" },
+        { "number": 9,  "sanskrit": "Patha",                  "botanical": "Cissampelos pareira",               "family": "Menispermaceae" },
+        { "number": 10, "sanskrit": "Bhunimba",               "botanical": "Andrographis paniculata",           "family": "Acanthaceae" },
+        { "number": 11, "sanskrit": "Saireyaka",              "botanical": "Barleria prionitis",                "family": "Acanthaceae" },
+        { "number": 12, "sanskrit": "Patola",                 "botanical": "Trichosanthes cucumerina",          "family": "Cucurbitaceae" },
+        { "number": 13, "sanskrit": "Karanja",                "botanical": "Pongamia glabra",                   "family": "Fabaceae" },
+        { "number": 14, "sanskrit": "Putikaranja",            "botanical": "Caesalpinia bonducella",            "family": "Fabaceae" },
+        { "number": 15, "sanskrit": "Saptacchada",            "botanical": "Alstonia scholaris",                "family": "Apocynaceae" },
+        { "number": 16, "sanskrit": "Agni / Citraka",         "botanical": "Plumbago zeylanica",                "family": "Plumbaginaceae" },
+        { "number": 17, "sanskrit": "Susavi",                 "botanical": "Momordica charantia",               "family": "Cucurbitaceae" },
+        { "number": 18, "sanskrit": "Phala",                  "botanical": "Randia dumatorum",                  "family": "Rubiaceae" },
+        { "number": 19, "sanskrit": "Bana",                   "botanical": "Barleria prionitis (black variety)","family": "Acanthaceae" },
+        { "number": 20, "sanskrit": "Ghonta / Badara",        "botanical": "Ziziphus jujuba",                   "family": "Rhamnaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_17",
+      "gana_number": 17,
+      "gana_name_sanskrit": "Asanadi Gana",
+      "gana_name_english": "Asana Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Leucoderma, kapha diseases, worms, anaemia, diabetes, obesity",
+      "dosha_addressed": ["Kapha"],
+      "dosha_effect": "Decreases Kapha and Medas (fat)",
+      "indications": ["Svitra (leucoderma)", "Kapha roga", "Krimi (worms)", "Pandu (anaemia)", "Prameha (diabetes)", "Sthoulya (obesity)"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Asana",                  "botanical": "Pterocarpus marsupium",             "family": "Fabaceae" },
+        { "number": 2,  "sanskrit": "Tinisa",                 "botanical": "Ougeinia dalbergioides",            "family": "Fabaceae" },
+        { "number": 3,  "sanskrit": "Bhurja patra",           "botanical": "Betula bhojapatra",                 "family": "Betulaceae" },
+        { "number": 4,  "sanskrit": "Svetavaha / Arjuna",     "botanical": "Terminalia arjuna",                 "family": "Combretaceae" },
+        { "number": 5,  "sanskrit": "Putikaranja",            "botanical": "Caesalpinia bonducella",            "family": "Fabaceae" },
+        { "number": 6,  "sanskrit": "Khadira",                "botanical": "Acacia catechu",                    "family": "Fabaceae" },
+        { "number": 7,  "sanskrit": "Kadara / Sweta khadira", "botanical": "Acacia suma",                       "family": "Fabaceae" },
+        { "number": 8,  "sanskrit": "Bhandi / Sirisa",        "botanical": "Albizzia lebbeck",                  "family": "Fabaceae" },
+        { "number": 9,  "sanskrit": "Sirhsipa",               "botanical": "Dalbergia emarginata",              "family": "Fabaceae" },
+        { "number": 10, "sanskrit": "Mesasrngi",              "botanical": "Gymnema sylvestre",                 "family": "Apocynaceae" },
+        { "number": 11, "sanskrit": "Trihima (3 types of candana)", "botanical": "Santalum album + Pterocarpus santalinus + yellow sandalwood", "family": "Santalaceae / Fabaceae" },
+        { "number": 12, "sanskrit": "Tala / Tada",            "botanical": "Borassus flabellifer",              "family": "Arecaceae" },
+        { "number": 13, "sanskrit": "Palasa",                 "botanical": "Butea monosperma",                  "family": "Fabaceae" },
+        { "number": 14, "sanskrit": "Johgaka / Krsna aguru",  "botanical": "Aquilaria agallocha",               "family": "Thymelaeaceae" },
+        { "number": 15, "sanskrit": "Saka / Teak",            "botanical": "Tectona grandis",                   "family": "Lamiaceae" },
+        { "number": 16, "sanskrit": "Sala",                   "botanical": "Shorea robusta",                    "family": "Dipterocarpaceae" },
+        { "number": 17, "sanskrit": "Dhava",                  "botanical": "Anogeissus latifolia",              "family": "Combretaceae" },
+        { "number": 18, "sanskrit": "Kramuka",                "botanical": "Areca catechu",                     "family": "Arecaceae" },
+        { "number": 19, "sanskrit": "Kalinga",                "botanical": "Holarrhena antidysenterica",        "family": "Apocynaceae" },
+        { "number": 20, "sanskrit": "Chagakarna / Ajakarna",  "botanical": "Dipterocarpus turbinatus",          "family": "Dipterocarpaceae" },
+        { "number": 21, "sanskrit": "Asvakarna",              "botanical": "Dipterocarpus alatus",              "family": "Dipterocarpaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_18",
+      "gana_number": 18,
+      "gana_name_sanskrit": "Varunadi Gana",
+      "gana_name_english": "Varuna Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Kapha and medo roga, indigestion, gout, headache, tumors, internal abscess",
+      "dosha_addressed": ["Kapha"],
+      "dosha_effect": "Decreases Kapha and Medas",
+      "indications": ["Kapha roga", "Medoroga", "Mandagni (indigestion)", "Vatarakta (gout)", "Siroroga (headache)", "Granthi (tumors)", "Vidradhi (internal abscess)"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Varuna",                 "botanical": "Crataeva religiosa",                "family": "Capparaceae" },
+        { "number": 2,  "sanskrit": "Kurabaka",               "botanical": "Barleria cristata (red flowers)",   "family": "Acanthaceae" },
+        { "number": 3,  "sanskrit": "Kurantaka",              "botanical": "Barleria prionitis (yellow flowers)","family": "Acanthaceae" },
+        { "number": 4,  "sanskrit": "Satavari",               "botanical": "Asparagus racemosus",               "family": "Asparagaceae" },
+        { "number": 5,  "sanskrit": "Dahana / Citraka",       "botanical": "Plumbago zeylanica",                "family": "Plumbaginaceae" },
+        { "number": 6,  "sanskrit": "Morata / Chaga",         "botanical": "Marsdenia tenacissima",             "family": "Apocynaceae" },
+        { "number": 7,  "sanskrit": "Bilva",                  "botanical": "Aegle marmelos",                    "family": "Rutaceae" },
+        { "number": 8,  "sanskrit": "Visanika / Aja srngi",   "botanical": "Gymnema sylvestre",                 "family": "Apocynaceae" },
+        { "number": 9,  "sanskrit": "Brhati",                 "botanical": "Solanum indicum",                   "family": "Solanaceae" },
+        { "number": 10, "sanskrit": "Kantakari",              "botanical": "Solanum xanthocarpum",              "family": "Solanaceae" },
+        { "number": 11, "sanskrit": "Karanja",                "botanical": "Pongamia glabra",                   "family": "Fabaceae" },
+        { "number": 12, "sanskrit": "Putikaranja",            "botanical": "Caesalpinia bonducella",            "family": "Fabaceae" },
+        { "number": 13, "sanskrit": "Tarkari",                "botanical": "Clerodendron phlomidis",            "family": "Lamiaceae" },
+        { "number": 14, "sanskrit": "Haritaki",               "botanical": "Terminalia chebula",                "family": "Combretaceae" },
+        { "number": 15, "sanskrit": "Bahalapallava / Sigru",  "botanical": "Moringa pterygosperma",             "family": "Moringaceae" },
+        { "number": 16, "sanskrit": "Darbha",                 "botanical": "Eragrostis cynosuroides",           "family": "Poaceae" },
+        { "number": 17, "sanskrit": "Rujakara / Hintala",     "botanical": "A type of palm",                    "family": "Arecaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_19",
+      "gana_number": 19,
+      "gana_name_sanskrit": "Usakadi Gana",
+      "gana_name_english": "Usaka Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Dysuria, urinary calculi, tumors; decreases fat, mitigates kapha",
+      "dosha_addressed": ["Kapha"],
+      "dosha_effect": "Decreases Kapha and Medas",
+      "indications": ["Mutrakrcchra (dysuria)", "Ashmari (urinary calculi)", "Granthi (tumors)", "Sthoulya (obesity)"],
+      "herbs": [
+        { "number": 1, "sanskrit": "Usaka / Kalhara",         "botanical": "Sodium chloride (rock)",            "family": "Mineral" },
+        { "number": 2, "sanskrit": "Tutthaka",                "botanical": "Cupric sulphate",                   "family": "Mineral" },
+        { "number": 3, "sanskrit": "Hingu",                   "botanical": "Ferula foetida",                    "family": "Apiaceae" },
+        { "number": 4, "sanskrit": "Kasisa dvaya (pamsu + puspa)", "botanical": "Iron sulphate (2 varieties)",  "family": "Mineral" },
+        { "number": 5, "sanskrit": "Saindhava",               "botanical": "Sodium chloride impura (rock salt)","family": "Mineral" },
+        { "number": 6, "sanskrit": "Silajatu",                "botanical": "Bitumen / Shilajit",                "family": "Mineral" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_20",
+      "gana_number": 20,
+      "gana_name_sanskrit": "Viratarvadi Gana",
+      "gana_name_english": "Virataru Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Vata disorders, urinary calculi, dysuria, anuria",
+      "dosha_addressed": ["Vata"],
+      "dosha_effect": "Decreases Vata",
+      "indications": ["Vata roga", "Mutrashmari (urinary calculi)", "Mutrakrcchra (dysuria)", "Mutraghata (anuria/retention)"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Vellantara / Virataru",  "botanical": "Dichrostachys cinerea",             "family": "Fabaceae" },
+        { "number": 2,  "sanskrit": "Aranika / Agnimantha",   "botanical": "Clerodendrum phlomidis",            "family": "Lamiaceae" },
+        { "number": 3,  "sanskrit": "Buka / Vasuka",          "botanical": "Osmanthus fragrans",                "family": "Oleaceae" },
+        { "number": 4,  "sanskrit": "Vrsa / Vasa",            "botanical": "Adhatoda vasica",                   "family": "Acanthaceae" },
+        { "number": 5,  "sanskrit": "Asmabheda / Pasanabheda","botanical": "Bergenia ligulata",                 "family": "Saxifragaceae" },
+        { "number": 6,  "sanskrit": "Gokantaka / Goksura",    "botanical": "Tribulus terrestris",               "family": "Zygophyllaceae" },
+        { "number": 7,  "sanskrit": "Itkata / Utkata",        "botanical": "Sesbania bispinosa",                "family": "Fabaceae" },
+        { "number": 8,  "sanskrit": "Sahacara",               "botanical": "Barleria prionitis",                "family": "Acanthaceae" },
+        { "number": 9,  "sanskrit": "Bana",                   "botanical": "Avicennia officinalis",             "family": "Acanthaceae" },
+        { "number": 10, "sanskrit": "Kasa",                   "botanical": "Saccharum spontaneum",              "family": "Poaceae" },
+        { "number": 11, "sanskrit": "Vrksadam / Vandaka",     "botanical": "Loranthus longiflorus",             "family": "Loranthaceae" },
+        { "number": 12, "sanskrit": "Nala",                   "botanical": "Phragmites maxima",                 "family": "Poaceae" },
+        { "number": 13, "sanskrit": "Kusa dvaya",             "botanical": "Desmostachya bipinnata (2 varieties)","family": "Poaceae" },
+        { "number": 14, "sanskrit": "Guntha",                 "botanical": "Typha angustata",                   "family": "Typhaceae" },
+        { "number": 15, "sanskrit": "Gundra",                 "botanical": "Typha elephantina",                 "family": "Typhaceae" },
+        { "number": 16, "sanskrit": "Bhalluka / Syonaka",     "botanical": "Oroxylum indicum",                  "family": "Bignoniaceae" },
+        { "number": 17, "sanskrit": "Morata / Chaga",         "botanical": "Marsdenia tenacissima",             "family": "Apocynaceae" },
+        { "number": 18, "sanskrit": "Kuranta",                "botanical": "Barleria prionitis (yellow variety)","family": "Acanthaceae" },
+        { "number": 19, "sanskrit": "Karambha / Uttamarani",  "botanical": "Pergularia extensa",                "family": "Apocynaceae" },
+        { "number": 20, "sanskrit": "Partha / Suvarcala / Aditya-bhakta", "botanical": "Not precisely identified","family": "Unknown" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_21",
+      "gana_number": 21,
+      "gana_name_sanskrit": "Rodhradi Gana",
+      "gana_name_english": "Lodhra Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Decreases fat, mitigates kapha, cures vaginal disorders, astringent, complexion-enhancing, antitoxic",
+      "dosha_addressed": ["Kapha", "Pitta"],
+      "dosha_effect": "Decreases Kapha and Pitta",
+      "indications": ["Medoroga", "Kapha roga", "Yoniroga (vaginal disorders)", "Visa (toxicity)", "Complexion improvement"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Rodhra / Lodhra",        "botanical": "Symplocos crataegoides",            "family": "Symplocaceae" },
+        { "number": 2,  "sanskrit": "Sabaraka lodhra",        "botanical": "Symplocos racemosa",                "family": "Symplocaceae" },
+        { "number": 3,  "sanskrit": "Palasa",                 "botanical": "Butea monosperma",                  "family": "Fabaceae" },
+        { "number": 4,  "sanskrit": "Jihgini",                "botanical": "Lannea grandis",                    "family": "Anacardiaceae" },
+        { "number": 5,  "sanskrit": "Sarala",                 "botanical": "Pinus longifolia",                  "family": "Pinaceae" },
+        { "number": 6,  "sanskrit": "Katphala",               "botanical": "Myrica nagi",                       "family": "Myricaceae" },
+        { "number": 7,  "sanskrit": "Yukta / Rasna",          "botanical": "Pluchea lanceolata",                "family": "Asteraceae" },
+        { "number": 8,  "sanskrit": "Kutsitamba / Kadamba",   "botanical": "Anthocephalus indicus",             "family": "Rubiaceae" },
+        { "number": 9,  "sanskrit": "Kadali",                 "botanical": "Musa paradisiaca",                  "family": "Musaceae" },
+        { "number": 10, "sanskrit": "Gatasoka / Asoka",       "botanical": "Saraca indica",                     "family": "Fabaceae" },
+        { "number": 11, "sanskrit": "Elavalu",                "botanical": "Prunus cerasus",                    "family": "Rosaceae" },
+        { "number": 12, "sanskrit": "Paripelava / Musta",     "botanical": "Cyperus rotundus",                  "family": "Cyperaceae" },
+        { "number": 13, "sanskrit": "Moca / Sallaki",         "botanical": "Boswellia serrata",                 "family": "Burseraceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_22",
+      "gana_number": 22,
+      "gana_name_sanskrit": "Arkadi Gana",
+      "gana_name_english": "Arka Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Decreases fat, mitigates kapha; worms, skin diseases, antitoxic, wound cleansing",
+      "dosha_addressed": ["Kapha"],
+      "dosha_effect": "Decreases Kapha and Medas",
+      "indications": ["Medoroga", "Krimi (worms)", "Kustha (skin diseases)", "Visa (toxicity)", "Vrana (wounds)"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Arka",                   "botanical": "Calotropis gigantea",               "family": "Apocynaceae" },
+        { "number": 2,  "sanskrit": "Alarka",                 "botanical": "Calotropis procera",                "family": "Apocynaceae" },
+        { "number": 3,  "sanskrit": "Nagadanti",              "botanical": "Croton oblongifolius",               "family": "Euphorbiaceae" },
+        { "number": 4,  "sanskrit": "Visalya / Langali",      "botanical": "Gloriosa superba",                  "family": "Colchicaceae" },
+        { "number": 5,  "sanskrit": "Bharngi",                "botanical": "Clerodendrum serratum",             "family": "Lamiaceae" },
+        { "number": 6,  "sanskrit": "Rasna",                  "botanical": "Pluchea lanceolata",                "family": "Asteraceae" },
+        { "number": 7,  "sanskrit": "Vrscikali",              "botanical": "Pergularia extensa",                "family": "Apocynaceae" },
+        { "number": 8,  "sanskrit": "Prakirya / Karanja",     "botanical": "Pongamia pinnata",                  "family": "Fabaceae" },
+        { "number": 9,  "sanskrit": "Pratyakpuspi",           "botanical": "Achyranthes aspera",                "family": "Amaranthaceae" },
+        { "number": 10, "sanskrit": "Pitataila / Malakangani","botanical": "Celastrus paniculata",              "family": "Celastraceae" },
+        { "number": 11, "sanskrit": "Udakirya / Putikaranja", "botanical": "Holoptelia integrifolia",           "family": "Ulmaceae" },
+        { "number": 12, "sanskrit": "Kinihi / Sirisa",        "botanical": "Albizzia procera",                  "family": "Fabaceae" },
+        { "number": 13, "sanskrit": "Tapasa / Ingudi",        "botanical": "Balanites aegyptiaca",              "family": "Zygophyllaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_23",
+      "gana_number": 23,
+      "gana_name_sanskrit": "Surasadi Gana",
+      "gana_name_english": "Surasa (Tulasi) Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Mitigates kapha, decreases fat; worms, coryza, anorexia, dyspnoea, cough, wound cleansing",
+      "dosha_addressed": ["Kapha"],
+      "dosha_effect": "Decreases Kapha and Medas",
+      "indications": ["Kapha roga", "Krimi (worms)", "Pratisyaya (rhinitis/coryza)", "Arocaka (anorexia)", "Svasa (dyspnoea)", "Kasa (cough)", "Vrana (wounds)"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Surasa yugma (black & white)", "botanical": "Ocimum sanctum",             "family": "Lamiaceae" },
+        { "number": 2,  "sanskrit": "Phanijja",               "botanical": "Origanum majorana",                 "family": "Lamiaceae" },
+        { "number": 3,  "sanskrit": "Kalamala",               "botanical": "Ocimum species",                    "family": "Lamiaceae" },
+        { "number": 4,  "sanskrit": "Vidanga",                "botanical": "Embelia ribes",                     "family": "Primulaceae" },
+        { "number": 5,  "sanskrit": "Kharabusa",              "botanical": "Ocimum species",                    "family": "Lamiaceae" },
+        { "number": 6,  "sanskrit": "Vrsakarni / Musikarni",  "botanical": "Ipomoea reniformis",                "family": "Convolvulaceae" },
+        { "number": 7,  "sanskrit": "Katphala",               "botanical": "Myrica nagi",                       "family": "Myricaceae" },
+        { "number": 8,  "sanskrit": "Kasamarda",              "botanical": "Cassia occidentalis",               "family": "Fabaceae" },
+        { "number": 9,  "sanskrit": "Ksavaka",                "botanical": "Centipeda minima",                  "family": "Asteraceae" },
+        { "number": 10, "sanskrit": "Sarasi / Kapitthaparnī", "botanical": "Not precisely identified",          "family": "Unknown" },
+        { "number": 11, "sanskrit": "Bharngi",                "botanical": "Clerodendrum serratum",             "family": "Lamiaceae" },
+        { "number": 12, "sanskrit": "Karmuka / Raktamanjari", "botanical": "Not precisely identified",          "family": "Unknown" },
+        { "number": 13, "sanskrit": "Kakamaci",               "botanical": "Solanum nigrum",                    "family": "Solanaceae" },
+        { "number": 14, "sanskrit": "Kulahala",               "botanical": "Blumea balsamifera",                "family": "Asteraceae" },
+        { "number": 15, "sanskrit": "Visamusti",              "botanical": "Strychnos nux-vomica",              "family": "Loganiaceae" },
+        { "number": 16, "sanskrit": "Bhutrna",                "botanical": "Cymbopogon citratus",               "family": "Poaceae" },
+        { "number": 17, "sanskrit": "Bhutakesi",              "botanical": "Nardostachys jatamansi",           "family": "Caprifoliaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_24",
+      "gana_number": 24,
+      "gana_name_sanskrit": "Muskakadi Gana",
+      "gana_name_english": "Muskaka Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Tumors, diabetes, urinary calculi, anaemia, obesity, piles, kapha, semen disorders",
+      "dosha_addressed": ["Kapha"],
+      "dosha_effect": "Decreases Kapha and Medas",
+      "indications": ["Granthi (tumors)", "Prameha (diabetes)", "Ashmari (urinary calculi)", "Pandu (anaemia)", "Sthoulya (obesity)", "Arsas (piles)", "Sukra dosa (semen disorders)"],
+      "herbs": [
+        { "number": 1, "sanskrit": "Muskaka",                 "botanical": "Elaeodendron glaucum",              "family": "Celastraceae" },
+        { "number": 2, "sanskrit": "Snuhi",                   "botanical": "Euphorbia nerifolia",               "family": "Euphorbiaceae" },
+        { "number": 3, "sanskrit": "Vara / Triphala",         "botanical": "Three fruits (Terminalia chebula + Emblica officinalis + Terminalia bellerica)", "family": "Mixed" },
+        { "number": 4, "sanskrit": "Dvipi / Citraka",         "botanical": "Plumbago zeylanica",                "family": "Plumbaginaceae" },
+        { "number": 5, "sanskrit": "Palasa",                  "botanical": "Butea monosperma",                  "family": "Fabaceae" },
+        { "number": 6, "sanskrit": "Dhava",                   "botanical": "Anogeissus latifolia",              "family": "Combretaceae" },
+        { "number": 7, "sanskrit": "Sirhsapa",                "botanical": "Dalbergia sissoo",                  "family": "Fabaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_25",
+      "gana_number": 25,
+      "gana_name_sanskrit": "Vatsakadi Gana",
+      "gana_name_english": "Vatsaka Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Mitigates kapha and medas; anorexia, coryza, colic, piles, fever, tumors, digestive stimulant",
+      "dosha_addressed": ["Kapha"],
+      "dosha_effect": "Decreases Kapha and Medas",
+      "indications": ["Arocaka (anorexia)", "Pratisyaya (coryza)", "Sula (colic)", "Arsas (piles)", "Jwara (fever)", "Granthi (tumors)", "Deepens agni"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Vatsaka",                "botanical": "Holarrhena antidysenterica",        "family": "Apocynaceae" },
+        { "number": 2,  "sanskrit": "Murva / Madhurasa",      "botanical": "Marsdenia tenacissima",             "family": "Apocynaceae" },
+        { "number": 3,  "sanskrit": "Bharngi",                "botanical": "Clerodendrum serratum",             "family": "Lamiaceae" },
+        { "number": 4,  "sanskrit": "Katuka rohini",          "botanical": "Picrorhiza kurroa",                 "family": "Plantaginaceae" },
+        { "number": 5,  "sanskrit": "Marica",                 "botanical": "Piper longum",                      "family": "Piperaceae" },
+        { "number": 6,  "sanskrit": "Ghunapriya / Ativisa",   "botanical": "Aconitum heterophyllum",            "family": "Ranunculaceae" },
+        { "number": 7,  "sanskrit": "Gandira / Snuhi",        "botanical": "Euphorbia nerifolia",               "family": "Euphorbiaceae" },
+        { "number": 8,  "sanskrit": "Ela",                    "botanical": "Elettaria cardamomum",              "family": "Zingiberaceae" },
+        { "number": 9,  "sanskrit": "Patha",                  "botanical": "Cissampelos pareira",               "family": "Menispermaceae" },
+        { "number": 10, "sanskrit": "Ajaji / Jiraka",         "botanical": "Cuminum cyminum",                   "family": "Apiaceae" },
+        { "number": 11, "sanskrit": "Katwangaphala / Aralu",  "botanical": "Ailanthus excelsa",                 "family": "Simaroubaceae" },
+        { "number": 12, "sanskrit": "Ajamoda",                "botanical": "Apium graveolens",                  "family": "Apiaceae" },
+        { "number": 13, "sanskrit": "Siddhartha / Sweta sarsapa","botanical": "Brassica campestris var. sarson","family": "Brassicaceae" },
+        { "number": 14, "sanskrit": "Vaca",                   "botanical": "Acorus calamus",                    "family": "Acoraceae" },
+        { "number": 15, "sanskrit": "Jiraka",                 "botanical": "Carum carvi",                       "family": "Apiaceae" },
+        { "number": 16, "sanskrit": "Hingu",                  "botanical": "Ferula foetida",                    "family": "Apiaceae" },
+        { "number": 17, "sanskrit": "Vidanga",                "botanical": "Embelia ribes",                     "family": "Primulaceae" },
+        { "number": 18, "sanskrit": "Pasugandha / Ajagandha", "botanical": "Gynandropsis gynandra",             "family": "Cleomaceae" },
+        { "number": 19, "sanskrit": "Pancakola (group of 5)", "botanical": "Piper longum + Piper longum root + Piper retrofractum + Plumbago zeylanica + Zingiber officinale", "family": "Mixed" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_26_27",
+      "gana_number": "26-27",
+      "gana_name_sanskrit": "Vaca-Haridradi Gana",
+      "gana_name_english": "Vaca and Haridra Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Amatisara, medoroga, kapha roga, gout, breast milk disorders",
+      "dosha_addressed": ["Kapha"],
+      "dosha_effect": "Decreases Kapha and Medas",
+      "indications": ["Amatisara (diarrhoea with ama)", "Medoroga (obesity)", "Kapha roga", "Vatarakta (gout)", "Stanya dosa (breast milk disorders)"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Vaca",                   "botanical": "Acorus calamus",                    "family": "Acoraceae" },
+        { "number": 2,  "sanskrit": "Jalada / Musta",         "botanical": "Cyperus rotundus",                  "family": "Cyperaceae" },
+        { "number": 3,  "sanskrit": "Devahva / Devadaru",     "botanical": "Cedrus deodara",                    "family": "Pinaceae" },
+        { "number": 4,  "sanskrit": "Nagara / Sunthi",        "botanical": "Zingiber officinale",               "family": "Zingiberaceae" },
+        { "number": 5,  "sanskrit": "Ativisa",                "botanical": "Aconitum heterophyllum",            "family": "Ranunculaceae" },
+        { "number": 6,  "sanskrit": "Abhaya / Haritaki",      "botanical": "Terminalia chebula",                "family": "Combretaceae" },
+        { "number": 7,  "sanskrit": "Haridra",                "botanical": "Curcuma longa",                     "family": "Zingiberaceae" },
+        { "number": 8,  "sanskrit": "Daruharidra",            "botanical": "Berberis aristata",                 "family": "Berberidaceae" },
+        { "number": 9,  "sanskrit": "Yasti / Yastimadhu",     "botanical": "Glycyrrhiza glabra",                "family": "Fabaceae" },
+        { "number": 10, "sanskrit": "Kalasi / Prsniparni",    "botanical": "Uraria picta",                      "family": "Fabaceae" },
+        { "number": 11, "sanskrit": "Kutaja / Indrayava",     "botanical": "Holarrhena antidysenterica",        "family": "Apocynaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_28_29",
+      "gana_number": "28-29",
+      "gana_name_sanskrit": "Priyangu-Ambasthadi Gana",
+      "gana_name_english": "Priyahgu and Ambastha Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Mature diarrhoea, fracture healing, pitta mitigation, ulcer healing",
+      "dosha_addressed": ["Pitta"],
+      "dosha_effect": "Decreases Pitta; astringent action",
+      "indications": ["Pakvatisara (mature diarrhoea)", "Asthisandhi (fracture healing)", "Pitta roga", "Vrana (ulcers)"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Priyahgu",               "botanical": "Callicarpa macrophylla",            "family": "Lamiaceae" },
+        { "number": 2,  "sanskrit": "Srotohjana",             "botanical": "Antimony sulphide (black galena)",  "family": "Mineral" },
+        { "number": 3,  "sanskrit": "Souvirahjana",           "botanical": "Antimony sulphide (white galena)",  "family": "Mineral" },
+        { "number": 4,  "sanskrit": "Padma / Bharngi",        "botanical": "Clerodendrum serratum",             "family": "Lamiaceae" },
+        { "number": 5,  "sanskrit": "Padmaraja / Padmakesara","botanical": "Nelumbo nucifera (filaments)",      "family": "Nelumbonaceae" },
+        { "number": 6,  "sanskrit": "Yojanavalil / Manjistha","botanical": "Rubia cordifolia",                  "family": "Rubiaceae" },
+        { "number": 7,  "sanskrit": "Ananta / Yavasaka",      "botanical": "Alhagi camelorum",                  "family": "Fabaceae" },
+        { "number": 8,  "sanskrit": "Manadruma / Salmali",    "botanical": "Salmalia malabarica",               "family": "Malvaceae" },
+        { "number": 9,  "sanskrit": "Mocarasa",               "botanical": "Gum resin of Salmalia malabarica",  "family": "Malvaceae" },
+        { "number": 10, "sanskrit": "Samanga / Lajjalu",      "botanical": "Mimosa pudica",                     "family": "Fabaceae" },
+        { "number": 11, "sanskrit": "Punnaga",                "botanical": "Calophyllum inophyllum",            "family": "Calophyllaceae" },
+        { "number": 12, "sanskrit": "Sita / Candana",         "botanical": "Santalum album",                    "family": "Santalaceae" },
+        { "number": 13, "sanskrit": "Madaniya-hetu / Dhataki","botanical": "Woodfordia fruticosa",              "family": "Lythraceae" },
+        { "number": 14, "sanskrit": "Ambastha / Mayurasikha", "botanical": "Adiantum caudatum",                 "family": "Pteridaceae" },
+        { "number": 15, "sanskrit": "Madhuka",                "botanical": "Glycyrrhiza glabra",                "family": "Fabaceae" },
+        { "number": 16, "sanskrit": "Namaskari",              "botanical": "Mimosa pudica",                     "family": "Fabaceae" },
+        { "number": 17, "sanskrit": "Nandivrksa",             "botanical": "Ficus retusa",                      "family": "Moraceae" },
+        { "number": 18, "sanskrit": "Palasa",                 "botanical": "Butea monosperma",                  "family": "Fabaceae" },
+        { "number": 19, "sanskrit": "Kacchura / Dhanvayasa",  "botanical": "Fagonia cretica",                   "family": "Zygophyllaceae" },
+        { "number": 20, "sanskrit": "Rodhra",                 "botanical": "Symplocos racemosa",                "family": "Symplocaceae" },
+        { "number": 21, "sanskrit": "Dhataki",                "botanical": "Woodfordia fruticosa",              "family": "Lythraceae" },
+        { "number": 22, "sanskrit": "Bilva pesika / Bilwaphala majja","botanical": "Aegle marmelos (fruit pulp)","family": "Rutaceae" },
+        { "number": 23, "sanskrit": "Katwanga / Mahanimba",   "botanical": "Ailanthus excelsa",                 "family": "Simaroubaceae" },
+        { "number": 24, "sanskrit": "Kamalaraja / Padmakesara","botanical": "Nelumbo nucifera (stamens)",       "family": "Nelumbonaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_30",
+      "gana_number": 30,
+      "gana_name_sanskrit": "Mustadi Gana",
+      "gana_name_english": "Musta Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Uterine disorders, breast milk disorders, mitigates all tridosas",
+      "dosha_addressed": ["Vata", "Pitta", "Kapha"],
+      "dosha_effect": "Tridosahara (decreases all three dosas)",
+      "indications": ["Uterine disorders (yoniroga)", "Stanya dosa (breast milk disorders)"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Musta",                  "botanical": "Cyperus rotundus",                  "family": "Cyperaceae" },
+        { "number": 2,  "sanskrit": "Vaca",                   "botanical": "Acorus calamus",                    "family": "Acoraceae" },
+        { "number": 3,  "sanskrit": "Agni / Citramula",       "botanical": "Plumbago zeylanica",                "family": "Plumbaginaceae" },
+        { "number": 4,  "sanskrit": "Haridra",                "botanical": "Curcuma longa",                     "family": "Zingiberaceae" },
+        { "number": 5,  "sanskrit": "Daruharidra",            "botanical": "Berberis aristata",                 "family": "Berberidaceae" },
+        { "number": 6,  "sanskrit": "Katukarohini",           "botanical": "Picrorhiza kurroa",                 "family": "Plantaginaceae" },
+        { "number": 7,  "sanskrit": "Kakatikta (kakadini / guhja)","botanical": "Abrus precatorius",            "family": "Fabaceae" },
+        { "number": 8,  "sanskrit": "Bhallataka",             "botanical": "Semecarpus anacardium",             "family": "Anacardiaceae" },
+        { "number": 9,  "sanskrit": "Patha",                  "botanical": "Cissampelos pareira",               "family": "Menispermaceae" },
+        { "number": 10, "sanskrit": "Triphala",               "botanical": "Three fruits (Terminalia chebula + Emblica officinalis + Terminalia bellerica)", "family": "Mixed" },
+        { "number": 11, "sanskrit": "Visakhya / Ativisa",     "botanical": "Aconitum heterophyllum",            "family": "Ranunculaceae" },
+        { "number": 12, "sanskrit": "Kustha",                 "botanical": "Saussurea lappa",                   "family": "Asteraceae" },
+        { "number": 13, "sanskrit": "Truti / Ela",            "botanical": "Elettaria cardamomum",              "family": "Zingiberaceae" },
+        { "number": 14, "sanskrit": "Haimavati",              "botanical": "Acorus calamus (white variety)",    "family": "Acoraceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_31",
+      "gana_number": 31,
+      "gana_name_sanskrit": "Nyagrodhadi Gana",
+      "gana_name_english": "Nyagrodha (Banyan) Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Heals ulcers, absorbs fluid, bone union, cures obesity, haemorrhage, thirst, burning, vaginal disorders",
+      "dosha_addressed": ["Pitta", "Kapha"],
+      "dosha_effect": "Decreases Pitta and Kapha; astringent",
+      "indications": ["Vrana (ulcers/wounds)", "Asthisandhi (fractures)", "Sthoulya (obesity)", "Raktapitta (haemorrhage)", "Trsna (thirst)", "Daha (burning)", "Yoniroga (vaginal disorders)"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Nyagrodha",              "botanical": "Ficus bengalensis",                 "family": "Moraceae" },
+        { "number": 2,  "sanskrit": "Pippala / Asvattha",     "botanical": "Ficus religiosa",                   "family": "Moraceae" },
+        { "number": 3,  "sanskrit": "Sadaphala / Udumbara",   "botanical": "Ficus glomerata",                   "family": "Moraceae" },
+        { "number": 4,  "sanskrit": "Rodhra yugma",           "botanical": "Symplocos racemosa (2 types)",      "family": "Symplocaceae" },
+        { "number": 5,  "sanskrit": "Jambu dvaya",            "botanical": "Syzygium cumini (2 types)",         "family": "Myrtaceae" },
+        { "number": 6,  "sanskrit": "Arjuna",                 "botanical": "Terminalia arjuna",                 "family": "Combretaceae" },
+        { "number": 7,  "sanskrit": "Kapitana",               "botanical": "Ficus microcarpa",                  "family": "Moraceae" },
+        { "number": 8,  "sanskrit": "Somavalka / Khadira",    "botanical": "Acacia catechu",                    "family": "Fabaceae" },
+        { "number": 9,  "sanskrit": "Plaksa",                 "botanical": "Ficus lacor",                       "family": "Moraceae" },
+        { "number": 10, "sanskrit": "Amra",                   "botanical": "Mangifera indica",                  "family": "Anacardiaceae" },
+        { "number": 11, "sanskrit": "Vanjula / Vetasa",       "botanical": "Salix caprea",                      "family": "Salicaceae" },
+        { "number": 12, "sanskrit": "Piyala",                 "botanical": "Buchanania lanzan",                 "family": "Anacardiaceae" },
+        { "number": 13, "sanskrit": "Palasa",                 "botanical": "Butea frondosa",                    "family": "Fabaceae" },
+        { "number": 14, "sanskrit": "Nandi",                  "botanical": "Ficus retusa",                      "family": "Moraceae" },
+        { "number": 15, "sanskrit": "Kola",                   "botanical": "Zizyphus jujuba",                   "family": "Rhamnaceae" },
+        { "number": 16, "sanskrit": "Kadamba",                "botanical": "Anthocephalus cadamba",             "family": "Rubiaceae" },
+        { "number": 17, "sanskrit": "Virala / Tinduka",       "botanical": "Diospyros tomentosa",               "family": "Ebenaceae" },
+        { "number": 18, "sanskrit": "Madhuka / Yasti",        "botanical": "Glycyrrhiza glabra",                "family": "Fabaceae" },
+        { "number": 19, "sanskrit": "Madhuka",                "botanical": "Madhuca indica",                    "family": "Sapotaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_32",
+      "gana_number": 32,
+      "gana_name_sanskrit": "Eladi Gana",
+      "gana_name_english": "Ela (Cardamom) Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Mitigates vata and kapha, antitoxic, complexion-enhancing, itching, boils",
+      "dosha_addressed": ["Vata", "Kapha"],
+      "dosha_effect": "Decreases Vata and Kapha",
+      "indications": ["Vata roga", "Kapha roga", "Visa (toxicity)", "Kandu (itching)", "Pidaka (boils)", "Varna prasadana (complexion improvement)"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Suksma ela",             "botanical": "Elettaria cardamomum",              "family": "Zingiberaceae" },
+        { "number": 2,  "sanskrit": "Sthula ela",             "botanical": "Amomum subulatum",                  "family": "Zingiberaceae" },
+        { "number": 3,  "sanskrit": "Turuska",                "botanical": "Liquidambar orientalis",            "family": "Altingiaceae" },
+        { "number": 4,  "sanskrit": "Kustha",                 "botanical": "Saussurea lappa",                   "family": "Asteraceae" },
+        { "number": 5,  "sanskrit": "Phalini / Priyahgu",     "botanical": "Callicarpa macrophyllum",           "family": "Lamiaceae" },
+        { "number": 6,  "sanskrit": "Mamsi / Jatamamsi",      "botanical": "Nardostachys jatamansi",           "family": "Caprifoliaceae" },
+        { "number": 7,  "sanskrit": "Jala / Balaka",          "botanical": "Coleus vettiveroides",              "family": "Lamiaceae" },
+        { "number": 8,  "sanskrit": "Dhyamaka / Gandhatrna",  "botanical": "Cymbopogon species",                "family": "Poaceae" },
+        { "number": 9,  "sanskrit": "Sprkka",                 "botanical": "Himalayan aromatic plant",          "family": "Unknown" },
+        { "number": 10, "sanskrit": "Coraka",                 "botanical": "Angelica glauca",                   "family": "Apiaceae" },
+        { "number": 11, "sanskrit": "Coca / Twak",            "botanical": "Cinnamomum zeylanicum",             "family": "Lauraceae" },
+        { "number": 12, "sanskrit": "Patra / Tamala patra",   "botanical": "Cinnamomum tamala",                 "family": "Lauraceae" },
+        { "number": 13, "sanskrit": "Tagara / Granthi tagara","botanical": "Valeriana wallichii",               "family": "Caprifoliaceae" },
+        { "number": 14, "sanskrit": "Sthouneya / Thuneraka",  "botanical": "Taxus baccata",                     "family": "Taxaceae" },
+        { "number": 15, "sanskrit": "Jatirasa / Bola",        "botanical": "Commiphora myrrha",                 "family": "Burseraceae" },
+        { "number": 16, "sanskrit": "Sukti / Nakha",          "botanical": "Shell / nail substance",            "family": "Animal" },
+        { "number": 17, "sanskrit": "Vyaghrankha",            "botanical": "Capparis horrida",                  "family": "Capparaceae" },
+        { "number": 18, "sanskrit": "Amarahwa / Devadaru",    "botanical": "Cedrus deodara",                    "family": "Pinaceae" },
+        { "number": 19, "sanskrit": "Aguru / Krsnaguru",      "botanical": "Aquilaria agallocha",               "family": "Thymelaeaceae" },
+        { "number": 20, "sanskrit": "Srivasaka / Sarala",     "botanical": "Pinus longifolia",                  "family": "Pinaceae" },
+        { "number": 21, "sanskrit": "Kunkuma / Saffron",      "botanical": "Crocus sativus",                    "family": "Iridaceae" },
+        { "number": 22, "sanskrit": "Canda",                  "botanical": "Angelica glauca",                   "family": "Apiaceae" },
+        { "number": 23, "sanskrit": "Guggulu",                "botanical": "Commiphora mukul",                  "family": "Burseraceae" },
+        { "number": 24, "sanskrit": "Devadhupa / Sarjarasa",  "botanical": "Shorea robusta (resin)",            "family": "Dipterocarpaceae" },
+        { "number": 25, "sanskrit": "Khapura / Kunduruka",    "botanical": "Gum resin of Lannea grandis / Boswellia serrata","family": "Burseraceae" },
+        { "number": 26, "sanskrit": "Punnaga",                "botanical": "Calophyllum inophyllum",            "family": "Calophyllaceae" },
+        { "number": 27, "sanskrit": "Nagahvaya / Nagakesara", "botanical": "Mesua ferrea",                      "family": "Calophyllaceae" }
+      ]
+    },
+    {
+      "gana_id": "AH_GANA_33",
+      "gana_number": 33,
+      "gana_name_sanskrit": "Syamadi Gana",
+      "gana_name_english": "Syama Group",
+      "chapter": 15,
+      "source": "Ashtanga Hridayam Sutrasthana",
+      "therapeutic_purpose": "Abdominal lumps, antitoxic, anorexia, kapha and heart disorders, dysuria",
+      "dosha_addressed": ["Kapha"],
+      "dosha_effect": "Decreases Kapha",
+      "indications": ["Udara granthi (abdominal lumps)", "Visa (toxicity)", "Arocaka (anorexia)", "Kapha roga", "Hrd roga (heart disorders)", "Mutrakrcchra (dysuria)"],
+      "herbs": [
+        { "number": 1,  "sanskrit": "Syama",                  "botanical": "Operculina turpethum (black variety)","family": "Convolvulaceae" },
+        { "number": 2,  "sanskrit": "Danti",                  "botanical": "Baliospermum axillare",              "family": "Euphorbiaceae" },
+        { "number": 3,  "sanskrit": "Dravanti",               "botanical": "Croton tiglium",                    "family": "Euphorbiaceae" },
+        { "number": 4,  "sanskrit": "Kramuka",                "botanical": "Areca catechu",                     "family": "Arecaceae" },
+        { "number": 5,  "sanskrit": "Kutarana / Trivrt",      "botanical": "Operculina turpethum (white variety)","family": "Convolvulaceae" },
+        { "number": 6,  "sanskrit": "Sankhini",               "botanical": "Clitoria ternatea",                 "family": "Fabaceae" },
+        { "number": 7,  "sanskrit": "Carmasahva",             "botanical": "Acacia sinuata",                    "family": "Fabaceae" },
+        { "number": 8,  "sanskrit": "Svarnaksiri",            "botanical": "Argemone mexicana",                 "family": "Papaveraceae" },
+        { "number": 9,  "sanskrit": "Gavaksi",                "botanical": "Citrullus colocynthis",             "family": "Cucurbitaceae" },
+        { "number": 10, "sanskrit": "Sikhari",                "botanical": "Achyranthes aspera",                "family": "Amaranthaceae" },
+        { "number": 11, "sanskrit": "Rajanaka / Kampillaka",  "botanical": "Mallotus philippinensis",           "family": "Euphorbiaceae" },
+        { "number": 12, "sanskrit": "Chinjirakam",            "botanical": "Tinospora cordifolia",              "family": "Menispermaceae" },
+        { "number": 13, "sanskrit": "Karanja",                "botanical": "Pongamia pinnata",                  "family": "Fabaceae" },
+        { "number": 14, "sanskrit": "Bastantri",              "botanical": "Ipomoea pes-caprae",                "family": "Convolvulaceae" },
+        { "number": 15, "sanskrit": "Vyadhighata / Aragvadha","botanical": "Cassia fistula",                    "family": "Fabaceae" },
+        { "number": 16, "sanskrit": "Bahala / Sigru",         "botanical": "Moringa pterygosperma",             "family": "Moringaceae" },
+        { "number": 17, "sanskrit": "Bahurasa / Iksu",        "botanical": "Saccharum officinarum",             "family": "Poaceae" },
+        { "number": 18, "sanskrit": "Tiksnavrksaphala / Pilu","botanical": "Salvadora persica",                 "family": "Salvadoraceae" }
+      ]
+    }
+  ],
+
+  "panchakarma_protocols": [
+    {
+      "protocol_id": "AH_PK_01",
+      "therapy_name_sanskrit": "Snehana / Snehapana",
+      "therapy_name_english": "Oleation Therapy / Internal Oleation",
+      "chapter": 16,
+      "source": "Ashtanga Hridayam Sutrasthana Ch. 16 — Sneha-Vidhi Adhyaya",
+      "definition": "The process of producing unctuousness (snigdhata), fluidity, softness and smoothness in the body. Oleation is mandatory pre-operative procedure (purva karma) before all Panchakarma therapies.",
+      "role_in_panchakarma": "Purva karma (pre-operative) — brings vitiated dosas from sakha (periphery) back to kostha (central GI) to enable elimination",
+      "best_oleating_substances": [
+        {
+          "substance": "Sarpi / Ghrta (Ghee)",
+          "best_for": "Pitta disorders; intelligence, memory, digestion",
+          "note": "Best overall oleant — absorbs properties of processing drugs"
+        },
+        {
+          "substance": "Majja (Bone marrow)",
+          "best_for": "Vata and Kapha; heaviest oleant",
+          "note": "Heaviest among the four"
+        },
+        {
+          "substance": "Vasa (Muscle fat)",
+          "best_for": "Joints, bones, vital organs, GI tract, burns, injuries, prolapsed uterus, ear and head diseases",
+          "note": null
+        },
+        {
+          "substance": "Taila (Sesame oil)",
+          "best_for": "Vata disorders, tumors, sinus, worms, kapha, medo roga, krura kostha",
+          "note": null
+        }
+      ],
+      "seasonal_indications": {
+        "taila": "Pravrt rtu / Varsa (first rains — July–August)",
+        "ghrta": "End of Varsa / Sarad (autumn)",
+        "vasa_and_majja": "Madhura / Vasanta (spring)"
+      },
+      "types_of_snehana": [
+        {
+          "type": "Sodhana Sneha",
+          "dose": "Maximum (uttama matra)",
+          "timing": "Early morning, empty stomach",
+          "duration": "Maximum 7 days",
+          "purpose": "To mobilize dosas for elimination (purva karma for panchakarma)"
+        },
+        {
+          "type": "Samana Sneha",
+          "dose": "Medium (madhyama matra)",
+          "timing": "Empty stomach when hungry",
+          "duration": "Until disease symptoms disappear",
+          "purpose": "Palliative oleation — mitigate dosas without eliminating"
+        },
+        {
+          "type": "Brmhana Sneha",
+          "dose": "Minimum (hrasva matra)",
+          "timing": "Mixed with mutton soup, wine, or food",
+          "duration": "Longer period",
+          "purpose": "Body nourishment — for debilitated, elderly, children"
+        }
+      ],
+      "dosage_classification": [
+        {
+          "matra": "Hrasva matra (small dose)",
+          "digestion_time": "2 yamas (6 hours)",
+          "indications": ["Weak persons", "Reduced digestive power", "Children", "Aged", "Delicate", "Fever", "Diarrhoea", "Cough"]
+        },
+        {
+          "matra": "Madhyama matra (medium dose)",
+          "digestion_time": "4 yamas (12 hours)",
+          "indications": ["Diabetes (prameha)", "Urustambha", "Carbuncles", "Skin diseases", "Gout (vatarakta)", "Mrdu kostha"]
+        },
+        {
+          "matra": "Uttama matra (large dose)",
+          "digestion_time": "8 yamas (24 hours)",
+          "indications": ["Hectic personalities", "Strong digestion", "Tumors", "Reverse peristalsis", "Herpes", "Snake bite", "Insanity", "Dysuria"]
+        }
+      ],
+      "eligible_persons": [
+        "Before sudation and purificatory therapies",
+        "Habituated to wine, excessive coitus, heavy exercise",
+        "Excessive mental stress",
+        "Aged, children, debilitated persons",
+        "Emaciated and dry constitution",
+        "Depleted blood and reproductive tissues",
+        "Neurological disorders, eye diseases",
+        "Difficulty in quick awakening"
+      ],
+      "contraindications": [
+        "Very weak OR very strong digestive power",
+        "Very obese OR very lean",
+        "Urustambha (thigh stiffness)",
+        "Diarrhoea",
+        "Indigestion",
+        "Throat disorders",
+        "Artificial poisoning",
+        "Ascites",
+        "Fainting",
+        "Vomiting",
+        "Anorexia",
+        "Excess kapha",
+        "Thirst",
+        "Alcoholic intoxication",
+        "Abnormal delivery",
+        "Immediately after nasya, vasti, or virecana"
+      ],
+      "procedure": {
+        "purva_karma": [
+          "Screen patient for eligibility",
+          "Give mild carminative drugs (dipana) to stimulate digestion",
+          "Assess kostha type: mrdu = 3 days, madhyama = 5 days, krura = 7 days",
+          "Kostha pariksa: jaggery/sugarcane juice/milk/whey/rice pudding/ghee/grape juice — purgative = mrdu; no effect = krura"
+        ],
+        "pradhana_karma": [
+          "Administer medicated oil orally, 15–30 min after sunrise, empty stomach",
+          "Give hot water immediately after for digestion and mouth cleansing",
+          "Patient walks 100–200 yards",
+          "Patient covers body with thick clothes, stays in breeze-free room",
+          "Warm water given at intervals when thirsty",
+          "Monitor signs of digestion throughout"
+        ],
+        "paschat_karma": [
+          "Use only warm water for drinking and bathing",
+          "Maintain celibacy",
+          "Do not suppress natural urges",
+          "Avoid exercise, anger, grief",
+          "Avoid rain, cold, sunlight, breeze exposure",
+          "Avoid long journeys",
+          "Avoid loud talking and excessive eating",
+          "Use comfortable pillows (not too high or low)",
+          "Avoid daytime sleep",
+          "Avoid smoke and dust"
+        ]
+      },
+      "duration_by_kostha": {
+        "mrdu_kostha": "3 days",
+        "madhyama_kostha": "5 days",
+        "krura_kostha": "7 days",
+        "maximum": "7 days (beyond 7 days causes habituation)"
+      },
+      "signs_during_digestion_jiryamana": [
+        "Headache", "Giddiness", "Salivation", "Fainting", "Debility", "Restlessness", "Exhaustion"
+      ],
+      "signs_of_completed_digestion_jima": [
+        "Disappearance of headache and above symptoms",
+        "Lightness in body",
+        "Passing flatus",
+        "Relief from original disease symptoms",
+        "Increased appetite and thirst",
+        "Clear eructation (no oily smell)"
+      ],
+      "confirmation_test": "Give hot water — clear eructation = fully digested; oily eructation = still digesting",
+      "signs_of_proper_oleation": [
+        "Passage of flatus",
+        "Increased digestive power",
+        "Unctuous and loose stools",
+        "Body parts soft and smooth",
+        "Aversion to unctuous substances",
+        "Lightness of body",
+        "Increased sensory perception"
+      ],
+      "signs_of_improper_oleation": ["Exact opposite of proper oleation signs"],
+      "signs_of_excessive_oleation": ["Anaemia", "Discharges from mouth", "Discharges from nose", "Discharges from rectum"],
+      "complications": [
+        "Sopha (swelling all over body)", "Arsas (piles)", "Tandra (unconsciousness)", "Stambha (rigidity)",
+        "Visamjnata (loss of sensation)", "Kandu (itching)", "Kustha (skin disorders)", "Jwara (fever)",
+        "Utklesa (nausea)", "Sula (abdominal pain)", "Anaha (flatulence)", "Bhrama (giddiness)"
+      ],
+      "complication_management": [
+        "Suppressing hunger and thirst",
+        "Emesis (vamana)",
+        "Sudation (svedana)",
+        "Dry foods, drinks and medicines",
+        "Takrarista (fermented buttermilk)",
+        "Khala, uddala, yava, syamaka, kodrava, pippali, triphala, ksoudra, pathya, gomutra, guggulu (as per dosa)"
+      ],
+      "sadyosneha_yoga": {
+        "description": "Instant oleation recipes — ideal for children, aged, and non-compliant patients",
+        "recipes": [
+          "Mutton soup (concentrated, more meat less water)",
+          "Peya (thin gruel) fried with oleating substances",
+          "Tila curna/kalka + ghee + half-boiled molasses",
+          "Krsara (rice + green gram + ghee)",
+          "Ksirapeya with ghrta",
+          "Whey with jaggery",
+          "Pahca prasrta peya: 1 prasrta (100ml) each of ghee, sesame oil, muscle fat, bone marrow + rice"
+        ],
+        "note": "Mix all with lavana (salt) — for abhisyandi, snigdha, suksma, usna, vyavayi guna"
+      },
+      "disease_specific_contraindications": {
+        "diseases": ["Kustha (skin disorders)", "Sopha (swelling)", "Prameha (diabetes)"],
+        "avoid_mixing_with": ["Guda (jaggery)", "Anupa mamsa (marsh/aquatic meat)", "Ksira (milk)", "Tila (sesame)", "Masa (black gram)", "Sura (wine)", "Dadhi (curd)"],
+        "instead_process_with": ["Triphala", "Pippali", "Pathya (haritaki)", "Guggulu"]
+      },
+      "procedure_after_snehapana": {
+        "for_virecana": "After snehapana → unctuous + liquid + hot mutton soup → sudation 3 days → administer purgative drug",
+        "for_vamana": "After snehapana → unctuous + liquid + hot mutton soup → sudation 1 day → kapha-stirring food (milk, fish, black gram) → administer emetic drug",
+        "for_kapha_dominant": "In muscular/fatty persons with kapha dominance — give drying drugs before snehapana for a few days to prevent complications"
+      },
+      "long_term_benefits": [
+        "Increased power of digestion",
+        "Clean gastrointestinal tract",
+        "Well-established body tissues",
+        "Increased strength, color, complexion",
+        "Well-functioning sense organs",
+        "Delayed aging",
+        "Healthy life of 100 years"
+      ]
+    }
+  ],
+
+  "clinical_principles": {
+    "source": "Ashtanga Hridayam Sutrasthana Chapters 13–14",
+    "dosa_treatment_principles": {
+      "vata_treatment": {
+        "primary_therapies": ["Snehana (oleation)", "Svedana (sudation)"],
+        "secondary_therapies": ["Mild vamana (emesis)", "Mild virecana (purgation)", "Anuvasana vasti with gingili oil and mutton soup"],
+        "diet_tastes": ["Madhura (sweet)", "Amla (sour)", "Lavana (salty)"],
+        "diet_virya": "Usna (hot)",
+        "external_therapies": ["Hot poultices after oil application", "Tight bandage", "Brisk massage", "Tub bath", "Kayaseka"],
+        "special_measures": ["Sudden threatening/exciting stimuli (psychotherapy)", "Alcohol from corn flour and jaggery"]
+      },
+      "pitta_treatment": {
+        "primary_therapies": ["Oleation with medicated ghee", "Purgation with madhura + sita virya drugs"],
+        "diet_tastes": ["Madhura (sweet)", "Tikta (bitter)", "Kasaya (astringent)"],
+        "external_therapies": ["Paste of karpura, candana, usira", "Garlands of pearls, gems, lotus, jasmine"],
+        "lifestyle": ["Moonlight exposure", "Light pleasant music", "Company of friends and children", "Cool rooms"],
+        "special_measures": ["Ghee", "Milk", "Cold substances"]
+      },
+      "kapha_treatment": {
+        "primary_therapies": ["Drastic vamana (emesis)", "Drastic virecana (purgation)"],
+        "diet_tastes": ["Katu (pungent)", "Tikta (bitter)", "Kasaya (astringent)"],
+        "diet_quantity": "Reduced",
+        "lifestyle": ["Running", "Jumping", "Swimming", "Awakening", "Wrestling", "Exercises", "Powder massage (udvartana)", "Dry areas", "Dry clothes"],
+        "special_measures": ["Honey", "Thin gruels (peya)", "Fasting", "Dhumapana (smoke inhalation)", "Mouth gargles", "Avoidance of comforts"]
+      },
+      "combined_dosa_treatment": {
+        "vata_pitta": "Follow regimen of Grisma (summer) season",
+        "kapha_vata": "Follow regimen of Vasanta (spring) season (vata has yoga vahi guna)",
+        "kapha_pitta": "Follow regimen of Sarad (autumn) season"
+      },
+      "staging_treatment": {
+        "caya": "Easiest to treat",
+        "prakopa": "Treat increased dosa without disturbing other dosas",
+        "all_vitiated_simultaneously": "Treat most powerful first",
+        "equal_strength_order": ["Vata first", "Pitta second", "Kapha third"]
+      }
+    },
+    "dosa_season_relationship": {
+      "vata":  { "caya": "Grisma (summer)", "prakopa": "Varsa (rainy)", "prasama": "Sarad (autumn)", "best_elimination_month": "Sravana (July–August)" },
+      "pitta": { "caya": "Varsa (rainy)",   "prakopa": "Sarad (autumn)", "prasama": "Hemanta (early winter)", "best_elimination_month": "Kartika (Oct–Nov)" },
+      "kapha": { "caya": "Sisira (late winter)", "prakopa": "Vasanta (spring)", "prasama": "Grisma (summer)", "best_elimination_month": "Caitra (March–April)" }
+    },
+    "ama_theory": {
+      "definition": "Rasa dhatu formed improperly due to weak agni, accumulating abnormally in the stomach",
+      "alternative_definition": "Forms from intimate mixing of vitiated dosas (like poison from mixing kodrava varieties)",
+      "sama_dosa_signs": {
+        "general": ["Srotarodha (channel obstruction)", "Balabhramsa (loss of strength)", "Gaurava (heaviness)", "Anila mudhata (obstructed vata)", "Alasya (laziness)", "Apakti (indigestion)", "Nisthiva (excessive expectoration)", "Malasahga (waste accumulation)", "Aruci (anorexia)", "Klama (tiredness)"],
+        "vata": ["Pain", "Abdominal distension", "Absence of normal vata movement"],
+        "pitta": ["Foul smell", "Blackish colour", "Pungent taste", "Thick and heavy"],
+        "kapha": ["Turbid", "Thread-like", "Solidified", "Sticky", "Slimy"]
+      },
+      "nirama_dosa_signs": {
+        "vata": "Opposite qualities of sama vata",
+        "pitta": "Copper colour; peacock-feather / yellow colour",
+        "kapha": "Clear fluid, non-slimy, mixed with water, white, sweet"
+      },
+      "sama_dosa_treatment": [
+        "Do NOT forcefully eliminate when dosas are mixed with ama",
+        "First administer dipana (carminative) and pacana (digestive) drugs",
+        "Convert sama dosa to nirama dosa",
+        "Then apply snehana, svedana, followed by suitable sodhana"
+      ],
+      "routes_of_elimination": {
+        "oral_route": "Eliminates dosas from amasaya (stomach) via emesis",
+        "nasal_route": "Eliminates dosas from head and above shoulders",
+        "rectal_route": "Eliminates dosas from large intestines via vasti"
+      }
+    },
+    "drug_administration_timings": [
+      { "number": 1,  "name_sanskrit": "Ananna / Abhakta",    "name_english": "Without food (empty stomach)", "indications": ["Kapha vikara", "Strong persons", "Severe disease conditions"], "time": "~9 AM, after kapha period", "note": "Not for weak persons" },
+      { "number": 2,  "name_sanskrit": "Pragbhakta",          "name_english": "Before meals",                "indications": ["Apana vata disorders", "Lower extremity disorders", "Reducing body weight"] },
+      { "number": 3,  "name_sanskrit": "Madhyabhakta",        "name_english": "During meals",                "indications": ["Samana vata disorders", "GI tract disorders", "Pitta disorders"] },
+      { "number": 4,  "name_sanskrit": "Adhobhakta",          "name_english": "After meals",                 "indications": ["Vyana vata (after lunch)", "Udana vata (after dinner)", "Upper body disorders", "Kapha disorders", "Making body stout"] },
+      { "number": 5,  "name_sanskrit": "Samabhakta",          "name_english": "Mixed with food during preparation", "indications": ["Children", "Delicate persons", "Aversion to medicines", "Anorexia", "Whole body diseases"] },
+      { "number": 6,  "name_sanskrit": "Anantara-bhakta",     "name_english": "Between lunch and dinner",    "indications": ["Strong digestive power", "Vyana vata disorders"] },
+      { "number": 7,  "name_sanskrit": "Samudga",             "name_english": "At beginning and end of meals (drug split into 2 parts)", "indications": ["Hiccough", "Tremors", "Convulsions", "Dosas in upper and lower body"], "note": "Drug = powder/paste with digestive property; light small food" },
+      { "number": 8,  "name_sanskrit": "Muhurmuhuh",          "name_english": "Frequently",                  "indications": ["Dyspnoea", "Cough", "Hiccough", "Thirst", "Vomiting", "Complications of poisons"] },
+      { "number": 9,  "name_sanskrit": "Sagrasa",             "name_english": "Mixed with one morsel of food","indications": ["Prana vata disorders", "Increasing digestive power", "Aphrodisiacs", "Heart diseases", "For emesis", "For smoke inhalation"] },
+      { "number": 10, "name_sanskrit": "Grasantara",          "name_english": "Between morsels",             "indications": ["Prana vata disorders"] },
+      { "number": 11, "name_sanskrit": "Nisi / Nisakala",     "name_english": "Bedtime",                     "indications": ["ENT disorders", "Ophthalmic disorders", "All disorders above the shoulder"] }
+    ],
+    "two_kinds_of_therapy": {
+      "santarpana_brmhana": {
+        "name": "Nourishing therapy",
+        "mahabhuta_dominance": ["Prthivi", "Ap"],
+        "drug_qualities": ["Guru (heavy)", "Sita (cold)", "Soft", "Unctuous", "Thick", "Bulky", "Slimy", "Sluggish", "Stable", "Smooth"],
+        "eligible_persons": ["Convalescence", "Weakened by treatments", "Excessive alcohol/coitus/grief", "Heavy work/long walks/chest injury", "Thin and debilitated", "Pregnant", "Postnatal", "Children", "Aged", "Everyone in summer"],
+        "advantages": ["Increases strength", "Body development", "Cures emaciation-related diseases"],
+        "nourishing_agents": ["Mutton", "Milk", "Sugar", "Ghee", "Unctuous enema", "Sleep", "Massage", "Bath", "Happiness"]
+      },
+      "apatarpana_langhana": {
+        "name": "Reducing therapy",
+        "mahabhuta_dominance": ["Agni", "Vayu", "Akasa"],
+        "subtypes": {
+          "sodhana": {
+            "types": ["Niruha vasti", "Vamana", "Kaya-vireka", "Siro-vireka / Nasya", "Asra-visruti (blood-letting)"]
+          },
+          "samana": {
+            "types": ["Pacana (digestion)", "Dipana (carminative)", "Ksut (appetite suppression)", "Trsna (thirst suppression)", "Vyayama (exercise)", "Atapa (sun exposure)", "Maruta (open air)"]
+          }
+        },
+        "eligible_persons": ["Diabetes", "Ama dosa", "Excessive unctuousness", "Fever", "Stiffness of thighs", "Skin disorders", "Herpes", "Abscess", "Splenomegaly", "Head/neck/eye diseases", "Obesity", "Others during winter"],
+        "advantages": ["Clarity of sense organs", "Proper elimination of flatus/urine/faeces", "Lightness of body", "Enhanced taste perception", "Healthy hunger and thirst", "Purity of heart/throat/eructation", "Reduced disease signs", "Removal of lassitude"]
+      }
+    }
+  },
+
+  "disease_treatment_data": [
+    {
+      "disease_id": "AH_DIS_01",
+      "disease_name_sanskrit": "Sthoulya",
+      "disease_name_english": "Obesity",
+      "chapter": 14,
+      "source": "Ashtanga Hridayam Sutrasthana Ch. 14",
+      "dosha_involved": ["Kapha", "Vata", "Meda (fat tissue)"],
+      "pathogenesis": [
+        "Excessive heavy food → indigestion → ama formation",
+        "Ama + kapha at tissue level → weakens tissues → increases meda (fat)",
+        "Channels (srotas) blocked → vata enters GI → increased digestive fire",
+        "Increased hunger → excessive food intake → obesity"
+      ],
+      "signs_and_symptoms": [
+        "Excessive thirst, hunger, sweating",
+        "Dyspnoea on exertion",
+        "Excessive sleep",
+        "Inability to do minimum exercise",
+        "Lassitude, decreased lifespan, strength and vigor",
+        "Foul body odour",
+        "Hoarseness of voice",
+        "Increased fatty tissue",
+        "Accumulation of fat in abdomen, buttocks, thighs"
+      ],
+      "treatment_principle": "Langhana (reducing therapy); drugs that are tiksna (sharp), usna (hot), ruksa (dry), scarifying",
+      "diet_recommended": [
+        "Hoarse gram", "Small barley", "Barley", "Jower", "Black millets", "Green gram",
+        "Aristas (herbal wines)", "Honey + water", "Whey", "Buttermilk",
+        "Honey + jatiphala (guru + ruksa combination)"
+      ],
+      "diet_contraindicated": ["Heavy, unctuous, nourishing foods"],
+      "formulations": [
+        {
+          "name": "Triphala + Guduci + Haritaki + Musta with honey",
+          "ingredients": ["Triphala", "Guduci", "Haritaki", "Musta"],
+          "anupana": "Honey",
+          "indications": ["Obesity and related complications"]
+        },
+        {
+          "name": "Rasahjana + Brhatpancamula + Guggulu + Silajatu with Agnimantha svarasa",
+          "ingredients": ["Rasahjana", "Brhatpancamula", "Guggulu", "Silajatu"],
+          "anupana": "Agnimantha svarasa (fresh juice)",
+          "indications": ["Obesity and related complications"]
+        },
+        {
+          "name": "Vidanga + Sunthi + Yavaksara + Lohabhasma + Amalaki + Barley with honey",
+          "ingredients": ["Vidanga", "Sunthi", "Yavaksara", "Lohabhasma", "Amalaki", "Yava (barley)"],
+          "anupana": "Honey",
+          "indications": ["Obesity complications"]
+        },
+        {
+          "name": "Vyosadi Yoga",
+          "type": "Compound formulation (24 herbs)",
+          "ingredients": [
+            "Sunthi (Zingiber officinale)", "Marica (Piper nigrum)", "Pippali (Piper longum)",
+            "Katuki (Picrorhiza kurroa)", "Haritaki (Terminalia chebula)", "Amalaki (Emblica officinalis)",
+            "Vibhitaki (Terminalia bellerica)", "Sigru (Moringa pterygosperma)", "Vidanga (Embelia ribes)",
+            "Ativisa (Aconitum heterophyllum)", "Sthira (Desmodium gangeticum)", "Hingu (Ferula foetida)",
+            "Souvarcalalavana (Black salt)", "Ajaji (Cuminum cyminum)", "Yavani (Trachyspermum ammi)",
+            "Dhanyaka (Coriandrum sativum)", "Citraka (Plumbago zeylanica)", "Haridra (Curcuma longa)",
+            "Daruharidra (Berberis aristata)", "Brihati (Solanum indicum)", "Kantakari (Solanum xanthocarpum)",
+            "Hapusa (Juniperus communis)", "Pathamula", "Kembukamula"
+          ],
+          "method": "Equal parts of all 24; add equal madhu (honey), ghrta (ghee), taila (oil) separately; mix 16 parts saktu (corn flour); take regularly",
+          "anupana": "Mixed with honey, ghee, and oil",
+          "indications": ["Obesity", "Heart diseases", "Jaundice", "Leucoderma", "Dyspnoea", "Cough", "Hoarseness of voice"],
+          "additional_benefits": ["Improves intelligence", "Enhances memory", "Increases digestive power"]
+        }
+      ],
+      "lifestyle_measures": [
+        "Excessive worry (controlled)", "Excessive sexual intercourse", "Excessive exercise",
+        "Purificatory therapies", "Avoidance of sleep", "Powder massage (udvartana)"
+      ],
+      "prognosis_note": "Emaciation (karsya) is better than obesity — no fully effective treatment for excess fat"
+    },
+    {
+      "disease_id": "AH_DIS_02",
+      "disease_name_sanskrit": "Karsya",
+      "disease_name_english": "Emaciation",
+      "chapter": 14,
+      "source": "Ashtanga Hridayam Sutrasthana Ch. 14",
+      "dosha_involved": ["Vata"],
+      "complications_of_excessive_langhana": [
+        "Profound emaciation", "Giddiness", "Cough", "Thirst", "Anorexia",
+        "Decreased unctuousness, digestive power, sleep, vision, hearing",
+        "Decreased semen, ojas, hunger, voice",
+        "Pain in bladder, heart, head, calves, thighs, hip, flanks",
+        "Fever", "Irrelevant speech", "Eructation", "Tiredness", "Vomiting",
+        "Severe bone/joint pain", "Non-elimination of faeces and urine"
+      ],
+      "treatment_principle": "Brmhana (nourishing therapy); sweet, unctuous foods and comforts",
+      "diet_recommended": [
+        "Sweet and unctuous foods", "All brmhana dravyas", "Meat (especially carnivorous animals — best for body mass)",
+        "Yava (barley)", "Godhuma (wheat)"
+      ],
+      "formulations": [
+        {
+          "name": "Aphrodisiac formula",
+          "ingredients": ["Asvagandha (Withania somnifera)", "Vidari (Pueraria tuberosa)"],
+          "indications": ["Emaciation", "Debility"]
+        },
+        {
+          "name": "Pippali mantha",
+          "ingredients": ["Pippali", "Sugar candy (sarkara)", "Gingili oil (tila taila)", "Honey (madhu)", "Ghee (ghrta)", "Corn flour (saktu)"],
+          "method": "Mix and prepare mantha (stirred drink)",
+          "indications": ["Emaciation"]
+        },
+        {
+          "name": "Sugar candy wine mantha",
+          "ingredients": ["Sugar candy (sarkara)", "Honey (madhu)", "Madira (wine)", "Corn flour (saktu)"],
+          "indications": ["Emaciation"]
+        },
+        {
+          "name": "Fruit mantha for thirst",
+          "ingredients": ["Kharjura (date)", "Draksa (grape)", "Vrksamla", "Amlika (tamarind)", "Dadima bija (pomegranate seeds)", "Parusaka (Grewia asiatica)", "Amalaka (Emblica officinalis)"],
+          "indications": ["Emaciation with thirst", "Related disorders"]
+        }
+      ],
+      "lifestyle_measures": [
+        "Absence of worry", "Feeling of happiness", "Nourishing food and drinks", "Excessive sleep"
+      ]
+    }
+  ],
+
+  "cross_reference_herbs": {
+    "description": "Herbs appearing in multiple ganas — flag for cross-referencing in herbs_database.json",
+    "herbs": [
+      { "sanskrit": "Guduci",      "botanical": "Tinospora cordifolia",  "appears_in_ganas": [14, 15, 16, 33] },
+      { "sanskrit": "Haritaki",    "botanical": "Terminalia chebula",    "appears_in_ganas": [2, 12, 18, "26-27"] },
+      { "sanskrit": "Amalaki",     "botanical": "Emblica officinalis",   "appears_in_ganas": [2, "Triphala in multiple"] },
+      { "sanskrit": "Vibhitaki",   "botanical": "Terminalia bellerica",  "appears_in_ganas": [2, "Triphala in multiple"] },
+      { "sanskrit": "Pippali",     "botanical": "Piper longum",          "appears_in_ganas": [1, 4, 25] },
+      { "sanskrit": "Citraka",     "botanical": "Plumbago zeylanica",    "appears_in_ganas": [1, 13, 16, 18, 24, 30] },
+      { "sanskrit": "Vidanga",     "botanical": "Embelia ribes",         "appears_in_ganas": [1, 4, 23, 25] },
+      { "sanskrit": "Vaca",        "botanical": "Acorus calamus",        "appears_in_ganas": [3, 4, 25, "26-27", 30] },
+      { "sanskrit": "Devadaru",    "botanical": "Cedrus deodara",        "appears_in_ganas": [3, 5, 9, "26-27", 32] },
+      { "sanskrit": "Yastimadhu",  "botanical": "Glycyrrhiza glabra",    "appears_in_ganas": [1, 3, 8, 10, 13, "26-27", 31] },
+      { "sanskrit": "Musta",       "botanical": "Cyperus rotundus",      "appears_in_ganas": [21, "26-27", 30] },
+      { "sanskrit": "Nimba",       "botanical": "Azadirachta indica",    "appears_in_ganas": [1, 6, 15, 16] },
+      { "sanskrit": "Daruharidra", "botanical": "Berberis aristata",     "appears_in_ganas": [4, "26-27", "28-29", 30] },
+      { "sanskrit": "Satavari",    "botanical": "Asparagus racemosus",   "appears_in_ganas": [6, 18] },
+      { "sanskrit": "Sigru",       "botanical": "Moringa pterygosperma", "appears_in_ganas": [4, 18, 33, "Vyosadi_yoga"] },
+      { "sanskrit": "Bharngi",     "botanical": "Clerodendrum serratum", "appears_in_ganas": [22, 23, 25, "28-29"] },
+      { "sanskrit": "Patola",      "botanical": "Trichosanthes cucumerina","appears_in_ganas": [14, 16] },
+      { "sanskrit": "Patha",       "botanical": "Cissampelos pareira",   "appears_in_ganas": [14, 16, 25, 30] },
+      { "sanskrit": "Ela",         "botanical": "Elettaria cardamomum",  "appears_in_ganas": [1, 4, 13, 25, 30, 32] }
+    ]
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "mappings": [
+    {
+      "disease_id": "disease_001",
+      "disease_name": "Gulma",
+      "herbs": [
+        {
+          "herb_name": "Trivrit (Operculina turpethum)",
+          "role": "primary",
+          "dosage_specific": "7.5 gm powder",
+          "anupana": "ghee and honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "Triphala",
+          "role": "supporting",
+          "dosage_specific": "7.5 gm powder",
+          "anupana": "ghee and honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "Pippali (Piper longum)",
+          "role": "supporting",
+          "dosage_specific": "7.5 gm",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Trikatu",
+          "role": "supporting",
+          "dosage_specific": "10 gm",
+          "anupana": "meat soup and rice after digestion",
+          "duration": ""
+        },
+        {
+          "herb_name": "Hingu (Ferula asafoetida)",
+          "role": "supporting",
+          "dosage_specific": "10 gm",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Citraka (Plumbago zeylanica)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Kalyana Guda", "Trikatu-Triphala-Hingu compound"],
+      "pathya": {
+        "diet_include": ["meat soup", "rice"],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Kalpasthana",
+        "chapter": "VII"
+      }
+    },
+    {
+      "disease_id": "disease_002",
+      "disease_name": "Pandu (Anaemia)",
+      "herbs": [
+        {
+          "herb_name": "Trivrit (Operculina turpethum)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Haritaki (Terminalia chebula)",
+          "role": "supporting",
+          "dosage_specific": "160 gm",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Amalaki (Emblica officinalis)",
+          "role": "supporting",
+          "dosage_specific": "160 gm",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Danti (Baliospermum montanum)",
+          "role": "supporting",
+          "dosage_specific": "40 gm",
+          "anupana": "draksa decoction",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Kalyana Guda"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Kalpasthana",
+        "chapter": "VII"
+      }
+    },
+    {
+      "disease_id": "disease_003",
+      "disease_name": "Shvasa (Dyspnoea)",
+      "herbs": [
+        {
+          "herb_name": "Trivrit (Operculina turpethum)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Pippali (Piper longum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Trikatu",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Kalyana Guda"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Kalpasthana",
+        "chapter": "VII"
+      }
+    },
+    {
+      "disease_id": "disease_004",
+      "disease_name": "Kushtha (Skin disorders)",
+      "herbs": [
+        {
+          "herb_name": "Trivrit (Operculina turpethum)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "cow's urine",
+          "duration": ""
+        },
+        {
+          "herb_name": "Sudha latex (Euphorbia neriifolia)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Sudha preparations"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Kalpasthana",
+        "chapter": "X"
+      }
+    },
+    {
+      "disease_id": "disease_005",
+      "disease_name": "Prameha (Diabetes / Urinary disorders)",
+      "herbs": [
+        {
+          "herb_name": "Trikatu",
+          "role": "primary",
+          "dosage_specific": "in bolus form",
+          "anupana": "cold water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Triphala",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Mukillaka",
+          "role": "supporting",
+          "dosage_specific": "two parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Trivrit (Operculina turpethum)",
+          "role": "supporting",
+          "dosage_specific": "eight parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Danti-Dravanti linctus",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Trikatu-Triphala bolus"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Kalpasthana",
+        "chapter": "VII, XII"
+      }
+    },
+    {
+      "disease_id": "disease_006",
+      "disease_name": "Udara (Abdominal enlargement)",
+      "herbs": [
+        {
+          "herb_name": "Sudha (Euphorbia neriifolia) latex",
+          "role": "primary",
+          "dosage_specific": "5 gm",
+          "anupana": "sauviraka / kola juice / amalaka juice",
+          "duration": ""
+        },
+        {
+          "herb_name": "Danti (Baliospermum montanum)",
+          "role": "supporting",
+          "dosage_specific": "10 gm paste",
+          "anupana": "curd or buttermilk",
+          "duration": ""
+        },
+        {
+          "herb_name": "Dravanti",
+          "role": "supporting",
+          "dosage_specific": "10 gm paste",
+          "anupana": "concentrated wine / sidhu",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Sudha preparations", "Danti-Dravanti preparations"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Kalpasthana",
+        "chapter": "X, XII"
+      }
+    },
+    {
+      "disease_id": "disease_007",
+      "disease_name": "Arshas (Piles)",
+      "herbs": [
+        {
+          "herb_name": "Citraka (Plumbago zeylanica)",
+          "role": "primary",
+          "dosage_specific": "40 gm",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Danti (Baliospermum montanum)",
+          "role": "primary",
+          "dosage_specific": "40 gm",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Haritaki (Terminalia chebula)",
+          "role": "supporting",
+          "dosage_specific": "800 gm",
+          "anupana": "hot water",
+          "duration": "every ten days"
+        },
+        {
+          "herb_name": "Trivrit (Operculina turpethum)",
+          "role": "supporting",
+          "dosage_specific": "20 gm",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Pippali (Piper longum)",
+          "role": "supporting",
+          "dosage_specific": "20 gm",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Citraka-Danti sweet balls"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Kalpasthana",
+        "chapter": "XII",
+        "verse": "20-35"
+      }
+    },
+    {
+      "disease_id": "disease_008",
+      "disease_name": "Jvara (Fever)",
+      "herbs": [
+        {
+          "herb_name": "Ajagandha",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "honey and ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "Tugaksiri",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "honey and ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "Vidari",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "honey and ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "Trivrit (Operculina turpethum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "honey and ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "Sharkara (sugar)",
+          "role": "anupana",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Ajagandha-Vidari compound with honey-ghee"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Kalpasthana",
+        "chapter": "VII",
+        "verse": "21-32"
+      }
+    },
+    {
+      "disease_id": "disease_010",
+      "disease_name": "Kamala (Jaundice)",
+      "herbs": [
+        {
+          "herb_name": "Danti (Baliospermum montanum)",
+          "role": "primary",
+          "dosage_specific": "paste equal quantity with jaggery",
+          "anupana": "cold water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Draksa (Vitis vinifera)",
+          "role": "supporting",
+          "dosage_specific": "320 gm decoction",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Danti-jaggery linctus"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Kalpasthana",
+        "chapter": "XII",
+        "verse": "20-35"
+      }
+    },
+    {
+      "disease_id": "disease_011",
+      "disease_name": "Kasa (Cough)",
+      "herbs": [
+        {
+          "herb_name": "Danti (Baliospermum montanum)",
+          "role": "primary",
+          "dosage_specific": "80 gm decoction with draksa",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Draksa (Vitis vinifera)",
+          "role": "supporting",
+          "dosage_specific": "320 gm",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Danti-Draksa decoction"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Kalpasthana",
+        "chapter": "XII",
+        "verse": "20-35"
+      }
+    },
+    {
+      "disease_id": "disease_012",
+      "disease_name": "Udavarta (Reverse movement of vata)",
+      "herbs": [
+        {
+          "herb_name": "Aragvadha (Cassia fistula) fruit pulp",
+          "role": "primary",
+          "dosage_specific": "80 or 160 gm",
+          "anupana": "grape juice",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Aragvadha fruit pulp in grape juice"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Kalpasthana",
+        "chapter": "VIII",
+        "verse": "4-8"
+      }
+    },
+    {
+      "disease_id": "disease_014",
+      "disease_name": "Hrid Roga (Heart disease)",
+      "herbs": [
+        {
+          "herb_name": "Saptala",
+          "role": "primary",
+          "dosage_specific": "10 gm paste",
+          "anupana": "clear wine with salt",
+          "duration": ""
+        },
+        {
+          "herb_name": "Shankhini",
+          "role": "primary",
+          "dosage_specific": "10 gm paste",
+          "anupana": "clear wine with salt",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Saptala-Shankhini paste in wine"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Kalpasthana",
+        "chapter": "XI",
+        "verse": "6-8"
+      }
+    },
+    {
+      "disease_id": "disease_015",
+      "disease_name": "Mutrakrichra (Dysuria)",
+      "herbs": [
+        {
+          "herb_name": "Trivrit (Operculina turpethum)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Trikatu",
+          "role": "supporting",
+          "dosage_specific": "bolus 40 gm",
+          "anupana": "cold water",
+          "duration": "early morning"
+        },
+        {
+          "herb_name": "Triphala",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Trikatu-Triphala bolus"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Kalpasthana",
+        "chapter": "VII",
+        "verse": "46-49"
+      }
+    },
+    {
+      "disease_id": "disease_016",
+      "disease_name": "Plihavridhi (Splenomegaly)",
+      "herbs": [
+        {
+          "herb_name": "Trivrit (Operculina turpethum)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "ghee or meat soup or hot water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Syama",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Danti-Dravanti arista",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Trivrit safest purgative compound"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Kalpasthana",
+        "chapter": "VII, XII",
+        "verse": "56-61, 20-35"
+      }
+    }
+  ]
+}

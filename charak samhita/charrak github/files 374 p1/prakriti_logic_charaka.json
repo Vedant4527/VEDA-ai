@@ -1,0 +1,47 @@
+{
+  "_note": "FILE NOT GENERATED — The 30 pages extracted (Charaka Samhita, Cikitsasthana Ch. XVI-XVIII, book pages 286-315) do not contain prakriti (constitution) classification data. Prakriti logic is described in Vimana Sthana and Sharira Sthana of Charaka Samhita. This file will be populated when those chapters are extracted. Per Rule 1: Only files where data exists in the extracted text are created.",
+  "prakriti": {
+    "vata": {
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": ["hikka (hiccup)", "swasa (dyspnoea)", "kasa (cough) — vataja type", "pain in cardiac region, sides, chest", "hoarseness", "dryness"],
+      "aggravated_signs": ["rough food", "cold food", "astringent food", "fasting", "exertion", "suppression of urges", "excessive sexual intercourse"],
+      "decreased_signs": []
+    },
+    "pitta": {
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": ["paittika kasa (pitta-type cough)", "burning sensation", "yellowness in sputum and eyes", "thirst", "fainting"],
+      "aggravated_signs": ["pungent food", "hot food", "burning food", "sour food", "alkaline substances", "anger", "heat of fire", "heat of sun"],
+      "decreased_signs": []
+    },
+    "kapha": {
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": ["kaphaja kasa (kapha-type cough)", "loss of appetite", "heaviness", "viscous phlegm", "horripilation", "swasa (dyspnoea)"],
+      "aggravated_signs": ["heavy food", "slimy food", "sweet food", "unctuous food", "over-sleep", "sedentary habit"],
+      "decreased_signs": []
+    },
+    "dual_prakriti": {
+      "vata_pitta": [],
+      "pitta_kapha": [],
+      "vata_kapha": []
+    },
+    "sama_prakriti": []
+  }
+}

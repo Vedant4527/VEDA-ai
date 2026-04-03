@@ -1,0 +1,968 @@
+{
+  "metadata": {
+    "source": "Ashtanga Hrdayam (Sutra Sthana) by Dr. R. Vidyanath",
+    "chapters": [
+      "11 - Dosadi Vijnaniya Adhyaya",
+      "12 - Dosabhediya Adhyaya"
+    ],
+    "pages": "1-60",
+    "platform": "VEDA Ayurvedic AI"
+  },
+  "dosa_mahabhuta_relationship": {
+    "vata": [
+      "vayu",
+      "akasa"
+    ],
+    "pitta": [
+      "agni"
+    ],
+    "kapha": [
+      "prthivi",
+      "ap"
+    ]
+  },
+  "dosa_seats": {
+    "vata": {
+      "primary_seat": "large intestines (pakvasaya)",
+      "secondary_seats": [
+        "hip region",
+        "thighs",
+        "ears",
+        "bones",
+        "skin"
+      ]
+    },
+    "pitta": {
+      "primary_seat": "umbilicus / navel region (nabhi)",
+      "secondary_seats": [
+        "stomach",
+        "sweat",
+        "lymph",
+        "blood",
+        "plasma",
+        "eyes",
+        "skin"
+      ]
+    },
+    "kapha": {
+      "primary_seat": "chest (uras)",
+      "secondary_seats": [
+        "throat",
+        "head",
+        "pancreas",
+        "phalanges",
+        "stomach",
+        "plasma",
+        "fat",
+        "nose",
+        "tongue"
+      ]
+    }
+  },
+  "normal_functions": {
+    "vata": [
+      "Maintains body with enthusiasm",
+      "Governs expiration and inspiration (breathing)",
+      "Controls movement of various body parts",
+      "Maintains dhatus (body tissues)",
+      "Facilitates expulsion of natural urges (urine, faeces, flatus)",
+      "Governs keenness and acuity of sense perceptions"
+    ],
+    "pitta": [
+      "Governs digestion and production of heat",
+      "Creates desire, hunger and thirst",
+      "Imparts color and complexion to the body",
+      "Controls vision",
+      "Promotes intelligence and bravery",
+      "Softens body parts"
+    ],
+    "kapha": [
+      "Maintains the body with stability and unctuousness",
+      "Provides compactness of joints",
+      "Confers virility",
+      "Promotes tolerance (withhold emotions)",
+      "Supports intelligence and strength",
+      "Creates attachment and bonding"
+    ]
+  },
+  "aggravated_signs": {
+    "vata": {
+      "general": [
+        "Emaciation of the body",
+        "Blackish discoloration of skin",
+        "Desire for hot substances",
+        "Tremors (kampa)",
+        "Abdominal distension",
+        "Constipation",
+        "Decreased strength of body and sense organs",
+        "Insomnia",
+        "Irrelevant speech",
+        "Dizziness",
+        "Nervousness"
+      ],
+      "detailed_clinical": [
+        {
+          "name": "Sramsa",
+          "meaning": "drooping of body parts"
+        },
+        {
+          "name": "Vyasa",
+          "meaning": "dilation"
+        },
+        {
+          "name": "Vyadha",
+          "meaning": "piercing pain"
+        },
+        {
+          "name": "Svapa",
+          "meaning": "numbness"
+        },
+        {
+          "name": "Sada",
+          "meaning": "fatigue"
+        },
+        {
+          "name": "Ruk",
+          "meaning": "pain"
+        },
+        {
+          "name": "Toda",
+          "meaning": "pricking pain"
+        },
+        {
+          "name": "Bheda",
+          "meaning": "splitting pain"
+        },
+        {
+          "name": "Sahga",
+          "meaning": "obstruction of urine and faeces"
+        },
+        {
+          "name": "Ahgabhahga",
+          "meaning": "throbbing of body parts"
+        },
+        {
+          "name": "Sahkoca",
+          "meaning": "contractions"
+        },
+        {
+          "name": "Varta",
+          "meaning": "rolling or twisting sensation"
+        },
+        {
+          "name": "Harsana",
+          "meaning": "horripilations / goosebumps"
+        },
+        {
+          "name": "Tarsana",
+          "meaning": "excessive thirst"
+        },
+        {
+          "name": "Kampa",
+          "meaning": "tremors"
+        },
+        {
+          "name": "Parusya",
+          "meaning": "roughness of skin and body"
+        },
+        {
+          "name": "Sausirya",
+          "meaning": "porosity"
+        },
+        {
+          "name": "Sosa",
+          "meaning": "wasting and emaciation"
+        },
+        {
+          "name": "Spandana",
+          "meaning": "pulsating sensation"
+        },
+        {
+          "name": "Vestana",
+          "meaning": "compressing pain"
+        },
+        {
+          "name": "Stambha",
+          "meaning": "stiffness"
+        },
+        {
+          "name": "Kasaya_rasata",
+          "meaning": "astringent taste in mouth"
+        },
+        {
+          "name": "Syava_runa_varna",
+          "meaning": "blackish-red discoloration of skin"
+        }
+      ]
+    },
+    "pitta": {
+      "general": [
+        "Yellowish discoloration of faeces, urine, eyes and skin",
+        "Excessive hunger and thirst",
+        "Burning sensation throughout body",
+        "Insomnia"
+      ],
+      "detailed_clinical": [
+        {
+          "name": "Daha",
+          "meaning": "burning sensation throughout body"
+        },
+        {
+          "name": "Raga",
+          "meaning": "redness"
+        },
+        {
+          "name": "Usma",
+          "meaning": "rise in body temperature"
+        },
+        {
+          "name": "Paka",
+          "meaning": "suppuration / festering"
+        },
+        {
+          "name": "Sweda",
+          "meaning": "excessive sweating"
+        },
+        {
+          "name": "Kleda",
+          "meaning": "excessive moisture"
+        },
+        {
+          "name": "Sruti",
+          "meaning": "exudation / oozing"
+        },
+        {
+          "name": "Kotha",
+          "meaning": "putrefaction / decay-like smell"
+        },
+        {
+          "name": "Sadana",
+          "meaning": "exhaustion"
+        },
+        {
+          "name": "Murcchana",
+          "meaning": "fainting"
+        },
+        {
+          "name": "Mada",
+          "meaning": "intoxication / delirium"
+        },
+        {
+          "name": "Katu_amla_rasata",
+          "meaning": "pungent and sour taste in mouth"
+        },
+        {
+          "name": "Abnormal_skin_color",
+          "meaning": "appearance of colors on skin except white and red"
+        }
+      ]
+    },
+    "kapha": {
+      "general": [
+        "Decreased digestive power",
+        "Excessive salivation",
+        "Laziness and heaviness",
+        "Whitish discoloration of faeces, urine, eyes and skin",
+        "Feeling of coldness",
+        "Looseness of joints",
+        "Dyspnoea (difficulty breathing)",
+        "Cough",
+        "Excessive sleep"
+      ],
+      "detailed_clinical": [
+        {
+          "name": "Sneha",
+          "meaning": "excessive unctuousness"
+        },
+        {
+          "name": "Kathinya",
+          "meaning": "hardness of body"
+        },
+        {
+          "name": "Kandu",
+          "meaning": "itching"
+        },
+        {
+          "name": "Sitatva",
+          "meaning": "feeling of coldness"
+        },
+        {
+          "name": "Gourava",
+          "meaning": "heaviness"
+        },
+        {
+          "name": "Bandha",
+          "meaning": "obstruction of channels"
+        },
+        {
+          "name": "Upalepa",
+          "meaning": "coating on tongue"
+        },
+        {
+          "name": "Staimitya",
+          "meaning": "laziness"
+        },
+        {
+          "name": "Sopha",
+          "meaning": "oedema / swelling"
+        },
+        {
+          "name": "Apakti",
+          "meaning": "indigestion"
+        },
+        {
+          "name": "Atinidrata",
+          "meaning": "excessive sleep"
+        },
+        {
+          "name": "Sweta_varna",
+          "meaning": "pallor / whitish discoloration"
+        },
+        {
+          "name": "Swadu_lavana_rasata",
+          "meaning": "sweet and salty taste in mouth"
+        },
+        {
+          "name": "Cirakarita",
+          "meaning": "slowness / doing all things behind schedule"
+        }
+      ]
+    }
+  },
+  "decreased_signs": {
+    "vata": [
+      "Weakness in body parts",
+      "Diminished speech and physical activity",
+      "Loss of consciousness",
+      "Symptoms of increased kapha also appear"
+    ],
+    "pitta": [
+      "Indigestion",
+      "Feeling of coldness",
+      "Loss of normal skin texture and complexion"
+    ],
+    "kapha": [
+      "Giddiness",
+      "Emptiness at the seats of kapha",
+      "Palpitation of the heart",
+      "Looseness of joints"
+    ]
+  },
+  "dosa_subtypes": {
+    "vata": [
+      {
+        "name": "Prana Vata",
+        "main_seat": "Head",
+        "moving_places": [
+          "Chest",
+          "Throat"
+        ],
+        "functions": [
+          "Maintenance of intellect, sense organs and mind",
+          "Spitting and sneezing",
+          "Eructation (belching)",
+          "Inspiration and expiration (breathing)",
+          "Swallowing of food"
+        ]
+      },
+      {
+        "name": "Udana Vata",
+        "main_seat": "Chest",
+        "moving_places": [
+          "Nose",
+          "Umbilicus",
+          "Throat"
+        ],
+        "functions": [
+          "Producing and controlling speech",
+          "Physical activity and movement",
+          "Invigorating the body",
+          "Giving strength",
+          "Imparting color and complexion",
+          "Supporting memory"
+        ]
+      },
+      {
+        "name": "Vyana Vata",
+        "main_seat": "Heart",
+        "moving_places": [
+          "Entire body (moves at great speed)"
+        ],
+        "functions": [
+          "Controls locomotion (movement)",
+          "Controls upward and downward movement of body parts",
+          "Opening and closing of eyelids",
+          "All body functions related to movement",
+          "Flow of sweat and blood",
+          "Separation of nutrients and waste products",
+          "Supplying nutrients to all parts of the body"
+        ]
+      },
+      {
+        "name": "Samana Vata",
+        "main_seat": "Nearer to jatharagni (stomach / digestive fire)",
+        "moving_places": [
+          "Entire gastro-intestinal tract"
+        ],
+        "functions": [
+          "Retaining food in the stomach",
+          "Assisting digestion",
+          "Separation of essence (nutrients) and waste products"
+        ]
+      },
+      {
+        "name": "Apana Vata",
+        "main_seat": "Rectum",
+        "moving_places": [
+          "Pelvis",
+          "Urinary bladder",
+          "Penis",
+          "Groin"
+        ],
+        "functions": [
+          "Elimination of semen",
+          "Elimination of menstrual fluid",
+          "Elimination of faeces",
+          "Elimination of urine",
+          "Expulsion of foetus during childbirth"
+        ]
+      }
+    ],
+    "pitta": [
+      {
+        "name": "Pacaka Pitta",
+        "location": "Between stomach and large intestines",
+        "dominant_mahabhuta": "Tejo mahabhuta",
+        "functions": [
+          "Helps in digestion (also called agni/anala)",
+          "Digests food substances",
+          "Separates essence from waste products",
+          "Gives strength to other four types of pitta"
+        ]
+      },
+      {
+        "name": "Ranjaka Pitta",
+        "location": "Stomach (amasaya)",
+        "functions": [
+          "Imparts red color to plasma (rasa dhatu)"
+        ]
+      },
+      {
+        "name": "Sadhaka Pitta",
+        "location": "Heart",
+        "functions": [
+          "Helps achieve aims of life",
+          "Supports discrimination and intelligence",
+          "Supports pride and self-esteem",
+          "Enables cognitive functions"
+        ]
+      },
+      {
+        "name": "Alocaka Pitta",
+        "location": "Eyes",
+        "functions": [
+          "Enables and supports vision"
+        ]
+      },
+      {
+        "name": "Bhrajaka Pitta",
+        "location": "Skin",
+        "functions": [
+          "Gives color and complexion to the skin"
+        ]
+      }
+    ],
+    "kapha": [
+      {
+        "name": "Avalambaka Slesma",
+        "location": "Heart",
+        "functions": [
+          "Gives strength to shoulders, arms, neck and heart",
+          "Supports other four types of kapha",
+          "Contributes fluid properties to maintain all kapha functions"
+        ]
+      },
+      {
+        "name": "Kledaka Slesma",
+        "location": "Stomach",
+        "functions": [
+          "Moistens and softens food substances during digestion"
+        ]
+      },
+      {
+        "name": "Bodhaka Slesma",
+        "location": "Tongue",
+        "functions": [
+          "Enables perception of taste"
+        ]
+      },
+      {
+        "name": "Tarpaka Slesma",
+        "location": "Head",
+        "functions": [
+          "Provides nourishment to all sense organs"
+        ]
+      },
+      {
+        "name": "Slesaka Slesma",
+        "location": "Joints",
+        "functions": [
+          "Provides lubrication in the joints",
+          "Ensures smooth movement of joints"
+        ]
+      }
+    ]
+  },
+  "seasonal_dosa_cycles": {
+    "vata": {
+      "caya_accumulation": {
+        "season": "Grisma",
+        "english": "Summer"
+      },
+      "prakopa_aggravation": {
+        "season": "Varsa",
+        "english": "Rainy season"
+      },
+      "prasama_alleviation": {
+        "season": "Sarad",
+        "english": "Autumn"
+      }
+    },
+    "pitta": {
+      "caya_accumulation": {
+        "season": "Varsa",
+        "english": "Rainy season"
+      },
+      "prakopa_aggravation": {
+        "season": "Sarad",
+        "english": "Autumn"
+      },
+      "prasama_alleviation": {
+        "season": "Hemanta",
+        "english": "Early winter"
+      }
+    },
+    "kapha": {
+      "caya_accumulation": {
+        "season": "Sisira",
+        "english": "Late winter"
+      },
+      "prakopa_aggravation": {
+        "season": "Vasanta",
+        "english": "Spring"
+      },
+      "prasama_alleviation": {
+        "season": "Grisma",
+        "english": "Summer"
+      }
+    }
+  },
+  "dosa_caya_prakopa_prasama_factors": {
+    "vata": {
+      "caya_factors": "Ruksa (dry) and other vata qualities with usna (hot) guna",
+      "prakopa_factors": "Ruksa and others with sita (cold) guna",
+      "prasama_factors": "Snigdha (unctuous) with usna (hot) guna"
+    },
+    "pitta": {
+      "caya_factors": "Tiksna (sharp) and other pitta qualities with sita (cold) guna",
+      "prakopa_factors": "Tiksna and others with usna (hot) guna",
+      "prasama_factors": "Manda (dull) with sita (cold) guna"
+    },
+    "kapha": {
+      "caya_factors": "Snigdha (unctuous) and other kapha qualities with sita (cold) guna",
+      "prakopa_factors": "Snigdha and others with usna (hot) guna",
+      "prasama_factors": "Ruksa (dry) with usna (hot) guna"
+    }
+  },
+  "asraya_asrayi_relationship": {
+    "vata": {
+      "resides_in": [
+        "Asthi dhatu (bone)"
+      ]
+    },
+    "pitta": {
+      "resides_in": [
+        "Rakta (blood)",
+        "Sweda (sweat)"
+      ]
+    },
+    "kapha": {
+      "resides_in": [
+        "Rasa",
+        "Mamsa",
+        "Meda",
+        "Majja",
+        "Sukra",
+        "Mala",
+        "Mutra"
+      ]
+    },
+    "notes": [
+      "Factors increasing pitta also increase rakta and sweda",
+      "Factors increasing kapha also increase rasa, mamsa, meda, majja, sukra, mala, mutra",
+      "Factors increasing vata DECREASE asthi dhatu (opposite relationship)",
+      "Nourishing therapy increases kapha and all dhatus but reduces vata",
+      "Reducing therapy decreases all dhatus and increases vata"
+    ]
+  },
+  "dhatus": [
+    {
+      "id": 1,
+      "name": "Rasa",
+      "english": "Plasma / Lymph",
+      "normal_functions": [
+        "Causes satisfaction",
+        "Provides nutrition to all tissues",
+        "Nourishes rakta dhatu"
+      ],
+      "increased_signs": [
+        "Salivation",
+        "Anorexia",
+        "Nausea",
+        "Blockage of channels",
+        "Aversion to sweet substances",
+        "Body pains",
+        "Symptoms of aggravated kapha"
+      ],
+      "decreased_signs": [
+        "Dryness of body",
+        "Tiredness and emaciation",
+        "Exhaustion with simple work",
+        "Inability to bear loud sounds"
+      ],
+      "treatment_increased": "Reducing / sodhana therapy",
+      "treatment_decreased": "Mutton soup; alcohol; milk"
+    },
+    {
+      "id": 2,
+      "name": "Rakta",
+      "english": "Blood",
+      "normal_functions": [
+        "Sustenance of life",
+        "Imparts color to body",
+        "Nourishes mamsa dhatu"
+      ],
+      "increased_signs": [
+        "Visarpa (herpes)",
+        "Enlargement of spleen",
+        "Abscess",
+        "Skin disorders",
+        "Vatarakta (gout)",
+        "Raktapitta (bleeding disorders)",
+        "Abdominal tumors",
+        "Upakusa (tooth/gum problems)",
+        "Jaundice",
+        "Blackish spots on face",
+        "Decreased digestive power",
+        "Darkness before eyes",
+        "Redness of body, eyes and urine"
+      ],
+      "decreased_signs": [
+        "Dryness of skin",
+        "Desire for sour and cold substances",
+        "Flaccidity of veins"
+      ],
+      "treatment_increased": "Blood letting; purificatory therapies",
+      "treatment_decreased": "Use of bitter substances; ksira vasti; purgation"
+    },
+    {
+      "id": 3,
+      "name": "Mamsa",
+      "english": "Muscle",
+      "normal_functions": [
+        "Covers and supports the body",
+        "Gives physical strength",
+        "Nourishes medo dhatu",
+        "Supports waste products"
+      ],
+      "increased_signs": [
+        "Enlargement of glands in neck and scrofula",
+        "Tumors of different nature",
+        "Enlargement and heaviness of buttocks, neck, lips, shoulders, abdomen, thighs, calf muscles"
+      ],
+      "decreased_signs": [
+        "Weakness of sense organs",
+        "Wasting of buttocks, neck, lips, shoulders, abdomen, thighs",
+        "Pain in joints"
+      ],
+      "treatment_increased": "Purgation",
+      "treatment_decreased": "Nourishing therapy with meat"
+    },
+    {
+      "id": 4,
+      "name": "Medas",
+      "english": "Fat / Adipose tissue",
+      "normal_functions": [
+        "Provides unctuousness and lubrication",
+        "Gives stability to eyes and body",
+        "Nourishes asthi dhatu"
+      ],
+      "increased_signs": [
+        "Similar to increased mamsa",
+        "Fatigue on exertion",
+        "Dyspnoea on exertion",
+        "Drooping of buttocks, breasts and abdomen"
+      ],
+      "decreased_signs": [
+        "Loss of sensation in hip region",
+        "Enlargement of spleen",
+        "General emaciation of body"
+      ],
+      "treatment_increased": "Sodhana therapy",
+      "treatment_decreased": "Obesity treatment reversed"
+    },
+    {
+      "id": 5,
+      "name": "Asthi",
+      "english": "Bone",
+      "normal_functions": [
+        "Provides erecting posture to body",
+        "Nourishes majja dhatu"
+      ],
+      "increased_signs": [
+        "Extra growth of bones",
+        "Extra growth of teeth"
+      ],
+      "decreased_signs": [
+        "Pricking pain in bones and joints",
+        "Fall of teeth, nails and hair"
+      ],
+      "treatment_increased": "Surgical treatment; alkalies; thermal cauterisation",
+      "treatment_decreased": "Ksira vasti; use of bone-marrow rich substances"
+    },
+    {
+      "id": 6,
+      "name": "Majja",
+      "english": "Bone Marrow / Nervous tissue",
+      "normal_functions": [
+        "Provides unctuousness to body",
+        "Gives strength",
+        "Fills cavity of bones",
+        "Nourishes sukra dhatu"
+      ],
+      "increased_signs": [
+        "Heaviness in eyes and body parts",
+        "Boils on phalanges (difficult to manage)"
+      ],
+      "decreased_signs": [
+        "Hollowness and severe pain in bones",
+        "Giddiness",
+        "Darkness before eyes"
+      ],
+      "treatment_increased": "Reduction therapy",
+      "treatment_decreased": "Bone marrow rich preparations"
+    },
+    {
+      "id": 7,
+      "name": "Sukra",
+      "english": "Reproductive fluid / Semen",
+      "normal_functions": [
+        "Gives pleasure",
+        "Confers strength",
+        "Is the cause for pregnancy and reproduction"
+      ],
+      "increased_signs": [
+        "Excessive sexual desire",
+        "Formation of stone in seminal tract"
+      ],
+      "decreased_signs": [
+        "Delayed ejaculation or ejaculation mixed with blood",
+        "Pricking pain in scrotum",
+        "Feeling of hot fumes moving inside penis"
+      ],
+      "treatment_increased": "Reduction therapy",
+      "treatment_decreased": "Milk, ghee and sweet, unctuous, cold substances; semen-like substances"
+    }
+  ],
+  "ojas": {
+    "definition": "Essence and cream of all seven body tissues (sapta dhatus); the first essential element of the embryo",
+    "formation": "First gets localized in the heart prior to formation of other foetal parts",
+    "physical_features": [
+      "Soft in nature",
+      "Pure in quality",
+      "Slightly reddish-yellow in color"
+    ],
+    "importance": [
+      "Chief fluid material of the body",
+      "Life depends on ojas",
+      "Loss of ojas leads to death",
+      "Main seat is the heart",
+      "Circulates all over the body and supports all activities of life"
+    ],
+    "causes_of_decrease": [
+      "Anger",
+      "Prolonged hunger",
+      "Worry and anxiety",
+      "Grief and sorrow",
+      "Excessive physical exertion"
+    ],
+    "signs_of_diminution": [
+      "Fear complex",
+      "Constant weakness",
+      "Worry and anxiety",
+      "Affliction of sense organs",
+      "Loss of complexion",
+      "Instability of mind",
+      "Cheerlessness",
+      "Dryness of body",
+      "Emaciation"
+    ],
+    "treatment": [
+      "Milk with jivaniyagana dravyas",
+      "Mutton soup",
+      "Other strength-conferring substances"
+    ],
+    "benefits_of_increased_ojas": [
+      "Nourishment to body",
+      "Cheerfulness to mind",
+      "Strength to body"
+    ]
+  },
+  "disease_count_by_dosa": {
+    "vata": 80,
+    "pitta": 40,
+    "kapha": 20
+  },
+  "rogamarga_disease_pathways": [
+    {
+      "name": "Bahya rogamarga",
+      "english": "Exterior pathway",
+      "structures": "Blood and skin tissues (rakta and sakha)",
+      "diseases": [
+        "Masa (mole)",
+        "Vyahga (hyperpigmentation)",
+        "Ganda (goitre)",
+        "Alaji (abscess)",
+        "Arbuda (tumor)",
+        "Gulma (lumps)",
+        "Sopha (oedema)"
+      ]
+    },
+    {
+      "name": "Abhyantara rogamarga",
+      "english": "Interior pathway",
+      "structures": "Kostha / GI tract (maha srotas)",
+      "diseases": [
+        "Chardi (vomiting)",
+        "Atisara (diarrhoea)",
+        "Kasa (cough)",
+        "Swasa (dyspnoea)",
+        "Udara (abdominal disease)",
+        "Jwara (fever)",
+        "Arsas (internal piles)",
+        "Gulma (internal lumps)",
+        "Visarpa (cellulitis)",
+        "Vidradhi (internal abscess)"
+      ]
+    },
+    {
+      "name": "Madhyama rogamarga",
+      "english": "Middle pathway",
+      "structures": "Vital organs, bones, joints (marma, asthi, sandhi)",
+      "diseases": [
+        "Yaksma (tuberculosis)",
+        "Paksavadha (hemiplegia)",
+        "Ardita (facial paralysis)",
+        "Murdhadi roga (head and vital organ diseases)",
+        "Sandhi-sula (joint pains)",
+        "Asthi-sula (bone pain)",
+        "Trika-sula (sacrum pain)"
+      ]
+    }
+  ],
+  "dasavidha_pariksa": {
+    "description": "Ten examination factors for treatment planning",
+    "factors": [
+      {
+        "number": 1,
+        "name": "Dusya",
+        "meaning": "Dhatu and mala (tissue and waste)"
+      },
+      {
+        "number": 2,
+        "name": "Desa",
+        "meaning": "Habitat / place of patient"
+      },
+      {
+        "number": 3,
+        "name": "Bala",
+        "meaning": "Strength of the patient"
+      },
+      {
+        "number": 4,
+        "name": "Kala",
+        "meaning": "Season / time"
+      },
+      {
+        "number": 5,
+        "name": "Anala",
+        "meaning": "Digestive power (agni)"
+      },
+      {
+        "number": 6,
+        "name": "Prakrti",
+        "meaning": "Body constitution (Prakriti)"
+      },
+      {
+        "number": 7,
+        "name": "Vaya",
+        "meaning": "Age of the patient"
+      },
+      {
+        "number": 8,
+        "name": "Sattwa",
+        "meaning": "Mental strength"
+      },
+      {
+        "number": 9,
+        "name": "Satmya",
+        "meaning": "Habituation / what is wholesome for the individual"
+      },
+      {
+        "number": 10,
+        "name": "Ahara",
+        "meaning": "Food and food habits"
+      }
+    ]
+  },
+  "dosa_combination_types": {
+    "total_combinations": 63,
+    "sannipata_all_three_aggravated": 13,
+    "samsarga_two_aggravated": 9,
+    "single_dosa_aggravated": 3,
+    "diminution_total": 25,
+    "mixed_states": 12,
+    "equilibrium": 1
+  },
+  "etiological_factors": {
+    "three_causes": [
+      {
+        "name": "Asatmyendriyartha samyoga",
+        "meaning": "Improper correlation of sense organs with their objects",
+        "types": {
+          "atiyoga": "Excessive use of sense organs (e.g. seeing objects for too long)",
+          "ayoga": "Inadequate use of sense organs (e.g. barely using eyes)",
+          "mithyayoga": "Wrong use of sense organs (e.g. staring at very bright or unnatural objects)"
+        }
+      },
+      {
+        "name": "Prajnaparadha",
+        "meaning": "Intellectual blemish — wrong use of body, speech and mind",
+        "types": {
+          "kayika_mithyayoga": "Suppression of natural urges; unnatural postures; controlling breath",
+          "vacika_mithyayoga": "Speaking while eating and drinking",
+          "manasika_mithyayoga": "Fear, grief, greed, anger and sinful mental acts"
+        }
+      },
+      {
+        "name": "Parinama / Kala",
+        "meaning": "Effects of time and season",
+        "types": {
+          "atiyoga": "Severe heat in summer; heavy rains in monsoon; severe cold in winter",
+          "ayoga": "Less temperature in summer; no rains in monsoon; not cold in winter",
+          "mithyayoga": "Rains in summer; heat in winter (seasonal perversion)"
+        }
+      }
+    ]
+  }
+}

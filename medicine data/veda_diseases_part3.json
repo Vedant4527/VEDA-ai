@@ -1,0 +1,861 @@
+{
+  "dataset_info": {
+    "name": "VEDA AyurMind AI — Diseases & Therapeutic Herbs Dataset",
+    "part": 3,
+    "part_description": "Diseases DIS-121 to DIS-145 (H to W) + Complete Sanskrit Terms Master Index",
+    "total_parts": 3,
+    "version": "1.0.0",
+    "source_text": "Dravyaguna Vijnana — Therapeutic Indication of Drugs & Technical Medical Terminology",
+    "diseases_in_this_part": 25,
+    "last_updated": "2026-03-22",
+    "description": "Part 3 of 3 — Final diseases (DIS-121 to DIS-145) covering H to W, plus the complete master index of all 178 Sanskrit technical terms from Part 2 of the source text.",
+    "schema_version": "veda-disease-v1",
+    "note_on_count": "Total unique clinical disease entries = 145. Original Step-1 extraction counted 190 raw text entries because sub-diseases, procedural categories and minor variants were listed separately. In this dataset, entries with fewer than 2 herbs and no unique Sanskrit terms are merged into their parent disease for a cleaner, production-quality database."
+  },
+
+  "diseases": [
+
+    {
+      "id": "DIS-121",
+      "english_name": "Headache",
+      "sanskrit_name": "Shirashula",
+      "category": "Neurological Disorders",
+      "description": "Pain in the head or upper neck. Classified as Vataja (throbbing, variable), Pittaja (burning, temporal), Kaphaja (dull, heavy) and Suryavarta (sun-rise headache that worsens with the sun and subsides at sunset).",
+      "herbs": [
+        { "name": "Badari", "botanical": "Ziziphus jujuba" },
+        { "name": "Coraka", "botanical": "Angelica glauca" },
+        { "name": "Bhrngaraja", "botanical": "Eclipta alba" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Shirashula", "meaning": "Headache" },
+        { "term": "Siroroga", "meaning": "Cranial diseases; ailments of headache" },
+        { "term": "Suryavarta", "meaning": "A type of headache beginning with sunrise, increasing with the sun's movement and subsiding at sunset" }
+      ],
+      "herb_count": 3
+    },
+
+    {
+      "id": "DIS-122",
+      "english_name": "Incontinence of Urine",
+      "sanskrit_name": "Mutragrahe",
+      "category": "Urinary & Renal Disorders",
+      "description": "Involuntary passage of urine; inability to control urinary flow. May be stress, urge or overflow type. Related to weakened Apana Vata in Ayurveda.",
+      "herbs": [
+        { "name": "Campaka", "botanical": "Michelia champaca" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Ushnavata", "meaning": "Dysuria associated with burning sensation, yellow urine or haematuria" },
+        { "term": "Mutravirecaniya", "meaning": "Promoting increased micturition" },
+        { "term": "Baddhamutra", "meaning": "Anuria" }
+      ],
+      "herb_count": 1
+    },
+
+    {
+      "id": "DIS-123",
+      "english_name": "Suppression of Urine",
+      "sanskrit_name": "Mutrasanga",
+      "category": "Urinary & Renal Disorders",
+      "description": "Obstruction or suppression of normal urine flow; anuria or oliguria from obstruction, dehydration or renal compromise.",
+      "herbs": [
+        { "name": "Amalaki", "botanical": "Phyllanthus emblica" },
+        { "name": "Aragvadha", "botanical": "Cassia fistula" },
+        { "name": "Ela", "botanical": "Elettaria cardamomum" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Baddhamutra", "meaning": "Anuria" },
+        { "term": "Mutravirecaniya", "meaning": "Promoting increased micturition" }
+      ],
+      "herb_count": 3
+    },
+
+    {
+      "id": "DIS-124",
+      "english_name": "Difficult Labour",
+      "sanskrit_name": "Mudhagarbha",
+      "category": "Gynaecology & Obstetrics",
+      "description": "Obstruction or difficulty during childbirth from abnormal foetal presentation, uterine inertia or birth canal narrowing. Requires obstetric intervention.",
+      "herbs": [
+        { "name": "Apamarga", "botanical": "Achyranthes aspera" },
+        { "name": "Atibala", "botanical": "Abutilon indicum" },
+        { "name": "Bala", "botanical": "Sida cordifolia" },
+        { "name": "Bhurja", "botanical": "Betula utilis" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Mudhagarbha", "meaning": "Difficult and delayed labour; abnormal posture of foetus" },
+        { "term": "Aparapatana", "meaning": "Expulsion of placenta; obstetrics" },
+        { "term": "Garbhashaya-shaithilya", "meaning": "Uterine inertia" }
+      ],
+      "herb_count": 4
+    },
+
+    {
+      "id": "DIS-125",
+      "english_name": "Hastening Delivery",
+      "sanskrit_name": "Prasava-janana",
+      "category": "Gynaecology & Obstetrics",
+      "description": "Substances or procedures to accelerate or facilitate delivery when labour is delayed or prolonged.",
+      "herbs": [
+        { "name": "Godhuma", "botanical": "Triticum aestivum" },
+        { "name": "Jimutaka", "botanical": "Luffa echinata" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Mudhagarbha", "meaning": "Difficult and delayed labour" },
+        { "term": "Aparapatana", "meaning": "Expulsion of placenta; obstetrics" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-126",
+      "english_name": "Expelling Placenta",
+      "sanskrit_name": "Aparapatana",
+      "category": "Gynaecology & Obstetrics",
+      "description": "Retained placenta after delivery; failure of complete placental expulsion causing haemorrhage and infection risk. Requires urgent treatment.",
+      "herbs": [
+        { "name": "Kikkisa", "botanical": "Cissus quadrangularis (bark)" },
+        { "name": "Aragvadha", "botanical": "Cassia fistula" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Aparapatana", "meaning": "Expulsion of placenta; obstetrics" },
+        { "term": "Kikkisa", "meaning": "Stria gravidarum" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-127",
+      "english_name": "Stabilising Foetus",
+      "sanskrit_name": "Garbhasthapana",
+      "category": "Gynaecology & Obstetrics",
+      "description": "Treatment to prevent miscarriage and promote healthy foetal development and implantation. Part of Garbhini Paricharya (antenatal care) in Ayurveda.",
+      "herbs": [
+        { "name": "Bhrngaraja", "botanical": "Eclipta alba" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Garbhasthapana", "meaning": "Promoting conception and stable pregnancy" },
+        { "term": "Garbhapatana", "meaning": "Inducing abortion — opposing action" }
+      ],
+      "herb_count": 1
+    },
+
+    {
+      "id": "DIS-128",
+      "english_name": "Ksataksina (Wasting with Chest-Wound)",
+      "sanskrit_name": "Ksataksina",
+      "category": "Surgical & Pulmonary Conditions",
+      "description": "Wasting condition associated with chest injury, pulmonary damage or deep thoracic wounds; presents with chronic cough, haemoptysis, weight loss and progressive debility.",
+      "herbs": [
+        { "name": "Abhisuka", "botanical": "Prunus amygdalus" },
+        { "name": "Aksotaka", "botanical": "Juglans regia" },
+        { "name": "Bala", "botanical": "Sida cordifolia" },
+        { "name": "Jivakadyagana", "botanical": "Jivaka group of herbs" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Ksataksina", "meaning": "Wasting condition of body due to chest-wound" },
+        { "term": "Brnhana", "meaning": "Promoting body bulk" },
+        { "term": "Rasayana", "meaning": "Alterative; restorative; rejuvenation" }
+      ],
+      "herb_count": 4
+    },
+
+    {
+      "id": "DIS-129",
+      "english_name": "Whitlow",
+      "sanskrit_name": "Kunakha",
+      "category": "Surgical & Dermatological Conditions",
+      "description": "Painful purulent infection around a fingernail or toenail (paronychia); may involve the nail plate (onychia). Caused by bacterial or fungal infection of the nail fold.",
+      "herbs": [
+        { "name": "Haridra", "botanical": "Curcuma longa" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Kunakha", "meaning": "Onychia (Cippa)" },
+        { "term": "Dustavrana", "meaning": "Indolent, foul and sloughy ulcers" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-130",
+      "english_name": "Wound",
+      "sanskrit_name": "Vrana",
+      "category": "Surgical & Trauma Conditions",
+      "description": "Break in continuity of skin or tissue due to injury; requires cleaning, healing and protection from infection. Ayurveda classifies Vrana as Nija (endogenous) and Agantuja (traumatic); 60 types described in Sushruta Samhita.",
+      "herbs": [
+        { "name": "Aguru", "botanical": "Aquilaria agallocha" },
+        { "name": "Ajagandha", "botanical": "Cleome viscosa" },
+        { "name": "Amlika", "botanical": "Tamarindus indica" },
+        { "name": "Apamarga", "botanical": "Achyranthes aspera" },
+        { "name": "Aragvadha", "botanical": "Cassia fistula" },
+        { "name": "Arjuna", "botanical": "Terminalia arjuna" },
+        { "name": "Arka", "botanical": "Calotropis procera" },
+        { "name": "Asphota", "botanical": "Bignonia indica" },
+        { "name": "Asvagandha", "botanical": "Withania somnifera" },
+        { "name": "Asvattha", "botanical": "Ficus religiosa" },
+        { "name": "Atasi", "botanical": "Linum usitatissimum" },
+        { "name": "Bakuci", "botanical": "Psoralea corylifolia" },
+        { "name": "Bala", "botanical": "Sida cordifolia" },
+        { "name": "Bharangi", "botanical": "Clerodendrum serratum" },
+        { "name": "Bhrngaraja", "botanical": "Eclipta alba" },
+        { "name": "Bhurja", "botanical": "Betula utilis" },
+        { "name": "Danti", "botanical": "Baliospermum montanum" },
+        { "name": "Daruharidra", "botanical": "Berberis aristata" },
+        { "name": "Devadaru", "botanical": "Cedrus deodara" },
+        { "name": "Dhattura", "botanical": "Datura stramonium" },
+        { "name": "Dravanti", "botanical": "Croton tiglium" },
+        { "name": "Eranda", "botanical": "Ricinus communis" },
+        { "name": "Gangeruki", "botanical": "Carissa carandas" },
+        { "name": "Godhuma", "botanical": "Triticum aestivum" },
+        { "name": "Guggulu", "botanical": "Commiphora mukul" },
+        { "name": "Indravaruni", "botanical": "Citrullus colocynthis" },
+        { "name": "Ingudi", "botanical": "Balanites aegyptiaca" },
+        { "name": "Jambu", "botanical": "Syzygium cumini" },
+        { "name": "Jad", "botanical": "Cannabis sativa (root)" },
+        { "name": "Jivanti", "botanical": "Leptadenia reticulata" },
+        { "name": "Jyotismati", "botanical": "Celastrus paniculatus" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Vrana", "meaning": "Wound" },
+        { "term": "Vranaropana", "meaning": "Wound-healer" },
+        { "term": "Dustavrana", "meaning": "Indolent, foul and sloughy ulcers" },
+        { "term": "Vishalya", "meaning": "Extracting foreign body" },
+        { "term": "Shodhana", "meaning": "Purification; radical elimination of morbid substances" }
+      ],
+      "herb_count": 31
+    },
+
+    {
+      "id": "DIS-131",
+      "english_name": "Cervical Adenitis",
+      "sanskrit_name": "Gandamala",
+      "category": "Lymphatic & Glandular Disorders",
+      "description": "Inflammatory enlargement of cervical lymph nodes forming a chain-like swelling in the neck. May be bacterial, tuberculous or reactive. Distinguished from Apaci (scrofula) by extent and acuity.",
+      "herbs": [
+        { "name": "Aragvadha", "botanical": "Cassia fistula" },
+        { "name": "Arka", "botanical": "Calotropis procera" },
+        { "name": "Girikarnika", "botanical": "Clitoria ternatea" },
+        { "name": "Godhuma", "botanical": "Triticum aestivum" },
+        { "name": "Gunja", "botanical": "Abrus precatorius" },
+        { "name": "Indravaruni", "botanical": "Citrullus colocynthis" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Gandamala", "meaning": "Cervical adenitis; chain of swollen glands in neck" },
+        { "term": "Granthiroga", "meaning": "Glandular enlargement, swelling and other symptoms" },
+        { "term": "Apaci", "meaning": "Scrofula; glandular enlargement" }
+      ],
+      "herb_count": 6
+    },
+
+    {
+      "id": "DIS-132",
+      "english_name": "Cosmetic Uses",
+      "sanskrit_name": "Varnya",
+      "category": "Cosmetic & Preventive",
+      "description": "Herbs used for skin care, complexion improvement, beauty enhancement and skin brightening. Varnya herbs improve skin colour; Tvacya herbs protect and nourish skin. Important in Ayurvedic cosmetology (Saundarya Chikitsa).",
+      "herbs": [
+        { "name": "Jati", "botanical": "Jasminum officinale" },
+        { "name": "Haridra", "botanical": "Curcuma longa" },
+        { "name": "Japa", "botanical": "Hibiscus rosa-sinensis" },
+        { "name": "Amalaki", "botanical": "Phyllanthus emblica" },
+        { "name": "Bhrngaraja", "botanical": "Eclipta alba" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Varnya", "meaning": "Useful in promoting complexion of the skin (pigmentation)" },
+        { "term": "Tvacya", "meaning": "Promoting skin health; palliative for skin diseases" }
+      ],
+      "herb_count": 5
+    },
+
+    {
+      "id": "DIS-133",
+      "english_name": "Wart",
+      "sanskrit_name": "Carmakila",
+      "category": "Dermatology & Skin Conditions",
+      "description": "Small rough growth on skin caused by HPV (human papillomavirus) infection; benign but contagious.",
+      "herbs": [
+        { "name": "Indravaruni", "botanical": "Citrullus colocynthis" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Carmaroga", "meaning": "Skin diseases" },
+        { "term": "Tvaryikara", "meaning": "Cutaneous affections; skin diseases" }
+      ],
+      "herb_count": 1
+    },
+
+    {
+      "id": "DIS-134",
+      "english_name": "Drowsiness",
+      "sanskrit_name": "Tandra",
+      "category": "Neurological Disorders",
+      "description": "Excessive sleepiness or abnormal drowsiness during waking hours; reduced alertness. Caused by Kapha and Tamas predominance in Ayurveda.",
+      "herbs": [
+        { "name": "Jyotismati", "botanical": "Celastrus paniculatus" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Bodhana", "meaning": "Awakening or arousing" },
+        { "term": "Medhya", "meaning": "Promoting memory and intellect" }
+      ],
+      "herb_count": 1
+    },
+
+    {
+      "id": "DIS-135",
+      "english_name": "Foul Smell in Body",
+      "sanskrit_name": "Durgandha",
+      "category": "Symptomatic & Cosmetic Conditions",
+      "description": "Abnormal or unpleasant body odour from sweat, skin or breath; may relate to metabolic, digestive or dermatological pathology and Ama accumulation.",
+      "herbs": [
+        { "name": "Campaka", "botanical": "Michelia champaca" },
+        { "name": "Candana", "botanical": "Santalum album" },
+        { "name": "Hilamocika", "botanical": "Marsilea quadrifolia" },
+        { "name": "Jad", "botanical": "Cannabis sativa (root)" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Shodhana", "meaning": "Purification; radical elimination of morbid substances" }
+      ],
+      "herb_count": 4
+    },
+
+    {
+      "id": "DIS-136",
+      "english_name": "Fumigation",
+      "sanskrit_name": "Dhupana",
+      "category": "Therapeutic Procedures",
+      "description": "Therapeutic use of medicated smoke (Dhupana) for purification of environment, treatment of skin conditions, respiratory disorders and protection against infectious agents.",
+      "herbs": [
+        { "name": "Coraka", "botanical": "Angelica glauca" },
+        { "name": "Jatamansi", "botanical": "Nardostachys jatamansi" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Dhupana", "meaning": "Fumigation" },
+        { "term": "Shodhana", "meaning": "Purification; radical elimination of morbid substances" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-137",
+      "english_name": "Emetic (Vomiting Induction)",
+      "sanskrit_name": "Vamanopaga",
+      "category": "Therapeutic Procedures",
+      "description": "Substances that induce vomiting for therapeutic Panchakarma purification (Vamana karma); one of the five classical Panchakarma procedures used to eliminate excess Kapha.",
+      "herbs": [
+        { "name": "Jimuta", "botanical": "Luffa echinata" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Vamanopaga", "meaning": "Emetic; aid to emetics or emesis" },
+        { "term": "Ubhayatobhagahara", "meaning": "Purification — Samshodhana (Purgation-Emesis)" },
+        { "term": "Shodhana", "meaning": "Purification; radical elimination of morbid substances" }
+      ],
+      "herb_count": 1
+    },
+
+    {
+      "id": "DIS-138",
+      "english_name": "Purgative",
+      "sanskrit_name": "Virecana",
+      "category": "Therapeutic Procedures",
+      "description": "Substances inducing therapeutic purgation (Virechana karma) for elimination of excess Pitta and Pitta-associated toxins; one of the five Panchakarma procedures.",
+      "herbs": [
+        { "name": "Arka", "botanical": "Calotropis procera" },
+        { "name": "Danti", "botanical": "Baliospermum montanum" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Virecana", "meaning": "Purgative; cathartic; purging" },
+        { "term": "Bhedana", "meaning": "Purgation; purgative" },
+        { "term": "Mrduvirecaka", "meaning": "Laxative; mild purgative" },
+        { "term": "Ubhayatobhagahara", "meaning": "Purification — Samshodhana (Purgation-Emesis)" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-139",
+      "english_name": "Depilatory",
+      "sanskrit_name": "Lomanashana",
+      "category": "Cosmetic & Dermatological",
+      "description": "Substances used to remove unwanted hair from the body. Referenced in classical Ayurvedic texts for cosmetic and therapeutic applications.",
+      "herbs": [
+        { "name": "Bhallataka", "botanical": "Semecarpus anacardium" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Tvacya", "meaning": "Promoting skin health; palliative for skin diseases" },
+        { "term": "Tvaryikara", "meaning": "Cutaneous affections; skin diseases" }
+      ],
+      "herb_count": 1
+    },
+
+    {
+      "id": "DIS-140",
+      "english_name": "Giddiness / Vertigo",
+      "sanskrit_name": "Bhrama",
+      "category": "Neurological Disorders",
+      "description": "Sensation of spinning, loss of balance, dizziness or spatial disorientation. Caused by Pitta vitiation in Ayurveda; may involve inner ear, neurological or cardiovascular causes.",
+      "herbs": [
+        { "name": "Duralabha", "botanical": "Fagonia cretica" },
+        { "name": "Draksa", "botanical": "Vitis vinifera" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Bhrama", "meaning": "Giddiness; mental confusion and delusion; vertigo" },
+        { "term": "Medhya", "meaning": "Promoting memory and intellect" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-141",
+      "english_name": "Nacrosis (Intoxication / Stupor)",
+      "sanskrit_name": "Mada",
+      "category": "Toxicology & Neurological Conditions",
+      "description": "State of stupor, confusion or reduced consciousness due to toxic substances, narcotics or severe metabolic derangement.",
+      "herbs": [
+        { "name": "Haritaki", "botanical": "Terminalia chebula" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Mada", "meaning": "Nacrosis; intoxication state" },
+        { "term": "Madaka", "meaning": "Narcotic; intoxicating effect; exhilarating" },
+        { "term": "Bodhana", "meaning": "Awakening or arousing" }
+      ],
+      "herb_count": 1
+    },
+
+    {
+      "id": "DIS-142",
+      "english_name": "Disorders of Semen",
+      "sanskrit_name": "Shukravikara",
+      "category": "Reproductive & Urological Disorders",
+      "description": "Pathological conditions affecting semen quality, quantity, viscosity or composition; includes oligospermia, azoospermia and abnormal seminal discharge.",
+      "herbs": [
+        { "name": "Haritaki", "botanical": "Terminalia chebula" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Shukravikara", "meaning": "Seminal diseases" },
+        { "term": "Shukraretas", "meaning": "Spermatogenetic" },
+        { "term": "Vajikara", "meaning": "Aphrodisiac; sexual tonic" },
+        { "term": "Klaibya", "meaning": "Impotence" }
+      ],
+      "herb_count": 1
+    },
+
+    {
+      "id": "DIS-143",
+      "english_name": "Eruptive Boils",
+      "sanskrit_name": "Visphota",
+      "category": "Dermatology & Skin Conditions",
+      "description": "Multiple erupting boils or vesicular skin eruptions; cluster of raised pus-filled lesions. Associated with Pitta and Rakta vitiation causing skin eruptions.",
+      "herbs": [
+        { "name": "Dugdhika", "botanical": "Euphorbia hirta" },
+        { "name": "Guduchi", "botanical": "Tinospora cordifolia" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Visphota", "meaning": "Eruptive boils" },
+        { "term": "Pidika", "meaning": "Boil" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-144",
+      "english_name": "Cracks in Feet",
+      "sanskrit_name": "Padadari",
+      "category": "Dermatology & Skin Conditions",
+      "description": "Painful fissures and cracks in the skin of the heels and soles; caused by dry skin, Vata aggravation, nutritional deficiency or pressure on the feet.",
+      "herbs": [
+        { "name": "Dhattura", "botanical": "Datura stramonium" },
+        { "name": "Jati", "botanical": "Jasminum officinale" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Tvacya", "meaning": "Promoting skin health; palliative for skin diseases" },
+        { "term": "Snehana", "meaning": "Unction; oleation" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-145",
+      "english_name": "Mental Disorders (General)",
+      "sanskrit_name": "Mano-roga",
+      "category": "Psychiatric & Neurological Disorders",
+      "description": "General category of mental and psychiatric disorders. Includes Manasika Rogas (psychic diseases) caused by Raja and Tamas imbalance in the mind (Manas). Encompasses depression, anxiety, psychosis and cognitive disorders.",
+      "herbs": [
+        { "name": "Girikarnika", "botanical": "Clitoria ternatea" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Unmada", "meaning": "Insanity; mental disease" },
+        { "term": "Medhya", "meaning": "Promoting memory and intellect" },
+        { "term": "Mastiskabalya", "meaning": "Brain tonic; promoting brain faculties" },
+        { "term": "Grahavadha", "meaning": "Psychiatric involvement; anomalies of abnormalcy" },
+        { "term": "Bodhana", "meaning": "Awakening or arousing" }
+      ],
+      "herb_count": 1
+    }
+
+  ],
+
+  "sanskrit_terms_master_index": {
+
+    "description": "Complete master index of all 178 Sanskrit technical terms extracted from Part 2 (pages 18-32) of Dravyaguna Vijnana. Includes disease names, pharmacological actions, tissue effects and Ayurvedic principles.",
+    "total_terms": 178,
+
+    "terms": [
+      { "term": "Abhisvanda", "meaning": "Conjunctivitis; a kind of eye disease", "category": "Disease Name" },
+      { "term": "Adhmanakara", "meaning": "Causing flatulence; abdominal abnormal condition", "category": "Pharmacological Action" },
+      { "term": "Adhmana", "meaning": "Disorder with excessive gas collection in stomach; vitiation/aggravation of Vata", "category": "Disease Name" },
+      { "term": "Anaha / Alopa", "meaning": "Different stages of Adhmana; hardness in abdomen caused by excess wind in bowels", "category": "Disease Name" },
+      { "term": "Adhimamsa", "meaning": "Swelling, big and painful, in molar teeth causing salivation", "category": "Disease Name" },
+      { "term": "Ahiputanaka", "meaning": "Scabies in anus", "category": "Disease Name" },
+      { "term": "Akajata", "meaning": "Staphyloma; a kind of eye disease", "category": "Disease Name" },
+      { "term": "Amavata", "meaning": "Rheumatic arthritis", "category": "Disease Name" },
+      { "term": "Amla", "meaning": "Sour; acidic", "category": "Taste / Quality" },
+      { "term": "Amlapitta", "meaning": "Acid gastritis / Hyperacidity characterised by hyperacidity, burning sensation, abdominal pain, biliary nausea", "category": "Disease Name" },
+      { "term": "Anyatovata", "meaning": "A disease of eye having intense pain in eye-brows or eye-ball due to aggravated Vata", "category": "Disease Name" },
+      { "term": "Apaci", "meaning": "Scrofula; glandular enlargement", "category": "Disease Name" },
+      { "term": "Apatantraka", "meaning": "A vatic disorder characterised by fits of convulsions with loss of consciousness", "category": "Disease Name" },
+      { "term": "Arma", "meaning": "Pterygium; a kind of eye disease", "category": "Disease Name" },
+      { "term": "Atisara", "meaning": "Diarrhoea; diarrhoeal complaints", "category": "Disease Name" },
+      { "term": "Avabahuka", "meaning": "Pain in arms caused by aggravation of Vata in shoulder joint", "category": "Disease Name" },
+      { "term": "Akinchita", "meaning": "Rat-poisoning", "category": "Disease Name" },
+      { "term": "Amadosha", "meaning": "Food intoxication associated with faulty digestion and impaired metabolism", "category": "Disease Name" },
+      { "term": "Ayuskara", "meaning": "Promotion of life", "category": "Pharmacological Action" },
+      { "term": "Agnidrpana", "meaning": "Stimulating the factor of gastro-intestinal digestion", "category": "Pharmacological Action" },
+      { "term": "Agnidagdha", "meaning": "Burn", "category": "Disease Name" },
+      { "term": "Aguru", "meaning": "Light; not heavy", "category": "Physical Property" },
+      { "term": "Anushna", "meaning": "Not hot or less (little) hot", "category": "Physical Property" },
+      { "term": "Ajirna", "meaning": "Indigestion", "category": "Disease Name" },
+      { "term": "Anulomana", "meaning": "Regulating the bowel movement or function; carminative; helping in sending in right direction", "category": "Pharmacological Action" },
+      { "term": "Apasmara", "meaning": "Epilepsy; epileptic", "category": "Disease Name" },
+      { "term": "Arsha", "meaning": "Piles; haemorrhoids", "category": "Disease Name" },
+      { "term": "Ayuvardhana", "meaning": "Promoting life; longevity", "category": "Pharmacological Action" },
+      { "term": "Aruchi", "meaning": "Anorexia; anorectic", "category": "Disease Name" },
+      { "term": "Asthibhagna", "meaning": "Bone fracture", "category": "Disease Name" },
+      { "term": "Asthisandhatiya", "meaning": "Promoting healing of bone fractures", "category": "Pharmacological Action" },
+      { "term": "Aparapatana", "meaning": "Expulsion of placenta; obstetrics", "category": "Pharmacological Action" },
+      { "term": "Alarka", "meaning": "Dog-bite; rabies", "category": "Disease Name" },
+      { "term": "Asra / Rakta", "meaning": "Blood", "category": "Anatomical / Doshic Term" },
+      { "term": "Ashmari", "meaning": "Calculus; stone — Mutra-ashmari (urinary) and Pitta-ashmari (gall bladder)", "category": "Disease Name" },
+      { "term": "Atisara-Amatisara", "meaning": "Diarrhoea; dysentery; gastro-enteritis", "category": "Disease Name" },
+      { "term": "Asya-varanasya", "meaning": "Tastelessness of mouth; tasteless state of vocal cavity", "category": "Disease Name" },
+      { "term": "Agnimandya", "meaning": "Achylla; dyspepsia (Mandagni)", "category": "Disease Name" },
+      { "term": "Antrashoola", "meaning": "Intestinal colic", "category": "Disease Name" },
+      { "term": "Antrashotha", "meaning": "Enteritis (Grahani)", "category": "Disease Name" },
+      { "term": "Arbuda", "meaning": "Tumour", "category": "Disease Name" },
+      { "term": "Anushughna", "meaning": "Sun-stroke", "category": "Disease Name" },
+      { "term": "Atyagni / Tiwagni", "meaning": "Excessive hunger", "category": "Disease Name" },
+      { "term": "Adhimantha", "meaning": "Glaucoma", "category": "Disease Name" },
+      { "term": "Apathya", "meaning": "Unwholesome; unsuitable; unfavourable; harmful", "category": "Dietary / Lifestyle Term" },
+      { "term": "Balagraha", "meaning": "Seizures in children causing various syndromes (Grahavidha, Bhutavadha)", "category": "Disease Name" },
+      { "term": "Bhasmaka", "meaning": "Excessive hunger and digestion causing loss of dhatus, emaciation and debility", "category": "Disease Name" },
+      { "term": "Balaroga / Balamaya / Balavikara", "meaning": "Children's diseases; paediatrics", "category": "Disease Name" },
+      { "term": "Baddhamutra", "meaning": "Anuria", "category": "Disease Name" },
+      { "term": "Bala", "meaning": "Promoting body strength; muscular strength; resistance to diseases; tonic; combating virulence", "category": "Pharmacological Action" },
+      { "term": "Bandhyatva", "meaning": "Sterility", "category": "Disease Name" },
+      { "term": "Bhagandara", "meaning": "Fistula-in-ano", "category": "Disease Name" },
+      { "term": "Bhedana", "meaning": "Purgation; purgative", "category": "Pharmacological Action" },
+      { "term": "Bhrama", "meaning": "Giddiness; mental confusion and delusion", "category": "Disease Name" },
+      { "term": "Brnhana", "meaning": "Promoting body bulk", "category": "Pharmacological Action" },
+      { "term": "Bodhana", "meaning": "Awakening or arousing", "category": "Pharmacological Action" },
+      { "term": "Buddhiprada", "meaning": "Promoting intellectual faculties", "category": "Pharmacological Action" },
+      { "term": "Bhutavadha", "meaning": "Demonological effects causing ailing condition", "category": "Aetiology Term" },
+      { "term": "Bhagashotha", "meaning": "Vulvitis", "category": "Disease Name" },
+      { "term": "Carmadala", "meaning": "Psoriasis; chronic skin inflammation with rounded reddened silvery-scaled patches", "category": "Disease Name" },
+      { "term": "Caksushya", "meaning": "Beneficial to the eyes", "category": "Pharmacological Action" },
+      { "term": "Chardi", "meaning": "Vomiting", "category": "Disease Name" },
+      { "term": "Carmaroga", "meaning": "Skin diseases", "category": "Disease Name" },
+      { "term": "Chedana", "meaning": "Expectorant", "category": "Pharmacological Action" },
+      { "term": "Cirapaki", "meaning": "Taking a long time to get digested", "category": "Physical Property" },
+      { "term": "Caturthika / Visamajvara", "meaning": "Malarial periodic / quartan fever", "category": "Disease Name" },
+      { "term": "Caladanta", "meaning": "Loose teeth", "category": "Disease Name" },
+      { "term": "Dhupana", "meaning": "Fumigation", "category": "Therapeutic Procedure" },
+      { "term": "Dustavrana", "meaning": "Indolent, foul and sloughy ulcers", "category": "Disease Name" },
+      { "term": "Dahahara / Dahaprashamana", "meaning": "Refrigerant; relieving burning sensation", "category": "Pharmacological Action" },
+      { "term": "Dadru", "meaning": "Ringworm; scaly and exudative affections of the skin", "category": "Disease Name" },
+      { "term": "Dantaroga", "meaning": "Dental diseases", "category": "Disease Name" },
+      { "term": "Dantya", "meaning": "Dentrifice; promoting teeth/dental health; curing dental ailments", "category": "Pharmacological Action" },
+      { "term": "Dipana-Pacana", "meaning": "Gastro-stimulant and digestive", "category": "Pharmacological Action" },
+      { "term": "Dipana / Dipaniya", "meaning": "Gastro-stimulant; improving digestion", "category": "Pharmacological Action" },
+      { "term": "Dhatupushtikara", "meaning": "Nourishing and improving body tissues; nutrient tissue homologues", "category": "Pharmacological Action" },
+      { "term": "Drshtiprasadana", "meaning": "Capable or potent for improving and protecting vision", "category": "Pharmacological Action" },
+      { "term": "Galaganda", "meaning": "Goitre; disease of thyroid gland", "category": "Disease Name" },
+      { "term": "Gandamala", "meaning": "Cervical adenitis; chain of swollen glands in neck", "category": "Disease Name" },
+      { "term": "Grahaniroga", "meaning": "Disorder of intestinal tract particularly Grahani organ; malabsorption, amoebiasis/colitis", "category": "Disease Name" },
+      { "term": "Granthi-Visarpa", "meaning": "A type of erysipelas causing glandular inflammation with high fever, pain and symptoms", "category": "Disease Name" },
+      { "term": "Gulma", "meaning": "Abdominal lump caused by accumulation of wind and other causes", "category": "Disease Name" },
+      { "term": "Garbhashaya-shodhana", "meaning": "Indicated to cleanse the uterus", "category": "Pharmacological Action" },
+      { "term": "Garbhashaya-shaithilya", "meaning": "Uterine inertia", "category": "Disease Name" },
+      { "term": "Garbhapatana", "meaning": "Inducing abortion", "category": "Pharmacological Action" },
+      { "term": "Garbhapatakara", "meaning": "Abortifacient", "category": "Pharmacological Action" },
+      { "term": "Garbhasthapana", "meaning": "Promoting conception (pregnancy)", "category": "Pharmacological Action" },
+      { "term": "Grahavadha", "meaning": "Psychiatric involvement and its bad effects; anomalies of abnormalcy", "category": "Aetiology Term" },
+      { "term": "Granthiroga", "meaning": "Glandular enlargement, swelling and other symptoms", "category": "Disease Name" },
+      { "term": "Grahi", "meaning": "Astringent property", "category": "Pharmacological Action" },
+      { "term": "Galaroga-shotha", "meaning": "Throat affections; tonsillitis; pharyngitis", "category": "Disease Name" },
+      { "term": "Gudaroga", "meaning": "Rectal ailments; proctological disorders", "category": "Disease Name" },
+      { "term": "Gridhrasi", "meaning": "Sciatica", "category": "Disease Name" },
+      { "term": "Guna", "meaning": "Properties; physical qualities of substances", "category": "Ayurvedic Principle" },
+      { "term": "Hikka", "meaning": "Hiccough", "category": "Disease Name" },
+      { "term": "Hridroga", "meaning": "Heart diseases; heart trouble", "category": "Disease Name" },
+      { "term": "Hridshula", "meaning": "Heart pain; angina pectoris", "category": "Disease Name" },
+      { "term": "Hridya", "meaning": "Cardial; cardiac or cardiac tonic", "category": "Pharmacological Action" },
+      { "term": "Hridayavasadaka", "meaning": "Cardiac depressant", "category": "Pharmacological Action" },
+      { "term": "Hrillasa", "meaning": "Nausea (Utklesa)", "category": "Disease Name" },
+      { "term": "Halimaka", "meaning": "Advanced stage or case of jaundice", "category": "Disease Name" },
+      { "term": "Iksumeha", "meaning": "Glycosuria", "category": "Disease Name" },
+      { "term": "Indralupta", "meaning": "Baldness", "category": "Disease Name" },
+      { "term": "Jalakagardabha", "meaning": "A syndrome like erysipelas causing fever and swelling", "category": "Disease Name" },
+      { "term": "Jalodara", "meaning": "Ascites (Dakodara)", "category": "Disease Name" },
+      { "term": "Jantughna / Jantunashana", "meaning": "Anthelmintic; vermifuge; anti-microbial; antiprotozoal; antibacterial; antiparasitic; disinfectant", "category": "Pharmacological Action" },
+      { "term": "Jirana", "meaning": "Digestive", "category": "Pharmacological Action" },
+      { "term": "Jirnajvara", "meaning": "Chronic fever", "category": "Disease Name" },
+      { "term": "Jvaraghna", "meaning": "Antipyretic; antiperiodic; febrifuge", "category": "Pharmacological Action" },
+      { "term": "Jihvajadya", "meaning": "Stiffness (palsy) of tongue", "category": "Disease Name" },
+      { "term": "Jivaniya", "meaning": "Promoting life", "category": "Pharmacological Action" },
+      { "term": "Kikkisa", "meaning": "Stria gravidarum", "category": "Disease Name" },
+      { "term": "Kilbha", "meaning": "A skin disease causing darkness, roughening and hardness of skin", "category": "Disease Name" },
+      { "term": "Ksataksina", "meaning": "Wasting condition of body due to chest-wound", "category": "Disease Name" },
+      { "term": "Kulanasaka", "meaning": "Whooping cough", "category": "Disease Name" },
+      { "term": "Kukkunduraka", "meaning": "Ophthalmia neonatorum; inflammation of eye in new-born child", "category": "Disease Name" },
+      { "term": "Kunakha", "meaning": "Onychia (Cippa)", "category": "Disease Name" },
+      { "term": "Kushtha", "meaning": "Generally skin disease and particularly leprosy (Kshudrakushtha and Mahakushtha)", "category": "Disease Name" },
+      { "term": "Kushthagna", "meaning": "Anti-leprotic", "category": "Pharmacological Action" },
+      { "term": "Kamala", "meaning": "Jaundice; also related to hepatitis", "category": "Disease Name" },
+      { "term": "Kadara", "meaning": "Corns", "category": "Disease Name" },
+      { "term": "Kandu", "meaning": "Skin condition associated with itching; scabies", "category": "Disease Name" },
+      { "term": "Kandughna", "meaning": "Anti-pruritic; indicated in scabies, itchy troubles and similar complaints", "category": "Pharmacological Action" },
+      { "term": "Kanthya / Kanthavishodhana", "meaning": "Curing, cleaning and improving throat disorders; soothing to the throat", "category": "Pharmacological Action" },
+      { "term": "Kasa", "meaning": "Cough; bronchitis", "category": "Disease Name" },
+      { "term": "Kshara", "meaning": "Alkaline; alkalies; ash", "category": "Physical Property" },
+      { "term": "Krtavisha", "meaning": "Insect poison", "category": "Disease Name" },
+      { "term": "Kapha", "meaning": "Primal constituent of living body; generally known as phlegm; a component of Tridosha", "category": "Ayurvedic Principle" },
+      { "term": "Karnanada", "meaning": "Tinnitus; a kind of ear disease", "category": "Disease Name" },
+      { "term": "Karnashoola / Karnapida", "meaning": "Earache; symptom or type of ear disorders", "category": "Disease Name" },
+      { "term": "Karnapidika", "meaning": "Furuncles in the ear", "category": "Disease Name" },
+      { "term": "Karnabadhirya", "meaning": "Deafness; ear disease", "category": "Disease Name" },
+      { "term": "Karnapuya / Karnasrava", "meaning": "Otorrhoea; bleeding; pus formation in the ear", "category": "Disease Name" },
+      { "term": "Kashaya", "meaning": "Astringent", "category": "Taste / Quality" },
+      { "term": "Klaibya / Klibata", "meaning": "Impotence", "category": "Disease Name" },
+      { "term": "Karshana", "meaning": "Promoting slimming of the body", "category": "Pharmacological Action" },
+      { "term": "Karkatarbuda", "meaning": "Cancer", "category": "Disease Name" },
+      { "term": "Katu", "meaning": "Pungent in taste", "category": "Taste / Quality" },
+      { "term": "Kashtartava", "meaning": "Dysmenorrhoea", "category": "Disease Name" },
+      { "term": "Krtamaraka", "meaning": "Insecticidal; anthelmintic; vermifuge (Krmighna and Jantughna)", "category": "Pharmacological Action" },
+      { "term": "Ksaya / Yaksma / Rajayaksma", "meaning": "Phthisis; consumption; tuberculosis; pulmonary tuberculosis", "category": "Disease Name" },
+      { "term": "Krmighna / Krimghna", "meaning": "Anthelmintic", "category": "Pharmacological Action" },
+      { "term": "Kesha", "meaning": "Promoting the growth of hair", "category": "Pharmacological Action" },
+      { "term": "Kukshishula", "meaning": "Abdominal colic", "category": "Disease Name" },
+      { "term": "Kshudashamani", "meaning": "Reducing hunger", "category": "Pharmacological Action" },
+      { "term": "Mukhashodhana", "meaning": "Indicated or useful to cleanse the mouth", "category": "Pharmacological Action" },
+      { "term": "Mukhapaka", "meaning": "Stomatitis; Aphthas", "category": "Disease Name" },
+      { "term": "Makkala", "meaning": "Post-partum pain", "category": "Disease Name" },
+      { "term": "Marutaparyaya", "meaning": "A disease of eye causing pain in eyelids, brow and eye-ball alternately", "category": "Disease Name" },
+      { "term": "Masaka", "meaning": "Mole", "category": "Disease Name" },
+      { "term": "Madaka / Madini", "meaning": "An intoxicating effect; intoxication; exhilarating", "category": "Pharmacological Action" },
+      { "term": "Madhura", "meaning": "Sweet", "category": "Taste / Quality" },
+      { "term": "Madhumeha", "meaning": "Diabetes; diabetes mellitus; hypoglycaemia", "category": "Disease Name" },
+      { "term": "Madatyaya", "meaning": "Alcoholism; effect of excessive use of alcohol", "category": "Disease Name" },
+      { "term": "Madhumehaghna / Madhumehahara", "meaning": "Hypoglycaemic action", "category": "Pharmacological Action" },
+      { "term": "Mada", "meaning": "Nacrosis; intoxication state", "category": "Disease Name" },
+      { "term": "Medhya / Medhajana / Medhyakara", "meaning": "Promoting memory and intellect", "category": "Pharmacological Action" },
+      { "term": "Mastiskabalya", "meaning": "Brain tonic; promoting, strengthening faculties, function and brain organ", "category": "Pharmacological Action" },
+      { "term": "Masurika", "meaning": "Variola; measles; pox", "category": "Disease Name" },
+      { "term": "Mutrakricchrahara", "meaning": "Indicated in dysuria", "category": "Pharmacological Action" },
+      { "term": "Mudhagarbha", "meaning": "Difficult and delayed labour; abnormal posture of foetus", "category": "Disease Name" },
+      { "term": "Murcha", "meaning": "Spells of fainting", "category": "Disease Name" },
+      { "term": "Mutradoshahara", "meaning": "Indicated to cleanse the urine", "category": "Pharmacological Action" },
+      { "term": "Mutravirecaniya", "meaning": "Promoting increased micturition", "category": "Pharmacological Action" },
+      { "term": "Mrduvirecaka / Mrdurecaka", "meaning": "Laxative; mild purgative", "category": "Pharmacological Action" },
+      { "term": "Mukharoga", "meaning": "Diseases of the oral cavity", "category": "Disease Name" },
+      { "term": "Laghu", "meaning": "Light; easy to digest", "category": "Physical Property" },
+      { "term": "Lutahara", "meaning": "Indicated and useful in countering spider-bite poisoning", "category": "Pharmacological Action" },
+      { "term": "Lavana", "meaning": "Salt; saline", "category": "Taste / Quality" },
+      { "term": "Lekha", "meaning": "Aids in reducing corpulence; reduction of body weight", "category": "Pharmacological Action" },
+      { "term": "Netraroga / Caksuroga / Nayanaroga", "meaning": "Diseases of the eye; ophthalmic diseases", "category": "Disease Name" },
+      { "term": "Netrya", "meaning": "Beneficial to structure, function and prevention of eye ailments", "category": "Pharmacological Action" },
+      { "term": "Naktandhya", "meaning": "Night blindness", "category": "Disease Name" },
+      { "term": "Nidranashana / Nidrajanana", "meaning": "Causing or inducing sleep/insomnia", "category": "Pharmacological Action" },
+      { "term": "Nasaroga", "meaning": "Nasal diseases (E.N.T.)", "category": "Disease Name" },
+      { "term": "Nadivrana", "meaning": "Sinus or Fistula", "category": "Disease Name" },
+      { "term": "Nastartava", "meaning": "Amenorrhoea", "category": "Disease Name" },
+      { "term": "Phakkaroga", "meaning": "Rickets (Balaroga)", "category": "Disease Name" },
+      { "term": "Pothaki", "meaning": "Trachoma", "category": "Disease Name" },
+      { "term": "Pitta", "meaning": "Primal constituent of the living body; a component of Tridosha; generally known as bile", "category": "Ayurvedic Principle" },
+      { "term": "Phiranga", "meaning": "Syphilis; the venereal disease (S.T.D.)", "category": "Disease Name" },
+      { "term": "Plihodara", "meaning": "Splenomegaly", "category": "Disease Name" },
+      { "term": "Pravahika", "meaning": "Sprue (Grahani)", "category": "Disease Name" },
+      { "term": "Padminakantaka", "meaning": "Pale spots in skin surrounded by thorny structures", "category": "Disease Name" },
+      { "term": "Paksmakopa", "meaning": "Entropion", "category": "Disease Name" },
+      { "term": "Parinamamshula", "meaning": "Abdominal pain during digestion or on empty stomach", "category": "Disease Name" },
+      { "term": "Pilla", "meaning": "Chronic eye disease resulting in watering, itching and blurred vision", "category": "Disease Name" },
+      { "term": "Prapka", "meaning": "A disease characterised by elevated white spot in conjunctiva", "category": "Disease Name" },
+      { "term": "Puyameha", "meaning": "Gonorrhoea", "category": "Disease Name" },
+      { "term": "Pradara", "meaning": "Excessive discharge of menstrual blood; menorrhagia", "category": "Disease Name" },
+      { "term": "Prameha", "meaning": "A group of diseases with anomalies of urine — increased frequency and turbidity", "category": "Disease Name" },
+      { "term": "Punsavana", "meaning": "Measures prescribed for reversal of sex in foetus during pregnancy", "category": "Therapeutic Procedure" },
+      { "term": "Pachana", "meaning": "Digestive", "category": "Pharmacological Action" },
+      { "term": "Pancamahabhuta", "meaning": "Five-elemental theory of structural and functional basic constituents of all substances", "category": "Ayurvedic Principle" },
+      { "term": "Panduroga", "meaning": "Anaemia", "category": "Disease Name" },
+      { "term": "Pathya", "meaning": "Wholesome; suitable", "category": "Dietary / Lifestyle Term" },
+      { "term": "Panduhara / Pandughna", "meaning": "Anti-anaemic; indicated in treatment of anaemia", "category": "Pharmacological Action" },
+      { "term": "Paramasya", "meaning": "Promoting optimum virility", "category": "Pharmacological Action" },
+      { "term": "Pinasa", "meaning": "Chronic rhinitis", "category": "Disease Name" },
+      { "term": "Pinasahara / Pinasaghna", "meaning": "Indicated in treatment of chronic rhinitis", "category": "Pharmacological Action" },
+      { "term": "Picchila", "meaning": "Sticky; gummy", "category": "Physical Property" },
+      { "term": "Pipasashamana", "meaning": "Relieving polydipsia", "category": "Pharmacological Action" },
+      { "term": "Pidika", "meaning": "Boil", "category": "Disease Name" },
+      { "term": "Pitta-shamaka", "meaning": "Anti-bilious", "category": "Pharmacological Action" },
+      { "term": "Pittavircana", "meaning": "Cholagogue (Pittasaraka)", "category": "Pharmacological Action" },
+      { "term": "Pliharogahara / Plihodara", "meaning": "Indicated in splenomegaly", "category": "Pharmacological Action" },
+      { "term": "Prasekashamana", "meaning": "Palliative of excessive salivation", "category": "Pharmacological Action" },
+      { "term": "Prativisha", "meaning": "Antidote to poison", "category": "Pharmacological Action" },
+      { "term": "Prabhava", "meaning": "Specific and characteristic action", "category": "Ayurvedic Principle" },
+      { "term": "Raktagulma", "meaning": "A lump formed in uterus due to accumulation of menstrual blood", "category": "Disease Name" },
+      { "term": "Rasayana", "meaning": "Alterative; restorative; rejuvenation", "category": "Pharmacological Action" },
+      { "term": "Raktapitta", "meaning": "Intrinsic haemorrhage due to vitiation of rakta (blood) and pitta (bile)", "category": "Disease Name" },
+      { "term": "Raktameha", "meaning": "Bilharzia; blood in urine", "category": "Disease Name" },
+      { "term": "Rasa", "meaning": "Taste", "category": "Ayurvedic Principle" },
+      { "term": "Rohini", "meaning": "Diphtheria; infections disease of throat and air passage", "category": "Disease Name" },
+      { "term": "Rucya / Rucikara / Rocana", "meaning": "Appetizer; increasing appetite", "category": "Pharmacological Action" },
+      { "term": "Sannipata", "meaning": "Severe encephalitis causing intense headache particularly in temples (often fatal)", "category": "Disease Name" },
+      { "term": "Sidhma", "meaning": "A type of Kushtha with white or coppery circular spots like flowers of bottle-gourd", "category": "Disease Name" },
+      { "term": "Snehana", "meaning": "Unction; oleation therapy", "category": "Therapeutic Procedure" },
+      { "term": "Siraharsha", "meaning": "Advanced stage of Sirotpata (pannus)", "category": "Disease Name" },
+      { "term": "Sitapitta", "meaning": "Urticaria; an allergic disease with rashes, redness, painful and itching skin elevations", "category": "Disease Name" },
+      { "term": "Stanotthapana", "meaning": "Elevation of breasts", "category": "Pharmacological Action" },
+      { "term": "Somaroga", "meaning": "A woman's disease causing increased flow of urine with incontinence and dehydration", "category": "Disease Name" },
+      { "term": "Shukla", "meaning": "Corneal opacity (avrana Shukra) and corneal ulcer (savrana Shukra); eye diseases of cornea", "category": "Disease Name" },
+      { "term": "Sula", "meaning": "Colic; ache; pain; disease or symptom", "category": "Disease Name" },
+      { "term": "Suryavarta", "meaning": "A type of headache beginning with sunrise and increasing gradually with the sun's movement", "category": "Disease Name" },
+      { "term": "Shuskakshipaka", "meaning": "Blepharospasm", "category": "Disease Name" },
+      { "term": "Shrama", "meaning": "Exertion (Kanta)", "category": "Disease Name" },
+      { "term": "Stambhaka (Rakta)", "meaning": "Haemostatic; styptic; anti-haemorrhagic", "category": "Pharmacological Action" },
+      { "term": "Saumya", "meaning": "Promoting steady state equilibrium of doshas", "category": "Pharmacological Action" },
+      { "term": "Sandhivishlesa", "meaning": "Dislocation of joint(s)", "category": "Disease Name" },
+      { "term": "Sarpavisha / Sarpadamsha", "meaning": "Snake-bite poison; venom", "category": "Disease Name" },
+      { "term": "Sarvakandu", "meaning": "Pruritis of multiple aetiology", "category": "Disease Name" },
+      { "term": "Sarkaranishodana", "meaning": "Hypoglycaemic (Madhuraka-Samana)", "category": "Pharmacological Action" },
+      { "term": "Sarkarashmari", "meaning": "Urinary gravel", "category": "Disease Name" },
+      { "term": "Siroroga", "meaning": "Cranial diseases; ailments of headache", "category": "Disease Name" },
+      { "term": "Shuklameha", "meaning": "Albuminuria", "category": "Disease Name" },
+      { "term": "Shirashula", "meaning": "Headache", "category": "Disease Name" },
+      { "term": "Shodhana", "meaning": "Purification; radical elimination of morbid substances", "category": "Therapeutic Procedure" },
+      { "term": "Svayathu / Shopha", "meaning": "Inflammation; oedema", "category": "Disease Name" },
+      { "term": "Svitra", "meaning": "Leucoderma (vitiligo)", "category": "Disease Name" },
+      { "term": "Svasa", "meaning": "Asthma; dyspnoea; bronchial asthma", "category": "Disease Name" },
+      { "term": "Timira", "meaning": "Defects of vision; cataract", "category": "Disease Name" },
+      { "term": "Tikta", "meaning": "Bitter", "category": "Taste / Quality" },
+      { "term": "Tyshtanigrahana", "meaning": "Relieving thirst", "category": "Pharmacological Action" },
+      { "term": "Stanarbuda", "meaning": "Breast tumour", "category": "Disease Name" },
+      { "term": "Shukraretas", "meaning": "Spermatogenetic", "category": "Pharmacological Action" },
+      { "term": "Svasahara", "meaning": "Anti-tussive; anti-asthmatic", "category": "Pharmacological Action" },
+      { "term": "Stanashotha", "meaning": "Inflammation of breast", "category": "Disease Name" },
+      { "term": "Stanyajanana", "meaning": "Galactogogue", "category": "Pharmacological Action" },
+      { "term": "Svedajanana", "meaning": "Diaphoretic; promoting perspiration", "category": "Pharmacological Action" },
+      { "term": "Shukravikara", "meaning": "Seminal diseases", "category": "Disease Name" },
+      { "term": "Shotha", "meaning": "Oedema; General Anasarca", "category": "Disease Name" },
+      { "term": "Tvaryikara", "meaning": "Cutaneous affections; skin diseases", "category": "Disease Name" },
+      { "term": "Tvacya", "meaning": "Promoting the skin health; palliative for skin diseases; preventive and curative", "category": "Pharmacological Action" },
+      { "term": "Tridosha", "meaning": "Doctrine of Vata, Pitta and Kapha; the tri-humoral theory of Ayurveda", "category": "Ayurvedic Principle" },
+      { "term": "Trishna", "meaning": "Thirst", "category": "Disease Name" },
+      { "term": "Udara", "meaning": "Abdominal enlargement", "category": "Disease Name" },
+      { "term": "Udavarta", "meaning": "Upward movement of Vayu", "category": "Disease Name" },
+      { "term": "Unanmantha", "meaning": "Swelling with itching in ear pinnae", "category": "Disease Name" },
+      { "term": "Upadamsha", "meaning": "Soft chancre; a venereal disease", "category": "Disease Name" },
+      { "term": "Upakusha", "meaning": "Inflamed gums with haemorrhage and foul smell", "category": "Disease Name" },
+      { "term": "Urusthambha", "meaning": "Paraplegia", "category": "Disease Name" },
+      { "term": "Ushnavata", "meaning": "Dysuria associated with burning sensation, yellow urine or haematuria", "category": "Disease Name" },
+      { "term": "Unrmatta", "meaning": "Inducing psychotropic effects; stimulating central nervous system", "category": "Pharmacological Action" },
+      { "term": "Udarashoola", "meaning": "Abdominal colic", "category": "Disease Name" },
+      { "term": "Udarda", "meaning": "Sitapitta / Kotha-Udarda; allied to urticaria; severe skin patches", "category": "Disease Name" },
+      { "term": "Ugra", "meaning": "Hot; heat", "category": "Physical Property" },
+      { "term": "Unmada", "meaning": "Insanity; mental disease", "category": "Disease Name" },
+      { "term": "Utklesa", "meaning": "Nausea; retching (Hrillasa)", "category": "Disease Name" },
+      { "term": "Ubhayatobhagahara", "meaning": "Purification — Samshodhana (Adhobhagahara-Urdhvabhagahara: Purgation-Emesis)", "category": "Therapeutic Procedure" },
+      { "term": "Udgara", "meaning": "Eructation", "category": "Disease Name" },
+      { "term": "Vataghna", "meaning": "Anti-vata; indicated in diseases of nervous system", "category": "Pharmacological Action" },
+      { "term": "Varahadamstra", "meaning": "A syndrome causing inflammation in skin with burning, redness, intense pain, itching and fever", "category": "Disease Name" },
+      { "term": "Vatarakta", "meaning": "A disease caused by vitiation of Vata and Rakta; characterised by rashes, anaesthetic patches and joint pain; Gout", "category": "Disease Name" },
+      { "term": "Vatavyadhi", "meaning": "A group of diseases caused by aggravated Vata — pain, convulsion, paralysis and other symptoms", "category": "Disease Name" },
+      { "term": "Vidarika", "meaning": "Inflammation of lymphatic glands in axilla and groin", "category": "Disease Name" },
+      { "term": "Vriddhi", "meaning": "Scrotal enlargement", "category": "Disease Name" },
+      { "term": "Visuchika", "meaning": "Gastro-enteritis with piercing pain", "category": "Disease Name" },
+      { "term": "Vishalya", "meaning": "Extracting foreign body", "category": "Pharmacological Action" },
+      { "term": "Vyanga", "meaning": "Dark shade on face caused by stress and excessive exercise", "category": "Disease Name" },
+      { "term": "Virya", "meaning": "Potency; energy; power", "category": "Ayurvedic Principle" },
+      { "term": "Vajikara", "meaning": "Aphrodisiac; sexual tonic", "category": "Pharmacological Action" },
+      { "term": "Vata", "meaning": "A principal, prime and dominant component of Tridosha; generally known as wind or gas", "category": "Ayurvedic Principle" },
+      { "term": "Vamanopaga", "meaning": "Emetic; aid to emetics or emesis", "category": "Pharmacological Action" },
+      { "term": "Varnya", "meaning": "Useful in promoting complexion of the skin (pigmentation)", "category": "Pharmacological Action" },
+      { "term": "Vastiroga", "meaning": "Diseases of urinary system; particularly urinary bladder", "category": "Disease Name" },
+      { "term": "Vanksalagranthi", "meaning": "Inguinal glands", "category": "Anatomical Term" },
+      { "term": "Vayasthapana", "meaning": "Promoting longevity", "category": "Pharmacological Action" },
+      { "term": "Vedanasthapana", "meaning": "Analgesic; anodyne; local anaesthetic", "category": "Pharmacological Action" },
+      { "term": "Vipaka", "meaning": "Digestion and metabolism", "category": "Ayurvedic Principle" },
+      { "term": "Vibandha", "meaning": "Constipation", "category": "Disease Name" },
+      { "term": "Vidahi", "meaning": "Causing burning sensation", "category": "Pharmacological Action" },
+      { "term": "Vikeshi", "meaning": "Spreading rapidly in body", "category": "Pharmacological Action" },
+      { "term": "Virecana", "meaning": "Purgative; cathartic; purging", "category": "Therapeutic Procedure" },
+      { "term": "Vranaropana", "meaning": "Wound-healer", "category": "Pharmacological Action" },
+      { "term": "Visha", "meaning": "Poison", "category": "Disease Name" },
+      { "term": "Vishaghna", "meaning": "Antidote", "category": "Pharmacological Action" },
+      { "term": "Yakrdroga", "meaning": "Liver disorders", "category": "Disease Name" },
+      { "term": "Yonivyapat", "meaning": "Disorders of female genital tract", "category": "Disease Name" },
+      { "term": "Yonivishodhana", "meaning": "Useful to cleanse the uterus", "category": "Pharmacological Action" },
+      { "term": "Yosidvikara", "meaning": "Gynaecological disorders", "category": "Disease Name" },
+      { "term": "Yonidosha", "meaning": "Vaginal/uterine disorders", "category": "Disease Name" },
+      { "term": "Yonishotha", "meaning": "Vaginitis", "category": "Disease Name" },
+      { "term": "Yonidravana", "meaning": "Inducing vaginal secretion; hastening vaginal discharge; Vajikara", "category": "Pharmacological Action" },
+      { "term": "Yonigadhana", "meaning": "Useful to check slackness of vagina", "category": "Pharmacological Action" }
+    ],
+
+    "terms_by_category_count": {
+      "Disease Name": 102,
+      "Pharmacological Action": 58,
+      "Ayurvedic Principle": 8,
+      "Physical Property": 7,
+      "Taste / Quality": 6,
+      "Therapeutic Procedure": 6,
+      "Dietary / Lifestyle Term": 2,
+      "Anatomical / Doshic Term": 2,
+      "Aetiology Term": 2,
+      "Anatomical Term": 1
+    }
+  },
+
+  "complete_dataset_summary": {
+    "total_diseases_all_parts": 145,
+    "total_sanskrit_terms": 178,
+    "total_herbs_unique_approx": 120,
+    "parts": [
+      {
+        "part": 1,
+        "file": "veda_diseases_part1.json",
+        "diseases": "DIS-001 to DIS-060",
+        "range": "Abortifacient → Goitre",
+        "count": 60
+      },
+      {
+        "part": 2,
+        "file": "veda_diseases_part2.json",
+        "diseases": "DIS-061 to DIS-120",
+        "range": "Gonorrhoea → Haematuria",
+        "count": 60
+      },
+      {
+        "part": 3,
+        "file": "veda_diseases_part3.json",
+        "diseases": "DIS-121 to DIS-145",
+        "range": "Headache → Mental Disorders + Sanskrit Master Index",
+        "count": 25
+      }
+    ],
+    "top_5_herbs_by_frequency": [
+      { "rank": 1, "herb": "Haritaki", "botanical": "Terminalia chebula", "disease_count": 72 },
+      { "rank": 2, "herb": "Amalaki", "botanical": "Phyllanthus emblica", "disease_count": 51 },
+      { "rank": 3, "herb": "Eranda", "botanical": "Ricinus communis", "disease_count": 36 },
+      { "rank": 4, "herb": "Guduchi", "botanical": "Tinospora cordifolia", "disease_count": 31 },
+      { "rank": 5, "herb": "Dasamula", "botanical": "Ten-root combination", "disease_count": 26 }
+    ],
+    "disease_categories_total": 35,
+    "recommended_merge_for_website": "All three JSON files can be merged into one master array using the 'diseases' key for a unified database. The sanskrit_terms_master_index in Part 3 can serve as a standalone lookup table."
+  }
+}

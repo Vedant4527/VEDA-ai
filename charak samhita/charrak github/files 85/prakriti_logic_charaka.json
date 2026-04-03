@@ -1,0 +1,67 @@
+{
+  "prakriti": {
+    "vata": {
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": ["gulma", "udavarta", "vatika hridroga", "vatika disorders", "hardness of bowels", "constipation"],
+      "aggravated_signs": ["muscles relaxed", "joints loosened", "blood burnt", "marrow immature", "semen absent", "ojas deteriorated", "malaise", "depression", "drowsiness", "lassitude", "lack of enthusiasm", "dyspnoea", "incapability in physical and mental activities", "loss of memory", "loss of intellect", "loss of lustre"],
+      "decreased_signs": []
+    },
+    "pitta": {
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": ["pandu (anaemia)", "kamala (jaundice)", "paittika hridroga", "skin disorders with burning"],
+      "aggravated_signs": [],
+      "decreased_signs": []
+    },
+    "kapha": {
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": ["prameha", "shotha (oedema)", "kaphaja hridroga", "spleen disorders", "obstructive conditions", "kapha disorders alleviated by bhallataka"],
+      "aggravated_signs": ["fat becomes abundant and liquified"],
+      "decreased_signs": []
+    },
+    "dual_prakriti": {
+      "vata_pitta": [],
+      "pitta_kapha": [],
+      "vata_kapha": []
+    },
+    "sama_prakriti": []
+  },
+  "rasayana_eligibility": {
+    "eligible": ["capable persons", "disease-free persons", "wise persons", "self-controlled persons", "leisurely persons", "rich persons (for indoor method)"],
+    "ineligible": ["degenerate self", "those not twice-born", "uninterested persons"],
+    "indoor_method_preferred_for": ["capable persons", "disease-free", "wise", "self-controlled", "leisurely", "rich"],
+    "outdoor_method_for": ["others not meeting indoor criteria"],
+    "contraindications_for_haritaki": ["those with indigestion", "those on rough food", "those emaciated by indulgence in women, wine and poisonous substances", "those afflicted with hunger", "those afflicted with thirst", "those afflicted with heat - should not use haritaki for long"],
+    "contraindications_for_silajatu": ["vidahi (causing burning and hyperacidity) substances", "heavy substances", "horse-gram"],
+    "contraindications_for_bhallataka": ["must prepare body first with cold, unctuous and sweet substances before use"]
+  },
+  "ojas_properties": {
+    "description": "Ten properties of ojas as mentioned in Charaka Samhita Chikitsasthana Ch.1",
+    "properties": ["heavy", "cold", "soft", "smooth", "viscous", "sweet", "stable", "clear", "slimy", "unctuous"],
+    "seat": "heart",
+    "function": "sustains mind, dhatus located in heart, vital strength"
+  },
+  "source": {
+    "text": "Charaka Samhita",
+    "sthana": "Chikitsasthana",
+    "chapter": "I - Rasayana",
+    "note": "Prakriti-specific data is limited in these chapters (Rasayana and Vajikarana). Full prakriti data exists in Vimanasthana and Shareerasthana. Only disease tendencies and rasayana eligibility mentioned in these chapters are captured here."
+  }
+}

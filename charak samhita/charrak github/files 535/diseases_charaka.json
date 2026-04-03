@@ -1,0 +1,632 @@
+{
+  "diseases": [
+    {
+      "id": "disease_001",
+      "names": {
+        "sanskrit": "Urustambha",
+        "english": "Thigh Stiffness / Paralysis of Thighs",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vatavyadhi (Vata disorder)",
+      "dosha_involved": ["Kapha", "Vata", "Pitta"],
+      "dhatu_affected": ["Medas (fat tissue)", "Mamsa (muscle)"],
+      "srotas_affected": ["Mamsavaha srotas", "Medovaha srotas", "Vatavaha srotas"],
+      "nidana": {
+        "ahara": [
+          "Fatty food",
+          "Hot food",
+          "Light food",
+          "Cold food when previous food is partially or mostly undigested",
+          "Liquid food",
+          "Dry food",
+          "Curd",
+          "Milk",
+          "Meat of domestic animals",
+          "Meat of marshy animals",
+          "Meat of aquatic animals",
+          "Flour preparations",
+          "Damaged wine"
+        ],
+        "vihara": [
+          "Excessive day-sleep",
+          "Vigil (excessive wakefulness)",
+          "Under-eating",
+          "Over-eating",
+          "Exertion",
+          "Suppression of natural urges",
+          "Unctuousness (excessive oily substances)"
+        ],
+        "manasa": [
+          "Fear"
+        ],
+        "agantuja": []
+      },
+      "purvaroopa": [
+        "Brooding over",
+        "Sleep (excessive)",
+        "Excessive feeling of wetness",
+        "Anorexia",
+        "Fever",
+        "Horripilation",
+        "Vomiting",
+        "Lassitude in shanks and thighs"
+      ],
+      "roopa": [
+        "Heaviness in thighs",
+        "Exhaustion",
+        "Contracture",
+        "Burning sensation",
+        "Pain",
+        "Numbness",
+        "Tearing pain",
+        "Quivering",
+        "Piercing pain in the body",
+        "Immobility and coldness of thighs",
+        "Excessive malaise of shanks and thighs",
+        "Continuous burning sensation",
+        "Feet ache when put on the ground",
+        "Unable to perceive cold touch",
+        "Incapable of standing, pressing, moving",
+        "Feeling as if thighs were broken off and borne by someone else"
+      ],
+      "bheda": [
+        "Curable (new case without trembling/burning/distress/piercing pain)",
+        "Incurable (when patient trembles with burning sensation, distress and piercing pain)"
+      ],
+      "sadhyata": "New cases are treatable; incurable when associated with trembling, burning, distress and piercing pain",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVII",
+        "verse": "3-61"
+      }
+    },
+    {
+      "id": "disease_002",
+      "names": {
+        "sanskrit": "Vatavyadhi",
+        "english": "Disorders of Vata (80 types)",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vatavyadhi",
+      "dosha_involved": ["Vata", "Pitta", "Kapha", "Rakta"],
+      "dhatu_affected": ["Rasa", "Rakta", "Mamsa", "Medas", "Asthi", "Majja", "Shukra"],
+      "srotas_affected": ["All srotas depending on location of vitiated vata"],
+      "nidana": {
+        "ahara": [
+          "Rough food",
+          "Cold food",
+          "Little food",
+          "Light food",
+          "Excessive coitus",
+          "Fasting"
+        ],
+        "vihara": [
+          "Excessive vigils",
+          "Faulty therapeutic management",
+          "Excessive elimination of impurity and blood",
+          "Excessive movements - leaping, jumping, wayfaring, physical exercise",
+          "Uncomfortable bed and seat",
+          "Day-sleep",
+          "Suppression of natural urges",
+          "Injury in vital parts",
+          "Falling from elephants, horses and fast vehicles",
+          "Excessive emaciation"
+        ],
+        "manasa": [
+          "Anxiety",
+          "Grief",
+          "Anger",
+          "Fear"
+        ],
+        "agantuja": [
+          "Injury",
+          "Amadosha (undigested food toxins)",
+          "Wasting of dhatus"
+        ]
+      },
+      "purvaroopa": [
+        "Unmanifested symptoms of each specific disorder (prodromal symptoms of respective vatavyadhi)"
+      ],
+      "roopa": [
+        "Contractures",
+        "Stiffness in joints",
+        "Tearing in bones and joints",
+        "Horripilation",
+        "Delirium",
+        "Stiffness in hands, back and head",
+        "Limping",
+        "Crippledness",
+        "Humpedness",
+        "Drying of organs",
+        "Sleeplessness",
+        "Destruction of foetus, sperms and ovum",
+        "Pulsation",
+        "Numbness in organs",
+        "Crookedness of head, nose, eyes, clavicular region and neck",
+        "Tearing and piercing pain",
+        "Distress",
+        "Convulsion",
+        "Mental confusion",
+        "Exhaustion"
+      ],
+      "bheda": [
+        "Vatavyadhi by location - bowels (retention of urine/stool, cardiac, gulma, piles)",
+        "Generalized vata (quivering and breaking pain in limbs and joints)",
+        "Vata in anus (retention of stool/urine/flatus, colic, tympanitis, calculus)",
+        "Vata in amashaya (pain in heart, navel, sides, thirst, belching, cough, dyspnoea)",
+        "Vata in pakvasaya (gurgling, colic, meteorism, hardness in bowels)",
+        "Vata in sense organs (loss of sensation)",
+        "Vata in twak (rough, cracked, benumbed skin with piercing pain)",
+        "Vata in rakta (severe pain with heat, abnormal complexion, leanness, pimples)",
+        "Vata in mamsa and medas (heaviness, piercing pain as if beaten with sticks)",
+        "Vata in majja and asthi (breaking pain in bones and joints, sleeplessness)",
+        "Vata in shukra (premature expulsion or retention of semen, abnormality)",
+        "Vata in snayu (opisthotonus, emprosthotonus, cramps, humpedness)",
+        "Vata in sira (mild pain and swelling, body dries up and quivers)",
+        "Vata in joints (swelling like air-filled bladder, pain during contraction/extension)",
+        "Ardita (facial paralysis)",
+        "Manyastambha (stiffness of carotid regions)",
+        "Antaryama/Opisthotonos (emprosthotonus)",
+        "Bahirayama/Dhanustambha (opisthotonus)",
+        "Hanugraha (lock-jaw)",
+        "Aksepaka (convulsions)",
+        "Dandaka (plenosthotonus) - incurable",
+        "Ekatigaroga (contracture in one foot or hand)",
+        "Sarvatigaroga (generalised affliction)",
+        "Gridhrasi (sciatica)",
+        "Khalli (cramps in foot, shank, thigh, wrist)"
+      ],
+      "sadhyata": "Displacement of joints, lock-jaw, contracture, humpedness, hemiplegia, wasting of body parts, paraplegia, stiffness in majja and asthi are curable with difficulty or incurable. New cases free from complications in strong patients may be treated.",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "1-249"
+      }
+    },
+    {
+      "id": "disease_003",
+      "names": {
+        "sanskrit": "Ardita",
+        "english": "Facial Paralysis",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vatavyadhi",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": ["Rakta", "Snayu"],
+      "srotas_affected": ["Vatavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Dries up the blood, hand, leg and knee on one half of body",
+        "Contracture in one half",
+        "Face, nose, eyebrows, forehead, eyes and jaws get crooked",
+        "Food goes in mouth in crooked way",
+        "Nose is crooked",
+        "Eyes stiffened and sneezing suppressed",
+        "Tongue becomes curved when raised, feeble and impeded",
+        "Teeth become loose",
+        "Hearing deficient and worse",
+        "Pain in foot, hand, eye, shank, thigh, temple, ear and cheek",
+        "Localised in one-half of body or half of face"
+      ],
+      "bheda": [],
+      "sadhyata": "Paroxysmal cases may be manageable; persistent cases should not be taken up by physician",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "38-42"
+      }
+    },
+    {
+      "id": "disease_004",
+      "names": {
+        "sanskrit": "Manyastambha",
+        "english": "Stiffness of Carotid Regions (Neck Stiffness)",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vatavyadhi",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": ["Snayu"],
+      "srotas_affected": ["Vatavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Stiffness in carotid regions",
+        "Vayu lodged in both carotid regions"
+      ],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "43"
+      }
+    },
+    {
+      "id": "disease_005",
+      "names": {
+        "sanskrit": "Antaryama (Opisthotonos / Emprosthotonus)",
+        "english": "Emprosthotonus (forward bending of spine)",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vatavyadhi",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": ["Snayu", "Asthi"],
+      "srotas_affected": ["Vatavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Neck bends inwards",
+        "Carotid regions get stiffened excessively",
+        "Gnashing of teeth",
+        "Salivation",
+        "Inward bending of back",
+        "Stiffness of head",
+        "Yawning",
+        "Lock jaw"
+      ],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "43-44"
+      }
+    },
+    {
+      "id": "disease_006",
+      "names": {
+        "sanskrit": "Bahirayama / Dhanustambha",
+        "english": "Opisthotonus (backward arching of spine)",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vatavyadhi",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": ["Snayu"],
+      "srotas_affected": ["Vatavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Body bent downwards like bow",
+        "Head goes to back",
+        "Chest gets thrown upwards",
+        "Carotid regions get stiffened",
+        "Neck is bent downwards",
+        "Gnashing of teeth",
+        "Yawning",
+        "Salivation",
+        "Loss of speech",
+        "Restlessness or death when severe"
+      ],
+      "bheda": [],
+      "sadhyata": "Severe cases may kill the patient",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "45-48"
+      }
+    },
+    {
+      "id": "disease_007",
+      "names": {
+        "sanskrit": "Hanugraha",
+        "english": "Lock-Jaw",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vatavyadhi",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": ["Snayu", "Asthi"],
+      "srotas_affected": ["Vatavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Jaws slip down causing opening of mouth",
+        "OR stiffening of jaws causing closing of mouth",
+        "Stiffness",
+        "Absence of pain"
+      ],
+      "bheda": [
+        "Open mouth type",
+        "Closed mouth type (stiffened jaws)"
+      ],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "49"
+      }
+    },
+    {
+      "id": "disease_008",
+      "names": {
+        "sanskrit": "Aksepaka",
+        "english": "Convulsions",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vatavyadhi",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": ["Rakta", "Snayu"],
+      "srotas_affected": ["Vatavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Frequent convulsions in the body",
+        "Drying up of hands and feet",
+        "Drying up of blood vessels, ligaments and tendons"
+      ],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "50"
+      }
+    },
+    {
+      "id": "disease_009",
+      "names": {
+        "sanskrit": "Dandaka",
+        "english": "Plenosthotonus (body stiff like stick)",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vatavyadhi",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": ["Snayu", "Asthi"],
+      "srotas_affected": ["Vatavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Hands stiff",
+        "Feet stiff",
+        "Head stiff",
+        "Back stiff",
+        "Hip stiff",
+        "Body becomes stiff like a stick"
+      ],
+      "bheda": [],
+      "sadhyata": "Incurable",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "51"
+      }
+    },
+    {
+      "id": "disease_010",
+      "names": {
+        "sanskrit": "Gridhrasi",
+        "english": "Sciatica",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vatavyadhi",
+      "dosha_involved": ["Vata", "Kapha"],
+      "dhatu_affected": ["Snayu", "Majja"],
+      "srotas_affected": ["Vatavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Starts from hip",
+        "Gradually comes down to waist, back, thigh, knee, shank and foot",
+        "Stiffness in affected parts",
+        "Distress",
+        "Piercing pain",
+        "Frequent quiverings",
+        "When caused by vata and kapha: drowsiness, heaviness and anorexia additionally"
+      ],
+      "bheda": [
+        "Vataja type (stiffness, distress, piercing pain, quivering)",
+        "Vata-Kapha type (above + drowsiness, heaviness, anorexia)"
+      ],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "56-57"
+      }
+    },
+    {
+      "id": "disease_011",
+      "names": {
+        "sanskrit": "Khalli",
+        "english": "Cramps",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vatavyadhi",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": ["Snayu"],
+      "srotas_affected": ["Vatavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Cramps in foot",
+        "Cramps in shank",
+        "Cramps in thigh",
+        "Cramps in wrist"
+      ],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "56"
+      }
+    },
+    {
+      "id": "disease_012",
+      "names": {
+        "sanskrit": "Vatarakta / Vatasonita",
+        "english": "Gout / Vata-Blood Disorder",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vata-Rakta disorder",
+      "dosha_involved": ["Vata", "Rakta", "Pitta", "Kapha"],
+      "dhatu_affected": ["Rakta", "Mamsa", "Asthi", "Majja"],
+      "srotas_affected": ["Raktavaha srotas", "Vatavaha srotas"],
+      "nidana": {
+        "ahara": [
+          "Salty food",
+          "Sour food",
+          "Pungent food",
+          "Alkaline food",
+          "Fatty food",
+          "Hot food",
+          "Uncooked food",
+          "Moist food",
+          "Dried food",
+          "Meat of aquatic and marshy animals",
+          "Oil-cakes",
+          "Radish",
+          "Horse gram",
+          "Black gram",
+          "Nispava (lablab beans)",
+          "Other leguminous vegetables",
+          "Sesamum paste",
+          "Sugar cane",
+          "Curd",
+          "Sour gruel",
+          "Sauvira",
+          "Vinegars (Sukta)",
+          "Buttermilk",
+          "Sura (wine)",
+          "Asava (fermented beverages)",
+          "Incompatible food",
+          "Eating during indigestion"
+        ],
+        "vihara": [
+          "Day-sleep",
+          "Vigils (mostly in delicate persons)",
+          "Journey on carts carried by horses and camels",
+          "Sporting in water",
+          "Jumping and leaping",
+          "Excessive travelling on foot in hot season",
+          "Sexual intercourse",
+          "Suppression of natural urges",
+          "Non-evacuation of blood",
+          "Fasting",
+          "Astringent-pungent-bitter-little-rough diet (in second phase)"
+        ],
+        "manasa": [
+          "Anger"
+        ],
+        "agantuja": [
+          "Injury",
+          "Predominance in delicate persons used to delicious food without walking"
+        ]
+      },
+      "purvaroopa": [
+        "Excess or absence of perspiration",
+        "Blackness",
+        "Anaesthesia (loss of sensation)",
+        "Severe pain on injury",
+        "Laxity in joints",
+        "Lassitude",
+        "Malaise",
+        "Appearance of boils",
+        "Piercing pain",
+        "Quivering",
+        "Tearing",
+        "Heaviness",
+        "Numbness",
+        "Itching in knee, shanks, thigh, waist, shoulder, hands, feet and joints",
+        "Unstable pain in joints",
+        "Abnormal complexion",
+        "Appearance of patches"
+      ],
+      "roopa": [
+        "Seat is hands, feet, fingers and all joints",
+        "Starts in hands and feet then spreads",
+        "Pain in joints very difficult to tolerate",
+        "External type: skin is blackish/red/coppery with itching, burning, pain, stretching, piercing pain, quivering, contraction",
+        "Deep type: swelling stiff and hard with severe pain, blackish/coppery, burning, piercing pain, quivering, inflammation, distress",
+        "Vayu moves forcefully in joints producing lameness and crookedness",
+        "In Vata predominance: dilatation of vessels, pain, quivering, piercing pain, blackness, roughness, contraction of arteries",
+        "In Rakta predominance: swelling with severe distress and piercing, coppery color, pricking sensation, itching",
+        "In Pitta predominance: burning after meals, pain, fainting, sweating, thirst, narcosis, giddiness, redness, inflammation",
+        "In Kapha predominance: feeling of wetness, heaviness, unctuousness, numbness, mild pain"
+      ],
+      "bheda": [
+        "Superficial type (twak and mamsa level)",
+        "Deep type (deeper dhatus)",
+        "Both superficial and deep",
+        "Caused by one dosha - curable",
+        "Caused by two doshas - maintainable",
+        "Caused by three doshas with complications - incurable"
+      ],
+      "sadhyata": "New case caused by single dosha is curable. Two doshas is maintainable. Three doshas with complications is incurable. Complications such as sleeplessness, anorexia, dyspnoea, gangrene, stiffness in head, fainting, narcosis, distress, thirst, fever, mental confusion, trembling, hiccup, lameness, erysipelas, inflammation, piercing pain, giddiness, exhaustion, crookedness in fingers, blisters, burning, stiffness in vital parts, tumours make it incurable.",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIX",
+        "verse": "3-165"
+      }
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+{
+  "diseases": [
+    {
+      "id": "disease_001",
+      "names": {
+        "sanskrit": "Gulma",
+        "english": "Abdominal tumour / gaseous mass",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vataja / Abdominal disorder",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": [],
+      "srotas_affected": ["Purishavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Abdominal mass", "Colic pain", "Flatulence"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "44-45"
+      }
+    },
+    {
+      "id": "disease_002",
+      "names": {
+        "sanskrit": "Atisara",
+        "english": "Diarrhoea",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Gastrointestinal disorder",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": [],
+      "srotas_affected": ["Purishavaha srotas", "Annavaha srotas"],
+      "nidana": {
+        "ahara": ["Intake of food during indigestion", "Unwholesome dieting"],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Loose stools", "Excessive evacuation", "Tenesmus"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "44-45"
+      }
+    },
+    {
+      "id": "disease_003",
+      "names": {
+        "sanskrit": "Udavarta",
+        "english": "Upward movement of Vata / reverse peristalsis",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vataja disorder",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": [],
+      "srotas_affected": ["Purishavaha srotas", "Vatavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": ["Suppression of natural urges"],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Upward movement of flatus", "Retention of faeces", "Abdominal pain"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "44-45"
+      }
+    },
+    {
+      "id": "disease_004",
+      "names": {
+        "sanskrit": "Stambha",
+        "english": "Stiffness",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vataja disorder",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": ["Majja", "Asthi"],
+      "srotas_affected": [],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Stiffness in joints", "Restricted movement"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "44-45"
+      }
+    },
+    {
+      "id": "disease_005",
+      "names": {
+        "sanskrit": "Akshepaka",
+        "english": "Contracture / convulsion",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vataja disorder",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": ["Mamsa", "Majja"],
+      "srotas_affected": [],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Contracture of limbs", "Ankylosis", "Dislocation", "Pain"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "8-10"
+      }
+    },
+    {
+      "id": "disease_006",
+      "names": {
+        "sanskrit": "Adhmana",
+        "english": "Tympanitis / abdominal distension",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vataja disorder",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": [],
+      "srotas_affected": ["Purishavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": ["Suppression of natural urges"],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Abdominal distension", "Gurgling sound in abdomen", "Meteorism"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "8-10"
+      }
+    },
+    {
+      "id": "disease_007",
+      "names": {
+        "sanskrit": "Prameha",
+        "english": "Urinary disorders / diabetes",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Kaphaja / Metabolic disorder",
+      "dosha_involved": ["Kapha", "Pitta", "Vata"],
+      "dhatu_affected": ["Meda", "Mamsa", "Rakta"],
+      "srotas_affected": ["Mutravaha srotas", "Medavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Abnormal urine", "Turbid urine", "Excessive urination"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "43"
+      }
+    },
+    {
+      "id": "disease_008",
+      "names": {
+        "sanskrit": "Kustha",
+        "english": "Skin disorders",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Tridoshaja / Skin disorder",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": ["Rakta", "Mamsa", "Tvak"],
+      "srotas_affected": ["Rasavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Skin discolouration", "Itching", "Eczema"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XI",
+        "verse": "8"
+      }
+    },
+    {
+      "id": "disease_009",
+      "names": {
+        "sanskrit": "Arsha",
+        "english": "Haemorrhoids / Piles",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vataja / Anorectal disorder",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": ["Mamsa", "Rakta"],
+      "srotas_affected": ["Purishavaha srotas"],
+      "nidana": {
+        "ahara": ["Irregular and unwholesome dieting"],
+        "vihara": ["Suppression of natural urges"],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Piles", "Bleeding per rectum", "Pain in anorectal region"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "14"
+      }
+    },
+    {
+      "id": "disease_010",
+      "names": {
+        "sanskrit": "Hridroga",
+        "english": "Heart disease",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vataja / Cardiac disorder",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": ["Rakta"],
+      "srotas_affected": ["Rasavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Palpitation", "Chest pain", "Heart block", "Obstruction in heart"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XI",
+        "verse": "8"
+      }
+    },
+    {
+      "id": "disease_011",
+      "names": {
+        "sanskrit": "Pandu",
+        "english": "Anaemia",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Pittaja / Blood disorder",
+      "dosha_involved": ["Pitta"],
+      "dhatu_affected": ["Rakta"],
+      "srotas_affected": ["Raktavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Pallor", "Weakness", "Loss of complexion"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XI",
+        "verse": "8"
+      }
+    },
+    {
+      "id": "disease_012",
+      "names": {
+        "sanskrit": "Udararoga",
+        "english": "Abdominal disorders",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Tridoshaja / Abdominal disorder",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": [],
+      "srotas_affected": ["Annavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Abdominal enlargement", "Ascites"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XI",
+        "verse": "8"
+      }
+    },
+    {
+      "id": "disease_013",
+      "names": {
+        "sanskrit": "Kasa",
+        "english": "Cough",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vataja / Respiratory disorder",
+      "dosha_involved": ["Vata", "Kapha"],
+      "dhatu_affected": ["Rasa", "Rakta"],
+      "srotas_affected": ["Pranavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": ["Excessive walking", "Vehicular jerking"],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Cough", "Dyspnoea", "Hoarseness of voice"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "14"
+      }
+    },
+    {
+      "id": "disease_014",
+      "names": {
+        "sanskrit": "Shwasa",
+        "english": "Dyspnoea / Asthma",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vataja / Respiratory disorder",
+      "dosha_involved": ["Vata", "Kapha"],
+      "dhatu_affected": ["Rasa"],
+      "srotas_affected": ["Pranavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": ["Excessive walking", "Sexual intercourse after debility"],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Dyspnoea", "Breathlessness", "Cough"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "14"
+      }
+    },
+    {
+      "id": "disease_015",
+      "names": {
+        "sanskrit": "Unmada",
+        "english": "Insanity / Mental disorder",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Tridoshaja / Manasika disorder",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": ["Majja"],
+      "srotas_affected": ["Manovaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Insanity", "Abnormal behaviour"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16"
+      }
+    },
+    {
+      "id": "disease_016",
+      "names": {
+        "sanskrit": "Vata-Rakta",
+        "english": "Gout / Vatika blood disorder",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vata-Raktaja disorder",
+      "dosha_involved": ["Vata", "Rakta"],
+      "dhatu_affected": ["Rakta"],
+      "srotas_affected": ["Raktavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Joint pain", "Swelling", "Burning sensation in joints"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "18"
+      }
+    },
+    {
+      "id": "disease_017",
+      "names": {
+        "sanskrit": "Vishuchika",
+        "english": "Cholera / Gastroenteritis",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Tridoshaja / Gastrointestinal disorder",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": [],
+      "srotas_affected": ["Annavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Vomiting", "Diarrhoea", "Colic"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "18"
+      }
+    },
+    {
+      "id": "disease_018",
+      "names": {
+        "sanskrit": "Alasaka",
+        "english": "Sluggish bowel / intestinal torpor",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Kaphaja / Gastrointestinal disorder",
+      "dosha_involved": ["Kapha", "Vata"],
+      "dhatu_affected": [],
+      "srotas_affected": ["Purishavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Retention of faeces", "Indigestion", "Lethargy"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "18"
+      }
+    },
+    {
+      "id": "disease_019",
+      "names": {
+        "sanskrit": "Raktapitta",
+        "english": "Haemorrhagic disorder / bleeding disease",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Pittaja / Bleeding disorder",
+      "dosha_involved": ["Pitta", "Rakta"],
+      "dhatu_affected": ["Rakta"],
+      "srotas_affected": ["Raktavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Haemorrhage from various body orifices", "Bleeding from seminal passage"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "38-43"
+      }
+    },
+    {
+      "id": "disease_020",
+      "names": {
+        "sanskrit": "Mutrakrichra",
+        "english": "Dysuria",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vataja / Urinary disorder",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": [],
+      "srotas_affected": ["Mutravaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": ["Sexual intercourse", "Suppression of urinary urge"],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Painful urination", "Retention of urine", "Burning in urinary tract"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "15"
+      }
+    },
+    {
+      "id": "disease_021",
+      "names": {
+        "sanskrit": "Vriddhi / Antra Vriddhi",
+        "english": "Inguinal hernia / scrotal swelling",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vataja disorder",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": [],
+      "srotas_affected": [],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Scrotal swelling", "Inguinal swelling", "Pain in groin"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16"
+      }
+    },
+    {
+      "id": "disease_022",
+      "names": {
+        "sanskrit": "Plihodara",
+        "english": "Splenomegaly",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Kaphaja / Abdominal disorder",
+      "dosha_involved": ["Kapha"],
+      "dhatu_affected": ["Rakta"],
+      "srotas_affected": ["Raktavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Enlarged spleen", "Abdominal heaviness"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16"
+      }
+    },
+    {
+      "id": "disease_023",
+      "names": {
+        "sanskrit": "Vishama Jwara",
+        "english": "Intermittent fever",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Tridoshaja / Fever",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": ["Rasa", "Rakta"],
+      "srotas_affected": ["Rasavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Intermittent fever", "Emaciation", "Weakness"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16"
+      }
+    },
+    {
+      "id": "disease_024",
+      "names": {
+        "sanskrit": "Ashmari",
+        "english": "Calculus / Urinary stone",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Kaphaja / Urinary disorder",
+      "dosha_involved": ["Kapha"],
+      "dhatu_affected": [],
+      "srotas_affected": ["Mutravaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Calculus in urinary tract", "Dysuria", "Pain in urinary region"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16"
+      }
+    },
+    {
+      "id": "disease_025",
+      "names": {
+        "sanskrit": "Ardita",
+        "english": "Facial paralysis",
+        "hindi": "",
+        "gujarati": ""
+      },
+      "category": "Vataja disorder",
+      "dosha_involved": ["Vata"],
+      "dhatu_affected": ["Mamsa", "Majja"],
+      "srotas_affected": [],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": ["Facial drooping", "Paralysis of facial muscles"],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16"
+      }
+    }
+  ]
+}

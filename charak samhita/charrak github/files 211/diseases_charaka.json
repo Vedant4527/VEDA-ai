@@ -1,0 +1,428 @@
+{
+  "diseases": [
+    {
+      "id": "disease_001",
+      "names": {
+        "sanskrit": "Gulma",
+        "english": "Abdominal tumour / Phantom tumour",
+        "hindi": "Gulma",
+        "gujarati": "ગુલ્મ"
+      },
+      "category": "Abdominal disorder",
+      "dosha_involved": ["vata", "pitta", "kapha"],
+      "dhatu_affected": ["rakta"],
+      "srotas_affected": ["annavaha", "raktavaha"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [],
+      "bheda": [
+        "vatagulma",
+        "pittaja gulma",
+        "kaphaja gulma",
+        "raktaja gulma (in women)"
+      ],
+      "sadhyata": "Manageable according to type",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "Chapter V",
+        "verse": "183-189"
+      }
+    },
+    {
+      "id": "disease_002",
+      "names": {
+        "sanskrit": "Prameha",
+        "english": "Urinary disorders / Diabetes mellitus",
+        "hindi": "Prameha / Madhumeha",
+        "gujarati": "પ્રમેહ"
+      },
+      "category": "Metabolic / Urinary disorder",
+      "dosha_involved": ["kapha", "pitta", "vata"],
+      "dhatu_affected": ["medas", "rakta", "shukra", "udaka", "mamsa", "lasika", "majja", "rasa", "ojas"],
+      "srotas_affected": ["mutravaha", "medovaha", "rasavaha"],
+      "nidana": {
+        "ahara": [
+          "Idle sitting",
+          "Excessive use of curd",
+          "Meat-soup of domestic, aquatic and marshy animals",
+          "Excessive milk intake",
+          "New cereals and drinks",
+          "Products of jaggery",
+          "All kapha-promoting regimens"
+        ],
+        "vihara": [
+          "Oversleep",
+          "Sedentary lifestyle"
+        ],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [
+        "Sweating",
+        "Foul smell in body",
+        "Slackness in body",
+        "Liking for comfort in lying, sitting and sleeping",
+        "Smearing sensation in heart, eyes, tongue and ears",
+        "Heaviness in body parts (overweight)",
+        "Excessive growth of hairs and nails",
+        "Liking for cold",
+        "Dryness in throat and palate",
+        "Sweetness in mouth",
+        "Burning sensation in hands and feet",
+        "Ants rushing towards the urine"
+      ],
+      "roopa": [
+        "Kaphaja (10 types): urine watery, like sugarcane juice, viscous, with solid precipitate, white, with semen, cold, with slow impulse, saliva-like, with gravels",
+        "Pittaja (6 types): urine like alkali, black, blue, yellow like haldi, light red like manjistha, deep red",
+        "Vataja (4 types): urine with majja, with ojas, with vasa, with laska"
+      ],
+      "bheda": [
+        "Kaphaja prameha (10 types)",
+        "Pittaja prameha (6 types)",
+        "Vatika prameha (4 types)"
+      ],
+      "sadhyata": "Kaphaja and pittaja without premonitory symptoms are maintainable; vatika prameha and congenital / hereditary cases are incurable",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "Chapter VI",
+        "verse": "2-60"
+      }
+    },
+    {
+      "id": "disease_003",
+      "names": {
+        "sanskrit": "Kustha",
+        "english": "Leprosy and major skin disorders",
+        "hindi": "Kustha / Kushtharog",
+        "gujarati": "કુષ્ઠ"
+      },
+      "category": "Skin disorder (Tvak roga)",
+      "dosha_involved": ["vata", "pitta", "kapha"],
+      "dhatu_affected": ["tvak", "rakta", "mamsa", "lasika"],
+      "srotas_affected": ["raktavaha", "lasikavaha"],
+      "nidana": {
+        "ahara": [
+          "Incompatible food items and liquids",
+          "Unctuous and heavy substances",
+          "New cereals in excess",
+          "Curd in excess",
+          "Fish in excess",
+          "Salt in excess",
+          "Sour substances in excess",
+          "Black gram in excess",
+          "Radish",
+          "Rice flour preparations",
+          "Sesamum",
+          "Milk and jaggery together",
+          "Food during indigestion"
+        ],
+        "vihara": [
+          "Suppression of natural urges particularly vomiting",
+          "Physical exercise and intense heat after eating excessively",
+          "Use of cold water after sun exposure, exertion and fear",
+          "Contra-indicated items during pancakarma",
+          "Sexual intercourse during indigestion",
+          "Day sleep regularly"
+        ],
+        "manasa": [
+          "Insult to Brahmanas and teachers",
+          "Sinful activities"
+        ],
+        "agantuja": []
+      },
+      "purvaroopa": [
+        "Loss of touch sensation",
+        "Excessive or no perspiration",
+        "Deranged complexion",
+        "Appearance of rashes",
+        "Horripilation",
+        "Itching",
+        "Piercing pain",
+        "Excessive pain in wounds with quick origin and delayed healing",
+        "Burning sensation",
+        "Benumbed organs"
+      ],
+      "roopa": [
+        "Kapala kustha: black and reddish, rough, coarse, thin, exceedingly painful",
+        "Audumbara kustha: burning sensation, itching, pain, redness, brown skin hairs, like ripe udumbara fruit",
+        "Mandala kustha: white, red, stable, extensive, unctuous, raised patches joined together",
+        "Rsyajihva kustha: rough, red margins, internally blackish, painful, like antelope tongue",
+        "Pundarika kustha: whitish, red margins, raised, like lotus petals, burning sensation",
+        "Sidhma kustha: white, coppery, thin, dust-like powder on rubbing, like bottle gourd flowers, mostly in chest",
+        "Kakanaka kustha: gunja seed colour, does not suppurate, exceedingly painful, tridosaja",
+        "Ekakustha: no perspiration, extensive, like fish-scales",
+        "Carmakhya: thick-skinned like elephant",
+        "Kitibha: blackish, rough like corn, coarse",
+        "Vipadika: tearing of hands and feet with excessive pain",
+        "Alasaka: itching, red glandular pimples",
+        "Dadru: raised patch, itching, redness, pimples",
+        "Carmadala: red, itching, eruptions, pain, flakes, tenderness",
+        "Pama: white, reddish, blackish pimples with excessive itching",
+        "Visphota: white and reddish, thin-walled eruptions",
+        "Sataru: red or blackish, burning sensation, pain, multiple boils",
+        "Vicarcika: itching, blackish pimples with excessive discharge"
+      ],
+      "bheda": [
+        "Mahakustha (7 major): Kapala, Audumbara, Mandala, Rsyajihva, Pundarika, Sidhma, Kakanaka",
+        "Kshudrakustha (11 minor): Ekakustha, Carmakhya, Kitibha, Vipadika, Alasaka, Dadru, Carmadala, Pama, Visphota, Sataru, Vicarcika"
+      ],
+      "sadhyata": "Kapala and mandala are hardly curable; kakanaka is incurable; tridosaja forms are difficult; single dosa and vata-kapha forms are easier",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "Chapter VII",
+        "verse": "1-180"
+      }
+    },
+    {
+      "id": "disease_004",
+      "names": {
+        "sanskrit": "Kilasa / Switra",
+        "english": "Leucoderma / Vitiligo",
+        "hindi": "Safed dag / Shwitra",
+        "gujarati": "સ્વિત્ર / શ્વેત કુષ્ઠ"
+      },
+      "category": "Skin disorder (Tvak roga)",
+      "dosha_involved": ["vata", "pitta", "kapha"],
+      "dhatu_affected": ["rakta", "mamsa", "meda"],
+      "srotas_affected": ["raktavaha"],
+      "nidana": {
+        "ahara": [
+          "Incompatible food"
+        ],
+        "vihara": [],
+        "manasa": [
+          "False words",
+          "Ungratitude",
+          "Abusing gods",
+          "Insult to teachers",
+          "Sinful activity"
+        ],
+        "agantuja": [
+          "Previous bad deeds"
+        ]
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Daruna: red spot, morbidity in blood",
+        "Aruna: coppery spot, morbidity in flesh",
+        "Switra: white spot, morbidity in fat"
+      ],
+      "bheda": [
+        "Daruna",
+        "Aruna",
+        "Switra"
+      ],
+      "sadhyata": "Incurable if: undemarcated, extensive, with red hairs, arisen many years ago. Curable if: no red hairs, thin, pale, not old, raised in middle",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "Chapter VII",
+        "verse": "162-177"
+      }
+    },
+    {
+      "id": "disease_005",
+      "names": {
+        "sanskrit": "Rajayaksma",
+        "english": "Phthisis / Pulmonary tuberculosis / Wasting disease",
+        "hindi": "Rajayaksma / Yakshma",
+        "gujarati": "રાજ્યયક્ષ્મા"
+      },
+      "category": "Respiratory / Wasting disorder",
+      "dosha_involved": ["vata", "pitta", "kapha"],
+      "dhatu_affected": ["rasa", "rakta", "mamsa", "meda", "asthi", "majja", "shukra", "ojas"],
+      "srotas_affected": ["pranavaha", "rasavaha", "raktavaha", "annavaha"],
+      "nidana": {
+        "ahara": [
+          "Irregular diet",
+          "Various foods and drinks taken irregularly"
+        ],
+        "vihara": [
+          "Physical exertion disproportionate to strength",
+          "Battle, weight-lifting, travelling on foot, leaping, jumping",
+          "Falls and injury",
+          "Excessive sexual intercourse",
+          "Fasting"
+        ],
+        "manasa": [
+          "Envy",
+          "Eagerness",
+          "Terror",
+          "Anger",
+          "Grief"
+        ],
+        "agantuja": []
+      },
+      "purvaroopa": [
+        "Coryza",
+        "Debility",
+        "Seeing defects in defectless things",
+        "Loathsomeness in body",
+        "Wasting of strength and flesh despite meals",
+        "Longing for women, wine and meat",
+        "Desire for veiling",
+        "Often falling of flies, insects, hairs in food and drink",
+        "Growing of hairs and nails",
+        "Inauspicious dreams"
+      ],
+      "roopa": [
+        "Cough",
+        "Distress in shoulders",
+        "Derangement of voice (hoarseness)",
+        "Fever",
+        "Pain in sides",
+        "Headache",
+        "Haemoptysis (blood in sputum)",
+        "Excretion of sputum",
+        "Dyspnoea",
+        "Diarrhoea",
+        "Anorexia"
+      ],
+      "bheda": [
+        "From over-exertion (atiyoga)",
+        "From suppression of natural urges (vegadharana)",
+        "From wasting/depletion (kshaya)",
+        "From irregular diet (visamasana)"
+      ],
+      "sadhyata": "Curable if strong; incurable if emaciated and weak with all symptoms",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "Chapter VIII",
+        "verse": "1-191"
+      }
+    },
+    {
+      "id": "disease_006",
+      "names": {
+        "sanskrit": "Unmada",
+        "english": "Insanity / Mental disorders",
+        "hindi": "Unmad / Pagalpan",
+        "gujarati": "ઉન્માદ"
+      },
+      "category": "Manasika roga (Mental disorder)",
+      "dosha_involved": ["vata", "pitta", "kapha"],
+      "dhatu_affected": [],
+      "srotas_affected": ["manovaha"],
+      "nidana": {
+        "ahara": [
+          "Rough, deficient and cold food (vataja)",
+          "Uncooked, pungent, sour, burning and hot edibles (pittaja)",
+          "Excessive saturation (kaphaja)",
+          "Dirty food"
+        ],
+        "vihara": [
+          "Suppressing impelled urges",
+          "Excessive evacuation"
+        ],
+        "manasa": [
+          "Anxiety",
+          "Wasting of dhatus",
+          "Fasting"
+        ],
+        "agantuja": [
+          "Insult to gods, sages, gandharvas, pisacas, yaksas and forefathers",
+          "Unmethodical performance of religious duties",
+          "Past deeds",
+          "Entry of evil spirits"
+        ]
+      },
+      "purvaroopa": [
+        "Perverted intellect",
+        "Psychic agitation",
+        "Restless eyes",
+        "Impatience",
+        "Incoherent speech",
+        "Vacant hrdaya (mind)"
+      ],
+      "roopa": [
+        "Vataja: inopportune laughing, smiling, dancing, singing, speaking, weeping; roughness, emaciation, reddish complexion; aggravation after digestion",
+        "Pittaja: intolerance, agitation, nakedness, terrorising, excessive movements, heat, wrath, desire for shade, cold food; yellowish lustre",
+        "Kaphaja: slow speech and movements, anorexia, liking for women and loneliness, excessive sleep, vomiting, salivation, aggravation on taking meals, whiteness of nails",
+        "Sannipataja: all above characters combined; incurable",
+        "Exogenous (agantuja): superhuman speech, colour, power, movements; irregular time of aggravation"
+      ],
+      "bheda": [
+        "Vataja unmada",
+        "Pittaja unmada",
+        "Kaphaja unmada",
+        "Sannipataja unmada (incurable)",
+        "Agantuja unmada (8 types: from gods, sages, forefathers, gandharvas, yaksas, brahmaraksasas, raksasas, pisacas)"
+      ],
+      "sadhyata": "Sannipataja and those striking others violently are incurable; others are treatable",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "Chapter IX",
+        "verse": "1-98"
+      }
+    },
+    {
+      "id": "disease_007",
+      "names": {
+        "sanskrit": "Apasmara",
+        "english": "Epilepsy",
+        "hindi": "Mirgi / Apasmara",
+        "gujarati": "અપસ્માર"
+      },
+      "category": "Neurological / Manasika disorder",
+      "dosha_involved": ["vata", "pitta", "kapha"],
+      "dhatu_affected": [],
+      "srotas_affected": ["manovaha"],
+      "nidana": {
+        "ahara": [
+          "Unwholesome and unclean food"
+        ],
+        "vihara": [],
+        "manasa": [
+          "Anxiety",
+          "Passion",
+          "Fear",
+          "Anger",
+          "Grief",
+          "Agitation",
+          "Affliction of mind with rajas and tamas"
+        ],
+        "agantuja": [
+          "Masking of heart with dosas"
+        ]
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Departure of memory",
+        "Unconsciousness",
+        "Loathsome appearance",
+        "Derangement of intellect and mind",
+        "Falls",
+        "Twitching in tongue, eyes and eyebrows",
+        "Excessive salivation",
+        "Convulsions in hands and feet",
+        "Vatika: trembling, biting teeth, froth, excessive respiration, sees things as rough reddish black",
+        "Paittika: yellow froth, limbs face and eyes yellow, thirst, heat, sees environment as on fire",
+        "Kaphaja: white froth, cold, horripilated, heavy, sees things white, recovers after long period",
+        "Sannipataja: all symptoms combined"
+      ],
+      "bheda": [
+        "Vatika apasmara",
+        "Paittika apasmara",
+        "Kaphaja apasmara",
+        "Sannipataja apasmara (incurable)"
+      ],
+      "sadhyata": "Sannipataja, wasted person and old are incurable; others treatable with difficulty; chronic in nature",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "Chapter X",
+        "verse": "1-68"
+      }
+    }
+  ]
+}

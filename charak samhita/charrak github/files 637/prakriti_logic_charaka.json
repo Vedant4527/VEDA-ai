@@ -1,0 +1,199 @@
+{
+  "prakriti": {
+    "vata": {
+      "physical": [
+        "rough body",
+        "light body",
+        "cold body",
+        "dry body",
+        "excessive roughness and lightness"
+      ],
+      "mental": [
+        "fear",
+        "anxiety",
+        "agitation",
+        "instability"
+      ],
+      "digestive": [
+        "stimulated digestive fire (irregular)",
+        "hard bowels",
+        "retention of faeces",
+        "retention of flatus",
+        "retention of urine",
+        "tendency toward constipation",
+        "poor digestion from dryness"
+      ],
+      "sleep": "disturbed sleep, sleeplessness",
+      "speech": "excessive speech",
+      "memory": "",
+      "emotional": [
+        "fear",
+        "grief",
+        "wrath",
+        "anxiety"
+      ],
+      "disease_tendency": [
+        "vata disorders",
+        "vatika gulma",
+        "vatika disorders of abdomen",
+        "tympanitis",
+        "colic pain",
+        "retention of flatus, faeces, urine, semen",
+        "trembling",
+        "convulsions",
+        "stiffness in sides, back, waist",
+        "pain in joints",
+        "numbness in body parts",
+        "udavarta",
+        "bodyache"
+      ],
+      "aggravated_signs": [
+        "roughness in body",
+        "hardness of bowels",
+        "retention of urine and faeces",
+        "tympanitis",
+        "distension",
+        "pain",
+        "cutting pain in anal region"
+      ],
+      "decreased_signs": [
+        "weakness",
+        "debility",
+        "less movement"
+      ]
+    },
+    "pitta": {
+      "physical": [
+        "hot body",
+        "burning sensation in body",
+        "tendency toward heat"
+      ],
+      "mental": [
+        "anger",
+        "irritability"
+      ],
+      "digestive": [
+        "good digestive fire",
+        "tendency toward pitta disorders in digestion",
+        "aggravated pitta causes purgative drug to go upwards if kapha is deficient"
+      ],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [
+        "anger",
+        "irritability"
+      ],
+      "disease_tendency": [
+        "paittika fever",
+        "paittika cough",
+        "burning sensation",
+        "internal haemorrhage (upward)",
+        "jaundice (kamala, halimaka)",
+        "anaemia",
+        "prameha",
+        "skin disorders",
+        "vatarakta",
+        "erysipelas (visarpa)"
+      ],
+      "aggravated_signs": [
+        "burning sensation",
+        "thirst",
+        "mental confusion",
+        "giddiness",
+        "fainting",
+        "pitta in vomit during emesis"
+      ],
+      "decreased_signs": [
+        "decreased digestive fire",
+        "pallor",
+        "loss of heat"
+      ]
+    },
+    "kapha": {
+      "physical": [
+        "heavy body",
+        "unctuous body",
+        "cold body tendency",
+        "soft body",
+        "stable body"
+      ],
+      "mental": [
+        "steady",
+        "slow",
+        "attached",
+        "greedy"
+      ],
+      "digestive": [
+        "deficient digestive fire",
+        "slow digestion",
+        "tendency toward ama",
+        "soft bowels",
+        "kapha-predominant persons vomit easily"
+      ],
+      "sleep": "excessive sleep, drowsiness",
+      "speech": "slow measured speech",
+      "memory": "good long-term memory",
+      "emotional": [
+        "attachment",
+        "greed",
+        "possessiveness"
+      ],
+      "disease_tendency": [
+        "kapha disorders",
+        "gulma (kapha type)",
+        "coryza",
+        "bronchial asthma",
+        "kustha",
+        "prameha",
+        "swelling",
+        "goitre",
+        "filaria",
+        "anorexia",
+        "nausea",
+        "indigestion",
+        "salivation",
+        "obesity"
+      ],
+      "aggravated_signs": [
+        "salivation",
+        "nausea",
+        "distension",
+        "horripilation",
+        "heaviness in body",
+        "drowsiness",
+        "vomiting",
+        "coryza",
+        "non-elimination of wind"
+      ],
+      "decreased_signs": [
+        "dryness",
+        "deficiency of kapha causes emetic drug to go downwards",
+        "decreased cohesion"
+      ]
+    },
+    "dual_prakriti": {
+      "vata_pitta": [
+        "disorders of vata and pitta simultaneously",
+        "jivaka, rsabhaka, meda, sravani, kakoli and related drugs beneficial for vata-pitta disorders",
+        "tendency toward burning and stiffness together"
+      ],
+      "pitta_kapha": [
+        "drugs like danti and dravanti dissolve pitta and kapha but vitiate vata",
+        "paittika-kaphaja combined tendencies"
+      ],
+      "vata_kapha": [
+        "saptala and shankhini indicated in disorders caused by kapha and vata",
+        "cold and dry combined tendency",
+        "drugs like trivrit, pippali useful in vata-kapha combined conditions"
+      ]
+    },
+    "sama_prakriti": [
+      "strongest constitution",
+      "balanced digestive fire",
+      "balanced elimination",
+      "least susceptible to disease",
+      "all three doshas in equilibrium"
+    ]
+  }
+}

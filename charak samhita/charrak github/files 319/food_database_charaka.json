@@ -1,0 +1,359 @@
+{
+  "foods": [
+    {
+      "id": "food_001",
+      "names": {
+        "sanskrit": "Takra",
+        "english": "Buttermilk",
+        "hindi": "Chaach / Mattha",
+        "gujarati": "Chaas"
+      },
+      "category": "Dairy / Fermented",
+      "properties": {
+        "rasa": ["Sour", "Astringent", "Sweet"],
+        "virya": "Hot (slightly)",
+        "vipaka": "Sweet (Madhura vipaka)",
+        "guna": ["Laghu (light)", "Vikasi (depressant)", "Ruksha (rough)", "Slightly unctuous"]
+      },
+      "dosha_effect": {
+        "vata": "Reduces (due to sweet, sour and viscous nature)",
+        "pitta": "Does not vitiate (due to sweet vipaka; fresh buttermilk does not produce burning)",
+        "kapha": "Reduces (due to astringent, hot, vikasi and rough properties)"
+      },
+      "therapeutic_uses": [
+        "Arsha (piles) — especially for vata and kapha; no remedy better than buttermilk",
+        "Grahani roga — due to appetising nature, astringency and lightness",
+        "Alleviates 100 disorders of vata and kapha (80 of vata and 20 of kapha)",
+        "Rasa cleared by buttermilk gives corpulence, strength, complexion and pleasure",
+        "Piles destroyed by buttermilk do not recur",
+        "Promotes corpulence, strength, complexion and digestive power"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "Before, mid and after meals; or as post-meal drink; defatted for kapha, fatty for vata",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XIV (Arsha Chikitsa), XV (Grahani Chikitsa)"
+      }
+    },
+    {
+      "id": "food_002",
+      "names": {
+        "sanskrit": "Rakta Sali",
+        "english": "Red Rice / Red Sali rice",
+        "hindi": "Lal Chawal",
+        "gujarati": "Lal Chaval"
+      },
+      "category": "Cereal / Grain",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Wholesome for patients of arsha (piles)",
+        "Recommended as diet in bleeding piles with meat soups"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XIV (Arsha Chikitsa)"
+      }
+    },
+    {
+      "id": "food_003",
+      "names": {
+        "sanskrit": "Godhuma",
+        "english": "Wheat",
+        "hindi": "Gehun",
+        "gujarati": "घઉ (Ghau)"
+      },
+      "category": "Cereal / Grain",
+      "properties": {
+        "rasa": ["Sweet"],
+        "virya": "Cold",
+        "vipaka": "Sweet",
+        "guna": ["Heavy", "Unctuous", "Kapha-aggravating"]
+      },
+      "dosha_effect": {
+        "vata": "Reduces",
+        "pitta": "Reduces",
+        "kapha": "Increases"
+      },
+      "therapeutic_uses": [
+        "Wholesome diet for panduroga (anaemia) and kamala (jaundice)",
+        "Wheat flour mixed with ghee and followed by milk for pacifying excessive agni",
+        "Churned drink of wheatflour prescribed after venesection"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XV (Grahani Chikitsa), XVI (Panduroga Chikitsa)"
+      }
+    },
+    {
+      "id": "food_004",
+      "names": {
+        "sanskrit": "Yava",
+        "english": "Barley",
+        "hindi": "Jau",
+        "gujarati": "Jav"
+      },
+      "category": "Cereal / Grain",
+      "properties": {
+        "rasa": ["Sweet", "Astringent"],
+        "virya": "Cold",
+        "vipaka": "Sweet",
+        "guna": ["Laghu (light)", "Ruksha (rough)"]
+      },
+      "dosha_effect": {
+        "vata": "Slightly increases",
+        "pitta": "Reduces",
+        "kapha": "Reduces"
+      },
+      "therapeutic_uses": [
+        "Wholesome diet for panduroga (anaemia) and kamala (jaundice)",
+        "Barley cakes with buttermilk as diet for mandura vataka treatment",
+        "Grain boluses used for fomentation in arsha"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XVI (Panduroga Chikitsa)"
+      }
+    },
+    {
+      "id": "food_005",
+      "names": {
+        "sanskrit": "Mudga",
+        "english": "Green Gram / Mung Bean",
+        "hindi": "Moong",
+        "gujarati": "Mag"
+      },
+      "category": "Legume / Pulse",
+      "properties": {
+        "rasa": ["Sweet", "Astringent"],
+        "virya": "Cold",
+        "vipaka": "Sweet",
+        "guna": ["Laghu (light)"]
+      },
+      "dosha_effect": {
+        "vata": "Slightly increases",
+        "pitta": "Reduces",
+        "kapha": "Reduces"
+      },
+      "therapeutic_uses": [
+        "Soup of green gram recommended for panduroga (anaemia) and kamala (jaundice)",
+        "Soup soured with pomegranate, added with ghee and appetisers for paittika grahani"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XVI (Panduroga Chikitsa)"
+      }
+    },
+    {
+      "id": "food_006",
+      "names": {
+        "sanskrit": "Dadima",
+        "english": "Pomegranate",
+        "hindi": "Anar",
+        "gujarati": "Dadam"
+      },
+      "category": "Fruit",
+      "properties": {
+        "rasa": ["Sweet", "Sour", "Astringent"],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "Reduces",
+        "pitta": "Reduces",
+        "kapha": "Reduces"
+      },
+      "therapeutic_uses": [
+        "Juice used in cooking ghrtas for arsha",
+        "Ghee prepared with pomegranate juice and yavaksara alleviates bleeding piles",
+        "Used as sour ingredient in cangeri ghrta for piles and grahani",
+        "Used in multiple formulations for arsha and grahani roga"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XIV (Arsha Chikitsa), XV (Grahani Chikitsa)"
+      }
+    },
+    {
+      "id": "food_007",
+      "names": {
+        "sanskrit": "Ksira (Go-Ksira)",
+        "english": "Cow's Milk",
+        "hindi": "Gai ka Doodh",
+        "gujarati": "Gaay nu Dudh"
+      },
+      "category": "Dairy",
+      "properties": {
+        "rasa": ["Sweet"],
+        "virya": "Cold",
+        "vipaka": "Sweet",
+        "guna": ["Heavy", "Unctuous", "Slimy"]
+      },
+      "dosha_effect": {
+        "vata": "Reduces",
+        "pitta": "Reduces",
+        "kapha": "Increases"
+      },
+      "therapeutic_uses": [
+        "For patients of abdominal disorder (udara roga) who are emaciated — 'wholesome as nectar'",
+        "Milk diet for six months after fluid drainage in udara roga",
+        "Used in numerous medicated ghrta preparations",
+        "Sali rice with goat's milk as diet in bleeding piles after kutajadi rasakriya",
+        "Anaemic persons should take milk mixed with cow's or buffalow's urine for a fortnight",
+        "Rice cooked with milk as diet for excessive agni (tikshna agni)"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "After digestion of medicine",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XIII, XIV (Arsha Chikitsa), XV (Grahani Chikitsa), XVI (Panduroga Chikitsa)"
+      }
+    },
+    {
+      "id": "food_008",
+      "names": {
+        "sanskrit": "Mahisha Ghrta",
+        "english": "Buffalow's Ghee",
+        "hindi": "Bhains ka Ghee",
+        "gujarati": "Bhens nu Ghee"
+      },
+      "category": "Dairy / Fat",
+      "properties": {
+        "rasa": ["Sweet"],
+        "virya": "Cold",
+        "vipaka": "Sweet",
+        "guna": ["Heavy", "Unctuous"]
+      },
+      "dosha_effect": {
+        "vata": "Reduces",
+        "pitta": "Reduces",
+        "kapha": "Increases"
+      },
+      "therapeutic_uses": [
+        "Buffalow's ghee cooked with milk along with paste of haridra, triphala, nimba, bala and madhuka — excellent remedy for jaundice",
+        "Buffalow's ghee with guduchi juice and milk for Halimaka",
+        "Buffalow's ghee cooked with cow's urine and daruharidra for pandu"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XVI (Panduroga Chikitsa)"
+      }
+    },
+    {
+      "id": "food_009",
+      "names": {
+        "sanskrit": "Draksha",
+        "english": "Dried Grapes / Raisins",
+        "hindi": "Munakka / Kishmish",
+        "gujarati": "Draksh / Kishmish"
+      },
+      "category": "Fruit (dried)",
+      "properties": {
+        "rasa": ["Sweet"],
+        "virya": "Cold",
+        "vipaka": "Sweet",
+        "guna": ["Unctuous", "Heavy"]
+      },
+      "dosha_effect": {
+        "vata": "Reduces",
+        "pitta": "Reduces",
+        "kapha": "Increases slightly"
+      },
+      "therapeutic_uses": [
+        "Old ghee cooked with paste of dried grapes 320 gm alleviates jaundice, gulma, anaemia, fever, prameha and udara roga (Draksa ghrta)",
+        "Cold decoction of dried grapes used in Kanakarista",
+        "Used in Dhatryavaleha for jaundice",
+        "Juice of grapes recommended for kamala (jaundice)"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XV (Grahani Chikitsa), XVI (Panduroga Chikitsa)"
+      }
+    },
+    {
+      "id": "food_010",
+      "names": {
+        "sanskrit": "Syamaka",
+        "english": "Barnyard Millet / Syamaka cereal",
+        "hindi": "Sanwa",
+        "gujarati": "Samva"
+      },
+      "category": "Cereal / Grain",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["Light (Laghu)"]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": [
+        "Light diet of syamaka or koradaga cereals with milk for recovery after abdominal fluid disorder",
+        "Diet in bleeding piles (sali, syamaka and kodo with boiled milk)"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XIII, XIV (Arsha Chikitsa)"
+      }
+    }
+  ]
+}

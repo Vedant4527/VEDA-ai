@@ -1,0 +1,932 @@
+{
+  "mappings": [
+    {
+      "disease_id": "disease_001",
+      "disease_name": "Mahahikka (Great Hiccup)",
+      "herbs": [
+        {
+          "herb_name": "pippali",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "rock salt",
+          "role": "adjunct",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "honey",
+          "role": "anupana",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "draksa",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "amalaka",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Tejovatyadi Ghrta", "Manasiladi Ghrta", "Muktadya Curna"],
+      "pathya": {
+        "diet_include": ["rice with uncting substance", "meat soup of fish", "meat soup of boar", "supernatant fatty layer of curd"],
+        "diet_avoid": ["etiological factors mentioned", "kapha-aggravating things", "cold water", "rough food"],
+        "lifestyle_follow": ["unctuous sudation by tubular method", "bed sudation", "bolus sudation", "massage with salted oil"],
+        "lifestyle_avoid": ["dust", "smoke", "wind", "cold places", "physical exertion", "sexual intercourse"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVII"
+      }
+    },
+    {
+      "disease_id": "disease_004",
+      "disease_name": "Ksudra Hikka (Minor Hiccup)",
+      "herbs": [
+        {
+          "herb_name": "pippali",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "honey",
+          "role": "anupana",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "amalaka",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "kapittha",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "draksa",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "sunthi",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "kola",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "sauvarcala",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "sunthi (mixed with double sugar)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "hot water",
+          "duration": ""
+        },
+        {
+          "herb_name": "bhargi",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "hot water",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Satyadya Curna", "Muktadya Curna", "Tejovatyadi Ghrta", "Manasiladi Ghrta"],
+      "pathya": {
+        "diet_include": ["food and drinks (subsides after meal)"],
+        "diet_avoid": ["physical exertion"],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": ["physical exertion"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVII"
+      }
+    },
+    {
+      "disease_id": "disease_010",
+      "disease_name": "Tamaka Swasa (Bronchial Asthma)",
+      "herbs": [
+        {
+          "herb_name": "sati",
+          "role": "primary",
+          "dosage_specific": "equal parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "coraka",
+          "role": "primary",
+          "dosage_specific": "equal parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "jivanti",
+          "role": "primary",
+          "dosage_specific": "equal parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "twak",
+          "role": "primary",
+          "dosage_specific": "equal parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "musta",
+          "role": "primary",
+          "dosage_specific": "equal parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "puskaramula",
+          "role": "primary",
+          "dosage_specific": "equal parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "surasa",
+          "role": "primary",
+          "dosage_specific": "equal parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "tamalaki",
+          "role": "primary",
+          "dosage_specific": "equal parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "ela",
+          "role": "primary",
+          "dosage_specific": "equal parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "pippali",
+          "role": "primary",
+          "dosage_specific": "equal parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "aguru",
+          "role": "primary",
+          "dosage_specific": "equal parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "sunthi",
+          "role": "primary",
+          "dosage_specific": "equal parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "balaka",
+          "role": "primary",
+          "dosage_specific": "equal parts",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "sugar",
+          "role": "adjunct",
+          "dosage_specific": "eight parts",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Satyadya Curna", "Pippalyadya Ghrta"],
+      "pathya": {
+        "diet_include": ["hot things", "vata and kapha alleviating substances", "warm milk with jaggery (after smoking)"],
+        "diet_avoid": ["cold things", "kapha-increasing things", "clouds and water exposure", "easterly wind"],
+        "lifestyle_follow": ["emesis (in strong patients)", "purgation", "sitting posture preferred"],
+        "lifestyle_avoid": ["lying posture", "cold environment", "cloud exposure"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVII"
+      }
+    },
+    {
+      "disease_id": "disease_012",
+      "disease_name": "Vataja Kasa (Vata-type Cough)",
+      "herbs": [
+        {
+          "herb_name": "pippali",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "sunthi",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "rasna",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "gudaci",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "kantakari",
+          "role": "primary",
+          "dosage_specific": "decoction",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "hingu",
+          "role": "adjunct",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "vidanga",
+          "role": "adjunct",
+          "dosage_specific": "",
+          "anupana": "ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "rock salt (saindhava)",
+          "role": "adjunct",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "bhargi",
+          "role": "adjunct",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "yavaksara",
+          "role": "adjunct",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "duralabha",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "oil",
+          "duration": ""
+        },
+        {
+          "herb_name": "draksa",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "karkatasrigi",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "oil",
+          "duration": ""
+        },
+        {
+          "herb_name": "kustha",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "honey and ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "manasila (realgar)",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "honey and ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "madhuyasti",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Kantakari Ghrta", "Pippalyadya Ghrta", "Rasna Ghrta", "Tryusanadya Ghrta", "Citrakadi Leha"],
+      "pathya": {
+        "diet_include": ["unctuous food", "sour food", "salted food", "hot food and drinks", "ghee before meals", "gruels processed with yavani, pippali, bilva, sunthi, citraka, rasna, jiraka", "liquid gruel with dasamila and pancakola", "milk with sesamum", "meat of fish, cock and boar with ghee and rock salt", "vastuka vegetable", "vayasi", "edibles prepared with milk, sugarcane juice and jaggery", "sour gruel", "clear wine", "sweet, sour and salty substances"],
+        "diet_avoid": ["rough food", "cold food", "astringent food", "fasting", "deficient food"],
+        "lifestyle_follow": ["unctuous applications (ghrtas)", "enemas", "smoking", "linctus", "massage", "sprinkling", "unctuous fomentations"],
+        "lifestyle_avoid": ["suppression of urges", "exertion", "sexual intercourse"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVIII"
+      }
+    },
+    {
+      "disease_id": "disease_013",
+      "disease_name": "Paittika Kasa (Pitta-type Cough)",
+      "herbs": [
+        {
+          "herb_name": "madana",
+          "role": "primary (emesis)",
+          "dosage_specific": "",
+          "anupana": "ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "kasmarya",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "madhuka",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "madhuyasti",
+          "role": "primary",
+          "dosage_specific": "paste or powder",
+          "anupana": "juice of vidari and sugarcane",
+          "duration": ""
+        },
+        {
+          "herb_name": "trivrta",
+          "role": "purgative",
+          "dosage_specific": "mixed with sweets (thin phlegm) or bitters (thick phlegm)",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "musta",
+          "role": "adjunct (with kapha)",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "marica",
+          "role": "adjunct (with kapha)",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "sugar (misri)",
+          "role": "adjunct",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "candana",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "draksa",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "honey and ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "utpala",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "amalaka",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "spagataka",
+          "role": "linctus ingredient",
+          "dosage_specific": "",
+          "anupana": "ghee and honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "lotus seeds",
+          "role": "linctus ingredient",
+          "dosage_specific": "",
+          "anupana": "ghee and honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "nili",
+          "role": "linctus ingredient",
+          "dosage_specific": "",
+          "anupana": "ghee and honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "gajapippali",
+          "role": "linctus ingredient",
+          "dosage_specific": "",
+          "anupana": "ghee and honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "parched paddy",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "vamsalocana",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "padmaka",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "kharjara (dates)",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "goksura",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "vidari",
+          "role": "adjunct",
+          "dosage_specific": "juice",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "pippali",
+          "role": "primary (in milk preparation)",
+          "dosage_specific": "",
+          "anupana": "honey added after cooling",
+          "duration": ""
+        },
+        {
+          "herb_name": "lac",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "murva",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Tryusanadya Ghrta"],
+      "pathya": {
+        "diet_include": ["cold and sweet regimen", "yamaka barley and kodo cereals", "sweetened meat soup of wild animals", "green gram soup", "bitter vegetables", "sali and sastika rice (thin phlegm)", "sour grapes juice", "sugarcane juice", "milk", "sweet and cold non-burning things", "meat soups processed with kakoli, brhati, meda, vasa and sunthi"],
+        "diet_avoid": ["pungent substances", "hot substances", "burning substances", "sour substances", "alkaline substances", "exposure to heat"],
+        "lifestyle_follow": ["cold and sweet regimen after evacuation", "emesis (with ghee) for profuse phlegm", "purgation (trivrta with sweets or bitters according to phlegm type)"],
+        "lifestyle_avoid": ["anger", "exposure to fire heat", "exposure to sun heat"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVIII"
+      }
+    },
+    {
+      "disease_id": "disease_014",
+      "disease_name": "Kaphaja Kasa (Kapha-type Cough)",
+      "herbs": [
+        {
+          "herb_name": "katphala",
+          "role": "primary",
+          "dosage_specific": "decoction",
+          "anupana": "honey and asafoetida",
+          "duration": ""
+        },
+        {
+          "herb_name": "kattrna",
+          "role": "primary",
+          "dosage_specific": "decoction",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "bhargi",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "musta",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "dhanyaka",
+          "role": "adjunct",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "vaca",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "haritaki",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "sunthi",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "parpataka",
+          "role": "adjunct",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "karkatasrigi",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "devadaru",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "pippali",
+          "role": "primary",
+          "dosage_specific": "10 gm fried in oil with sugarcandy",
+          "anupana": "decoction of horse gram",
+          "duration": ""
+        },
+        {
+          "herb_name": "kasamarda",
+          "role": "supportive",
+          "dosage_specific": "juice",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "ashvavit",
+          "role": "supportive",
+          "dosage_specific": "juice",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "bhringaraja",
+          "role": "supportive",
+          "dosage_specific": "juice",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "vartaka",
+          "role": "supportive",
+          "dosage_specific": "juice",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "black tulasi",
+          "role": "supportive",
+          "dosage_specific": "juice",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "honey",
+          "role": "anupana",
+          "dosage_specific": "pure honey",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "sauvarcala powder (alkali of pippali)",
+          "role": "adjunct",
+          "dosage_specific": "",
+          "anupana": "ghee",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Kantakasri Ghrta", "Kulatthadi Ghrta", "Dasamuladi Ghrta"],
+      "pathya": {
+        "diet_include": ["barley food", "pungent food", "rough food", "hot food", "kapha-alleviating drugs and diet", "kulattha (horse gram) vegetable soup with radish", "alkali of pippali", "meat soup of wild and burrow-dweller animals", "oil of sesamum, mustard and bilva", "pure honey", "sour hot water", "buttermilk", "wine", "water dipped with puskaramula overnight (with honey)"],
+        "diet_avoid": ["heavy food", "slimy food", "sweet food", "unctuous food", "over-sleep"],
+        "lifestyle_follow": ["emesis first (in strong patients)", "kapha-alleviating measures"],
+        "lifestyle_avoid": ["sedentary habit", "over-sleep"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVIII"
+      }
+    },
+    {
+      "disease_id": "disease_015",
+      "disease_name": "Urakshataja Kasa (Cough due to Chest Wound)",
+      "herbs": [
+        {
+          "herb_name": "pippali",
+          "role": "primary",
+          "dosage_specific": "10 gm paste",
+          "anupana": "milk, honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "madhuka",
+          "role": "primary",
+          "dosage_specific": "10 gm paste",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "meda",
+          "role": "smoking ingredient",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "mahimeda",
+          "role": "smoking ingredient",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "bala",
+          "role": "smoking ingredient",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "atibala",
+          "role": "smoking ingredient",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "realgar (manasila)",
+          "role": "smoking ingredient",
+          "dosage_specific": "",
+          "anupana": "sugarcane juice or jaggery water",
+          "duration": ""
+        },
+        {
+          "herb_name": "palasa",
+          "role": "smoking ingredient",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "ajagandhi",
+          "role": "smoking ingredient",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "twakksiri",
+          "role": "smoking ingredient",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "sunthi",
+          "role": "smoking ingredient",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "jivaniya ghrta",
+          "role": "primary (after smoking)",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "ghee extracted from milk (ksheerasarpis)",
+          "role": "primary (for haemoptysis)",
+          "dosage_specific": "",
+          "anupana": "nasal or oral",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Tryusanadya Ghrta", "Jivaniya Ghrta (cross-reference)"],
+      "pathya": {
+        "diet_include": ["sweet and vitalising drugs", "strength-promoting drugs", "milk", "ghee", "honey", "meat soups of common quail", "goat's milk boiled with panca trpamila (thirst)", "gruel (exhausted patients)", "partridge meat"],
+        "diet_avoid": ["heavy food", "rough food", "dry food"],
+        "lifestyle_follow": ["massage with ghrta (for vata-pitta breaking pain)", "massage with vata-alleviating oils (for vata affliction)", "smoking formulations", "unctuous enema (for swelling in penis, anus, hip and groin)"],
+        "lifestyle_avoid": ["excessive sexual indulgence", "weight lifting", "combat activities", "suppression of urges"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVIII"
+      }
+    },
+    {
+      "disease_id": "disease_016",
+      "disease_name": "Kshayaja Kasa (Cough due to Wasting / Phthisis)",
+      "herbs": [
+        {
+          "herb_name": "aragvadha",
+          "role": "evacuative (in ghrta)",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "trivrta",
+          "role": "evacuative (in ghrta)",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "grape juice (draksa)",
+          "role": "evacuative medium",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "tilvaka",
+          "role": "evacuative (decoction)",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "vidari",
+          "role": "evacuative (juice)",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "karkatasrigi",
+          "role": "primary (rebuilding ghrta)",
+          "dosage_specific": "",
+          "anupana": "milk",
+          "duration": ""
+        },
+        {
+          "herb_name": "bala (two types)",
+          "role": "primary (rebuilding ghrta)",
+          "dosage_specific": "",
+          "anupana": "milk",
+          "duration": ""
+        },
+        {
+          "herb_name": "kadamba",
+          "role": "supportive (for dysuria)",
+          "dosage_specific": "",
+          "anupana": "ghee and milk",
+          "duration": ""
+        },
+        {
+          "herb_name": "talasasya (mastaka)",
+          "role": "supportive (for dysuria)",
+          "dosage_specific": "",
+          "anupana": "ghee and milk",
+          "duration": ""
+        },
+        {
+          "herb_name": "vidari (for dysuria)",
+          "role": "supportive",
+          "dosage_specific": "",
+          "anupana": "ghee and milk",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Dasamuladi Ghrta (Kshayaja)"],
+      "pathya": {
+        "diet_include": ["body-weight and digestive-power promoting measures", "unctuous and mild purgation (if impurity present)", "meat of wild animals then gradually quail", "burrow-dweller animals", "beast or bird of prey"],
+        "diet_avoid": ["irregular meals", "unsuitable food", "sexual excess"],
+        "lifestyle_follow": ["unctuous and mild purgation if impurity present", "protection of body and strength"],
+        "lifestyle_avoid": ["excessive sexual intercourse", "suppression of urges", "disgust and anxiety"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVIII"
+      }
+    }
+  ]
+}

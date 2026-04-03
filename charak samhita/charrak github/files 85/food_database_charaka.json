@@ -1,0 +1,473 @@
+{
+  "foods": [
+    {
+      "id": "food_001",
+      "names": {
+        "sanskrit": "Sali",
+        "english": "Rice (Sali variety)",
+        "hindi": "Sali Chawal",
+        "gujarati": "Sali Chaval"
+      },
+      "category": "Dhanya (grain)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["post-rasayana diet", "post-vajikarana diet", "convalescence diet", "used with ghee and milk as anupana for all rasayana formulations"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana"
+      }
+    },
+    {
+      "id": "food_002",
+      "names": {
+        "sanskrit": "Sastika",
+        "english": "Sixty-day rice",
+        "hindi": "Sastika Chawal",
+        "gujarati": "Sastika Chaval"
+      },
+      "category": "Dhanya (grain)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["post-rasayana diet", "post-vajikarana diet", "aphrodisiac diet", "used with ghee and milk for convalescence", "fertility diet"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana"
+      }
+    },
+    {
+      "id": "food_003",
+      "names": {
+        "sanskrit": "Masa / Masha",
+        "english": "Black gram",
+        "hindi": "Urad Dal",
+        "gujarati": "Adad"
+      },
+      "category": "Shimbi (legume)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["heavy", "unctuous"]
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["aphrodisiac preparations", "vajikarana", "bulk-promoting", "strength-promoting", "semen-promoting", "fertility"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "II - Vajikarana"
+      }
+    },
+    {
+      "id": "food_004",
+      "names": {
+        "sanskrit": "Ghrta",
+        "english": "Ghee / Clarified butter",
+        "hindi": "Ghee",
+        "gujarati": "Ghee"
+      },
+      "category": "Sneha (fat/oil)",
+      "properties": {
+        "rasa": ["madhura"],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["unctuous", "heavy", "cold", "soft", "smooth"]
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["universal anupana for rasayana and vajikarana", "strength-promoting", "intellect-promoting", "agni-promoting", "complexion-promoting", "ojas-promoting", "longevity", "aphrodisiac"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana"
+      }
+    },
+    {
+      "id": "food_005",
+      "names": {
+        "sanskrit": "Madhu",
+        "english": "Honey",
+        "hindi": "Shahad",
+        "gujarati": "Madh"
+      },
+      "category": "Madhu varga",
+      "properties": {
+        "rasa": ["madhura", "kashaya"],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "",
+        "kapha": "alleviates"
+      },
+      "therapeutic_uses": ["universal anupana for rasayana formulations", "aphrodisiac anupana", "wound healing", "eye diseases", "intellect-promoting", "complexion-promoting"],
+      "contraindications": ["should not be heated", "should not be mixed with equal quantity of ghee"],
+      "incompatible_with": ["heated preparations", "equal quantity of ghee"],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana"
+      }
+    },
+    {
+      "id": "food_006",
+      "names": {
+        "sanskrit": "Ksheera (Go-ksheera)",
+        "english": "Cow's milk",
+        "hindi": "Gaye ka Doodh",
+        "gujarati": "Gaya nu Dudh"
+      },
+      "category": "Gorasa (cow's product)",
+      "properties": {
+        "rasa": ["madhura"],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["heavy", "unctuous", "cold", "smooth", "soft", "sweet"]
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["universal anupana for rasayana", "aphrodisiac", "semen-promoting", "bulk-promoting", "strength-promoting", "longevity", "fertility", "used with all rasayana formulations"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana"
+      }
+    },
+    {
+      "id": "food_007",
+      "names": {
+        "sanskrit": "Sarkara / Mishri",
+        "english": "Sugarcandy / Rock sugar",
+        "hindi": "Mishri",
+        "gujarati": "Sakar"
+      },
+      "category": "Ikshu varga (sugarcane products)",
+      "properties": {
+        "rasa": ["madhura"],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["ingredient in rasayana formulations", "aphrodisiac formulations", "improves taste", "strength-promoting"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana"
+      }
+    },
+    {
+      "id": "food_008",
+      "names": {
+        "sanskrit": "Tila taila",
+        "english": "Sesame oil",
+        "hindi": "Til ka tel",
+        "gujarati": "Tal nu tel"
+      },
+      "category": "Sneha (oil)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["used in rasayana formulations", "used in vajikarana preparations", "external application"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana"
+      }
+    },
+    {
+      "id": "food_009",
+      "names": {
+        "sanskrit": "Draksa",
+        "english": "Grapes / Raisins",
+        "hindi": "Angur / Kishmish",
+        "gujarati": "Draksh / Kismis"
+      },
+      "category": "Phala (fruit)",
+      "properties": {
+        "rasa": ["madhura", "amla"],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["heavy", "unctuous"]
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["aphrodisiac", "bulk-promoting", "strength-promoting", "semen-promoting", "in vajikarana formulations"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "II - Vajikarana"
+      }
+    },
+    {
+      "id": "food_010",
+      "names": {
+        "sanskrit": "Kharjura",
+        "english": "Date palm / Dates",
+        "hindi": "Khajur",
+        "gujarati": "Khajur"
+      },
+      "category": "Phala (fruit)",
+      "properties": {
+        "rasa": ["madhura"],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["heavy", "unctuous"]
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["aphrodisiac", "semen-promoting", "bulk-promoting", "in vajikarana formulations", "fertility"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "II - Vajikarana"
+      }
+    },
+    {
+      "id": "food_011",
+      "names": {
+        "sanskrit": "Yava",
+        "english": "Barley",
+        "hindi": "Jau",
+        "gujarati": "Jav"
+      },
+      "category": "Dhanya (grain)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["pre-rasayana cleansing diet (barley with ghee for 3-5-7 days)", "post-rasayana normalisation"],
+      "contraindications": [],
+      "incompatible_with": ["silajatu (horse-gram contraindicated with silajatu, but barley is permitted)"],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana",
+        "verse": "25-28"
+      }
+    },
+    {
+      "id": "food_012",
+      "names": {
+        "sanskrit": "Kulatha",
+        "english": "Horse-gram",
+        "hindi": "Kulthi",
+        "gujarati": "Kulthi"
+      },
+      "category": "Shimbi (legume)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["rough", "heavy"]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": [],
+      "contraindications": ["contraindicated during silajatu rasayana - breaks stones due to contradictory nature"],
+      "incompatible_with": ["silajatu"],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana",
+        "verse": "62-65"
+      }
+    },
+    {
+      "id": "food_013",
+      "names": {
+        "sanskrit": "Mudga",
+        "english": "Green gram / Mung bean",
+        "hindi": "Moong Dal",
+        "gujarati": "Mag"
+      },
+      "category": "Shimbi (legume)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["light"]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["post-rasayana diet as soup with sali rice and ghee", "light convalescence diet"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana",
+        "verse": "77"
+      }
+    },
+    {
+      "id": "food_014",
+      "names": {
+        "sanskrit": "Ikshu / Guda",
+        "english": "Sugarcane / Jaggery",
+        "hindi": "Ganna / Gur",
+        "gujarati": "Shenu / Gol"
+      },
+      "category": "Ikshu varga",
+      "properties": {
+        "rasa": ["madhura"],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "alleviates",
+        "pitta": "alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["ingredient in rasayana formulations", "evacuation formulation ingredient", "vajikarana preparations"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana",
+        "verse": "25-28"
+      }
+    },
+    {
+      "id": "food_015",
+      "names": {
+        "sanskrit": "Vamsalocana",
+        "english": "Bamboo manna / Tabasheer",
+        "hindi": "Banslochan",
+        "gujarati": "Vanshlochan"
+      },
+      "category": "Vanaspati (plant product)",
+      "properties": {
+        "rasa": [],
+        "virya": "",
+        "vipaka": "",
+        "guna": []
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "alleviates",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["ingredient in vajikarana formulations", "aphrodisiac", "semen-promoting", "voice-promoting", "complexion"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "II - Vajikarana"
+      }
+    }
+  ]
+}

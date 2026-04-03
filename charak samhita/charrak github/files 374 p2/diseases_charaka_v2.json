@@ -1,0 +1,529 @@
+{
+  "diseases": [
+    {
+      "id": "disease_017",
+      "names": {
+        "sanskrit": "Vataja Atisara",
+        "english": "Diarrhoea caused by Vata",
+        "hindi": "Vataj Atisaar",
+        "gujarati": "Vataj Atisaar"
+      },
+      "category": "Atisara (Diarrhoea)",
+      "dosha_involved": ["vata"],
+      "dhatu_affected": ["rasa", "rakta"],
+      "srotas_affected": ["purishavaha srotas", "annavaha srotas"],
+      "nidana": {
+        "ahara": ["rough food", "little or deficient food", "sharp things", "wine (excessive)", "fasting"],
+        "vihara": ["excessive exposure to wind", "excessive exposure to sun", "excessive physical exercise", "suppression of urges", "sexual intercourse (excessive)"],
+        "manasa": ["fear", "anxiety"],
+        "agantuja": ["vatika constitution prone"]
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "ama (undigested) stool: slimy, spreading, precipitating, rough, liquid, painful, fishy odour, slight or no sound",
+        "retention of urine and flatus in ama stage",
+        "retained vayu moves in belly with sound and pain (amatisara caused by vata)",
+        "pakva (digested) stool: constipated, little quantity, with sound, pain, froth, slime, cutting pain in anus",
+        "horripilation",
+        "increased respiration",
+        "dryness of mouth",
+        "pain in waist, thigh, sacral region, knee, back and sides",
+        "anal heaviness",
+        "stool sometimes scabulous or knotted (anugrathita)"
+      ],
+      "bheda": ["amatisara (with undigested stool)", "pakvamisara (with digested stool)"],
+      "sadhyata": "sadhya (curable) if not complicated",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XIX",
+        "verse": "5"
+      }
+    },
+    {
+      "id": "disease_018",
+      "names": {
+        "sanskrit": "Pittaja Atisara",
+        "english": "Diarrhoea caused by Pitta",
+        "hindi": "Pittaj Atisaar",
+        "gujarati": "Pittaj Atisaar"
+      },
+      "category": "Atisara (Diarrhoea)",
+      "dosha_involved": ["pitta"],
+      "dhatu_affected": ["rakta", "rasa"],
+      "srotas_affected": ["purishavaha srotas", "raktavaha srotas"],
+      "nidana": {
+        "ahara": ["sour substances", "salty substances", "pungent substances", "alkaline substances", "hot and irritant things (excessive)"],
+        "vihara": ["constant exposure to fire", "scorching sun", "hot winds"],
+        "manasa": ["anger", "envy", "psychological stress"],
+        "agantuja": ["pittala constitution prone"]
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "stool: yellow, green, blue, black colour",
+        "associated with rakta-pitta (blood and bile)",
+        "exceedingly foetid stool",
+        "thirst",
+        "burning sensation",
+        "sweating",
+        "fainting",
+        "colic pain",
+        "inflammation in anus",
+        "suppuration in anus"
+      ],
+      "bheda": ["raktatisara (bloody diarrhoea — when pitta-vitiating diet continues)"],
+      "sadhyata": "sadhya (curable)",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XIX",
+        "verse": "6"
+      }
+    },
+    {
+      "id": "disease_019",
+      "names": {
+        "sanskrit": "Kaphaja Atisara",
+        "english": "Diarrhoea caused by Kapha",
+        "hindi": "Kaphaj Atisaar",
+        "gujarati": "Kaphaj Atisaar"
+      },
+      "category": "Atisara (Diarrhoea)",
+      "dosha_involved": ["kapha"],
+      "dhatu_affected": ["rasa"],
+      "srotas_affected": ["purishavaha srotas", "annavaha srotas"],
+      "nidana": {
+        "ahara": ["heavy food (excessive)", "sweet food (excessive)", "cold food (excessive)", "unctuous food (excessive)", "oversaturation"],
+        "vihara": ["day-sleep", "sedentary life", "idleness", "freedom from mental work"],
+        "manasa": [],
+        "agantuja": ["sleshmala constitution prone"]
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "stool: unctuous, white, slimy, thready, ama (undigested), heavy, foetid, mixed with mucus",
+        "frequent colic pain",
+        "stool in little quantity with tenesmus",
+        "heaviness in abdomen, anus, pelvis and groin",
+        "motions without knowledge (involuntary)",
+        "horripilation",
+        "nausea",
+        "oversleep",
+        "idleness",
+        "lassitude",
+        "aversion to food"
+      ],
+      "bheda": [],
+      "sadhyata": "sadhya (curable)",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XIX",
+        "verse": "7"
+      }
+    },
+    {
+      "id": "disease_020",
+      "names": {
+        "sanskrit": "Sannipatika Atisara",
+        "english": "Diarrhoea caused by all Three Doshas",
+        "hindi": "Sannipatik Atisaar",
+        "gujarati": "Sannipatik Atisaar"
+      },
+      "category": "Atisara (Diarrhoea)",
+      "dosha_involved": ["vata", "pitta", "kapha"],
+      "dhatu_affected": ["rakta", "mamsa", "meda", "rasa"],
+      "srotas_affected": ["purishavaha srotas", "raktavaha srotas", "annavaha srotas"],
+      "nidana": {
+        "ahara": ["too cold food", "unctuous food", "rough food", "hot food", "heavy food", "coarse food", "hard food", "irregular meals", "incompatible food", "unsuitable food", "fasting", "delayed meals", "defective wine", "defective water", "over-drinking"],
+        "vihara": ["avoiding evacuation", "irregular application of remedial measures", "mismanagement", "excessive exposure to fire, sun, wind, water", "want of sleep", "oversleep", "suppression of urges", "seasonal perversions", "exertion not in consonance with strength"],
+        "manasa": ["excessive fear", "grief", "mental agitation"],
+        "agantuja": ["intestinal worms", "phthisis", "fever", "piles with deranged agni"]
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "symptoms of all three doshas combined",
+        "various stool colours including cooked blood-like, liver pieces-like, fat-like, meat-water-like",
+        "stool like curd, ghee, marrow, oil, muscle-fat, milk",
+        "exceedingly blue, red and black stool",
+        "clear like water or collyrium-like stool",
+        "too unctuous, variegated, turbid, slimy, thready, undigested stool",
+        "foetid, putrid and cadaverous odour",
+        "attacked by flies",
+        "profuse discharge of necrosed tissues",
+        "passing little or no stool",
+        "thirst, burning sensation, fever, giddiness",
+        "feeling of darkness, hiccup and dyspnoea",
+        "excessive or no pain",
+        "prolapse and suppuration of anus",
+        "rectal folds fallen down, open anal passage",
+        "too much wasting of strength, muscles and blood",
+        "pain in all joints and bones",
+        "anorexia, restlessness, delirium, fainting",
+        "sudden relief of symptoms (bad sign)"
+      ],
+      "bheda": [],
+      "sadhyata": "asadhya (incurable) when fully manifested; kastasadhya if not fully developed — treat according to dominant dosha",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XIX",
+        "verse": "8-9"
+      }
+    },
+    {
+      "id": "disease_021",
+      "names": {
+        "sanskrit": "Bhayashokaja Atisara",
+        "english": "Diarrhoea caused by Fear and Grief",
+        "hindi": "Bhayashokaj Atisaar",
+        "gujarati": "Bhayashokaj Atisaar"
+      },
+      "category": "Atisara (Diarrhoea)",
+      "dosha_involved": ["vata"],
+      "dhatu_affected": [],
+      "srotas_affected": ["purishavaha srotas", "manovaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": ["fear", "anxiety", "grief", "psychic stress"],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "same symptoms as vatika diarrhoea",
+        "two types: psychic and exogenous"
+      ],
+      "bheda": ["manasika (psychic)", "agantuja (exogenous)"],
+      "sadhyata": "sadhya (curable) with vata-alleviating and psychotherapeutic measures",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XIX",
+        "verse": "11-13"
+      }
+    },
+    {
+      "id": "disease_022",
+      "names": {
+        "sanskrit": "Raktatisara",
+        "english": "Bloody Diarrhoea",
+        "hindi": "Raktatisar",
+        "gujarati": "Raktatisar"
+      },
+      "category": "Atisara (Diarrhoea) — complication",
+      "dosha_involved": ["pitta", "rakta"],
+      "dhatu_affected": ["rakta"],
+      "srotas_affected": ["purishavaha srotas", "raktavaha srotas"],
+      "nidana": {
+        "ahara": ["pitta-vitiating food and drinks (continued)"],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": ["complication of pittaja atisara"]
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "pitta aggravates severely affecting blood quickly",
+        "bloody diarrhoea",
+        "thirst",
+        "pain in anorectum",
+        "burning in anorectum",
+        "inflammation in anorectum"
+      ],
+      "bheda": [],
+      "sadhyata": "sadhya with appropriate treatment",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XIX",
+        "verse": "69-70"
+      }
+    },
+    {
+      "id": "disease_023",
+      "names": {
+        "sanskrit": "Pravahika",
+        "english": "Dysentery",
+        "hindi": "Pravahika / Pechish",
+        "gujarati": "Pravahika / Marodaa"
+      },
+      "category": "Atisara (Diarrhoea) — complication",
+      "dosha_involved": ["vata", "kapha"],
+      "dhatu_affected": [],
+      "srotas_affected": ["purishavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": ["complication of diarrhoea"]
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "stool with retention, pain, mucus and tenesmus",
+        "stool in small quantity but frequently"
+      ],
+      "bheda": [],
+      "sadhyata": "sadhya",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XIX",
+        "verse": "34-41"
+      }
+    },
+    {
+      "id": "disease_024",
+      "names": {
+        "sanskrit": "Vataja Chardi",
+        "english": "Vomiting caused by Vata",
+        "hindi": "Vataj Ulti / Chardi",
+        "gujarati": "Vataj Ulti"
+      },
+      "category": "Chardi (Vomiting)",
+      "dosha_involved": ["vata"],
+      "dhatu_affected": [],
+      "srotas_affected": ["annavaha srotas", "pranavaha srotas"],
+      "nidana": {
+        "ahara": ["irritant drugs (excessive)", "fasting"],
+        "vihara": ["physical exercise (excessive)", "grief", "illness", "fear"],
+        "manasa": ["grief", "fear"],
+        "agantuja": []
+      },
+      "purvaroopa": ["nausea", "excessive salivation", "aversion to food"],
+      "roopa": [
+        "pain in cardiac region",
+        "dryness of mouth",
+        "pain in head and navel",
+        "cough",
+        "hoarseness of voice",
+        "pricking pain",
+        "vomits with loud sound of eructation",
+        "frothy vomitus",
+        "broken up black colour vomitus",
+        "thin and astringent material",
+        "vomiting with difficulty in little quantity",
+        "severe impulse",
+        "great distress"
+      ],
+      "bheda": [],
+      "sadhyata": "sadhya (curable)",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XX",
+        "verse": "7-9"
+      }
+    },
+    {
+      "id": "disease_025",
+      "names": {
+        "sanskrit": "Pittaja Chardi",
+        "english": "Vomiting caused by Pitta",
+        "hindi": "Pittaj Ulti / Chardi",
+        "gujarati": "Pittaj Ulti"
+      },
+      "category": "Chardi (Vomiting)",
+      "dosha_involved": ["pitta"],
+      "dhatu_affected": ["rakta"],
+      "srotas_affected": ["annavaha srotas"],
+      "nidana": {
+        "ahara": ["intake of food during indigestion", "pungent food", "sour food", "burning food", "hot food"],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": ["nausea", "excessive salivation", "aversion to food"],
+      "roopa": [
+        "fainting",
+        "thirst",
+        "dryness of mouth",
+        "burning in head, palate and eyes",
+        "feeling of darkness",
+        "giddiness",
+        "vomits yellow, green, too hot, bitter and smoky material",
+        "burning sensation during vomiting"
+      ],
+      "bheda": [],
+      "sadhyata": "sadhya (curable)",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XX",
+        "verse": "10-11"
+      }
+    },
+    {
+      "id": "disease_026",
+      "names": {
+        "sanskrit": "Kaphaja Chardi",
+        "english": "Vomiting caused by Kapha",
+        "hindi": "Kaphaj Ulti / Chardi",
+        "gujarati": "Kaphaj Ulti"
+      },
+      "category": "Chardi (Vomiting)",
+      "dosha_involved": ["kapha"],
+      "dhatu_affected": [],
+      "srotas_affected": ["annavaha srotas"],
+      "nidana": {
+        "ahara": ["unctuous food (excessive)", "too heavy food", "uncooked food", "burning food"],
+        "vihara": ["oversleep"],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": ["nausea", "excessive salivation", "aversion to food"],
+      "roopa": [
+        "drowsiness",
+        "sweetness in mouth",
+        "excessive salivation",
+        "contentment",
+        "sleep",
+        "anorexia",
+        "heaviness",
+        "vomits unctuous, solid, sweet and white material",
+        "horripilation",
+        "slight discomfort"
+      ],
+      "bheda": [],
+      "sadhyata": "sadhya (curable)",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XX",
+        "verse": "12-13"
+      }
+    },
+    {
+      "id": "disease_027",
+      "names": {
+        "sanskrit": "Sannipatika Chardi",
+        "english": "Vomiting caused by all Three Doshas",
+        "hindi": "Sannipatik Ulti",
+        "gujarati": "Sannipatik Ulti"
+      },
+      "category": "Chardi (Vomiting)",
+      "dosha_involved": ["vata", "pitta", "kapha"],
+      "dhatu_affected": [],
+      "srotas_affected": ["annavaha srotas"],
+      "nidana": {
+        "ahara": ["eating all sorts of things constantly", "excessive ama defect"],
+        "vihara": ["seasonal perversions"],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": ["nausea", "excessive salivation", "aversion to food"],
+      "roopa": [
+        "severe pain in abdomen",
+        "indigestion",
+        "anorexia",
+        "burning",
+        "thirst",
+        "dyspnoea",
+        "fainting",
+        "vomits constantly salty, sour, blue, viscous, hot and red material"
+      ],
+      "bheda": [],
+      "sadhyata": "kastasadhya — treat according to strength of each dosha",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XX",
+        "verse": "14-15"
+      }
+    },
+    {
+      "id": "disease_028",
+      "names": {
+        "sanskrit": "Dvishtarthaja Chardi",
+        "english": "Vomiting due to Disgusting Object",
+        "hindi": "Ghrina se Ulti",
+        "gujarati": "Ghrina thi Ulti"
+      },
+      "category": "Chardi (Vomiting)",
+      "dosha_involved": ["vata", "pitta", "kapha"],
+      "dhatu_affected": [],
+      "srotas_affected": ["manovaha srotas", "annavaha srotas"],
+      "nidana": {
+        "ahara": ["eating disgusting, antagonistic, unclean, putrified, unpious, loathsome objects"],
+        "vihara": [],
+        "manasa": ["smelling disgusting objects", "seeing disgusting objects", "psychological stress from disgusting factors"],
+        "agantuja": []
+      },
+      "purvaroopa": ["nausea", "excessive salivation", "aversion to food"],
+      "roopa": [
+        "vomiting on contact with disgusting objects or situations"
+      ],
+      "bheda": [],
+      "sadhyata": "sadhya — psychotherapeutic measures, favourite sensory inputs",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XX",
+        "verse": "18"
+      }
+    },
+    {
+      "id": "disease_029",
+      "names": {
+        "sanskrit": "Ksayaja Chardi / Asadhya Chardi",
+        "english": "Incurable Vomiting (with blood and pus)",
+        "hindi": "Asadhya Ulti",
+        "gujarati": "Asadhya Ulti"
+      },
+      "category": "Chardi (Vomiting)",
+      "dosha_involved": ["vata", "pitta", "kapha"],
+      "dhatu_affected": ["rakta", "mamsa"],
+      "srotas_affected": ["annavaha srotas", "raktavaha srotas"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": ["wasting diseases", "severe complications"]
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "vomiting too severe",
+        "complicated vomiting",
+        "associated with blood",
+        "associated with pus",
+        "moon-like lustre in vomitus",
+        "in a wasted person"
+      ],
+      "bheda": [],
+      "sadhyata": "asadhya (incurable)",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XX",
+        "verse": "19"
+      }
+    },
+    {
+      "id": "disease_030",
+      "names": {
+        "sanskrit": "Visarpa",
+        "english": "Erysipelas / Spreading Skin Disease",
+        "hindi": "Visarpa",
+        "gujarati": "Visarpa"
+      },
+      "category": "Tvak roga (Skin disease)",
+      "dosha_involved": ["vata", "pitta", "kapha"],
+      "dhatu_affected": [],
+      "srotas_affected": [],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XXI",
+        "verse": "1-10"
+      }
+    }
+  ]
+}

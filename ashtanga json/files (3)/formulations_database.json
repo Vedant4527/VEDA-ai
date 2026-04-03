@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "source": "Ashtanga Hrdayam (Sutra Sthana) by Dr. R. Vidyanath",
+    "chapters": [
+      "8 - Matrasitiya Adhyaya"
+    ],
+    "pages": "1-60",
+    "platform": "VEDA Ayurvedic AI",
+    "note": "This chunk (pages 1-60) covers primarily food science and dosha theory. Detailed classical formulations (Sutras) appear in later chapters."
+  },
+  "classical_combinations": [
+    {
+      "name": "Vamana Yoga for Alasaka",
+      "type": "Therapeutic emesis formula",
+      "indication": "Alasaka (severe intestinal stasis / food stagnation)",
+      "dosha": "Tridosa (vata-kapha dominant)",
+      "ingredients": [
+        {
+          "name": "Vaca / Ugra",
+          "latin": "Acorus calamus",
+          "action": "Emetic and digestive stimulant"
+        },
+        {
+          "name": "Saindhava lavana",
+          "latin": null,
+          "action": "Rock salt — channel opener"
+        },
+        {
+          "name": "Madanaphala / Phala",
+          "latin": "Randia dumatorum",
+          "action": "Primary vamana drug"
+        },
+        {
+          "name": "Warm water",
+          "latin": null,
+          "action": "Vehicle / anupana"
+        }
+      ],
+      "procedure": "Administer above combination for vamana (therapeutic emesis)",
+      "follow_up": [
+        "Swedana (sudation therapy)",
+        "Phalavarti (suppository)",
+        "Fomentation and wrapping of rigid parts"
+      ]
+    },
+    {
+      "name": "Triphala Nighttime Formula",
+      "type": "Daily health formula",
+      "indication": "Eye health improvement; general tonic",
+      "ingredients": [
+        {
+          "name": "Triphala",
+          "components": [
+            "Haritaki (Terminalia chebula)",
+            "Vibhitaki (Terminalia bellerica)",
+            "Amalaki (Emblica officinalis)"
+          ]
+        },
+        {
+          "name": "Madhu",
+          "latin": null,
+          "action": "Honey — anupana"
+        },
+        {
+          "name": "Ghrta",
+          "latin": null,
+          "action": "Ghee — anupana"
+        }
+      ],
+      "dosage_time": "Night time — habitual daily intake",
+      "benefits": "Improves eyesight; general health maintenance"
+    },
+    {
+      "name": "Ojas Restoration Formula",
+      "type": "Ojas-building tonic",
+      "indication": "Decreased ojas — fear, weakness, emaciation, sense organ affliction",
+      "ingredients": [
+        {
+          "name": "Ksira",
+          "english": "Milk",
+          "action": "Nourishing, ojas-building base"
+        },
+        {
+          "name": "Jivaniyagana dravyas",
+          "english": "Life-promoting herb group",
+          "examples": [
+            "Jivaka",
+            "Rsabhaka",
+            "Meda",
+            "Mahameda",
+            "Mudgaparni",
+            "Masaparni",
+            "Saliparni",
+            "Prsniparni",
+            "Jivanti",
+            "Satavari"
+          ]
+        }
+      ],
+      "alternative": "Mutton soup (for rapid ojas restoration)",
+      "benefits": "Nourishment to body; cheerfulness to mind; strength"
+    },
+    {
+      "name": "Sukra Dhatu Restoration",
+      "type": "Reproductive tonic",
+      "indication": "Decreased sukra dhatu — delayed ejaculation, pain, weakness",
+      "ingredients": [
+        {
+          "name": "Milk (Ksira)",
+          "action": "Sweet, unctuous, cold — directly builds sukra"
+        },
+        {
+          "name": "Ghrta (Ghee)",
+          "action": "Sweet, cold — builds sukra dhatu"
+        },
+        {
+          "name": "Other madhura (sweet), snigdha (unctuous), sita (cold) substances",
+          "action": "Nourish sukra dhatu"
+        }
+      ],
+      "principle": "Use substances materially or qualitatively similar to sukra"
+    }
+  ],
+  "anupana_protocols": [
+    {
+      "indication": "Heavy food, barley, wheat, curds, honey",
+      "anupana": "Cold water"
+    },
+    {
+      "indication": "Hard-to-digest foods (corn flour)",
+      "anupana": "Hot water"
+    },
+    {
+      "indication": "Vegetables, mudga",
+      "anupana": "Whey / Buttermilk / Sour gruel"
+    },
+    {
+      "indication": "For weight gain (lean persons)",
+      "anupana": "Sura (alcohol)"
+    },
+    {
+      "indication": "For weight loss (obese)",
+      "anupana": "Honey + water"
+    },
+    {
+      "indication": "Emaciation / Sosa",
+      "anupana": "Mutton soup"
+    },
+    {
+      "indication": "After meat, or in agnimandya",
+      "anupana": "Wine"
+    },
+    {
+      "indication": "Debility, disease, exercise, sexual intercourse, fasting, sun exposure, aged, children",
+      "anupana": "Milk"
+    }
+  ]
+}

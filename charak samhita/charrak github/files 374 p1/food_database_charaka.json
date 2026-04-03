@@ -1,0 +1,469 @@
+{
+  "foods": [
+    {
+      "id": "food_001",
+      "names": {
+        "sanskrit": "Kulattha",
+        "english": "Horse Gram",
+        "hindi": "Kulthi",
+        "gujarati": "Kulthi"
+      },
+      "category": "dhanya (legume/pulse)",
+      "properties": {
+        "rasa": [],
+        "virya": "ushna (hot)",
+        "vipaka": "",
+        "guna": ["ruksha (rough)", "guru (heavy)"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "",
+        "kapha": "pacifies"
+      },
+      "therapeutic_uses": ["kaphaja kasa (kapha-type cough)", "hiccup", "dyspnoea", "as soup base for vatika disorders", "decoction base for Kulatthadi Ghrta"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVIII"
+      }
+    },
+    {
+      "id": "food_002",
+      "names": {
+        "sanskrit": "Sali",
+        "english": "Sali Rice (red rice)",
+        "hindi": "Sali Chawal",
+        "gujarati": "Sali Chaval"
+      },
+      "category": "dhanya (grain)",
+      "properties": {
+        "rasa": ["madhura (sweet)"],
+        "virya": "sheeta (cold)",
+        "vipaka": "madhura (sweet)",
+        "guna": ["laghu (light)", "snigdha (unctuous)"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["recommended in vatika kasa", "recommended in paittika kasa (thin phlegm)", "wholesome in cough, hiccup and dyspnoea", "main diet for patients of hikka and swasa"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVII, XVIII"
+      }
+    },
+    {
+      "id": "food_003",
+      "names": {
+        "sanskrit": "Sastika",
+        "english": "Sixty-day Rice",
+        "hindi": "Saathiya Chawal",
+        "gujarati": "Saathiya Chaval"
+      },
+      "category": "dhanya (grain)",
+      "properties": {
+        "rasa": ["madhura (sweet)"],
+        "virya": "sheeta (cold)",
+        "vipaka": "madhura (sweet)",
+        "guna": ["laghu (light)"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["recommended in paittika kasa with thin phlegm", "wholesome for patients of cough, hiccup and dyspnoea"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVIII"
+      }
+    },
+    {
+      "id": "food_004",
+      "names": {
+        "sanskrit": "Yava",
+        "english": "Barley",
+        "hindi": "Jau",
+        "gujarati": "Jav"
+      },
+      "category": "dhanya (grain)",
+      "properties": {
+        "rasa": ["madhura (sweet)", "kashaya (astringent)"],
+        "virya": "sheeta (cold)",
+        "vipaka": "madhura (sweet)",
+        "guna": ["ruksha (rough)", "laghu (light)"]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "pacifies",
+        "kapha": "pacifies"
+      },
+      "therapeutic_uses": ["recommended in kaphaja kasa", "ingredient in Agastya Haritaki", "wholesome food in cough and dyspnoea", "barley flour used in chest wound cough preparation"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVIII"
+      }
+    },
+    {
+      "id": "food_005",
+      "names": {
+        "sanskrit": "Draksa",
+        "english": "Dried Grapes / Raisins",
+        "hindi": "Munakka / Kismis",
+        "gujarati": "Munakka / Draksh"
+      },
+      "category": "phala (fruit)",
+      "properties": {
+        "rasa": ["madhura (sweet)", "amla (sour)"],
+        "virya": "sheeta (cold)",
+        "vipaka": "madhura (sweet)",
+        "guna": ["snigdha (unctuous)", "guru (heavy)"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["paittika kasa linctus formulations", "vatika kasa linctus", "ingredient in multiple ghrta preparations", "evacuative ghrta in kshayaja kasa", "hiccup and dyspnoea"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVII, XVIII"
+      }
+    },
+    {
+      "id": "food_006",
+      "names": {
+        "sanskrit": "Guda / Sharkara",
+        "english": "Jaggery / Sugar",
+        "hindi": "Gur / Cheeni",
+        "gujarati": "Gol / Khand"
+      },
+      "category": "madhura dravya (sweet substance)",
+      "properties": {
+        "rasa": ["madhura (sweet)"],
+        "virya": "sheeta (cold)",
+        "vipaka": "madhura (sweet)",
+        "guna": ["guru (heavy)", "snigdha (unctuous)"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": "aggravates"
+      },
+      "therapeutic_uses": ["anupana in many hiccup and cough formulations", "added to milk preparations", "ingredient in linctus preparations", "after-drink for smoking therapies"],
+      "contraindications": ["kaphaja conditions (use cautiously)"],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVII, XVIII"
+      }
+    },
+    {
+      "id": "food_007",
+      "names": {
+        "sanskrit": "Madhu",
+        "english": "Honey",
+        "hindi": "Shahad",
+        "gujarati": "Madhu"
+      },
+      "category": "krimija dravya (insect product)",
+      "properties": {
+        "rasa": ["madhura (sweet)", "kashaya (astringent)"],
+        "virya": "sheeta (cold)",
+        "vipaka": "madhura (sweet)",
+        "guna": ["ruksha (rough)", "laghu (light)", "yogavahi (carrier)"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": "pacifies"
+      },
+      "therapeutic_uses": ["anupana for hiccup and dyspnoea formulations", "anupana for Muktadya Curna", "added to emesis preparation for hiccup", "in combination with pippali for cough", "in linctus preparations", "for haemoptysis (with ghee as snuff)", "used in Agastya Haritaki"],
+      "contraindications": ["must not be heated", "must not be used with equal quantity of ghee"],
+      "incompatible_with": ["equal quantity of ghee (viruddha)"],
+      "best_season": [],
+      "best_time": "added after cooling in preparations",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVII, XVIII"
+      }
+    },
+    {
+      "id": "food_008",
+      "names": {
+        "sanskrit": "Ghrita / Sarpi",
+        "english": "Clarified Butter (Ghee)",
+        "hindi": "Ghee",
+        "gujarati": "Ghee"
+      },
+      "category": "sneha (fat/oil)",
+      "properties": {
+        "rasa": ["madhura (sweet)"],
+        "virya": "sheeta (cold)",
+        "vipaka": "madhura (sweet)",
+        "guna": ["snigdha (unctuous)", "guru (heavy)", "mrdu (soft)"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": "aggravates in excess"
+      },
+      "therapeutic_uses": ["base medium for all medicated ghrtas", "before meals in vatika kasa (dryness of upper parts)", "given orally or as snuff in haemoptysis and haematemesis", "in maximum dose for contraction or expansion in chest", "anupana for multiple formulations", "unctuous purgation medium", "in enema"],
+      "contraindications": ["excessive kapha condition", "do not use with equal quantity of honey"],
+      "incompatible_with": ["equal quantity of honey (viruddha)"],
+      "best_season": [],
+      "best_time": "before meals in vatika kasa",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVII, XVIII"
+      }
+    },
+    {
+      "id": "food_009",
+      "names": {
+        "sanskrit": "Dugdha (Godugdha / Ajadugdha)",
+        "english": "Milk (cow's / goat's)",
+        "hindi": "Doodh",
+        "gujarati": "Dudh"
+      },
+      "category": "dugdha varga (milk products)",
+      "properties": {
+        "rasa": ["madhura (sweet)"],
+        "virya": "sheeta (cold)",
+        "vipaka": "madhura (sweet)",
+        "guna": ["snigdha (unctuous)", "guru (heavy)", "abhishyandi"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": "may aggravate"
+      },
+      "therapeutic_uses": ["boiled milk after smoking therapies (for cough)", "goat's milk for thirst in urakshataja kasa", "milk boiled with dasamula for cough", "milk with karkatasrigi and bala for rebuilding in kshayaja", "cow's milk with ghee in urakshataja preparation", "warm milk with jaggery as after-drink for smoking therapy"],
+      "contraindications": ["unboiled milk aggravates kapha and causes cough"],
+      "incompatible_with": ["unboiled milk contraindicated in hikka and swasa"],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVII, XVIII"
+      }
+    },
+    {
+      "id": "food_010",
+      "names": {
+        "sanskrit": "Mamsa Rasa (various)",
+        "english": "Meat Soup / Broth",
+        "hindi": "Gosht ka Shorba",
+        "gujarati": "Mans no Soup"
+      },
+      "category": "mamsa varga (meat products)",
+      "properties": {
+        "rasa": ["madhura (sweet)", "amla (sour)"],
+        "virya": "ushna (hot)",
+        "vipaka": "madhura (sweet)",
+        "guna": ["snigdha (unctuous)", "guru (heavy)"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["fish meat soup for hiccup and dyspnoea patients after sudation", "boar meat soup for hiccup and dyspnoea patients", "meat of peacock, partridge, cock and wild animals in decoction of dasamila for rebuilding", "meat of quail for exhausted patients in urakshataja kasa", "meat soup with vata-alleviating herbs in vatika kasa"],
+      "contraindications": ["aquatic and marshy meat causes/aggravates hikka and swasa"],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVII, XVIII"
+      }
+    },
+    {
+      "id": "food_011",
+      "names": {
+        "sanskrit": "Ikshu Rasa / Sarkara",
+        "english": "Sugarcane Juice / Sugarcandy",
+        "hindi": "Ganne ka Ras / Mishri",
+        "gujarati": "Sherdi no Ras / Mishri"
+      },
+      "category": "ikshuvarga (sugarcane products)",
+      "properties": {
+        "rasa": ["madhura (sweet)"],
+        "virya": "sheeta (cold)",
+        "vipaka": "madhura (sweet)",
+        "guna": ["guru (heavy)", "snigdha (unctuous)"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": "aggravates"
+      },
+      "therapeutic_uses": ["after-drink for smoking in urakshataja kasa", "in chest wound cough preparation", "ingredient in paittika kasa linctus", "in milk preparation for paittika kasa", "recommended drink for paittika kasa"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVIII"
+      }
+    },
+    {
+      "id": "food_012",
+      "names": {
+        "sanskrit": "Takra",
+        "english": "Buttermilk",
+        "hindi": "Chaach / Mattha",
+        "gujarati": "Chhas"
+      },
+      "category": "dugdha varga (milk products)",
+      "properties": {
+        "rasa": ["amla (sour)", "madhura (sweet)", "kashaya (astringent)"],
+        "virya": "ushna (hot)",
+        "vipaka": "amla (sour)",
+        "guna": ["laghu (light)", "ruksha (rough)"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "",
+        "kapha": "pacifies"
+      },
+      "therapeutic_uses": ["recommended drink in kaphaja kasa (after purgation)", "wholesome in vata-kapha disorders"],
+      "contraindications": ["curd (dadhi) in unprocessed form aggravates hikka and swasa"],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVIII"
+      }
+    },
+    {
+      "id": "food_013",
+      "names": {
+        "sanskrit": "Kharjura",
+        "english": "Dates",
+        "hindi": "Khajur",
+        "gujarati": "Khajur"
+      },
+      "category": "phala (fruit)",
+      "properties": {
+        "rasa": ["madhura (sweet)"],
+        "virya": "sheeta (cold)",
+        "vipaka": "madhura (sweet)",
+        "guna": ["guru (heavy)", "snigdha (unctuous)"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": ""
+      },
+      "therapeutic_uses": ["ingredient in paittika kasa linctus (fifth formulation with pippali, vamsalocana and goksura)"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVIII"
+      }
+    },
+    {
+      "id": "food_014",
+      "names": {
+        "sanskrit": "Nispava",
+        "english": "Flat Bean / Hyacinth Bean",
+        "hindi": "Val",
+        "gujarati": "Val"
+      },
+      "category": "dhanya (legume)",
+      "properties": {
+        "rasa": ["madhura (sweet)"],
+        "virya": "ushna (hot)",
+        "vipaka": "",
+        "guna": ["guru (heavy)", "abhishyandi"]
+      },
+      "dosha_effect": {
+        "vata": "",
+        "pitta": "",
+        "kapha": "aggravates"
+      },
+      "therapeutic_uses": [],
+      "contraindications": ["contraindicated in hikka (hiccup) and swasa (dyspnoea) - listed as causative factor"],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVII"
+      }
+    },
+    {
+      "id": "food_015",
+      "names": {
+        "sanskrit": "Masha",
+        "english": "Black Gram",
+        "hindi": "Urad Dal",
+        "gujarati": "Adad Dal"
+      },
+      "category": "dhanya (legume)",
+      "properties": {
+        "rasa": ["madhura (sweet)"],
+        "virya": "ushna (hot)",
+        "vipaka": "madhura (sweet)",
+        "guna": ["guru (heavy)", "snigdha (unctuous)", "abhishyandi"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "",
+        "kapha": "aggravates"
+      },
+      "therapeutic_uses": [],
+      "contraindications": ["contraindicated in hikka and swasa - listed as causative factor"],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XVII"
+      }
+    }
+  ]
+}

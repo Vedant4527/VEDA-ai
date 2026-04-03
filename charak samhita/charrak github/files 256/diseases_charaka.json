@@ -1,0 +1,728 @@
+{
+  "diseases": [
+    {
+      "id": "disease_001",
+      "names": {
+        "sanskrit": "Kshata-Kshina",
+        "english": "Chest Wound and Wasting",
+        "hindi": "Chhaati ka Ghav aur Kshaya",
+        "gujarati": "Chhaati no Ghaa ane Kshay"
+      },
+      "category": "Kaya Chikitsa",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": ["Rasa", "Rakta", "Mamsa", "Meda", "Asthi", "Shukra", "Ojas"],
+      "srotas_affected": ["Pranavaha", "Annavaha", "Raktavaha", "Shukravaha"],
+      "nidana": {
+        "ahara": [
+          "Rough, little and deficient diet",
+          "Excessive indulgence in women while taking poor diet"
+        ],
+        "vihara": [
+          "Excessive exertion with bows",
+          "Carrying heavy weight",
+          "Falling from uneven and high places",
+          "Fighting against stronger ones",
+          "Controlling running bull or horse",
+          "Throwing strikers of rock, wood or stone",
+          "Reading very loudly",
+          "Walking fast for long distance",
+          "Swimming across big rivers",
+          "Running with horses",
+          "Jumping too much suddenly",
+          "Dancing too swiftly",
+          "Severe injury by harsh movements"
+        ],
+        "manasa": [],
+        "agantuja": [
+          "Injury to chest by harsh external forces"
+        ]
+      },
+      "purvaroopa": [
+        "Chest pain",
+        "Haemoptysis",
+        "Cough (in chest-wounded)",
+        "Haematuria (in wasted)",
+        "Pain in sides, back and waist (in wasted)"
+      ],
+      "roopa": [
+        "Chest aches with tearing and cutting pain",
+        "Severe pain on both sides",
+        "Emaciation and trembling in body",
+        "Gradual deterioration of energy, strength, lustre, relish and digestive fire",
+        "Fever",
+        "Discomfort and malaise",
+        "Diarrhoea due to loss of digestive power",
+        "Sputum abnormal, blackish, foul-smelling, yellow, knotty, copious, mixed with blood",
+        "Diminution of semen and ojas",
+        "Excessive emaciation"
+      ],
+      "bheda": [
+        "Kshata (Chest Wounded)",
+        "Kshina (Wasted)"
+      ],
+      "sadhyata": "Newly arisen with few symptoms and good digestion: Curable. Disease of one year standing: Palliable. Disease with all symptoms: Rejectable (Asadhya).",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XI",
+        "verse": "1-97"
+      }
+    },
+    {
+      "id": "disease_002",
+      "names": {
+        "sanskrit": "Shotha",
+        "english": "Oedema / Swelling",
+        "hindi": "Sujan / Shotha",
+        "gujarati": "Sojan / Shotha"
+      },
+      "category": "Kaya Chikitsa",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": ["Rasa", "Rakta", "Mamsa", "Meda"],
+      "srotas_affected": ["Rasavaha", "Raktavaha", "Swedavaha", "Udakavaha"],
+      "nidana": {
+        "ahara": [
+          "Regular intake of alkaline substances",
+          "Sour and irritant food",
+          "Hot and heavy substances",
+          "Excessive use of curd",
+          "Uncooked food",
+          "Earth (geophagy)",
+          "Potherbs",
+          "Antagonistic food",
+          "Defective and poisoned food"
+        ],
+        "vihara": [
+          "Excessive evacuation",
+          "Lack of movements",
+          "Want of evacuation",
+          "Injury to vital parts",
+          "Difficult labour",
+          "Faulty management of evacuative measures"
+        ],
+        "manasa": [],
+        "agantuja": [
+          "Injury with wooden piece, stone, sharp instruments, fire, poisons, iron-made articles"
+        ]
+      },
+      "purvaroopa": [
+        "Heat",
+        "Distress",
+        "Dilatation of blood vessels"
+      ],
+      "roopa": [
+        "Heaviness",
+        "Instability",
+        "Protuberance",
+        "Heat in affected part",
+        "Thin veins",
+        "Horripilation",
+        "Change in colour of body part"
+      ],
+      "bheda": [
+        "Vataja Shotha - unstable, thin-skinned, reddish or black, numbness, horripilation, pain, aggravated during day",
+        "Pittaja Shotha - soft, odorous, black/yellow/red, giddiness, fever, sweating, thirst, burning, suppuration",
+        "Kaphaja Shotha - heavy, stable, pale, anorexia, salivation, oversleep, vomiting, aggravated during night",
+        "Nija Shotha (Innate)",
+        "Agantuja Shotha (Exogenous)",
+        "Localised Shotha",
+        "Generalised Shotha",
+        "Half-body Shotha"
+      ],
+      "sadhyata": "Easily curable if in person with no emaciation, caused by one dosa, new and strong patient. Fatal if in vital parts, generalised with discharge in weak person.",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XII",
+        "verse": "1-103"
+      }
+    },
+    {
+      "id": "disease_003",
+      "names": {
+        "sanskrit": "Granthi",
+        "english": "Nodular Growth / Cyst",
+        "hindi": "Granthi",
+        "gujarati": "Granthi"
+      },
+      "category": "Shalya Chikitsa",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": ["Mamsa", "Meda", "Rakta"],
+      "srotas_affected": ["Raktavaha", "Mamsavaha"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Nodular growth with symptoms of respective dosa",
+        "Mamsa-granthi: big with venous pulsation",
+        "Meda-granthi: painless, exceedingly unctuous and mobile"
+      ],
+      "bheda": [
+        "Vataja Granthi",
+        "Pittaja Granthi",
+        "Kaphaja Granthi",
+        "Mamsa Granthi",
+        "Meda Granthi"
+      ],
+      "sadhyata": "Granthi in belly, abdomen, neck, vital part; large and rough; in children, old and debilitated: Rejectable (Asadhya).",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XII",
+        "verse": "81-87"
+      }
+    },
+    {
+      "id": "disease_004",
+      "names": {
+        "sanskrit": "Arbuda",
+        "english": "Tumour",
+        "hindi": "Arbuda / Tumor",
+        "gujarati": "Arbuda"
+      },
+      "category": "Shalya Chikitsa",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": ["Mamsa", "Meda", "Rakta"],
+      "srotas_affected": [],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Similar to Granthi in site, etiology, characters, dosa and dosya"
+      ],
+      "bheda": [],
+      "sadhyata": "Treated on the lines of Granthi treatment.",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XII",
+        "verse": "87"
+      }
+    },
+    {
+      "id": "disease_005",
+      "names": {
+        "sanskrit": "Visphotaka",
+        "english": "Blisters / Vesicular eruptions",
+        "hindi": "Visphotaka",
+        "gujarati": "Visphotaka"
+      },
+      "category": "Tvak Roga",
+      "dosha_involved": ["Pitta", "Vata", "Kapha"],
+      "dhatu_affected": ["Rakta", "Tvak"],
+      "srotas_affected": ["Raktavaha"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Blisters erupted all over the body",
+        "Associated with redness, fever and thirst"
+      ],
+      "bheda": [
+        "Visphotaka - general blisters",
+        "Kaksya (Herpes Zoster) - blisters arranged like sacred thread, caused by pitta and vata",
+        "Romantika (Measles) - small eruptions all over body with fever, burning, thirst, itching, anorexia, excessive salivation; caused by pitta and kapha",
+        "Masirika (Chickenpox) - lentil-sized eruptions all over body; caused by pitta and kapha"
+      ],
+      "sadhyata": "Managed with measures prescribed for erysipelas and leprosy.",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XII",
+        "verse": "90-93"
+      }
+    },
+    {
+      "id": "disease_006",
+      "names": {
+        "sanskrit": "Bradhna",
+        "english": "Inguinal Hernia",
+        "hindi": "Andravridhi / Hernia",
+        "gujarati": "Bradhna"
+      },
+      "category": "Shalya Chikitsa",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": ["Mamsa", "Meda"],
+      "srotas_affected": [],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Intestinal loop comes out in scrotum and reverts back",
+        "Associated with symptoms of respective dosas",
+        "Scrotal enlargement due to mitra (hydrocele): soft",
+        "Scrotal enlargement due to fat: unctuous and hard"
+      ],
+      "bheda": [
+        "Vataja Bradhna",
+        "Pittaja Bradhna",
+        "Kaphaja Bradhna",
+        "Hydrocele (Mitra)",
+        "Medaja (fatty)"
+      ],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XII",
+        "verse": "94-95"
+      }
+    },
+    {
+      "id": "disease_007",
+      "names": {
+        "sanskrit": "Bhagandara",
+        "english": "Fistula-in-Ano",
+        "hindi": "Bhagandara / Bhagandar",
+        "gujarati": "Bhagandara"
+      },
+      "category": "Shalya Chikitsa",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": ["Asthi", "Rakta", "Mamsa"],
+      "srotas_affected": ["Purishavaha"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [
+          "Gradual decay of bones by organisms",
+          "Excessive sexual intercourse",
+          "Over-straining during defaecation",
+          "Excessive squatting posture",
+          "Riding a horse"
+        ],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Boil in the side of anus",
+        "Very painful",
+        "Gradually suppurates and breaks open"
+      ],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XII",
+        "verse": "96-97"
+      }
+    },
+    {
+      "id": "disease_008",
+      "names": {
+        "sanskrit": "Shipada",
+        "english": "Filariasis",
+        "hindi": "Haathi Paon / Shlipad",
+        "gujarati": "Hathipaag"
+      },
+      "category": "Kaya Chikitsa",
+      "dosha_involved": ["Kapha", "Vata"],
+      "dhatu_affected": ["Mamsa", "Rakta"],
+      "srotas_affected": ["Raktavaha", "Mamsavaha"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Swelling in shanks starting from feet to calf muscles",
+        "Caused by vitiation of mamsa, kapha and rakta"
+      ],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XII",
+        "verse": "98"
+      }
+    },
+    {
+      "id": "disease_009",
+      "names": {
+        "sanskrit": "Udara Roga",
+        "english": "Abdominal Disorders",
+        "hindi": "Udara Roga / Pet ke Rog",
+        "gujarati": "Udara Rog"
+      },
+      "category": "Kaya Chikitsa",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": ["Rasa", "Rakta", "Mamsa", "Meda"],
+      "srotas_affected": ["Annavaha", "Purishavaha", "Mutravaha", "Swedavaha", "Udakavaha"],
+      "nidana": {
+        "ahara": [
+          "Hot, saline, alkaline, burning, sour and poisoned food",
+          "Uncooked, antagonistic and heavy food",
+          "Intake of menstrual blood, hairs, faeces, urine, bone, nail (contaminated food)",
+          "Slow-acting poisons",
+          "Improper dietetic regimen after evacuative therapy",
+          "Rough and antagonistic food"
+        ],
+        "vihara": [
+          "Excessive jerking",
+          "Obstruction in passage of channels",
+          "Excessive accumulation of dosas",
+          "Improper administration of evacuative therapy",
+          "Suppression of natural urges",
+          "Neglect of treatment of splenomegaly, piles and grahaniroga",
+          "Roughness",
+          "Obstruction due to piles, hairs and stool",
+          "Perforation and tearing of intestines"
+        ],
+        "manasa": [
+          "Indulgence in sinful activities"
+        ],
+        "agantuja": [
+          "Ingestion of gravels, grass, wooden or bony piece with food"
+        ]
+      },
+      "purvaroopa": [
+        "Loss of appetite",
+        "Delayed digestion of sweet, unctuous and heavy food",
+        "Hyperacidity",
+        "Intolerance to over-eating",
+        "Slight oedema on feet",
+        "Continuous deterioration of strength",
+        "Dyspnoea on slight exertion",
+        "Abdominal enlargement",
+        "Accumulation of faeces",
+        "Pain in pelvic region",
+        "Upward movement of vayu",
+        "Increase of tympanitis",
+        "Appearance of streaks on abdomen",
+        "Disappearance of abdominal wrinkles"
+      ],
+      "roopa": [
+        "Tympanitis and gurgling sound in abdomen",
+        "Oedema on hands and feet",
+        "Poor digestion",
+        "Smooth cheek and emaciation"
+      ],
+      "bheda": [
+        "Vatodara - vata type abdominal disorder",
+        "Pittodara - pitta type abdominal disorder",
+        "Kaphodara - kapha type abdominal disorder",
+        "Sannipatodara - tridosha type abdominal disorder",
+        "Plihodara - splenomegaly / liver enlargement",
+        "Baddhagudodara - obstructive abdominal disorder",
+        "Chidrodara - perforative abdominal disorder",
+        "Udakodara - ascites"
+      ],
+      "sadhyata": "Vatodara mildest, progressively severe through Pittodara, Kaphodara, Sannipatodara, Plihodara, Udakodara. Obstructive abdomen mostly fatal after a fortnight. Curable if newly arisen, fluidless and patient is strong. Incurable when complicated with vomiting, diarrhoea, thirst, dyspnoea.",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XIII",
+        "verse": "1-196"
+      }
+    },
+    {
+      "id": "disease_010",
+      "names": {
+        "sanskrit": "Vatodara",
+        "english": "Vata-type Abdominal Disorder",
+        "hindi": "Vatodara",
+        "gujarati": "Vatodara"
+      },
+      "category": "Kaya Chikitsa",
+      "dosha_involved": ["Vata", "Kapha"],
+      "dhatu_affected": ["Rasa", "Mamsa"],
+      "srotas_affected": ["Annavaha", "Purishavaha", "Mutravaha"],
+      "nidana": {
+        "ahara": [
+          "Rough and undernutrition diet"
+        ],
+        "vihara": [
+          "Excessive exertion",
+          "Suppression of urges",
+          "Emaciating factors such as fasting"
+        ],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Swelling in belly, hands, feet and scrotum",
+        "Tearing of abdomen",
+        "Unstable aggravation and recession",
+        "Pain in belly and sides",
+        "Upward movement of vayu",
+        "Body-ache",
+        "Tearing pain in smaller joints",
+        "Dry cough",
+        "Emaciation and debility",
+        "Anorexia and indigestion",
+        "Heaviness in lower parts",
+        "Obstruction in flatus, stool and urine",
+        "Blackish or reddish tinge in nails, eyes, face, skin, urine and stool",
+        "Prominence of thin and black streaks and veins on abdomen",
+        "Tympanitic sound on percussion",
+        "Movement of vayu within abdomen in all directions with pain and sound"
+      ],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XIII",
+        "verse": "23-25"
+      }
+    },
+    {
+      "id": "disease_011",
+      "names": {
+        "sanskrit": "Pittodara",
+        "english": "Pitta-type Abdominal Disorder",
+        "hindi": "Pittodara",
+        "gujarati": "Pittodara"
+      },
+      "category": "Kaya Chikitsa",
+      "dosha_involved": ["Pitta", "Vata", "Kapha"],
+      "dhatu_affected": ["Rasa", "Rakta"],
+      "srotas_affected": ["Annavaha", "Raktavaha"],
+      "nidana": {
+        "ahara": [
+          "Pungent, sour, saline and very hot food items"
+        ],
+        "vihara": [
+          "Exposure to intense fire and sun"
+        ],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Burning sensation",
+        "Fever",
+        "Thirst",
+        "Fainting",
+        "Diarrhoea",
+        "Giddiness",
+        "Pungency in mouth",
+        "Green and yellow tinge in nails, eyes, face, skin, urine and stool",
+        "Blue, yellow, deep yellow, green or coppery streaks and veins on abdomen",
+        "Burning sensation in abdomen",
+        "Abdomen soft on palpation and prone to quick inflammation"
+      ],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XIII",
+        "verse": "26-28"
+      }
+    },
+    {
+      "id": "disease_012",
+      "names": {
+        "sanskrit": "Kaphodara",
+        "english": "Kapha-type Abdominal Disorder",
+        "hindi": "Kaphodara",
+        "gujarati": "Kaphodara"
+      },
+      "category": "Kaya Chikitsa",
+      "dosha_involved": ["Kapha", "Vata"],
+      "dhatu_affected": ["Rasa", "Meda"],
+      "srotas_affected": ["Annavaha", "Medovaha"],
+      "nidana": {
+        "ahara": [
+          "Sweet, too unctuous and heavy food",
+          "Excessive use of curd",
+          "Milk",
+          "Meat of aquatic and marshy animals"
+        ],
+        "vihara": [
+          "Lack of exercise",
+          "Day-sleep"
+        ],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Heaviness",
+        "Anorexia",
+        "Indigestion",
+        "Body-ache",
+        "Numbness",
+        "Swelling in hands, feet, scrotum and thighs",
+        "Nausea",
+        "Sleep",
+        "Cough",
+        "Dyspnoea",
+        "Whiteness in nails, eyes, face, skin, urine and stool",
+        "White streaks and veins all over abdomen",
+        "Heavy, still, immobile and hard abdomen"
+      ],
+      "bheda": [],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XIII",
+        "verse": "29-31"
+      }
+    },
+    {
+      "id": "disease_013",
+      "names": {
+        "sanskrit": "Plihodara",
+        "english": "Splenomegaly / Liver Enlargement",
+        "hindi": "Plihodara / Tilodara",
+        "gujarati": "Plihodara"
+      },
+      "category": "Kaya Chikitsa",
+      "dosha_involved": ["Vata", "Pitta", "Kapha", "Rakta"],
+      "dhatu_affected": ["Rasa", "Rakta", "Mamsa"],
+      "srotas_affected": ["Raktavaha", "Annavaha"],
+      "nidana": {
+        "ahara": [],
+        "vihara": [
+          "Excessive jerking",
+          "Travelling by vehicles",
+          "Excessive movements",
+          "Sexual intercourse",
+          "Load-carrying",
+          "Travelling on foot",
+          "Vomiting or debility caused by disease"
+        ],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Debility",
+        "Anorexia",
+        "Indigestion",
+        "Retention of stool and urine",
+        "Unconsciousness",
+        "Thirst",
+        "Body-ache",
+        "Vomiting",
+        "Fainting",
+        "Lassitude",
+        "Cough",
+        "Dyspnoea",
+        "Mild fever",
+        "Hardness in bowels",
+        "Loss of digestive fire",
+        "Emaciation",
+        "Tastelessness in mouth",
+        "Tearing pain in smaller joints",
+        "Gas formation and pain in belly",
+        "Reddish or abnormal tinge or blue/green/yellow streaks on abdomen",
+        "Spleen hard like small stony piece, gradually increasing like tortoise"
+      ],
+      "bheda": [
+        "Pliha (Spleen enlargement - left side)",
+        "Yakrit (Liver enlargement - right side)"
+      ],
+      "sadhyata": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XIII",
+        "verse": "35-38"
+      }
+    },
+    {
+      "id": "disease_014",
+      "names": {
+        "sanskrit": "Udakodara",
+        "english": "Ascites",
+        "hindi": "Jalodar",
+        "gujarati": "Jalodar"
+      },
+      "category": "Kaya Chikitsa",
+      "dosha_involved": ["Vata", "Kapha"],
+      "dhatu_affected": ["Rasa", "Rakta"],
+      "srotas_affected": ["Udakavaha", "Swedavaha", "Rasavaha"],
+      "nidana": {
+        "ahara": [
+          "Excessive intake of water after taking uncting substance"
+        ],
+        "vihara": [
+          "Poor digestion",
+          "Wasting and emaciation leading to extinction of digestive fire"
+        ],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "Loss of desire for food",
+        "Thirst",
+        "Discharge from anus",
+        "Pain",
+        "Dyspnoea",
+        "Cough and debility",
+        "Abdomen full of streaks and veins of various colours",
+        "Fluctuation on palpation like a bag full of water",
+        "Round, heavy, still abdomen dull on percussion",
+        "Soft on palpation",
+        "Streakless abdomen concentrating on umbilicus"
+      ],
+      "bheda": [],
+      "sadhyata": "Incurable when complicated with vomiting, diarrhoea, feeling of darkness, thirst, dyspnoea, cough, hiccup, debility, pain in sides, anorexia, hoarseness of voice, retention of urine.",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XIII",
+        "verse": "45-49"
+      }
+    },
+    {
+      "id": "disease_015",
+      "names": {
+        "sanskrit": "Galaganda",
+        "english": "Goitre",
+        "hindi": "Ghengha / Galaganda",
+        "gujarati": "Galaganda"
+      },
+      "category": "Kaya Chikitsa",
+      "dosha_involved": ["Vata", "Pitta", "Kapha"],
+      "dhatu_affected": ["Mamsa", "Meda"],
+      "srotas_affected": [],
+      "nidana": {
+        "ahara": [],
+        "vihara": [],
+        "manasa": [],
+        "agantuja": []
+      },
+      "purvaroopa": [],
+      "roopa": [
+        "One growth in the sides of pharynx"
+      ],
+      "bheda": [
+        "Galaganda (Goitre) - single",
+        "Gandamala (Cervical Adenitis) - several glands"
+      ],
+      "sadhyata": "Curable. Incurable if attended by coryza, pain in sides, cough, fever and vomiting.",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsa Sthana",
+        "chapter": "Chapter XII",
+        "verse": "79-80"
+      }
+    }
+  ]
+}

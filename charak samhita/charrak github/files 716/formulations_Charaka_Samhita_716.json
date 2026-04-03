@@ -1,0 +1,1228 @@
+{
+  "formulations": [
+    {
+      "id": "form_001",
+      "name": "Vata Basti 1 (Bilva group)",
+      "type": "Basti (Niruha / Decoction enema)",
+      "ingredients": [
+        { "herb_name": "Bilva", "quantity": "", "form": "decoction" },
+        { "herb_name": "Agnimantha", "quantity": "", "form": "decoction" },
+        { "herb_name": "Syonaka", "quantity": "", "form": "decoction" },
+        { "herb_name": "Patola", "quantity": "", "form": "decoction" },
+        { "herb_name": "Four fats (Chatushsneha)", "quantity": "", "form": "added" },
+        { "herb_name": "Meat soup", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction of herbs added with four fats and meat soup, prepared as enema",
+      "indications": ["Vata disorders"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "18"
+      }
+    },
+    {
+      "id": "form_002",
+      "name": "Vata Basti 2 (Salaparni group)",
+      "type": "Basti (Niruha / Decoction enema)",
+      "ingredients": [
+        { "herb_name": "Salaparni", "quantity": "", "form": "decoction" },
+        { "herb_name": "Prishniparni", "quantity": "", "form": "decoction" },
+        { "herb_name": "Brhati", "quantity": "", "form": "decoction" },
+        { "herb_name": "Kantakari", "quantity": "", "form": "decoction" },
+        { "herb_name": "Eranda", "quantity": "", "form": "decoction" },
+        { "herb_name": "Four fats (Chatushsneha)", "quantity": "", "form": "added" },
+        { "herb_name": "Meat soup", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction added with four fats and meat soup",
+      "indications": ["Vata disorders"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "18"
+      }
+    },
+    {
+      "id": "form_003",
+      "name": "Vata Basti 3 (Yava group)",
+      "type": "Basti (Niruha / Decoction enema)",
+      "ingredients": [
+        { "herb_name": "Yava (Barley)", "quantity": "", "form": "decoction" },
+        { "herb_name": "Kulatha (Horse gram)", "quantity": "", "form": "decoction" },
+        { "herb_name": "Kola (Jujube)", "quantity": "", "form": "decoction" },
+        { "herb_name": "Salaparni", "quantity": "", "form": "decoction" },
+        { "herb_name": "Four fats (Chatushsneha)", "quantity": "", "form": "added" },
+        { "herb_name": "Meat soup", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction added with four fats and meat soup",
+      "indications": ["Vata disorders"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "18"
+      }
+    },
+    {
+      "id": "form_004",
+      "name": "Pitta Basti 1 (Nala group)",
+      "type": "Basti (Niruha / Decoction enema)",
+      "ingredients": [
+        { "herb_name": "Nala", "quantity": "", "form": "decoction" },
+        { "herb_name": "Vanjula", "quantity": "", "form": "decoction" },
+        { "herb_name": "Vanira", "quantity": "", "form": "decoction" },
+        { "herb_name": "Shatapatra", "quantity": "", "form": "decoction" },
+        { "herb_name": "Shivala", "quantity": "", "form": "decoction" },
+        { "herb_name": "Sarkara (Sugar)", "quantity": "", "form": "added" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Ksheera (Milk)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction added with sugar, honey, ghee and milk",
+      "indications": ["Pitta disorders"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "19"
+      }
+    },
+    {
+      "id": "form_005",
+      "name": "Pitta Basti 2 (Manjishtha group)",
+      "type": "Basti (Niruha / Decoction enema)",
+      "ingredients": [
+        { "herb_name": "Manjishtha", "quantity": "", "form": "decoction" },
+        { "herb_name": "Sariva", "quantity": "", "form": "decoction" },
+        { "herb_name": "Ananta", "quantity": "", "form": "decoction" },
+        { "herb_name": "Payasya", "quantity": "", "form": "decoction" },
+        { "herb_name": "Madhuyashti", "quantity": "", "form": "decoction" },
+        { "herb_name": "Sarkara (Sugar)", "quantity": "", "form": "added" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Ksheera (Milk)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction added with sugar, honey, ghee and milk",
+      "indications": ["Pitta disorders"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "20"
+      }
+    },
+    {
+      "id": "form_006",
+      "name": "Pitta Basti 3 (Chandana group)",
+      "type": "Basti (Niruha / Decoction enema)",
+      "ingredients": [
+        { "herb_name": "Chandana", "quantity": "", "form": "decoction" },
+        { "herb_name": "Padmaka", "quantity": "", "form": "decoction" },
+        { "herb_name": "Ushira", "quantity": "", "form": "decoction" },
+        { "herb_name": "Punnaga", "quantity": "", "form": "decoction" },
+        { "herb_name": "Sarkara (Sugar)", "quantity": "", "form": "added" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Ksheera (Milk)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction added with sugar, honey, ghee and milk",
+      "indications": ["Pitta disorders"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "20"
+      }
+    },
+    {
+      "id": "form_007",
+      "name": "Kapha Basti 1 (Arka group)",
+      "type": "Basti (Niruha / Decoction enema)",
+      "ingredients": [
+        { "herb_name": "Arka", "quantity": "", "form": "decoction" },
+        { "herb_name": "Alarka", "quantity": "", "form": "decoction" },
+        { "herb_name": "Patha", "quantity": "", "form": "decoction" },
+        { "herb_name": "Punarnava", "quantity": "", "form": "decoction" },
+        { "herb_name": "Yavakshara", "quantity": "", "form": "added" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Go-mutra (Cow urine)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction added with yavakshara, honey and cow's urine; not very unctuous",
+      "indications": ["Kaphaja disorders"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "21"
+      }
+    },
+    {
+      "id": "form_008",
+      "name": "Kapha Basti 2 (Haridra group)",
+      "type": "Basti (Niruha / Decoction enema)",
+      "ingredients": [
+        { "herb_name": "Haridra", "quantity": "", "form": "decoction" },
+        { "herb_name": "Triphala", "quantity": "", "form": "decoction" },
+        { "herb_name": "Musta", "quantity": "", "form": "decoction" },
+        { "herb_name": "Daruharidra", "quantity": "", "form": "decoction" },
+        { "herb_name": "Kutannata", "quantity": "", "form": "decoction" },
+        { "herb_name": "Yavakshara", "quantity": "", "form": "added" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Go-mutra (Cow urine)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction added with yavakshara, honey and cow's urine",
+      "indications": ["Kaphaja disorders"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "22"
+      }
+    },
+    {
+      "id": "form_009",
+      "name": "Kapha Basti 3 (Pippali group)",
+      "type": "Basti (Niruha / Decoction enema)",
+      "ingredients": [
+        { "herb_name": "Pippali", "quantity": "", "form": "decoction" },
+        { "herb_name": "Citraka", "quantity": "", "form": "decoction" },
+        { "herb_name": "Yavakshara", "quantity": "", "form": "added" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Go-mutra (Cow urine)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction added with yavakshara, honey and cow's urine",
+      "indications": ["Kaphaja disorders"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "22-24"
+      }
+    },
+    {
+      "id": "form_010",
+      "name": "Colon Evacuator Basti 1 (Madanaphala group)",
+      "type": "Basti (Niruha – Shodhana enema)",
+      "ingredients": [
+        { "herb_name": "Madanaphala", "quantity": "", "form": "boiled" },
+        { "herb_name": "Jimutaka", "quantity": "", "form": "boiled" },
+        { "herb_name": "Ikshu", "quantity": "", "form": "boiled" },
+        { "herb_name": "Dhamargava", "quantity": "", "form": "boiled" },
+        { "herb_name": "Vatsaka", "quantity": "", "form": "boiled" },
+        { "herb_name": "Go-mutra (Cow urine)", "quantity": "", "form": "boiling medium" }
+      ],
+      "preparation_method": "Herbs boiled with cow's urine",
+      "indications": ["Evacuation of colon", "Kaphaja disorders"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "25-27"
+      }
+    },
+    {
+      "id": "form_011",
+      "name": "Colon Evacuator Basti 2 (Syama group)",
+      "type": "Basti (Niruha – Shodhana enema)",
+      "ingredients": [
+        { "herb_name": "Syama", "quantity": "", "form": "boiled" },
+        { "herb_name": "Trivrita", "quantity": "", "form": "boiled" },
+        { "herb_name": "Salaparni", "quantity": "", "form": "boiled" },
+        { "herb_name": "Danti", "quantity": "", "form": "boiled" },
+        { "herb_name": "Dravanti", "quantity": "", "form": "boiled" },
+        { "herb_name": "Go-mutra (Cow urine)", "quantity": "", "form": "boiling medium" }
+      ],
+      "preparation_method": "Herbs boiled with cow's urine",
+      "indications": ["Evacuation of colon"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "25-27"
+      }
+    },
+    {
+      "id": "form_012",
+      "name": "Shukra-Mamsa Vardhaka Basti 1 (Kakoli group)",
+      "type": "Basti (Niruha – Brinhana / tonic enema)",
+      "ingredients": [
+        { "herb_name": "Kakoli", "quantity": "", "form": "decoction" },
+        { "herb_name": "Kshirakakoli", "quantity": "", "form": "decoction" },
+        { "herb_name": "Mudgaparni", "quantity": "", "form": "decoction" },
+        { "herb_name": "Atavari (Shatavari)", "quantity": "", "form": "decoction" }
+      ],
+      "preparation_method": "Decoction prepared as enema",
+      "indications": ["Promoter of semen and muscles"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "28-29"
+      }
+    },
+    {
+      "id": "form_013",
+      "name": "Shukra-Mamsa Vardhaka Basti 2 (Vidari group)",
+      "type": "Basti (Niruha – Brinhana / tonic enema)",
+      "ingredients": [
+        { "herb_name": "Vidari", "quantity": "", "form": "decoction" },
+        { "herb_name": "Madhuyashti", "quantity": "", "form": "decoction" },
+        { "herb_name": "Shrigataka", "quantity": "", "form": "decoction" },
+        { "herb_name": "Kasheruka", "quantity": "", "form": "decoction" }
+      ],
+      "preparation_method": "Decoction prepared as enema",
+      "indications": ["Promoter of semen and muscles"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "28-29"
+      }
+    },
+    {
+      "id": "form_014",
+      "name": "Shukra-Mamsa Vardhaka Basti 3 (Kapikachhu seed group)",
+      "type": "Basti (Niruha – Brinhana / tonic enema)",
+      "ingredients": [
+        { "herb_name": "Kapikachhu seeds", "quantity": "", "form": "decoction" },
+        { "herb_name": "Masha (Black gram)", "quantity": "", "form": "decoction" },
+        { "herb_name": "Godhuma (Wheat)", "quantity": "", "form": "decoction" },
+        { "herb_name": "Yava (Barley)", "quantity": "", "form": "decoction" }
+      ],
+      "preparation_method": "Decoction prepared as enema",
+      "indications": ["Promoter of semen and muscles"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "28-29"
+      }
+    },
+    {
+      "id": "form_015",
+      "name": "Stambhana Basti 1 (Jivanti group – faecal astringent)",
+      "type": "Basti (Niruha – Stambhana / astringent enema)",
+      "ingredients": [
+        { "herb_name": "Jivanti", "quantity": "", "form": "decoction" },
+        { "herb_name": "Agnimantha", "quantity": "", "form": "decoction" },
+        { "herb_name": "Dhataki flowers", "quantity": "", "form": "decoction" },
+        { "herb_name": "Vatsaka", "quantity": "", "form": "decoction" }
+      ],
+      "preparation_method": "Decoction prepared as enema",
+      "indications": ["Faecal astringent", "Diarrhoea"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "30-31"
+      }
+    },
+    {
+      "id": "form_016",
+      "name": "Stambhana Basti 2 (Aragvadha group – faecal astringent)",
+      "type": "Basti (Niruha – Stambhana / astringent enema)",
+      "ingredients": [
+        { "herb_name": "Aragvadha", "quantity": "", "form": "decoction" },
+        { "herb_name": "Khadira", "quantity": "", "form": "decoction" },
+        { "herb_name": "Kustha", "quantity": "", "form": "decoction" },
+        { "herb_name": "Shami", "quantity": "", "form": "decoction" },
+        { "herb_name": "Pinditaka", "quantity": "", "form": "decoction" },
+        { "herb_name": "Yava (Barley)", "quantity": "", "form": "decoction" }
+      ],
+      "preparation_method": "Decoction prepared as enema",
+      "indications": ["Faecal astringent"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "30-31"
+      }
+    },
+    {
+      "id": "form_017",
+      "name": "Srava Basti 1 (Vrischira-Punarnava group – for discharge)",
+      "type": "Basti (Niruha – Kshira Basti)",
+      "ingredients": [
+        { "herb_name": "Vrischira", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Punarnava", "quantity": "", "form": "milk decoction" }
+      ],
+      "preparation_method": "Drugs boiled in milk; administered as enema",
+      "indications": ["Discharge (srava)"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "32"
+      }
+    },
+    {
+      "id": "form_018",
+      "name": "Srava Basti 2 (Akhupashpi-Tanduliyaka group)",
+      "type": "Basti (Niruha – Kshira Basti)",
+      "ingredients": [
+        { "herb_name": "Akhupashpi", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Tanduliyaka", "quantity": "", "form": "milk decoction" }
+      ],
+      "preparation_method": "Drugs boiled in milk; administered as enema",
+      "indications": ["Discharge (srava)"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "32"
+      }
+    },
+    {
+      "id": "form_019",
+      "name": "Daha Shamaka Basti 1 (Kalashataka group – for burning)",
+      "type": "Basti (Niruha – cooling enema)",
+      "ingredients": [
+        { "herb_name": "Kalashataka", "quantity": "", "form": "decoction" },
+        { "herb_name": "Kandekshu", "quantity": "", "form": "decoction" },
+        { "herb_name": "Darbha", "quantity": "", "form": "decoction" },
+        { "herb_name": "Potgala", "quantity": "", "form": "decoction" },
+        { "herb_name": "Ikshuraka", "quantity": "", "form": "decoction" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Ksheera (Milk)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction added with ghee and milk",
+      "indications": ["Burning sensation (daha)"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "33"
+      }
+    },
+    {
+      "id": "form_020",
+      "name": "Daha Shamaka Basti 2 (Utpaladi group)",
+      "type": "Basti (Niruha – cooling enema)",
+      "ingredients": [
+        { "herb_name": "Utpaladi group drugs", "quantity": "", "form": "decoction" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Ksheera (Milk)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction of utpaladi group added with ghee and milk",
+      "indications": ["Burning sensation (daha)"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "33"
+      }
+    },
+    {
+      "id": "form_021",
+      "name": "Toda Shamaka Basti 1 (Karbudara-Adhaki group – for cutting pain)",
+      "type": "Basti (Niruha – Kshira Basti)",
+      "ingredients": [
+        { "herb_name": "Karbudara", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Adhaki", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Nipa", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Vidula", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added after cooling" },
+        { "herb_name": "Sarkara (Sugar)", "quantity": "", "form": "added after cooling" }
+      ],
+      "preparation_method": "Herbs boiled in milk, cooled, then added with honey and sugar",
+      "indications": ["Cutting pain (toda)"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "34-35"
+      }
+    },
+    {
+      "id": "form_022",
+      "name": "Toda Shamaka Basti 2 (Gambhari-Kovidara group)",
+      "type": "Basti (Niruha – Kshira Basti)",
+      "ingredients": [
+        { "herb_name": "Gambhari peduncles", "quantity": "", "form": "decoction" },
+        { "herb_name": "Kovidara peduncles", "quantity": "", "form": "decoction" }
+      ],
+      "preparation_method": "Peduncles boiled and administered as enema",
+      "indications": ["Cutting pain (toda)"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "34-35"
+      }
+    },
+    {
+      "id": "form_023",
+      "name": "Pravahika Basti 1 (Salmali-milk group – for tenesmus)",
+      "type": "Basti (Niruha – Kshira Basti)",
+      "ingredients": [
+        { "herb_name": "Salmali peduncles", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Salmali peduncles boiled in milk, added with ghee",
+      "indications": ["Tenesmus (pravahika)"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "36"
+      }
+    },
+    {
+      "id": "form_024",
+      "name": "Pravahika Basti 2 (Salmali exudate enema)",
+      "type": "Basti (Niruha enema)",
+      "ingredients": [
+        { "herb_name": "Salmali exudation", "quantity": "", "form": "direct use" }
+      ],
+      "preparation_method": "Exudation of Salmali administered as enema",
+      "indications": ["Tenesmus (pravahika)"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "36"
+      }
+    },
+    {
+      "id": "form_025",
+      "name": "Atisar Basti 1 (Ashvavarohika group – for excessive diarrhoea)",
+      "type": "Basti (Niruha – Kshira Basti)",
+      "ingredients": [
+        { "herb_name": "Ashvavarohika", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Kakanasa", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Rajakasheruka", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Anjana", "quantity": "", "form": "added" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Herbs boiled in milk, added with honey, anjana and ghee",
+      "indications": ["Excessive diarrhoea"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "37"
+      }
+    },
+    {
+      "id": "form_026",
+      "name": "Atisar Basti 2 (Nyagrodhadi group)",
+      "type": "Basti (Niruha enema)",
+      "ingredients": [
+        { "herb_name": "Nyagrodhadi group (four plants)", "quantity": "", "form": "decoction" }
+      ],
+      "preparation_method": "Decoction of four nyagrodhadi plants",
+      "indications": ["Excessive diarrhoea"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "37"
+      }
+    },
+    {
+      "id": "form_027",
+      "name": "Raktapitta Basti 1 (Brhati-Kshirakakoli group – for haemorrhage)",
+      "type": "Basti (Niruha – Kshira Basti)",
+      "ingredients": [
+        { "herb_name": "Brhati", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Kshirakakoli", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Prishniparni", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Shatavari", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Anjana", "quantity": "", "form": "added" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Sarkara (Sugar)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Herbs boiled in milk, added with ghee, anjana, honey and sugar; administered cooled",
+      "indications": ["Haemorrhage", "Discharge of vital blood (raktapitta)"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "38-42"
+      }
+    },
+    {
+      "id": "form_028",
+      "name": "Raktapitta Basti 2 (Gambhari-Badari group)",
+      "type": "Basti (Niruha – Kshira Basti)",
+      "ingredients": [
+        { "herb_name": "Gambhari", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Badari", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Durva", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Ushira", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Priyangu", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Anjana", "quantity": "", "form": "added" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Sarkara (Sugar)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Herbs boiled in milk, added with ghee, anjana, honey and sugar; administered cooled",
+      "indications": ["Haemorrhage"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "38-42"
+      }
+    },
+    {
+      "id": "form_029",
+      "name": "Raktapitta Basti 3 (Madhoka-Madhuka-Draksha group)",
+      "type": "Basti (Niruha – sweet enema)",
+      "ingredients": [
+        { "herb_name": "Madhoka", "quantity": "", "form": "decoction" },
+        { "herb_name": "Madhuka", "quantity": "", "form": "decoction" },
+        { "herb_name": "Draksha", "quantity": "", "form": "decoction" },
+        { "herb_name": "Darva", "quantity": "", "form": "decoction" },
+        { "herb_name": "Gambhari", "quantity": "", "form": "decoction" },
+        { "herb_name": "Chandana", "quantity": "", "form": "decoction" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Sarkara (Sugar)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction added with honey and sugar",
+      "indications": ["Haemorrhage"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "42"
+      }
+    },
+    {
+      "id": "form_030",
+      "name": "Raktapitta Basti 4 (Manjishtha-Sariva group – internal haemorrhage)",
+      "type": "Basti (Niruha enema)",
+      "ingredients": [
+        { "herb_name": "Manjishtha", "quantity": "", "form": "decoction" },
+        { "herb_name": "Sariva", "quantity": "", "form": "decoction" },
+        { "herb_name": "Ananta", "quantity": "", "form": "decoction" },
+        { "herb_name": "Payasya", "quantity": "", "form": "decoction" },
+        { "herb_name": "Madhuka", "quantity": "", "form": "decoction" }
+      ],
+      "preparation_method": "Decoction prepared as enema",
+      "indications": ["Internal haemorrhage"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "43"
+      }
+    },
+    {
+      "id": "form_031",
+      "name": "Raktapitta Basti 5 (Sarkara-Chandana-Draksha group – internal haemorrhage)",
+      "type": "Basti (Niruha enema)",
+      "ingredients": [
+        { "herb_name": "Sarkara (Sugar)", "quantity": "", "form": "decoction" },
+        { "herb_name": "Chandana", "quantity": "", "form": "decoction" },
+        { "herb_name": "Draksha", "quantity": "", "form": "decoction" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Amalaki fruits", "quantity": "", "form": "added" },
+        { "herb_name": "Utpala", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction with added ingredients administered as enema",
+      "indications": ["Internal haemorrhage"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "43"
+      }
+    },
+    {
+      "id": "form_032",
+      "name": "Prameha Basti (Somavalka group)",
+      "type": "Basti (Niruha enema)",
+      "ingredients": [
+        { "herb_name": "Somavalka", "quantity": "", "form": "decoction" }
+      ],
+      "preparation_method": "Decoction of somavalka administered as enema",
+      "indications": ["Prameha (urinary disorders / diabetes)"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "X",
+        "verse": "43"
+      }
+    },
+    {
+      "id": "form_033",
+      "name": "Yapana Basti 1 (Musta-Ushira-Bala group – sustaining enema)",
+      "type": "Basti (Yapana / sustaining enema)",
+      "ingredients": [
+        { "herb_name": "Musta", "quantity": "40 gm", "form": "pieces for decoction" },
+        { "herb_name": "Ushira", "quantity": "40 gm", "form": "pieces for decoction" },
+        { "herb_name": "Bala", "quantity": "40 gm", "form": "pieces for decoction" },
+        { "herb_name": "Aragvadha", "quantity": "40 gm", "form": "pieces for decoction" },
+        { "herb_name": "Rasna", "quantity": "40 gm", "form": "pieces for decoction" },
+        { "herb_name": "Manjishtha", "quantity": "40 gm", "form": "pieces for decoction" },
+        { "herb_name": "Katurohini", "quantity": "40 gm", "form": "pieces for decoction" },
+        { "herb_name": "Trayamana", "quantity": "40 gm", "form": "pieces for decoction" },
+        { "herb_name": "Punarnava", "quantity": "40 gm", "form": "pieces for decoction" },
+        { "herb_name": "Bibhitaka", "quantity": "40 gm", "form": "pieces for decoction" },
+        { "herb_name": "Guduchi", "quantity": "40 gm", "form": "pieces for decoction" },
+        { "herb_name": "Laghu Panchamula", "quantity": "40 gm", "form": "pieces for decoction" },
+        { "herb_name": "Madanaphala", "quantity": "8 in number", "form": "washed and decocted" },
+        { "herb_name": "Ksheera (Milk)", "quantity": "1.28 litres", "form": "added for milk decoction" },
+        { "herb_name": "Meat juice of wild animals", "quantity": "one-fourth of total", "form": "added" },
+        { "herb_name": "Madhu (Honey)", "quantity": "equal parts", "form": "added after cooling" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "equal parts", "form": "added after cooling" },
+        { "herb_name": "Shatapushpa paste", "quantity": "", "form": "paste added" },
+        { "herb_name": "Madhuka paste", "quantity": "", "form": "paste added" },
+        { "herb_name": "Indrayava paste", "quantity": "", "form": "paste added" },
+        { "herb_name": "Rasanjana paste", "quantity": "", "form": "paste added" },
+        { "herb_name": "Priyangu paste", "quantity": "", "form": "paste added" },
+        { "herb_name": "Saindhava lavana (Rock salt)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Herbs decocted in 2.56 litres water reduced to one-fourth. Decoction re-boiled with milk 1.28 litres till only milk remains. Added with one-fourth meat juice, equal honey and ghee, paste of specified herbs, and rock salt. Administered warmly.",
+      "indications": [
+        "Promotes semen, muscles and strength",
+        "Chest wounds and wasting",
+        "Cough", "Gulma", "Colic",
+        "Intermittent fever",
+        "Inguinal hernia",
+        "Kundala (coiling of urinary bladder)",
+        "Udavarta",
+        "Pain in lower abdomen",
+        "Dysuria",
+        "Haemorrhage",
+        "Menorrhagia",
+        "Dysentery",
+        "Stiffness in knee, thigh, shanks and pelvis",
+        "Calculus",
+        "Insanity",
+        "Piles",
+        "Prameha",
+        "Flatulence",
+        "Disorders of vata, rakta, pitta and kapha"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16 (1)"
+      }
+    },
+    {
+      "id": "form_034",
+      "name": "Yapana Basti 2 (Eranda-Palasha group – sustaining enema for all)",
+      "type": "Basti (Yapana / sustaining enema)",
+      "ingredients": [
+        { "herb_name": "Eranda root and Palasha combined", "quantity": "240 gm", "form": "pieces for decoction" },
+        { "herb_name": "Shalaparni", "quantity": "40 gm", "form": "pieces" },
+        { "herb_name": "Prishniparni", "quantity": "40 gm", "form": "pieces" },
+        { "herb_name": "Brhati", "quantity": "40 gm", "form": "pieces" },
+        { "herb_name": "Kantakari", "quantity": "40 gm", "form": "pieces" },
+        { "herb_name": "Gokshura", "quantity": "40 gm", "form": "pieces" },
+        { "herb_name": "Rasna", "quantity": "40 gm", "form": "pieces" },
+        { "herb_name": "Ashvagandha", "quantity": "40 gm", "form": "pieces" },
+        { "herb_name": "Guduchi", "quantity": "40 gm", "form": "pieces" },
+        { "herb_name": "Punarnava", "quantity": "40 gm", "form": "pieces" },
+        { "herb_name": "Aragvadha", "quantity": "40 gm", "form": "pieces" },
+        { "herb_name": "Devadaru", "quantity": "40 gm", "form": "pieces" },
+        { "herb_name": "Madanaphala", "quantity": "8 in number", "form": "washed" },
+        { "herb_name": "Shatapushpa paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Kustha paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Musta paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Pippali paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Hapusa paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Bilva paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Vaca paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Indrayava paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Rasanjana paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Priyangu paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Yavani paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Taila (Oil)", "quantity": "", "form": "added" },
+        { "herb_name": "Saindhava lavana (Rock salt)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "All herbs boiled in 2.56 litres water mixed with one-fourth milk till reduced to one-fourth. Filtered and added with pastes, honey, ghee, oil and rock salt. Administered tepidly as enema once, twice or thrice.",
+      "indications": [
+        "Commended for all persons",
+        "Handsome and delicate persons",
+        "Women",
+        "Wounded and wasted",
+        "Old persons",
+        "Chronic piles",
+        "Desire for progeny"
+      ],
+      "dosage": "Once, twice or thrice",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16 (2)"
+      }
+    },
+    {
+      "id": "form_035",
+      "name": "Yapana Basti 3 (Sahachara-Bala-Darbha-Sariva milk enema)",
+      "type": "Basti (Yapana – Kshira Basti)",
+      "ingredients": [
+        { "herb_name": "Sahachara root", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Bala root", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Darbha root", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Sariva root", "quantity": "", "form": "milk decoction" }
+      ],
+      "preparation_method": "Roots prepared in milk and administered as enema",
+      "indications": ["General sustaining / tonic"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16 (3)"
+      }
+    },
+    {
+      "id": "form_036",
+      "name": "Yapana Basti 4 (Brhati-Kantakari-Shatavari-Guduchi milk enema)",
+      "type": "Basti (Yapana – Kshira Basti)",
+      "ingredients": [
+        { "herb_name": "Brhati", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Kantakari", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Shatavari", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Guduchi", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Madhuka", "quantity": "", "form": "paste added" },
+        { "herb_name": "Madanaphala", "quantity": "", "form": "paste added" },
+        { "herb_name": "Pippali", "quantity": "", "form": "paste added" }
+      ],
+      "preparation_method": "Milk boiled with herbs, added with paste of madhuka, madanaphala and pippali",
+      "indications": ["General sustaining / tonic"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16 (4)"
+      }
+    },
+    {
+      "id": "form_037",
+      "name": "Yapana Basti 5 (Bala-Atibala-Vidari group – for cough, fever, gulma etc.)",
+      "type": "Basti (Yapana – Kshira Basti)",
+      "ingredients": [
+        { "herb_name": "Bala root", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Atibala root", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Vidari root", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Shalaparni root", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Prishniparni root", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Brhati root", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Kantakari root", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Darbha root", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Parushaka", "quantity": "", "form": "added" },
+        { "herb_name": "Bilva fruit", "quantity": "", "form": "added" },
+        { "herb_name": "Yava (Barley)", "quantity": "", "form": "added" },
+        { "herb_name": "Madhuka paste", "quantity": "", "form": "paste added" },
+        { "herb_name": "Madana paste", "quantity": "", "form": "paste added" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Sauvarchala lavana", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Roots boiled in milk, added with paste, honey, ghee and sauvarchala salt",
+      "indications": [
+        "Cough", "Fever", "Gulma",
+        "Splenomegaly", "Facial paralysis",
+        "Afflicted by women and wine",
+        "Promotes dhatus"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16 (5)"
+      }
+    },
+    {
+      "id": "form_038",
+      "name": "Yapana Basti 6 (Bala-Atibala-Dashamula group – for Vata retention)",
+      "type": "Basti (Yapana / sustaining enema)",
+      "ingredients": [
+        { "herb_name": "Bala", "quantity": "40 gm", "form": "decoction" },
+        { "herb_name": "Atibala", "quantity": "40 gm", "form": "decoction" },
+        { "herb_name": "Rasna", "quantity": "40 gm", "form": "decoction" },
+        { "herb_name": "Aragvadha", "quantity": "40 gm", "form": "decoction" },
+        { "herb_name": "Madana", "quantity": "40 gm", "form": "decoction" },
+        { "herb_name": "Bilva", "quantity": "40 gm", "form": "decoction" },
+        { "herb_name": "Guduchi", "quantity": "40 gm", "form": "decoction" },
+        { "herb_name": "Punarnava", "quantity": "40 gm", "form": "decoction" },
+        { "herb_name": "Eranda", "quantity": "40 gm", "form": "decoction" },
+        { "herb_name": "Ashvagandha", "quantity": "40 gm", "form": "decoction" },
+        { "herb_name": "Sahachara", "quantity": "40 gm", "form": "decoction" },
+        { "herb_name": "Palasha", "quantity": "40 gm", "form": "decoction" },
+        { "herb_name": "Dashamula", "quantity": "40 gm", "form": "decoction" },
+        { "herb_name": "Yava (Barley)", "quantity": "160 gm", "form": "decoction" },
+        { "herb_name": "Kola (Jujube)", "quantity": "160 gm", "form": "decoction" },
+        { "herb_name": "Kulatha (Horse gram)", "quantity": "160 gm", "form": "decoction" },
+        { "herb_name": "Shushka Mula (dried radish)", "quantity": "160 gm", "form": "decoction" },
+        { "herb_name": "Madhuka paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Madana paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Shatapushpa paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Kustha paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Pippali paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Vaca paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Indrayava paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Rasanjana paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Priyangu paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Yavani paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Guda (Jaggery)", "quantity": "", "form": "added" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Taila (Oil)", "quantity": "", "form": "added" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Ksheera (Milk)", "quantity": "", "form": "added" },
+        { "herb_name": "Meat juice", "quantity": "", "form": "added" },
+        { "herb_name": "Sour gruel (Kanjika)", "quantity": "", "form": "added" },
+        { "herb_name": "Saindhava lavana (Rock salt)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "All herbs boiled in 10.24 litres water till reduced to administrable quantity for enema. Strained and added with pastes and liquid ingredients. Administered tepidly.",
+      "indications": [
+        "Retention of semen, urine and faeces caused by Vata",
+        "Gulma", "Heart disease",
+        "Flatulence", "Inguinal hernia",
+        "Stiffness in sides, back and waist",
+        "Loss of consciousness and strength"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16 (6)"
+      }
+    },
+    {
+      "id": "form_039",
+      "name": "Yapana Basti 7 (Hapusa-Barley group – for Vata-Rakta)",
+      "type": "Basti (Yapana / sustaining enema)",
+      "ingredients": [
+        { "herb_name": "Hapusa", "quantity": "80 gm", "form": "boiled in milk-water" },
+        { "herb_name": "Yava (Barley semi-pounded)", "quantity": "double of hapusa", "form": "boiled in milk-water" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Taila (Oil)", "quantity": "", "form": "added" },
+        { "herb_name": "Lavana (Salt)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Hapusa and barley boiled in milk mixed with water till only milk remains. Added with honey, ghee, oil and salt. Administered as enema.",
+      "indications": [
+        "Vata-Rakta spread all over body",
+        "Retention of faeces and urine",
+        "Afflicted by indulgence in women",
+        "Alleviates Vata",
+        "Promotes intellect, sharpness of mind, digestive fire and strength"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16 (7)"
+      }
+    },
+    {
+      "id": "form_040",
+      "name": "Yapana Basti 8 (Laghu Panchamula-Pippali-Maduka group – for intermittent fever)",
+      "type": "Basti (Yapana – Kshira Basti)",
+      "ingredients": [
+        { "herb_name": "Laghu Panchamula", "quantity": "", "form": "milk decoction" },
+        { "herb_name": "Pippali", "quantity": "", "form": "added" },
+        { "herb_name": "Madhuka", "quantity": "", "form": "added" },
+        { "herb_name": "Madana", "quantity": "", "form": "added" },
+        { "herb_name": "Guda (Jaggery)", "quantity": "", "form": "added" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Taila (Oil)", "quantity": "", "form": "added" },
+        { "herb_name": "Lavana (Salt)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Laghu panchamula decoction prepared in milk mixed with water; added with pippali, madhuka, madana, jaggery, ghee, oil and salt",
+      "indications": ["Emaciated by intermittent fever"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16 (8)"
+      }
+    },
+    {
+      "id": "form_041",
+      "name": "Yapana Basti 9 (Bala-Atibala-Kapikachhu group – for old and debilitated)",
+      "type": "Basti (Yapana / sustaining enema)",
+      "ingredients": [
+        { "herb_name": "Bala", "quantity": "combined 320 gm", "form": "decoction" },
+        { "herb_name": "Atibala", "quantity": "combined 320 gm", "form": "decoction" },
+        { "herb_name": "Apamarga", "quantity": "combined 320 gm", "form": "decoction" },
+        { "herb_name": "Kapikachhu", "quantity": "combined 320 gm", "form": "decoction" },
+        { "herb_name": "Yava (Barley semi-pounded)", "quantity": "160 gm", "form": "decoction" },
+        { "herb_name": "Guda (Jaggery)", "quantity": "", "form": "added" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Taila (Oil)", "quantity": "", "form": "added" },
+        { "herb_name": "Lavana (Salt)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction with added jaggery, ghee, oil and salt administered as enema",
+      "indications": [
+        "Old and debilitated persons",
+        "Diminished semen and blood"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16 (9)"
+      }
+    },
+    {
+      "id": "form_042",
+      "name": "Yapana Basti 10 (Bala-Madhuka-Vidari group – for fever)",
+      "type": "Basti (Yapana – Goat milk Basti)",
+      "ingredients": [
+        { "herb_name": "Bala root", "quantity": "", "form": "goat milk decoction" },
+        { "herb_name": "Madhuka root", "quantity": "", "form": "goat milk decoction" },
+        { "herb_name": "Vidari root", "quantity": "", "form": "goat milk decoction" },
+        { "herb_name": "Darbha root", "quantity": "", "form": "goat milk decoction" },
+        { "herb_name": "Mridvika", "quantity": "", "form": "goat milk decoction" },
+        { "herb_name": "Yava (Barley)", "quantity": "", "form": "goat milk decoction" },
+        { "herb_name": "Madhuka paste", "quantity": "", "form": "paste added" },
+        { "herb_name": "Madana paste", "quantity": "", "form": "paste added" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Saindhava lavana (Rock salt)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Roots boiled with goat's milk till milk remains. Added with paste, honey, ghee and rock salt.",
+      "indications": ["Fever (Jwara)"],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16 (10)"
+      }
+    },
+    {
+      "id": "form_043",
+      "name": "Yapana Basti 11 (Shalaparni-Prishniparni-Gokshuraka group – for weak senses in intermittent fever)",
+      "type": "Basti (Yapana – Goat milk Basti)",
+      "ingredients": [
+        { "herb_name": "Shalaparni root", "quantity": "", "form": "goat milk decoction" },
+        { "herb_name": "Prishniparni root", "quantity": "", "form": "goat milk decoction" },
+        { "herb_name": "Gokshuraka root", "quantity": "", "form": "goat milk decoction" },
+        { "herb_name": "Kasmarya fruits", "quantity": "", "form": "goat milk decoction" },
+        { "herb_name": "Parushaka fruits", "quantity": "", "form": "goat milk decoction" },
+        { "herb_name": "Kharjara fruits", "quantity": "", "form": "goat milk decoction" },
+        { "herb_name": "Madhuka flowers", "quantity": "", "form": "goat milk decoction" },
+        { "herb_name": "Pippali paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Madhuka paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Utpala paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "", "form": "added" },
+        { "herb_name": "Saindhava lavana (Rock salt)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction prepared with 640 ml each of goat's milk and water. Added with paste of pippali, madhuka and utpala, along with ghee and rock salt.",
+      "indications": [
+        "Weak senses",
+        "Emaciated by intermittent fever"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16 (11)"
+      }
+    },
+    {
+      "id": "form_044",
+      "name": "Yapana Basti 12 (Goat milk-Sali-Yava group – aphrodisiac enema)",
+      "type": "Basti (Yapana – Kshira Basti / aphrodisiac)",
+      "ingredients": [
+        { "herb_name": "Goat milk", "quantity": "", "form": "cooking medium" },
+        { "herb_name": "Laghu Panchamula", "quantity": "200 gm (40 gm each)", "form": "boiled" },
+        { "herb_name": "Shali (rice variety)", "quantity": "80 gm each", "form": "boiled" },
+        { "herb_name": "Shashtika (rice variety)", "quantity": "80 gm each", "form": "boiled" },
+        { "herb_name": "Yava (Barley)", "quantity": "80 gm each", "form": "boiled" },
+        { "herb_name": "Godhuma (Wheat)", "quantity": "80 gm each", "form": "boiled" },
+        { "herb_name": "Masha (Black gram)", "quantity": "80 gm each", "form": "boiled" },
+        { "herb_name": "Hen's egg juice", "quantity": "", "form": "added" },
+        { "herb_name": "Madhu (Honey)", "quantity": "equal parts", "form": "added" },
+        { "herb_name": "Ghrita (Ghee)", "quantity": "equal parts", "form": "added" },
+        { "herb_name": "Sarkara (Sugar)", "quantity": "", "form": "added" },
+        { "herb_name": "Saindhava lavana (Rock salt)", "quantity": "", "form": "added" },
+        { "herb_name": "Sauvarchala lavana", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Goat's milk boiled with laghu panchamula and grains reduced to one-fourth. Added with juice of hen's egg, honey, ghee, sugar and salts.",
+      "indications": [
+        "Best aphrodisiac",
+        "Promoter of strength and complexion"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "16 (12)"
+      }
+    },
+    {
+      "id": "form_045",
+      "name": "Kapha-Basti Shodhana (Dashamula-Triphala-Kutaja group – for Kapha disorders)",
+      "type": "Basti (Niruha – Shodhana enema)",
+      "ingredients": [
+        { "herb_name": "Dashamula", "quantity": "", "form": "decoction in cow urine" },
+        { "herb_name": "Triphala", "quantity": "", "form": "decoction in cow urine" },
+        { "herb_name": "Bilva", "quantity": "", "form": "decoction in cow urine" },
+        { "herb_name": "Madanaphala", "quantity": "", "form": "decoction in cow urine" },
+        { "herb_name": "Kutaja paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Madanaphala paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Musta paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Patha paste", "quantity": "", "form": "paste" },
+        { "herb_name": "Saindhava lavana (Rock salt)", "quantity": "", "form": "added" },
+        { "herb_name": "Yavakshara", "quantity": "", "form": "added" },
+        { "herb_name": "Madhu (Honey)", "quantity": "", "form": "added" },
+        { "herb_name": "Taila (Oil)", "quantity": "", "form": "added" }
+      ],
+      "preparation_method": "Decoction prepared in cow's urine, added with pastes of specified herbs, rock salt, yavakshara, honey and oil",
+      "indications": [
+        "Disorders of Kapha",
+        "Bulging of urinary bladder",
+        "Retention of flatus and semen",
+        "Anaemia",
+        "Indigestion",
+        "Vishuchika (cholera)",
+        "Alasaka (intestinal torpor)"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "XII",
+        "verse": "18"
+      }
+    }
+  ]
+}

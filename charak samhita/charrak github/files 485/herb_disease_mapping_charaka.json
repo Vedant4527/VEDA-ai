@@ -1,0 +1,1155 @@
+{
+  "mappings": [
+    {
+      "disease_id": "disease_001",
+      "disease_name": "Madatyaya (Alcoholism) - General",
+      "herbs": [
+        {
+          "herb_name": "Matulunga (Citrus medica)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "With cold wine mixed with water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Sunthi (Zingiber officinale)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Added to wine with water",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Ashtanga Lavana"],
+      "pathya": {
+        "diet_include": [
+          "Wine taken in proper quantity after digestion of ama",
+          "Cold wine with sauvarcala, bida and rock salt",
+          "Wholesome food with wine"
+        ],
+        "diet_avoid": [
+          "Unwholesome wine",
+          "Excess wine without prescribed method",
+          "Rough regimens with wine"
+        ],
+        "lifestyle_follow": [
+          "Beautiful parks, ponds with lotus flowers",
+          "Good food and drinks",
+          "Pleasing companions",
+          "Melodious music",
+          "Garlands and perfumes"
+        ],
+        "lifestyle_avoid": [
+          "All narcotics if possible",
+          "Excessive intake of wine"
+        ]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIV"
+      }
+    },
+    {
+      "disease_id": "disease_002",
+      "disease_name": "Vatika Madatyaya",
+      "herbs": [
+        {
+          "herb_name": "Yavani (Trachyspermum ammi)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "With salty old wine made of flour",
+          "duration": ""
+        },
+        {
+          "herb_name": "Hapusha (Juniperus communis)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "With salty old wine",
+          "duration": ""
+        },
+        {
+          "herb_name": "Jiraka (Cuminum cyminum)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "With salty old wine",
+          "duration": ""
+        },
+        {
+          "herb_name": "Sunthi (Zingiber officinale)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "With salty old wine",
+          "duration": ""
+        },
+        {
+          "herb_name": "Bijapura (Citrus limon)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Added as sour ingredient to wine",
+          "duration": ""
+        },
+        {
+          "herb_name": "Vrikshamla (Garcinia indica)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Added as sour ingredient",
+          "duration": ""
+        },
+        {
+          "herb_name": "Kola (Ziziphus jujuba)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Added as sour ingredient",
+          "duration": ""
+        },
+        {
+          "herb_name": "Dadima (Punica granatum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Pomegranate juice as drink",
+          "duration": ""
+        },
+        {
+          "herb_name": "Dhanyaka (Coriandrum sativum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Water boiled with dhanyaka and sunthi",
+          "duration": ""
+        },
+        {
+          "herb_name": "Aguru (Aquilaria agallocha)",
+          "role": "supporting",
+          "dosage_specific": "Thick paste and incense",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": [],
+      "pathya": {
+        "diet_include": [
+          "Unctuous and hot food before drinking (for vata constitution)",
+          "Various relishing ragas and sadavas (pickles)",
+          "Meat preparations",
+          "Barley, wheat and sali rice",
+          "Water boiled with panchamula",
+          "Water boiled with dhanyaka and sunthi",
+          "Scum of curd",
+          "Scum of sour gruel",
+          "Vinegar water",
+          "Meat soup of common quail, partridge, cock and peacock",
+          "Sali rice with seasoned meat-soup of marshy birds"
+        ],
+        "diet_avoid": [
+          "Rough, little and deficient food",
+          "Rough and old wine in excess"
+        ],
+        "lifestyle_follow": [
+          "Massage",
+          "Anointings",
+          "Hot baths",
+          "Thick wrappers",
+          "Thick aguru pastes and incense",
+          "Warm beddings",
+          "Warm and comfortable inner chambers"
+        ],
+        "lifestyle_avoid": [
+          "Night drinking",
+          "Disturbing sleep",
+          "Excessive sexual intercourse",
+          "Load-carrying and excessive travelling"
+        ]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIV"
+      }
+    },
+    {
+      "disease_id": "disease_003",
+      "disease_name": "Paittika Madatyaya",
+      "herbs": [
+        {
+          "herb_name": "Guduchi (Tinospora cordifolia)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Decoction with devadaru and musta",
+          "duration": ""
+        },
+        {
+          "herb_name": "Devadaru (Cedrus deodara)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Decoction with guduchi and musta",
+          "duration": ""
+        },
+        {
+          "herb_name": "Musta (Cyperus rotundus)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Decoction with guduchi and devadaru",
+          "duration": ""
+        },
+        {
+          "herb_name": "Patola (Trichosanthes dioica)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Mixed with sunthi",
+          "duration": ""
+        },
+        {
+          "herb_name": "Sarkara (sugar / Saccharum officinarum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Added to wine for paittika",
+          "duration": ""
+        },
+        {
+          "herb_name": "Mridvika / Draksha (Vitis vinifera)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Grape wine or cold grape juice for paittika",
+          "duration": ""
+        },
+        {
+          "herb_name": "Parushaka (Grewia asiatica)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Juice added to wine",
+          "duration": ""
+        },
+        {
+          "herb_name": "Kharjura (Phoenix dactylifera)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Juice added to wine",
+          "duration": ""
+        },
+        {
+          "herb_name": "Amalaka (Emblica officinalis)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Juice; as panchkamlaka paint in mouth for thirst",
+          "duration": ""
+        },
+        {
+          "herb_name": "Priyanghu (Callicarpa macrophylla)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Applied with kaliyaka juice for burning",
+          "duration": ""
+        },
+        {
+          "herb_name": "Usira (Vetiveria zizanioides)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "For cooling",
+          "duration": ""
+        },
+        {
+          "herb_name": "Lodhra (Symplocos racemosa)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Hrivera (Pavonia odorata)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Applied in burning sensation",
+          "duration": ""
+        },
+        {
+          "herb_name": "Nagakeshara (Mesua ferrea)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Applied in burning sensation",
+          "duration": ""
+        },
+        {
+          "herb_name": "Syonaka (Oroxylum indicum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "For burning sensation",
+          "duration": ""
+        }
+      ],
+      "formulations": [],
+      "pathya": {
+        "diet_include": [
+          "Cold and well-suited wine prepared of sarkara or mridvika",
+          "Meat of rabbit, grey partridge, deer, common quail",
+          "Sweetened and soured sali and sastika rice",
+          "Goat's meat-soup with pea and green gram or dadima and amalaka",
+          "Cold food and drinks",
+          "Cold juice of parushaka and pilu fruits",
+          "Cold water boiled with four-leaved herbs",
+          "Decoction of musta, dadima and parched paddy"
+        ],
+        "diet_avoid": [
+          "Sharp, hot, sour and burning wine",
+          "Heating foods"
+        ],
+        "lifestyle_follow": [
+          "Cold anointings",
+          "Cooled chambers",
+          "Cold air and water contact",
+          "Moon ray exposure",
+          "Sandal water applications",
+          "Beautiful leaves of lotus sprinkled with sandal water on body"
+        ],
+        "lifestyle_avoid": [
+          "Exposure to fire and sun",
+          "Heating regimens"
+        ]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIV"
+      }
+    },
+    {
+      "disease_id": "disease_004",
+      "disease_name": "Kaphaja Madatyaya",
+      "herbs": [
+        {
+          "herb_name": "Musta (Cyperus rotundus)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Water boiled with musta for thirst and fever",
+          "duration": ""
+        },
+        {
+          "herb_name": "Hribera (Pavonia odorata)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Water boiled with hribera, bala or prishniparni",
+          "duration": ""
+        },
+        {
+          "herb_name": "Bala (Sida cordifolia)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Water boiled with bala",
+          "duration": ""
+        },
+        {
+          "herb_name": "Prishniparni (Uraria picta)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Water boiled",
+          "duration": ""
+        },
+        {
+          "herb_name": "Kantakari (Solanum xanthocarpum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Water boiled with all above drugs and sunthi",
+          "duration": ""
+        },
+        {
+          "herb_name": "Parpata (Fumaria parviflora)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Water boiled with musta and parpata",
+          "duration": ""
+        },
+        {
+          "herb_name": "Duralabha (Fagonia arabica)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Water boiled with duralabha and musta",
+          "duration": ""
+        },
+        {
+          "herb_name": "Sauvarcala (Black rock salt)",
+          "role": "supporting",
+          "dosage_specific": "1 part",
+          "anupana": "Part of Ashtanga Lavana formulation",
+          "duration": ""
+        },
+        {
+          "herb_name": "Jiraka (Cuminum cyminum)",
+          "role": "supporting",
+          "dosage_specific": "1 part",
+          "anupana": "Part of Ashtanga Lavana",
+          "duration": ""
+        },
+        {
+          "herb_name": "Vrikshamla (Garcinia indica)",
+          "role": "supporting",
+          "dosage_specific": "1 part",
+          "anupana": "Part of Ashtanga Lavana",
+          "duration": ""
+        },
+        {
+          "herb_name": "Amlavetasa (Garcinia pedunculata)",
+          "role": "supporting",
+          "dosage_specific": "1 part",
+          "anupana": "Part of Ashtanga Lavana",
+          "duration": ""
+        },
+        {
+          "herb_name": "Twak (Cinnamomum zeylanicum)",
+          "role": "supporting",
+          "dosage_specific": "half part",
+          "anupana": "Part of Ashtanga Lavana",
+          "duration": ""
+        },
+        {
+          "herb_name": "Ela (Elettaria cardamomum)",
+          "role": "supporting",
+          "dosage_specific": "half part",
+          "anupana": "Part of Ashtanga Lavana",
+          "duration": ""
+        },
+        {
+          "herb_name": "Marica (Piper nigrum)",
+          "role": "supporting",
+          "dosage_specific": "half part",
+          "anupana": "Part of Ashtanga Lavana",
+          "duration": ""
+        },
+        {
+          "herb_name": "Yavani (Trachyspermum ammi)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "With rough parched grain flour",
+          "duration": ""
+        },
+        {
+          "herb_name": "Amalaka (Emblica officinalis)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "As raga with dhanyaka, sauvarcala, jiraka, karavi",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Ashtanga Lavana"],
+      "pathya": {
+        "diet_include": [
+          "Emesis and fasting initially",
+          "Wine prepared of sarkara or madhu or old arista or sidhu mixed with honey",
+          "Food prepared of barley or wheat with rough parched grain flour",
+          "Thin, light, spiced and soured vegetable soup",
+          "Soured soup of patola",
+          "Soup of amalaka with pungents",
+          "Meat roasted without liquid with pungent, sour and salt"
+        ],
+        "diet_avoid": [
+          "Sweet, unctuous and heavy diet",
+          "Lack of exercise",
+          "Day sleep"
+        ],
+        "lifestyle_follow": [
+          "Rough and hot food and drinks",
+          "Hot bath",
+          "Physical exercise",
+          "Lightening measures",
+          "Vigils",
+          "Rough bath and anointings",
+          "Rubbing of body",
+          "Heavy garments"
+        ],
+        "lifestyle_avoid": [
+          "Day sleep",
+          "Lack of exercise",
+          "Sweet heavy diet"
+        ]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIV"
+      }
+    },
+    {
+      "disease_id": "disease_007",
+      "disease_name": "Vrana (Wound) - General",
+      "herbs": [
+        {
+          "herb_name": "Nyagrodha (Ficus benghalensis) bark",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Paste mixed with ghee for inflammation",
+          "duration": ""
+        },
+        {
+          "herb_name": "Udumbara (Ficus racemosa) bark",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Paste mixed with ghee for inflammation",
+          "duration": ""
+        },
+        {
+          "herb_name": "Ashwattha (Ficus religiosa) bark",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Paste mixed with ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "Plaksha (Ficus lacor) bark",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Paste mixed with ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "Triphala (Haritaki + Bibhitaka + Amalaka)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Decoction as cleanser",
+          "duration": ""
+        },
+        {
+          "herb_name": "Khadira (Acacia catechu)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Decoction as cleanser",
+          "duration": ""
+        },
+        {
+          "herb_name": "Daruharidra (Berberis aristata)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Decoction as cleanser",
+          "duration": ""
+        },
+        {
+          "herb_name": "Nimba (Azadirachta indica) leaves",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Decoction as cleanser",
+          "duration": ""
+        },
+        {
+          "herb_name": "Badara (Ziziphus jujuba) leaves",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Decoction as cleanser",
+          "duration": ""
+        },
+        {
+          "herb_name": "Haridra (Curcuma longa)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "With tila paste, salt in wound-cleanser formulation",
+          "duration": ""
+        },
+        {
+          "herb_name": "Madhuka (Glycyrrhiza glabra)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Decoction as wound cleanser and healer; 100-times washed ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "Chandana (Santalum album)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Wound healing paste",
+          "duration": ""
+        },
+        {
+          "herb_name": "Lajjalu (Mimosa pudica)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Powder for wound uniting",
+          "duration": ""
+        },
+        {
+          "herb_name": "Dhataki (Woodfordia fruticosa)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Powder for wound healing",
+          "duration": ""
+        },
+        {
+          "herb_name": "Lodhra (Symplocos racemosa)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Powder for wound healing",
+          "duration": ""
+        },
+        {
+          "herb_name": "Priyanghu (Callicarpa macrophylla)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Powder for wound healing",
+          "duration": ""
+        },
+        {
+          "herb_name": "Bala (Sida cordifolia) root",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "As refrigerant paste and sprinkling",
+          "duration": ""
+        },
+        {
+          "herb_name": "Guggulu (Commiphora mukul)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "For tearing of ripened inflammation",
+          "duration": ""
+        }
+      ],
+      "formulations": [],
+      "pathya": {
+        "diet_include": [
+          "Food not too cold, heavy and fatty",
+          "Non-burning food",
+          "Diet according to the nature of wound",
+          "Galactogogues for raising depressed wounds",
+          "Vitalisers and bulk-promoting foods"
+        ],
+        "diet_avoid": [
+          "Salt",
+          "Sour",
+          "Pungent",
+          "Hot and burning food",
+          "Heavy food and drinks",
+          "Sexual intercourse"
+        ],
+        "lifestyle_follow": [
+          "Evacuation with emesis, purgation, surgery, enema according to facilities",
+          "Proper bandaging",
+          "Fomentation for vata-type wounds"
+        ],
+        "lifestyle_avoid": [
+          "Physical exercise",
+          "Sexual intercourse",
+          "Faulty bandage",
+          "Excessive emaciation",
+          "Day-sleep",
+          "Anger",
+          "Inactivity"
+        ]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXV"
+      }
+    },
+    {
+      "disease_id": "disease_011",
+      "disease_name": "Udavarta",
+      "herbs": [
+        {
+          "herb_name": "Shyama (Operculina turpethum)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Suppository with cow's urine and jaggery",
+          "duration": ""
+        },
+        {
+          "herb_name": "Trivrit (Operculina turpethum)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Suppository or diet with leaves of trivrit",
+          "duration": ""
+        },
+        {
+          "herb_name": "Hingu (Ferula asafoetida)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Powder with warm water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Vacha (Acorus calamus)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "With hot water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Chitraka (Plumbago zeylanica)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Powder with warm water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Kushtha (Saussurea lappa)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Powder with warm water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Pippali (Piper longum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Suppository preparation and powder with hot water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Haritaki (Terminalia chebula)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "With hot water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Ativisha (Aconitum heterophyllum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "With hot water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Pushkaramula (Inula racemosa)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Powder with warm water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Punarnava (Boerhavia diffusa)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Ghee cooked in decoction of sthiradi varga and punarnava",
+          "duration": ""
+        },
+        {
+          "herb_name": "Bilva (Aegle marmelos)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Part of decoction",
+          "duration": ""
+        },
+        {
+          "herb_name": "Snuhi (Euphorbia neriifolia) latex",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "In suppository preparation",
+          "duration": ""
+        }
+      ],
+      "formulations": [],
+      "pathya": {
+        "diet_include": [
+          "Barley-made food with leaves of trivrit and snuhi",
+          "Sesamum",
+          "Meat soup of domestic, aquatic and marshy animals",
+          "Food helping elimination of flatus, urine and stool",
+          "Prasanna (clear wine) or gudasidhu"
+        ],
+        "diet_avoid": [
+          "Astringent, bitter, pungent and rough food"
+        ],
+        "lifestyle_follow": [
+          "Massage with oil",
+          "Fomentation",
+          "Suppositories",
+          "Non-unctuous and unctuous enema",
+          "Purgatives",
+          "Carminative diet"
+        ],
+        "lifestyle_avoid": [
+          "Suppression of urges",
+          "Fasting",
+          "Excessive coitus"
+        ]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI"
+      }
+    },
+    {
+      "disease_id": "disease_012",
+      "disease_name": "Mutrakriccha (Dysuria)",
+      "herbs": [
+        {
+          "herb_name": "Gokshura (Tribulus terrestris)",
+          "role": "primary",
+          "dosage_specific": "5 gm",
+          "anupana": "With honey and urine in kaphaja; roots for breaking calculus",
+          "duration": "7 days for calculus"
+        },
+        {
+          "herb_name": "Shatavari (Asparagus racemosus)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Decoction with gokshura, vidari, sali, iksu",
+          "duration": ""
+        },
+        {
+          "herb_name": "Vidari (Pueraria tuberosa)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Decoction or juice with sugar",
+          "duration": ""
+        },
+        {
+          "herb_name": "Punarnava (Boerhavia diffusa)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "For calculus with aguru, haridra",
+          "duration": ""
+        },
+        {
+          "herb_name": "Eranda (Ricinus communis) root",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Oil prepared for vatika dysuria; root for breaking calculus",
+          "duration": ""
+        },
+        {
+          "herb_name": "Pashanabheda (Bergenia ligulata)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Ghee cooked with four times cow's urine; for calculus",
+          "duration": ""
+        },
+        {
+          "herb_name": "Daruharidra (Berberis aristata)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "With honey and amalaka juice in paittika",
+          "duration": ""
+        },
+        {
+          "herb_name": "Ela (Elettaria cardamomum)",
+          "role": "supporting",
+          "dosage_specific": "5 gm",
+          "anupana": "With honey and urine in kaphaja",
+          "duration": ""
+        },
+        {
+          "herb_name": "Trikatu (Pippali + Sunthi + Marica)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "With honey and urine",
+          "duration": ""
+        },
+        {
+          "herb_name": "Kampillaka (Mallotus philippensis)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "For calculus formulation",
+          "duration": ""
+        },
+        {
+          "herb_name": "Vasa (Adhatoda vasica)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "For raktaja dysuria",
+          "duration": ""
+        }
+      ],
+      "formulations": [],
+      "pathya": {
+        "diet_include": [
+          "Meat prepared with sthiradi drugs",
+          "Vata-alleviating diet",
+          "Decoction of lotus and water lily",
+          "Cold water",
+          "Grape juice with seeds of ervaru, trapusa and vasa with saffron"
+        ],
+        "diet_avoid": [
+          "Physical exercise",
+          "Dry rough and floury food",
+          "Kharjura",
+          "Lotus root",
+          "Kapittha",
+          "Jambu",
+          "Lotus stem",
+          "Astringents"
+        ],
+        "lifestyle_follow": [
+          "Massage",
+          "Unctuous and non-unctuous enema",
+          "Unctuous poultice",
+          "Urethral douche",
+          "Affusion"
+        ],
+        "lifestyle_avoid": [
+          "Physical exercise",
+          "Suppression of urges",
+          "Exposure to wind and sun",
+          "Sexual intercourse"
+        ]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI"
+      }
+    },
+    {
+      "disease_id": "disease_014",
+      "disease_name": "Hridroga (Heart Disease)",
+      "herbs": [
+        {
+          "herb_name": "Punarnava (Boerhavia diffusa)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Decoction; oil prepared for vatika hridroga",
+          "duration": ""
+        },
+        {
+          "herb_name": "Devadaru (Cedrus deodara)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Decoction with punarnava and panchamula",
+          "duration": ""
+        },
+        {
+          "herb_name": "Pushkaramula (Inula racemosa)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Paste with alkali, water, ghee and salt",
+          "duration": ""
+        },
+        {
+          "herb_name": "Haritaki (Terminalia chebula)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Ghee prepared with haritaki and sunthi",
+          "duration": ""
+        },
+        {
+          "herb_name": "Sunthi (Zingiber officinale)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Ghee prepared with haritaki and sunthi",
+          "duration": ""
+        },
+        {
+          "herb_name": "Guduchi (Tinospora cordifolia)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Vayastha = guduchi; part of ghee preparation",
+          "duration": ""
+        },
+        {
+          "herb_name": "Rasna (Pluchea lanceolata)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Decoction with devadaru and panchamula",
+          "duration": ""
+        },
+        {
+          "herb_name": "Bilva (Aegle marmelos)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Part of decoction for vatika hridroga",
+          "duration": ""
+        },
+        {
+          "herb_name": "Madhuka (Glycyrrhiza glabra)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Paste with katurohini and sugar-water in paittika",
+          "duration": ""
+        },
+        {
+          "herb_name": "Katurohini (Picrorhiza kurroa)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "With madhuka and sugar-water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Katphala (Myrica esculenta)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "With sunthi in kaphaja hridroga",
+          "duration": ""
+        },
+        {
+          "herb_name": "Ativisha (Aconitum heterophyllum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Powder with other drugs in kaphaja",
+          "duration": ""
+        },
+        {
+          "herb_name": "Pippali (Piper longum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Powder in kaphaja hridroga",
+          "duration": ""
+        },
+        {
+          "herb_name": "Shati (Hedychium spicatum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Powder in kaphaja hridroga",
+          "duration": ""
+        },
+        {
+          "herb_name": "Silajatu (Asphaltum punjabianum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "According to method prescribed in rasayana",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Trikatu ghee", "Mayura ghrita", "Mahamayura ghrita", "Cyavanaprasha", "Agastya Haritaki", "Brahma Rasayana", "Amalaki Rasayana"],
+      "pathya": {
+        "diet_include": [
+          "Pitta-alleviating diet with draksha, sugar, honey and parushaka in paittika",
+          "Cow milk",
+          "Soup of wild animals",
+          "Barley food with horsegram or meat soup and pungent drinks in kaphaja",
+          "Buffalo ghee in paittika",
+          "Sweet, unctuous and cold meat soups in dryness of palate"
+        ],
+        "diet_avoid": [
+          "Unsuitable diet aggravating respective dosha"
+        ],
+        "lifestyle_follow": [
+          "Lightening and then diet useful in all types for tridoshaja",
+          "Treatment of predominant dosha after examination"
+        ],
+        "lifestyle_avoid": [
+          "Physical exertion",
+          "Excessive purgation and enema",
+          "Anxiety, fear, terror"
+        ]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI"
+      }
+    },
+    {
+      "disease_id": "disease_015",
+      "disease_name": "Pratisyaya (Coryza)",
+      "herbs": [
+        {
+          "herb_name": "Rasna (Pluchea lanceolata)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Smoking oil with rasna and laghu panchamula with milk",
+          "duration": ""
+        },
+        {
+          "herb_name": "Sunthi (Zingiber officinale)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Water boiled with sunthi; milk boiled with sunthi for digestion",
+          "duration": ""
+        },
+        {
+          "herb_name": "Haridra (Curcuma longa)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Snuffing oil for ripened pinasa",
+          "duration": ""
+        },
+        {
+          "herb_name": "Daruharidra (Berberis aristata)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Snuffing oil for ripened pinasa",
+          "duration": ""
+        },
+        {
+          "herb_name": "Pippali (Piper longum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Snuffing oil; inhalation powder",
+          "duration": ""
+        },
+        {
+          "herb_name": "Vacha (Acorus calamus)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Powder for inhalation in kaphaja",
+          "duration": ""
+        },
+        {
+          "herb_name": "Guggulu (Commiphora mukul)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Powder for inhaling in kaphaja pinasa",
+          "duration": ""
+        },
+        {
+          "herb_name": "Sarshapa (Brassica juncea) oil",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Mustard oil cooked in cow urine with bhargi etc. for snuff",
+          "duration": ""
+        },
+        {
+          "herb_name": "Bhargi (Clerodendrum serratum)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Mustard oil boiled with bhargi for snuff",
+          "duration": ""
+        },
+        {
+          "herb_name": "Vidanga (Embelia ribes)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Powder for inhaling",
+          "duration": ""
+        },
+        {
+          "herb_name": "Anu Taila (medicated sesame oil)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Snuffing oil for dryness of nasal passage",
+          "duration": "Process repeated ten times"
+        },
+        {
+          "herb_name": "Patha (Cissampelos pareira)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Part of snuffing oil for ripened pinasa",
+          "duration": ""
+        },
+        {
+          "herb_name": "Jati (Jasminum grandiflorum) tender leaves",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Part of snuffing oil",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Anu Taila"],
+      "pathya": {
+        "diet_include": [
+          "Light diet with fatty, sour and hot meat soup of domestic animals",
+          "Hot water for bath and drinking",
+          "Ghee with bitter drugs in paittika",
+          "Milk boiled with sunthi",
+          "Barley, sali rice, wheat",
+          "Meat soup of wild animals",
+          "Bitter vegetables and soup of mudga in paittika",
+          "Soups of vartaka, patola, kulattha, adhaki and mudga in kaphaja"
+        ],
+        "diet_avoid": [
+          "Unsuitable food aggravating the respective dosha"
+        ],
+        "lifestyle_follow": [
+          "Wind-free heated room in vatika",
+          "Fomentation with heated palms and poultices",
+          "Unctuous smoking"
+        ],
+        "lifestyle_avoid": [
+          "Anxiety",
+          "Exertion",
+          "Excessive speech",
+          "Sexual intercourse"
+        ]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI"
+      }
+    }
+  ]
+}

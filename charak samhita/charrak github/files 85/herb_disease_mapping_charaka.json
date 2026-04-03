@@ -1,0 +1,237 @@
+{
+  "mappings": [
+    {
+      "disease_id": "disease_023",
+      "disease_name": "Jara / General debility / Senility",
+      "herbs": [
+        {"herb_name": "Haritaki", "role": "primary", "dosage_specific": "", "anupana": "hot water / milk / honey-ghee", "duration": "year-long courses"},
+        {"herb_name": "Amalaki", "role": "primary", "dosage_specific": "", "anupana": "milk / honey-ghee", "duration": "year-long courses"},
+        {"herb_name": "Bibhitaka", "role": "primary", "dosage_specific": "", "anupana": "honey-ghee", "duration": "year-long courses"},
+        {"herb_name": "Pippali", "role": "primary", "dosage_specific": "5-10 fruits or graduated 1000 fruits course", "anupana": "honey and ghee", "duration": "one year"},
+        {"herb_name": "Guduchi (Gudact)", "role": "secondary", "dosage_specific": "juice of stem with root and flowers", "anupana": "", "duration": ""},
+        {"herb_name": "Mandukaparni", "role": "secondary", "dosage_specific": "juice", "anupana": "", "duration": ""},
+        {"herb_name": "Yastimadhu", "role": "secondary", "dosage_specific": "powder with milk", "anupana": "milk", "duration": ""},
+        {"herb_name": "Shankhapushpi", "role": "secondary", "dosage_specific": "paste", "anupana": "", "duration": ""},
+        {"herb_name": "Nagabala", "role": "secondary", "dosage_specific": "40 gm bark with milk every morning", "anupana": "milk / honey-ghee", "duration": "one year"},
+        {"herb_name": "Bhallataka", "role": "secondary", "dosage_specific": "10 fruits increasing to 30, total 1000", "anupana": "milk, ghee before taking", "duration": ""},
+        {"herb_name": "Silajatu", "role": "secondary", "dosage_specific": "40/20/10 gm", "anupana": "milk", "duration": "7/3/1 weeks"},
+        {"herb_name": "Brahmi (Brahmi/Aindri)", "role": "secondary", "dosage_specific": "", "anupana": "", "duration": ""},
+        {"herb_name": "Shatavari", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": ""}
+      ],
+      "formulations": ["form_001", "form_002", "form_003", "form_004", "form_005", "form_006", "form_007", "form_008", "form_009", "form_010", "form_011", "form_012", "form_013", "form_014", "form_015", "form_016", "form_017", "form_018", "form_019", "form_020", "form_021", "form_022", "form_023", "form_024", "form_025", "form_026", "form_027"],
+      "pathya": {
+        "diet_include": ["sastika rice with ghee and milk", "sali rice with ghee and milk", "soup of green gram", "milk diet", "barley preparation with ghee"],
+        "diet_avoid": ["sour food", "saline food", "pungent food", "alkaline food", "dried vegetables", "sesamum", "sesamum paste", "rice flour preparations", "germinated cereals", "fresh cereals", "awned cereals", "leguminous cereals", "antagonistic food", "decomposed food", "heavy food", "putrified food", "stale food"],
+        "lifestyle_follow": ["celibacy", "meditation", "spiritual penance", "self-control", "truthfulness", "non-violence", "calmness", "regular japa", "cleanliness", "charity", "worship of gods", "vigil and sleep in balance", "use of ghee extracted from milk"],
+        "lifestyle_avoid": ["day-sleep", "excessive indulgence in women", "wine", "irregular and excessive physical exercise", "anger", "grief", "greed", "fear", "confusion"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana"
+      }
+    },
+    {
+      "disease_id": "disease_024",
+      "disease_name": "Klaibyam / Impotency / Sexual debility",
+      "herbs": [
+        {"herb_name": "Shatavari", "role": "primary", "dosage_specific": "in ghee with ten times milk", "anupana": "sugar, pippali, honey", "duration": ""},
+        {"herb_name": "Kapikacchi", "role": "primary", "dosage_specific": "seeds in decoction with black gram", "anupana": "", "duration": ""},
+        {"herb_name": "Vidari", "role": "primary", "dosage_specific": "juice", "anupana": "", "duration": ""},
+        {"herb_name": "Ashwagandha", "role": "primary", "dosage_specific": "160 gm in decoction", "anupana": "", "duration": ""},
+        {"herb_name": "Madhuka", "role": "primary", "dosage_specific": "10 gm powder", "anupana": "ghee, honey, milk", "duration": ""},
+        {"herb_name": "Bala", "role": "secondary", "dosage_specific": "", "anupana": "", "duration": ""},
+        {"herb_name": "Pippali", "role": "secondary", "dosage_specific": "30 fruits fried in tila oil and ghee", "anupana": "milk", "duration": ""},
+        {"herb_name": "Goksura", "role": "secondary", "dosage_specific": "in decoction", "anupana": "", "duration": ""},
+        {"herb_name": "Draksa (grapes)", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": ""},
+        {"herb_name": "Meda", "role": "supporting", "dosage_specific": "160 gm in decoction", "anupana": "", "duration": ""},
+        {"herb_name": "Jivaka", "role": "supporting", "dosage_specific": "160 gm in decoction", "anupana": "", "duration": ""},
+        {"herb_name": "Rsabhaka", "role": "supporting", "dosage_specific": "160 gm in decoction", "anupana": "", "duration": ""},
+        {"herb_name": "Punarnava", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": ""},
+        {"herb_name": "Nagabala", "role": "supporting", "dosage_specific": "", "anupana": "", "duration": ""}
+      ],
+      "formulations": ["form_028", "form_029", "form_030", "form_031", "form_032", "form_033", "form_034", "form_035", "form_036"],
+      "pathya": {
+        "diet_include": ["milk", "ghee", "black gram", "sastika rice", "meat-soup of wild animals", "sweet substances", "unctuous substances"],
+        "diet_avoid": [],
+        "lifestyle_follow": ["bath after sexual intercourse", "sleep after taking milk or meat-soup", "avoidance of sexual intercourse before age 16 or after 70"],
+        "lifestyle_avoid": ["sexual intercourse before age of 16", "sexual intercourse after age of 70", "anxiety", "fear", "grief", "lack of confidence"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "II - Vajikarana"
+      }
+    },
+    {
+      "disease_id": "disease_002",
+      "disease_name": "Kustha / Leprosy / Skin disorders",
+      "herbs": [
+        {"herb_name": "Haritaki", "role": "primary", "dosage_specific": "", "anupana": "", "duration": ""},
+        {"herb_name": "Amalaki", "role": "primary", "dosage_specific": "", "anupana": "", "duration": ""},
+        {"herb_name": "Bhallataka", "role": "primary", "dosage_specific": "", "anupana": "", "duration": ""}
+      ],
+      "formulations": ["form_001", "form_016"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana",
+        "verse": "29-37"
+      }
+    },
+    {
+      "disease_id": "disease_014",
+      "disease_name": "Kasa / Cough",
+      "herbs": [
+        {"herb_name": "Pippali", "role": "primary", "dosage_specific": "5-10 fruits with honey and ghee", "anupana": "honey and ghee", "duration": "one year"},
+        {"herb_name": "Haritaki", "role": "primary", "dosage_specific": "", "anupana": "", "duration": ""}
+      ],
+      "formulations": ["form_003", "form_018"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana",
+        "verse": "32-35 and 62-74"
+      }
+    },
+    {
+      "disease_id": "disease_019",
+      "disease_name": "Shwasa / Bronchial asthma / Dyspnoea",
+      "herbs": [
+        {"herb_name": "Pippali", "role": "primary", "dosage_specific": "5-10 fruits with honey and ghee", "anupana": "honey and ghee", "duration": "one year"},
+        {"herb_name": "Amalaki", "role": "primary", "dosage_specific": "", "anupana": "", "duration": ""}
+      ],
+      "formulations": ["form_003", "form_018"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana",
+        "verse": "32-35 and 62-74"
+      }
+    },
+    {
+      "disease_id": "disease_007",
+      "disease_name": "Arsha / Piles / Haemorrhoids",
+      "herbs": [
+        {"herb_name": "Haritaki", "role": "primary", "dosage_specific": "", "anupana": "", "duration": ""},
+        {"herb_name": "Pippali", "role": "secondary", "dosage_specific": "", "anupana": "honey", "duration": ""}
+      ],
+      "formulations": ["form_018"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana",
+        "verse": "29-37"
+      }
+    },
+    {
+      "disease_id": "disease_003",
+      "disease_name": "Gulma / Abdominal tumour",
+      "herbs": [
+        {"herb_name": "Haritaki", "role": "primary", "dosage_specific": "", "anupana": "", "duration": ""},
+        {"herb_name": "Pippali", "role": "secondary", "dosage_specific": "", "anupana": "honey", "duration": ""}
+      ],
+      "formulations": ["form_016", "form_018"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana",
+        "verse": "29-37"
+      }
+    },
+    {
+      "disease_id": "disease_017",
+      "disease_name": "Pliha Roga / Spleen enlargement",
+      "herbs": [
+        {"herb_name": "Haritaki", "role": "primary", "dosage_specific": "", "anupana": "", "duration": ""},
+        {"herb_name": "Pippali", "role": "secondary", "dosage_specific": "graduated course 1000 fruits", "anupana": "", "duration": ""}
+      ],
+      "formulations": ["form_016", "form_019"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana",
+        "verse": "29-37"
+      }
+    },
+    {
+      "disease_id": "disease_025",
+      "disease_name": "Shwitra / Leucoderma",
+      "herbs": [
+        {"herb_name": "Aindri", "role": "primary", "dosage_specific": "3 barley grain weight", "anupana": "ghee 40 gm", "duration": ""},
+        {"herb_name": "Brahmi", "role": "primary", "dosage_specific": "3 barley grain weight", "anupana": "", "duration": ""},
+        {"herb_name": "Vaca", "role": "secondary", "dosage_specific": "3 barley grain weight", "anupana": "", "duration": ""}
+      ],
+      "formulations": ["form_016"],
+      "pathya": {
+        "diet_include": ["honey", "plenty of ghee"],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana",
+        "verse": "24-29"
+      }
+    },
+    {
+      "disease_id": "disease_008",
+      "disease_name": "Grahani / Malabsorption syndrome",
+      "herbs": [
+        {"herb_name": "Haritaki", "role": "primary", "dosage_specific": "", "anupana": "", "duration": ""},
+        {"herb_name": "Pippali", "role": "primary", "dosage_specific": "5-10 fruits with honey and ghee", "anupana": "honey and ghee", "duration": "one year"}
+      ],
+      "formulations": ["form_018"],
+      "pathya": {
+        "diet_include": [],
+        "diet_avoid": [],
+        "lifestyle_follow": [],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "I - Rasayana",
+        "verse": "29-37"
+      }
+    }
+  ]
+}

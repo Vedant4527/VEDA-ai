@@ -1,0 +1,189 @@
+{
+  "prakriti": {
+    "vata": {
+      "physical": [
+        "Body becomes coarse, rough and cold",
+        "Body is emaciated",
+        "Dry body type"
+      ],
+      "mental": [
+        "Frequent delirium",
+        "Mental confusion",
+        "Fear",
+        "Gets intoxicated quickly",
+        "Vacantness in heart"
+      ],
+      "digestive": [
+        "Hardness of bowels",
+        "Dry stool passed with difficulty and delay",
+        "Poor digestion",
+        "Variable appetite"
+      ],
+      "sleep": "Vigil (sleeplessness) prominent",
+      "speech": "Indistinct and excessive speech in intoxication; hoarseness",
+      "memory": "Memory and confusion alternating",
+      "emotional": [
+        "Grief",
+        "Fear",
+        "Trembling",
+        "Delirium"
+      ],
+      "disease_tendency": [
+        "Vatika alcoholism from rough old wine",
+        "Hiccup",
+        "Dyspnoea",
+        "Tremors in head",
+        "Pain in sides",
+        "Vigil and frequent delirium in madatyaya",
+        "Vatika wound: stiff, hard, excruciating pain, throbbing",
+        "Udavarta",
+        "Vatika dysuria: pain in groins, pelvis, penis; scanty frequent urination",
+        "Vatika hridroga: palpitation, wasting, tearing, obstructed movement",
+        "Vatika pratisyaya: watery discharge, hoarseness",
+        "Vatika svarabheda"
+      ],
+      "aggravated_signs": [
+        "Stiffness",
+        "Obstruction in channels",
+        "Retention of stool, urine and flatus",
+        "Intense pain",
+        "Tympanitis",
+        "Constipation",
+        "Emaciation"
+      ],
+      "decreased_signs": []
+    },
+    "pitta": {
+      "physical": [
+        "Greenish or yellowish complexion",
+        "Heat in body",
+        "Pyrexia",
+        "Inflammation"
+      ],
+      "mental": [
+        "Anger (is a causative factor for pitta-type disorders)",
+        "Terror",
+        "Mental confusion",
+        "Feeling of darkness and distress"
+      ],
+      "digestive": [
+        "Diarrhoea",
+        "Burning in stomach",
+        "Thirst",
+        "Sour and pungent taste in mouth"
+      ],
+      "sleep": "Normal to slightly disturbed",
+      "speech": "Distorted speech",
+      "memory": "",
+      "emotional": [
+        "Anger",
+        "Terror",
+        "Burning sensations"
+      ],
+      "disease_tendency": [
+        "Paittika alcoholism: thirst, burning, fever, sweating, fainting, diarrhoea, giddiness",
+        "Paittika wound: thirst, confusion, fever, sweating, burning, foul smell",
+        "Paittika dysuria: yellow or bloody urine, burning, frequent",
+        "Paittika hridroga: darkness, distress, burning, terror, heat, pyrexia, yellowishness",
+        "Paittika pratisyaya: inflammation of nose, fever, yellow discharge",
+        "Paittika svarabheda"
+      ],
+      "aggravated_signs": [
+        "Burning sensation",
+        "Yellow discolouration",
+        "Fever",
+        "Bleeding",
+        "Inflammation",
+        "Thirst"
+      ],
+      "decreased_signs": []
+    },
+    "kapha": {
+      "physical": [
+        "Heavy",
+        "Unctuous",
+        "Stiffness",
+        "Heaviness in body"
+      ],
+      "mental": [
+        "Drowsiness",
+        "Excessive sleep",
+        "Dullness",
+        "Lethargy"
+      ],
+      "digestive": [
+        "Anorexia",
+        "Nausea",
+        "Vomiting",
+        "Sliminess in mouth",
+        "Excessive salivation",
+        "Poor appetite"
+      ],
+      "sleep": "Excessive sleep and drowsiness",
+      "speech": "Normal or heavy",
+      "memory": "Dull",
+      "emotional": [
+        "Contentment",
+        "Lethargy",
+        "Excessive drowsiness"
+      ],
+      "disease_tendency": [
+        "Kaphaja alcoholism: vomiting, anorexia, nausea, drowsiness, stiffness, heaviness, coldness",
+        "Kaphaja wound: much sliminess, heavy, unctuous, wet, mild pain, pale, chronic",
+        "Kaphaja dysuria: heaviness and swelling in bladder and penis, slimy urine",
+        "Kaphaja hridroga: obstructed movement, heavy and dull, salivation, fever, cough, drowsiness",
+        "Kaphaja pratisyaya: viscous discharge, excessive salivation, heaviness, itching",
+        "Kaphaja svarabheda"
+      ],
+      "aggravated_signs": [
+        "Heaviness",
+        "Sliminess",
+        "White discolouration",
+        "Viscous discharge",
+        "Drowsiness",
+        "Coldness",
+        "Excessive salivation"
+      ],
+      "decreased_signs": []
+    },
+    "dual_prakriti": {
+      "vata_pitta": [
+        "Gets intoxicated quickly by wine",
+        "Paittika madatyaya occurring in vatika constitution either pacifies quickly or becomes fatal",
+        "More susceptible to disorders of multiple types"
+      ],
+      "pitta_kapha": [],
+      "vata_kapha": []
+    },
+    "sama_prakriti": [
+      "All three doshas in balance",
+      "Persons with firm psyche and body do not get intoxicated suddenly",
+      "Those born in family of drunkards and used to plenty of wine do not get intoxicated suddenly"
+    ]
+  },
+  "prakriti_based_regimens": {
+    "vatika_constitution_drinking": {
+      "food_before": "Unctuous and hot food",
+      "procedure_before": "Massage, anointing, bath, dressing, incense, afterpaste",
+      "wine_type": "Wine made of jaggery or flour"
+    },
+    "paittika_constitution_drinking": {
+      "food_before": "Sweet, unctuous and cold food",
+      "procedure_before": "Various cooling regimens",
+      "wine_type": "Wine made of grapes and honey"
+    },
+    "kaphaja_constitution_drinking": {
+      "food_before": "Preparations of barley and wheat with meat of wild animals",
+      "procedure_before": "Hot regimens",
+      "wine_type": "Wine with black pepper flavouring"
+    }
+  },
+  "notes": {
+    "source_context": "Data extracted from Chikitsasthana Chapters XXIV-XXVI of Charaka Samhita. Prakriti descriptions are derived from disease presentation, dietary recommendations and treatment contexts. A dedicated prakriti chapter (Sharira Sthana) was not present in this 66-page excerpt.",
+    "chapters_covered": [
+      "Chapter XXIV - Madatyaya Chikitsa",
+      "Chapter XXV - Vrana Chikitsa",
+      "Chapter XXVI - Trimarmaiya Chikitsa"
+    ]
+  }
+}

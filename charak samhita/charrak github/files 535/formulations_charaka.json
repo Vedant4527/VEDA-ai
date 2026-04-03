@@ -1,0 +1,1040 @@
+{
+  "formulations": [
+    {
+      "id": "form_001",
+      "name": "Astakatvara Taila",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Rock salt", "quantity": "80 gm", "form": "raw" },
+        { "herb_name": "Sunthi (dry ginger)", "quantity": "200 gm", "form": "raw" },
+        { "herb_name": "Pippalimula (long pepper root)", "quantity": "80 gm", "form": "raw" },
+        { "herb_name": "Citraka", "quantity": "80 gm", "form": "raw" },
+        { "herb_name": "Bhallataka nuts", "quantity": "20 in number", "form": "raw" },
+        { "herb_name": "Sour gruel", "quantity": "5.12 litres", "form": "liquid" },
+        { "herb_name": "Oil", "quantity": "640 gm", "form": "base oil" }
+      ],
+      "preparation_method": "Oil 640 gm cooked with rock salt, sunthi, pippalimula, citraka, bhallataka nuts and sour gruel 5.12 litres",
+      "indications": [
+        "Urustambha (thigh stiffness)",
+        "Sciatica (Gridhrasi)",
+        "Piles (Arsha)",
+        "All disorders of Vata",
+        "Fertility (promotes)"
+      ],
+      "dosage": "640 gm oil (standard cooking quantity)",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVII",
+        "verse": "39-47"
+      }
+    },
+    {
+      "id": "form_002",
+      "name": "Mustard oil with Kustha and Devadaru (for Urustambha)",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Mustard oil", "quantity": "", "form": "base oil" },
+        { "herb_name": "Kustha", "quantity": "", "form": "paste" },
+        { "herb_name": "Srivestaka", "quantity": "", "form": "paste" },
+        { "herb_name": "Udicya", "quantity": "", "form": "paste" },
+        { "herb_name": "Sarala", "quantity": "", "form": "paste" },
+        { "herb_name": "Devadaru", "quantity": "", "form": "paste" },
+        { "herb_name": "Nagakesara", "quantity": "", "form": "paste" },
+        { "herb_name": "Ajagandha", "quantity": "", "form": "paste" },
+        { "herb_name": "Ashwagandha", "quantity": "", "form": "paste" },
+        { "herb_name": "Honey", "quantity": "", "form": "liquid" }
+      ],
+      "preparation_method": "Mustard oil cooked with the mentioned drugs and added with honey in proper dose",
+      "indications": [
+        "Urustambha (thigh stiffness)"
+      ],
+      "dosage": "Proper dose as prescribed",
+      "anupana": "Honey added",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVII",
+        "verse": "39-47"
+      }
+    },
+    {
+      "id": "form_003",
+      "name": "Oil with Piluparni group (for Urustambha)",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Piluparni", "quantity": "", "form": "paste/decoction" },
+        { "herb_name": "Payasya", "quantity": "", "form": "paste/decoction" },
+        { "herb_name": "Rasni", "quantity": "", "form": "paste/decoction" },
+        { "herb_name": "Goksura", "quantity": "", "form": "paste/decoction" },
+        { "herb_name": "Vaca", "quantity": "", "form": "paste/decoction" },
+        { "herb_name": "Sarala", "quantity": "", "form": "paste/decoction" },
+        { "herb_name": "Aguru", "quantity": "", "form": "paste/decoction" },
+        { "herb_name": "Patha", "quantity": "", "form": "paste/decoction" },
+        { "herb_name": "Honey", "quantity": "", "form": "liquid" }
+      ],
+      "preparation_method": "Oil cooked with piluparni, payasya, rasni, goksura, vaca, sarala, aguru and patha; taken with honey",
+      "indications": [
+        "Urustambha (thigh stiffness)"
+      ],
+      "dosage": "86 gm or 160 gm added with honey",
+      "anupana": "Honey",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVII",
+        "verse": "39-47"
+      }
+    },
+    {
+      "id": "form_004",
+      "name": "Balataila (Vatavyadhi)",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Sahacara (juice)", "quantity": "4 kg", "form": "juice" },
+        { "herb_name": "Sahacara root (paste)", "quantity": "400 gm", "form": "paste" },
+        { "herb_name": "Milk", "quantity": "four times oil", "form": "liquid" },
+        { "herb_name": "Oil", "quantity": "2.56 kg", "form": "base oil" },
+        { "herb_name": "Sharkara (sugar)", "quantity": "720 gm", "form": "powder" }
+      ],
+      "preparation_method": "Oil 2.56 kg cooked with juice of sahacara 4 kg, paste of its root 400 gm and four times milk. When prepared, powder of sharkara 720 gm dissolved in it.",
+      "indications": [
+        "Severe vatika disorders"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "142-156"
+      }
+    },
+    {
+      "id": "form_005",
+      "name": "Goksura (Swadamstra) Taila",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Goksura (juice)", "quantity": "1.28 litres", "form": "juice" },
+        { "herb_name": "Milk", "quantity": "equal to juice (1.28 litres)", "form": "liquid" },
+        { "herb_name": "Sunthi", "quantity": "240 gm", "form": "raw" },
+        { "herb_name": "Jaggery", "quantity": "320 gm", "form": "raw" },
+        { "herb_name": "Oil", "quantity": "640 gm", "form": "base oil" }
+      ],
+      "preparation_method": "Oil 640 gm cooked with juice of goksura 1.28 litres, equal quantity of milk, sunthi and jaggery",
+      "indications": [
+        "All vatika disorders"
+      ],
+      "dosage": "When digested, gruel with milk should be taken as diet",
+      "anupana": "Gruel with milk",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "142-156"
+      }
+    },
+    {
+      "id": "form_006",
+      "name": "Balataila (Krsnatreya - major formulation)",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Bala (decoction)", "quantity": "4 kg", "form": "decoction" },
+        { "herb_name": "Guduchi", "quantity": "1 kg", "form": "decoction" },
+        { "herb_name": "Rasna", "quantity": "500 gm", "form": "decoction" },
+        { "herb_name": "Curd-water", "quantity": "equal to oil", "form": "liquid" },
+        { "herb_name": "Sugarcane juice", "quantity": "equal to oil", "form": "juice" },
+        { "herb_name": "Sukta (vinegar)", "quantity": "equal to oil", "form": "liquid" },
+        { "herb_name": "Goat's milk", "quantity": "half quantity (1.28 litres)", "form": "liquid" },
+        { "herb_name": "Kati", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Devadaru", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Ela (cardamom)", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Manjistha", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Aguru", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Candana", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Padmaka", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Ativisa", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Musta", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Sarpaparni", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Harepu", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Madhuyasti", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Surasa", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Vyaghranakha", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Rsabhaka", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Jivaka", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Palasa exudation", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Kastiri", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Nalika", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Jatikosa", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Kunkuma", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Saileya", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Jatiphala", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Katuphal", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Hribera", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Twak (cinnamon)", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Kunduru", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Karpira", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Turuska", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Lavanga (clove)", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Nakha", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Kakkola", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Kustha", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Mamsi", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Priyanghu", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Tagara", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Vaca", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Madana (tender leaves)", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Nagakesara", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Oil", "quantity": "2.56 kg", "form": "base oil" }
+      ],
+      "preparation_method": "Oil 2.56 kg cooked with decoction of bala 4 kg, guduchi 1 kg, rasna 500 gm in water 2.56 litres reduced to one-tenth, with curd-water, sugarcane juice and sukta each equal to oil, goat's milk in half quantity and paste of the listed drugs each 40 gm. After preparation, filtered and added with paste of aromatic leaves.",
+      "indications": [
+        "Dyspnoea",
+        "Cough",
+        "Fever",
+        "Hiccup",
+        "Vomiting",
+        "Gulma (abdominal tumour)",
+        "Wasting due to chest wound",
+        "Splenomegaly",
+        "Consumption",
+        "Epilepsy",
+        "Inauspiciousness",
+        "Vatavyadhi (excellent alleviator)"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "142-156"
+      }
+    },
+    {
+      "id": "form_007",
+      "name": "Amrta Taila",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Guduchi", "quantity": "20 kg", "form": "decoction" },
+        { "herb_name": "Water", "quantity": "81.92 litres", "form": "liquid" },
+        { "herb_name": "Milk", "quantity": "equal to oil", "form": "liquid" },
+        { "herb_name": "Oil", "quantity": "5.12 kg", "form": "base oil" },
+        { "herb_name": "Ela (cardamom)", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Mamsi", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Tagara", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Udira", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Siriva", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Kustha", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Candana", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Bala", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Tamalaki", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Meda", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Shatapuspa", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Riddhi", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Jivaka", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Kakoli", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Ksirakakoli", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Sravani", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Atibala", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Nakha", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Mahasravani", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Jivanu", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Vidari", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Kapikacchu", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Shatavari", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Mahimeda", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Karkatakhya", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Harenu", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Vaca", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Goksura", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Eranda", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Rasna", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Kala", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Sahacara", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Vira", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Sallaki", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Musta", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Twak (cinnamon)", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Patra", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Rsabhaka", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Saha", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Kunkuma", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Sprkka", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Lavanga (clove)", "quantity": "10 gm", "form": "paste" },
+        { "herb_name": "Manjistha", "quantity": "30 gm", "form": "paste" },
+        { "herb_name": "Madhuka", "quantity": "320 gm", "form": "paste" }
+      ],
+      "preparation_method": "Guduchi 20 kg boiled in water 81.92 litres reduced to one-fourth. With this decoction, oil 5.12 kg cooked with equal quantity of milk and paste of all listed drugs.",
+      "indications": [
+        "Vatika disorders (excellent alleviator)",
+        "Insanity",
+        "Restlessness",
+        "Epilepsy",
+        "Diminished energy, agni and strength",
+        "Confused mind"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "157-164"
+      }
+    },
+    {
+      "id": "form_008",
+      "name": "Rasna Taila",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Rasna", "quantity": "40 kg", "form": "decoction" },
+        { "herb_name": "Aromatic drugs (Himalayan - Eladi group)", "quantity": "", "form": "paste" },
+        { "herb_name": "Oil", "quantity": "10.24 kg", "form": "base oil" }
+      ],
+      "preparation_method": "Oil 10.24 kg cooked in decoction of rasna 40 kg with paste of aromatic drugs from Himalayas and Eladi group drugs",
+      "indications": [
+        "Vatika disorders"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "165-166"
+      }
+    },
+    {
+      "id": "form_009",
+      "name": "Malakadya Taila",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Milk", "quantity": "equal part", "form": "liquid" },
+        { "herb_name": "Oil", "quantity": "equal part", "form": "base oil" },
+        { "herb_name": "Sour curd", "quantity": "equal part", "form": "liquid" },
+        { "herb_name": "Sour gruel", "quantity": "equal part", "form": "liquid" },
+        { "herb_name": "Bala", "quantity": "", "form": "paste" },
+        { "herb_name": "Citraka", "quantity": "", "form": "paste" },
+        { "herb_name": "Rock salt", "quantity": "", "form": "paste" },
+        { "herb_name": "Pippali", "quantity": "", "form": "paste" },
+        { "herb_name": "Ativisa", "quantity": "", "form": "paste" },
+        { "herb_name": "Rasna", "quantity": "", "form": "paste" },
+        { "herb_name": "Cavika", "quantity": "", "form": "paste" },
+        { "herb_name": "Aguru", "quantity": "", "form": "paste" },
+        { "herb_name": "Sigru (Shigru/Moringa)", "quantity": "", "form": "paste" },
+        { "herb_name": "Bhallataka", "quantity": "", "form": "paste" },
+        { "herb_name": "Vaca", "quantity": "", "form": "paste" },
+        { "herb_name": "Kustha", "quantity": "", "form": "paste" },
+        { "herb_name": "Goksura", "quantity": "", "form": "paste" },
+        { "herb_name": "Sunthi", "quantity": "", "form": "paste" },
+        { "herb_name": "Puskaramula", "quantity": "", "form": "paste" },
+        { "herb_name": "Jati (nutmeg)", "quantity": "", "form": "paste" },
+        { "herb_name": "Bilva", "quantity": "", "form": "paste" },
+        { "herb_name": "Shatahva", "quantity": "", "form": "paste" },
+        { "herb_name": "Tagara", "quantity": "", "form": "paste" },
+        { "herb_name": "Devadaru", "quantity": "", "form": "paste" }
+      ],
+      "preparation_method": "Equal quantities of milk, oil, sour curd and sour gruel cooked together with paste of listed drugs",
+      "indications": [
+        "Very severe vatika disorders"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "167-171"
+      }
+    },
+    {
+      "id": "form_010",
+      "name": "Vyashamuladi Taila",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Vasa root", "quantity": "4 kg", "form": "decoction" },
+        { "herb_name": "Guduchi", "quantity": "4 kg", "form": "decoction" },
+        { "herb_name": "Citraka", "quantity": "2 kg", "form": "decoction" },
+        { "herb_name": "Ashwagandha", "quantity": "2 kg", "form": "decoction" },
+        { "herb_name": "Milk", "quantity": "", "form": "liquid" },
+        { "herb_name": "Oil", "quantity": "2.56 kg", "form": "base oil" }
+      ],
+      "preparation_method": "Oil 2.56 kg cooked with decoction of vasa root and guduchi 8 kg (4 kg each), citraka and ashwagandha 4 kg (2 kg each) along with milk. More effective when Eladi group drugs added.",
+      "indications": [
+        "Patients broken and shattered by disorders of Vata"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "167-171"
+      }
+    },
+    {
+      "id": "form_011",
+      "name": "Malaka Taila (Mulaka Taila)",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Rasni", "quantity": "400 gm", "form": "decoction" },
+        { "herb_name": "Sirisa", "quantity": "400 gm", "form": "decoction" },
+        { "herb_name": "Madhuyasti", "quantity": "400 gm", "form": "decoction" },
+        { "herb_name": "Sunthi", "quantity": "400 gm", "form": "decoction" },
+        { "herb_name": "Sahacara", "quantity": "400 gm", "form": "decoction" },
+        { "herb_name": "Guduchi", "quantity": "400 gm", "form": "decoction" },
+        { "herb_name": "Syonaka", "quantity": "400 gm", "form": "decoction" },
+        { "herb_name": "Devadaru", "quantity": "400 gm", "form": "decoction" },
+        { "herb_name": "Aragvadha", "quantity": "400 gm", "form": "decoction" },
+        { "herb_name": "Ashwagandha", "quantity": "400 gm", "form": "decoction" },
+        { "herb_name": "Goksura", "quantity": "400 gm", "form": "decoction" },
+        { "herb_name": "Sarvagandha group aromatic drugs", "quantity": "10 gm each", "form": "paste" },
+        { "herb_name": "Curd", "quantity": "640 ml", "form": "liquid" },
+        { "herb_name": "Sour gruel", "quantity": "640 ml", "form": "liquid" },
+        { "herb_name": "Sour liquid of horse gram", "quantity": "640 ml", "form": "liquid" },
+        { "herb_name": "Radish juice", "quantity": "640 ml", "form": "juice" },
+        { "herb_name": "Sugarcane juice", "quantity": "640 ml", "form": "juice" },
+        { "herb_name": "Oil", "quantity": "540 gm", "form": "base oil" }
+      ],
+      "preparation_method": "All decoction drugs 400 gm each made into decoction. With this, oil 540 gm cooked with paste of sarvagandha group each 10 gm along with curd, sour gruel, sour liquid of horse gram, radish juice and sugarcane juice each 640 ml.",
+      "indications": [
+        "Spleen enlargement",
+        "Retention of urine",
+        "Dyspnoea",
+        "Cough",
+        "Vatika disorders",
+        "Promotes complexion",
+        "Promotes life span",
+        "Promotes strength"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "172-182"
+      }
+    },
+    {
+      "id": "form_012",
+      "name": "Nirgundi Taila",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Nirgundi (root and leaf juice)", "quantity": "equal quantity", "form": "juice" },
+        { "herb_name": "Oil", "quantity": "", "form": "base oil" }
+      ],
+      "preparation_method": "Oil cooked with equal quantity of juice taken from root and leaves of nirgundi",
+      "indications": [
+        "Sinus (Nadi vrana)",
+        "Leprosy (Kushtha)",
+        "Vatika disorders",
+        "Skin diseases like pama",
+        "Scrofula"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "118-135"
+      }
+    },
+    {
+      "id": "form_013",
+      "name": "Mahasneha (Great Fat formulation)",
+      "type": "Sneha (fat preparation)",
+      "ingredients": [
+        { "herb_name": "Triphala", "quantity": "640 gm", "form": "raw" },
+        { "herb_name": "Horse gram", "quantity": "320 gm", "form": "raw" },
+        { "herb_name": "Gobhanjana bark", "quantity": "200 gm", "form": "raw" },
+        { "herb_name": "Adhaki", "quantity": "200 gm", "form": "raw" },
+        { "herb_name": "Rasna", "quantity": "80 gm", "form": "raw" },
+        { "herb_name": "Citraka", "quantity": "80 gm", "form": "raw" },
+        { "herb_name": "Dashamula", "quantity": "40 gm", "form": "raw" },
+        { "herb_name": "Water", "quantity": "10.24 litres", "form": "liquid" },
+        { "herb_name": "Urine", "quantity": "", "form": "liquid" },
+        { "herb_name": "Sour gruel", "quantity": "", "form": "liquid" },
+        { "herb_name": "Sour curd", "quantity": "", "form": "liquid" },
+        { "herb_name": "Dadima (pomegranate)", "quantity": "", "form": "liquid" },
+        { "herb_name": "Yakshamla", "quantity": "", "form": "liquid" },
+        { "herb_name": "Oil", "quantity": "", "form": "fat" },
+        { "herb_name": "Animal fat", "quantity": "", "form": "fat" },
+        { "herb_name": "Ghee", "quantity": "", "form": "fat" },
+        { "herb_name": "Marrow", "quantity": "", "form": "fat" },
+        { "herb_name": "Milk", "quantity": "", "form": "liquid" },
+        { "herb_name": "Paste of vitaliser drugs", "quantity": "240 gm", "form": "paste" }
+      ],
+      "preparation_method": "Listed drugs boiled in water 10.24 litres reduced to one-fourth. Then urine, sour gruel, sour curd, dadima, yakshamla, oil, fat, ghee, marrow, milk and paste of vitaliser drugs 240 gm added and cooked.",
+      "indications": [
+        "Vata in blood vessels",
+        "Vata in marrow",
+        "Vata in bone",
+        "Generalised vatika disorders",
+        "Localised vatika disorders",
+        "Trembling",
+        "Convulsions",
+        "Pain"
+      ],
+      "dosage": "Used as massage",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "118-135"
+      }
+    },
+    {
+      "id": "form_014",
+      "name": "Dashamula Ghrita (Vatavyadhi)",
+      "type": "Ghrita (medicated ghee)",
+      "ingredients": [
+        { "herb_name": "Dashamula", "quantity": "160 gm", "form": "decoction" },
+        { "herb_name": "Yava (barley)", "quantity": "640 gm", "form": "raw" },
+        { "herb_name": "Kola (jujube)", "quantity": "640 gm", "form": "raw" },
+        { "herb_name": "Kulattha (horse gram)", "quantity": "640 gm", "form": "raw" },
+        { "herb_name": "Water", "quantity": "10.24 litres", "form": "liquid" },
+        { "herb_name": "Paste of vitaliser drugs", "quantity": "", "form": "paste" },
+        { "herb_name": "Sharkara (sugar)", "quantity": "", "form": "raw" },
+        { "herb_name": "Kharjara (dates)", "quantity": "", "form": "raw" },
+        { "herb_name": "Kasmarya", "quantity": "", "form": "raw" },
+        { "herb_name": "Draksha (grapes)", "quantity": "", "form": "raw" },
+        { "herb_name": "Badara (jujube)", "quantity": "", "form": "raw" },
+        { "herb_name": "Phalgu", "quantity": "", "form": "raw" },
+        { "herb_name": "Milk", "quantity": "", "form": "liquid" },
+        { "herb_name": "Ghee", "quantity": "640 gm", "form": "base ghee" }
+      ],
+      "preparation_method": "Dashamula 160 gm and yava, kola, kulattha 640 gm each boiled in water 10.24 litres reduced to one-fourth. With this decoction and paste of vitaliser drugs along with sharkara, kharjara, kasmarya, draksha, badara, phalgu and milk, ghee 640 gm cooked.",
+      "indications": [
+        "Pure vata disorders (free from complications)",
+        "Used as intake, massage and enema"
+      ],
+      "dosage": "Used as intake, massage and enema",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVIII",
+        "verse": "118-135"
+      }
+    },
+    {
+      "id": "form_015",
+      "name": "Parusaka Ghrita",
+      "type": "Ghrita (medicated ghee)",
+      "ingredients": [
+        { "herb_name": "Trayamana", "quantity": "", "form": "paste and decoction" },
+        { "herb_name": "Tamalaki", "quantity": "", "form": "paste and decoction" },
+        { "herb_name": "Kakoli", "quantity": "", "form": "paste and decoction" },
+        { "herb_name": "Ksirakakoli", "quantity": "", "form": "paste and decoction" },
+        { "herb_name": "Shatavari", "quantity": "", "form": "paste and decoction" },
+        { "herb_name": "Kaseruka", "quantity": "", "form": "paste and decoction" },
+        { "herb_name": "Parusaka juice", "quantity": "equal quantity", "form": "juice" },
+        { "herb_name": "Draksha (grape juice)", "quantity": "equal quantity", "form": "juice" },
+        { "herb_name": "Kasmarya juice", "quantity": "equal quantity", "form": "juice" },
+        { "herb_name": "Sugarcane juice", "quantity": "equal quantity", "form": "juice" },
+        { "herb_name": "Vidari juice", "quantity": "equal quantity", "form": "juice" },
+        { "herb_name": "Milk", "quantity": "four times", "form": "liquid" },
+        { "herb_name": "Ghee", "quantity": "", "form": "base ghee" }
+      ],
+      "preparation_method": "Ghee cooked with paste of trayamana, tamalaki, kakoli, ksirakakoli, shatavari and kaseruka and decoction of same drugs adding thereto juices of parusaka, draksha, kasmarya, sugarcane and vidari in equal quantity and milk four times.",
+      "indications": [
+        "Vatarakta",
+        "Wasting due to chest wound",
+        "Erysipelas",
+        "Paittika (pitta-type) fever"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIX",
+        "verse": "55-60"
+      }
+    },
+    {
+      "id": "form_016",
+      "name": "Jivaniya Ghrita",
+      "type": "Ghrita (medicated ghee)",
+      "ingredients": [
+        { "herb_name": "Two Panchamulas (Dashamula)", "quantity": "80 gm each", "form": "decoction" },
+        { "herb_name": "Varshabhu", "quantity": "80 gm", "form": "decoction" },
+        { "herb_name": "Eranda", "quantity": "80 gm", "form": "decoction" },
+        { "herb_name": "Punarnava", "quantity": "80 gm", "form": "decoction" },
+        { "herb_name": "Mudgaparni", "quantity": "80 gm", "form": "decoction" },
+        { "herb_name": "Mahameda", "quantity": "80 gm", "form": "decoction" },
+        { "herb_name": "Masaparni", "quantity": "80 gm", "form": "decoction" },
+        { "herb_name": "Shatavari", "quantity": "80 gm", "form": "decoction" },
+        { "herb_name": "Shankhapushpi", "quantity": "80 gm", "form": "decoction" },
+        { "herb_name": "Adhahpushpi", "quantity": "80 gm", "form": "decoction" },
+        { "herb_name": "Rasna", "quantity": "80 gm", "form": "decoction" },
+        { "herb_name": "Atibala", "quantity": "80 gm", "form": "decoction" },
+        { "herb_name": "Bala", "quantity": "80 gm", "form": "decoction" },
+        { "herb_name": "Water", "quantity": "10.24 litres", "form": "liquid" },
+        { "herb_name": "Milk", "quantity": "", "form": "liquid" },
+        { "herb_name": "Amalaka juice", "quantity": "", "form": "juice" },
+        { "herb_name": "Sugarcane juice", "quantity": "", "form": "juice" },
+        { "herb_name": "Goat's flesh soup", "quantity": "", "form": "soup" },
+        { "herb_name": "Ghee", "quantity": "2.56 kg", "form": "base ghee" },
+        { "herb_name": "Meda", "quantity": "", "form": "paste" },
+        { "herb_name": "Mahameda", "quantity": "", "form": "paste" },
+        { "herb_name": "Kasmarya fruits", "quantity": "", "form": "paste" },
+        { "herb_name": "Utpala", "quantity": "", "form": "paste" },
+        { "herb_name": "Twakksiri", "quantity": "", "form": "paste" },
+        { "herb_name": "Pippali", "quantity": "", "form": "paste" },
+        { "herb_name": "Draksha", "quantity": "", "form": "paste" },
+        { "herb_name": "Lotus seeds", "quantity": "", "form": "paste" },
+        { "herb_name": "Punarnava", "quantity": "", "form": "paste" },
+        { "herb_name": "Sunthi", "quantity": "", "form": "paste" },
+        { "herb_name": "Ksirakakoli", "quantity": "", "form": "paste" },
+        { "herb_name": "Padmaka", "quantity": "", "form": "paste" },
+        { "herb_name": "Brhati", "quantity": "", "form": "paste" },
+        { "herb_name": "Kantakari", "quantity": "", "form": "paste" },
+        { "herb_name": "Vira", "quantity": "", "form": "paste" },
+        { "herb_name": "Sringataka", "quantity": "", "form": "paste" },
+        { "herb_name": "Bhavya", "quantity": "", "form": "paste" },
+        { "herb_name": "Urumana", "quantity": "", "form": "paste" },
+        { "herb_name": "Nikocaka", "quantity": "", "form": "paste" },
+        { "herb_name": "Kharjura (dates)", "quantity": "", "form": "paste" },
+        { "herb_name": "Aksota (walnut)", "quantity": "", "form": "paste" },
+        { "herb_name": "Vatama (almond)", "quantity": "", "form": "paste" },
+        { "herb_name": "Munjata", "quantity": "", "form": "paste" },
+        { "herb_name": "Abhisuka", "quantity": "", "form": "paste" },
+        { "herb_name": "Honey", "quantity": "", "form": "liquid" }
+      ],
+      "preparation_method": "Drugs 80 gm each boiled in water 10.24 litres reduced to one-fourth. Milk, amalaka juice, sugarcane juice, goat's flesh soup added with ghee 2.56 kg and cooked on mild fire with paste of secondary drugs. When prepared, honey added and stored in clean container with prescribed ritual.",
+      "indications": [
+        "Anaemia",
+        "Fever",
+        "Hiccup",
+        "Hoarseness of voice",
+        "Fistula-in-ano",
+        "Pain in sides",
+        "Wasting",
+        "Cough",
+        "Spleen enlargement",
+        "Vatarakta",
+        "Consumption due to chest wound",
+        "Epilepsy",
+        "Calculus",
+        "Gravels",
+        "Vatika disorders (generalised and localised)",
+        "Retention of urine",
+        "Promotes strength",
+        "Promotes complexion",
+        "Removes wrinkles",
+        "Removes greying of hairs",
+        "Aphrodisiac",
+        "Provides progeny to sterile woman"
+      ],
+      "dosage": "10 gm",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIX",
+        "verse": "61-70"
+      }
+    },
+    {
+      "id": "form_017",
+      "name": "Madhuparnyadi Taila",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Madhuka", "quantity": "4 kg", "form": "decoction" },
+        { "herb_name": "Water", "quantity": "", "form": "liquid" },
+        { "herb_name": "Milk", "quantity": "equal to oil", "form": "liquid" },
+        { "herb_name": "Oil", "quantity": "2.56 kg", "form": "base oil" },
+        { "herb_name": "Shatapushpi", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Shatavari", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Murva", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Payasya", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Aguru", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Candana", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Shalaparni", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Hamsapadi", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Mamsi", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Meda", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Mahameda", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Madhuparni (Madhuka)", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Kakoli", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Ksirakakoli", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Tamalaki", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Riddhi", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Padmaka", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Jivaka", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Rsabhaka", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Jivanti", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Twak", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Patra", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Nakha", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Bilaka", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Prapaundarika", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Manjistha", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Sariva", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Aindri", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Vitunnaka", "quantity": "40 gm", "form": "paste" }
+      ],
+      "preparation_method": "Madhuka 4 kg decocted in water reduced to one-fourth. With this, oil 2.56 kg cooked with equal quantity of milk and paste of listed drugs each 40 gm.",
+      "indications": [
+        "Vatarakta with complications",
+        "Pain in body",
+        "Whole body involvement in vatarakta",
+        "Destroys vatarakta, pitta",
+        "Burning sensation",
+        "Distress",
+        "Fever",
+        "Promotes strength",
+        "Promotes complexion"
+      ],
+      "dosage": "Used in four ways: intake, massage, snuff and enema",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIX",
+        "verse": "88-95"
+      }
+    },
+    {
+      "id": "form_018",
+      "name": "Sukumaraka Taila",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Madhuka", "quantity": "4 kg", "form": "decoction" },
+        { "herb_name": "Draksha", "quantity": "640 gm", "form": "decoction" },
+        { "herb_name": "Kharjara (dates)", "quantity": "640 gm", "form": "decoction" },
+        { "herb_name": "Parusaka", "quantity": "640 gm", "form": "decoction" },
+        { "herb_name": "Madhika", "quantity": "640 gm", "form": "decoction" },
+        { "herb_name": "Odanapaki", "quantity": "640 gm", "form": "decoction" },
+        { "herb_name": "Munjataka", "quantity": "640 gm", "form": "decoction" },
+        { "herb_name": "Kasmarya fruits", "quantity": "2.56 kg", "form": "decoction" },
+        { "herb_name": "Water", "quantity": "40.96 litres", "form": "liquid" },
+        { "herb_name": "Milk", "quantity": "40.96 litres", "form": "liquid" },
+        { "herb_name": "Amalaka juice", "quantity": "equal part", "form": "juice" },
+        { "herb_name": "Kasmarya juice", "quantity": "equal part", "form": "juice" },
+        { "herb_name": "Vidari juice", "quantity": "equal part", "form": "juice" },
+        { "herb_name": "Sugarcane juice", "quantity": "equal part", "form": "juice" },
+        { "herb_name": "Oil", "quantity": "2.56 kg", "form": "base oil" },
+        { "herb_name": "Kadamba", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Amalaka", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Aksota (walnut)", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Lotus seeds", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Kaseruka", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Sringataka", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Sunthi", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Lavana (salt)", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Pippali", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Sharkara (sugar)", "quantity": "40 gm", "form": "paste" },
+        { "herb_name": "Vitaliser drugs", "quantity": "40 gm each", "form": "paste" },
+        { "herb_name": "Honey", "quantity": "640 gm", "form": "liquid" }
+      ],
+      "preparation_method": "First drugs boiled in water 40.96 litres reduced to one-eighth. Filtered. With this, oil 2.56 kg cooked with equal quantity juices of amalaka, kasmarya, vidari, sugarcane and milk 40.96 litres and paste of drugs 40 gm each. When prepared honey 640 gm added.",
+      "indications": [
+        "All vatika disorders",
+        "Stiffness of neck",
+        "Lock-jaw",
+        "Vata generalised or localised",
+        "Wasting",
+        "Fever due to chest wound",
+        "Vatarakta",
+        "Promotes voice",
+        "Promotes complexion",
+        "Provides health, strength and corpulence"
+      ],
+      "dosage": "Used as snuff, massage, intake and enema",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIX",
+        "verse": "96-109"
+      }
+    },
+    {
+      "id": "form_019",
+      "name": "Amrtadya Taila (Amrta Taila for Vatarakta)",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Guduchi", "quantity": "4 kg", "form": "decoction" },
+        { "herb_name": "Madhuka", "quantity": "4 kg", "form": "decoction" },
+        { "herb_name": "Laghu Panchamula", "quantity": "4 kg", "form": "decoction" },
+        { "herb_name": "Punarnava", "quantity": "4 kg", "form": "decoction" },
+        { "herb_name": "Rasna", "quantity": "4 kg", "form": "decoction" },
+        { "herb_name": "Eranda root", "quantity": "4 kg", "form": "decoction" },
+        { "herb_name": "Bala", "quantity": "20 kg", "form": "decoction" },
+        { "herb_name": "Kola (jujube)", "quantity": "2.56 kg", "form": "decoction" },
+        { "herb_name": "Bilva", "quantity": "2.56 kg", "form": "decoction" },
+        { "herb_name": "Barley (Yava)", "quantity": "2.56 kg", "form": "decoction" },
+        { "herb_name": "Black gram (Masha)", "quantity": "2.56 kg", "form": "decoction" },
+        { "herb_name": "Horse gram (Kulattha)", "quantity": "2.56 kg", "form": "decoction" },
+        { "herb_name": "Kasmarya fruits (dried)", "quantity": "10.24 kg", "form": "decoction" },
+        { "herb_name": "Water", "quantity": "1024 litres", "form": "liquid" },
+        { "herb_name": "Milk", "quantity": "five times oil", "form": "liquid" },
+        { "herb_name": "Oil", "quantity": "10.24 litres", "form": "base oil" },
+        { "herb_name": "Candana", "quantity": "120 gm", "form": "paste" },
+        { "herb_name": "Usira", "quantity": "120 gm", "form": "paste" },
+        { "herb_name": "Nagakesara", "quantity": "120 gm", "form": "paste" },
+        { "herb_name": "Patra", "quantity": "120 gm", "form": "paste" },
+        { "herb_name": "Ela (cardamom)", "quantity": "120 gm", "form": "paste" },
+        { "herb_name": "Aguru", "quantity": "120 gm", "form": "paste" },
+        { "herb_name": "Kustha", "quantity": "120 gm", "form": "paste" },
+        { "herb_name": "Tagara", "quantity": "120 gm", "form": "paste" },
+        { "herb_name": "Madhuyasti", "quantity": "120 gm", "form": "paste" },
+        { "herb_name": "Manjistha", "quantity": "320 gm", "form": "paste" }
+      ],
+      "preparation_method": "All drugs except paste drugs boiled in water 1024 litres reduced to 40.96 litres. With this, oil 10.24 litres cooked with five times milk and paste of candana, usira, nagakesara, patra, ela, aguru, kustha, tagara, madhuyasti each 120 gm and manjistha 320 gm.",
+      "indications": [
+        "Vatarakta",
+        "Wasting due to chest wound",
+        "Affliction by overload",
+        "Deficiency of semen",
+        "Trembling",
+        "Convulsions",
+        "Fractures",
+        "Diseases generalised or localised",
+        "Diseases of female genital tract",
+        "Epilepsy",
+        "Insanity",
+        "Limping",
+        "Lameness",
+        "Makes delivery of foetus easy"
+      ],
+      "dosage": "Used in all ways (intake, massage, snuff, enema)",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIX",
+        "verse": "96-109"
+      }
+    },
+    {
+      "id": "form_020",
+      "name": "Mahapadmaka Taila",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Padmaka", "quantity": "200 gm", "form": "decoction" },
+        { "herb_name": "Vetasa", "quantity": "200 gm", "form": "decoction" },
+        { "herb_name": "Madhuyasti", "quantity": "200 gm", "form": "decoction" },
+        { "herb_name": "Phenila", "quantity": "200 gm", "form": "decoction" },
+        { "herb_name": "Kamala (lotus)", "quantity": "200 gm", "form": "decoction" },
+        { "herb_name": "Utpala (water lily)", "quantity": "200 gm", "form": "decoction" },
+        { "herb_name": "Darbha", "quantity": "200 gm", "form": "decoction" },
+        { "herb_name": "Bala", "quantity": "200 gm", "form": "decoction" },
+        { "herb_name": "Candana", "quantity": "200 gm", "form": "decoction" },
+        { "herb_name": "Kimsuka", "quantity": "200 gm", "form": "decoction" },
+        { "herb_name": "Sauvira (type of vinegar)", "quantity": "equal to oil", "form": "liquid" },
+        { "herb_name": "Oil", "quantity": "6.40 gm", "form": "base oil" },
+        { "herb_name": "Lodhra", "quantity": "20 gm", "form": "paste" },
+        { "herb_name": "Kaliyaka", "quantity": "20 gm", "form": "paste" },
+        { "herb_name": "Usira", "quantity": "20 gm", "form": "paste" },
+        { "herb_name": "Jivaka", "quantity": "20 gm", "form": "paste" },
+        { "herb_name": "Rsabhaka", "quantity": "20 gm", "form": "paste" },
+        { "herb_name": "Nagakesara", "quantity": "20 gm", "form": "paste" },
+        { "herb_name": "Padmaka", "quantity": "20 gm", "form": "paste" },
+        { "herb_name": "Prapaundarika", "quantity": "20 gm", "form": "paste" },
+        { "herb_name": "Kasmarya", "quantity": "20 gm", "form": "paste" },
+        { "herb_name": "Mamsi", "quantity": "20 gm", "form": "paste" },
+        { "herb_name": "Meda", "quantity": "20 gm", "form": "paste" },
+        { "herb_name": "Priyanghu", "quantity": "20 gm", "form": "paste" },
+        { "herb_name": "Kunkuma", "quantity": "20 gm", "form": "paste" },
+        { "herb_name": "Manjistha", "quantity": "40 gm", "form": "paste" }
+      ],
+      "preparation_method": "Padmaka and other drugs each 200 gm decocted in water. With this, oil cooked with equal quantity of sauvira and paste of drugs 20 gm each and manjistha 40 gm.",
+      "indications": [
+        "Vatarakta",
+        "Fever"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIX",
+        "verse": "110-113"
+      }
+    },
+    {
+      "id": "form_021",
+      "name": "Khuddaka Padmaka Taila",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Padmaka", "quantity": "", "form": "decoction" },
+        { "herb_name": "Usira", "quantity": "", "form": "decoction" },
+        { "herb_name": "Madhuyasti", "quantity": "", "form": "decoction" },
+        { "herb_name": "Haridra", "quantity": "", "form": "decoction" },
+        { "herb_name": "Sarja (resin)", "quantity": "", "form": "paste" },
+        { "herb_name": "Manjistha", "quantity": "", "form": "paste" },
+        { "herb_name": "Vita", "quantity": "", "form": "paste" },
+        { "herb_name": "Kakoli", "quantity": "", "form": "paste" },
+        { "herb_name": "Candana", "quantity": "", "form": "paste" },
+        { "herb_name": "Oil", "quantity": "", "form": "base oil" }
+      ],
+      "preparation_method": "Oil prepared with decoction of padmaka, usira, madhuyasti and haridra along with paste of sarja, manjistha, vita, kakoli and candana.",
+      "indications": [
+        "Vatarakta",
+        "Burning sensation"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIX",
+        "verse": "114"
+      }
+    },
+    {
+      "id": "form_022",
+      "name": "Madhuka Taila (cooked hundred times)",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Madhuyasti", "quantity": "4 kg", "form": "decoction" },
+        { "herb_name": "Milk", "quantity": "ten times (reduced to one-fourth)", "form": "liquid" },
+        { "herb_name": "Madhuka", "quantity": "100 pala (4 kg) total across 100 cookings", "form": "paste or juice" },
+        { "herb_name": "Oil", "quantity": "40.96 kg", "form": "base oil" }
+      ],
+      "preparation_method": "Madhuyasti 4 kg boiled with ten times milk reduced to one-fourth. With this, oil 40.96 kg cooked with paste or juice of madhuka repeatedly. Process repeated 100 times so that 100 pala (4 kg) of madhuka is processed.",
+      "indications": [
+        "Vatarakta caused by three doshas",
+        "Dyspnoea",
+        "Cough",
+        "Cardiac disorders",
+        "Anaemia",
+        "Erysipelas",
+        "Jaundice",
+        "Burning sensation"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIX",
+        "verse": "115-118"
+      }
+    },
+    {
+      "id": "form_023",
+      "name": "Bala Taila (cooked hundred or thousand times)",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Bala", "quantity": "", "form": "decoction and paste" },
+        { "herb_name": "Milk", "quantity": "equal quantity", "form": "liquid" },
+        { "herb_name": "Oil", "quantity": "", "form": "base oil" }
+      ],
+      "preparation_method": "Oil cooked with decoction and paste of bala with equal quantity of milk, repeated hundred or thousand times",
+      "indications": [
+        "Vatarakta",
+        "Vatika disorders",
+        "Rasayana (rejuvenator)",
+        "Cleanser of senses",
+        "Vitaliser",
+        "Bulk-promoting",
+        "Promoter of voice",
+        "Alleviator of defects of semen and ovum"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIX",
+        "verse": "119-120"
+      }
+    },
+    {
+      "id": "form_024",
+      "name": "Pinda Taila",
+      "type": "Taila (medicated oil)",
+      "ingredients": [
+        { "herb_name": "Beewax", "quantity": "", "form": "raw" },
+        { "herb_name": "Manjistha", "quantity": "", "form": "raw" },
+        { "herb_name": "Sarjarasa", "quantity": "", "form": "raw" },
+        { "herb_name": "Sariva", "quantity": "", "form": "raw" },
+        { "herb_name": "Oil", "quantity": "", "form": "base oil" }
+      ],
+      "preparation_method": "Oil prepared with beewax, manjistha, sarjarasa and sariva",
+      "indications": [
+        "Pain in vatarakta (by massage)"
+      ],
+      "dosage": "External use as massage",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIX",
+        "verse": "123"
+      }
+    },
+    {
+      "id": "form_025",
+      "name": "Triphala-Trikatu Paste (Vatarakta)",
+      "type": "Lepa (external paste)",
+      "ingredients": [
+        { "herb_name": "Triphala", "quantity": "equal quantity", "form": "powder" },
+        { "herb_name": "Trikatu", "quantity": "equal quantity", "form": "powder" },
+        { "herb_name": "Patra", "quantity": "equal quantity", "form": "powder" },
+        { "herb_name": "Ela (cardamom)", "quantity": "equal quantity", "form": "powder" },
+        { "herb_name": "Twakksiri", "quantity": "equal quantity", "form": "powder" },
+        { "herb_name": "Citraka", "quantity": "equal quantity", "form": "powder" },
+        { "herb_name": "Vaca", "quantity": "equal quantity", "form": "powder" },
+        { "herb_name": "Vidanga", "quantity": "equal quantity", "form": "powder" },
+        { "herb_name": "Pippalimula", "quantity": "equal quantity", "form": "powder" },
+        { "herb_name": "Kasisa", "quantity": "equal quantity", "form": "powder" },
+        { "herb_name": "Vasa bark", "quantity": "equal quantity", "form": "powder" },
+        { "herb_name": "Riddhi", "quantity": "equal quantity", "form": "powder" },
+        { "herb_name": "Tamalaki", "quantity": "equal quantity", "form": "powder" },
+        { "herb_name": "Cavya", "quantity": "equal quantity", "form": "powder" }
+      ],
+      "preparation_method": "All in equal quantity pounded. Paste applied on iron utensil in early morning and eaten in noon.",
+      "indications": [
+        "Pain of vatarakta even caused by all three doshas"
+      ],
+      "dosage": "Applied on iron utensil in early morning, eaten in noon",
+      "anupana": "",
+      "contraindications": [
+        "Curd",
+        "Vinegar (Sukta)",
+        "Alkali",
+        "Incompatible food items"
+      ],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIX",
+        "verse": "124-155"
+      }
+    }
+  ]
+}

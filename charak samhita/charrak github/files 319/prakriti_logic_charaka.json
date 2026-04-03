@@ -1,0 +1,171 @@
+{
+  "prakriti": {
+    "vata": {
+      "physical": [
+        "Lean body",
+        "Roughness of body",
+        "Reddishness in skin",
+        "Dryness of stool",
+        "Hardness in bowels",
+        "Tendency toward oedema",
+        "Blackish or reddish tinge in nails, eyes, face, skin"
+      ],
+      "mental": [
+        "Anxiety",
+        "Fear",
+        "Easily irritable",
+        "Difficulty in management"
+      ],
+      "digestive": [
+        "Irregular digestion (vishama agni)",
+        "Stasis of food",
+        "Tympanitis during and after digestion",
+        "Greed for every food item",
+        "Cutting pain in abdomen",
+        "Suspicion of vatagulma or heart disease",
+        "Passes stool as liquid, dried, thin, undigested, with sound and froth frequently"
+      ],
+      "sleep": "Poor or disturbed",
+      "speech": "Voice feeble, hoarse, depressed, mingled and broken (in vatika disorders)",
+      "memory": "",
+      "emotional": [
+        "Anxiety",
+        "Fear",
+        "Anger",
+        "Grief"
+      ],
+      "disease_tendency": [
+        "Piles (vatika)",
+        "Grahani roga (vatika)",
+        "Panduroga (vatika)",
+        "Cough and dyspnoea",
+        "Body-ache and pain",
+        "Retention of flatus, urine and stool",
+        "Tympanitis"
+      ],
+      "aggravated_signs": [
+        "Blackish or reddish tinge in nails, eyes, face, skin, urine and stool",
+        "Coarseness",
+        "Dry, hard, rough constipated stool",
+        "Upward movement of vayu (udavarta)",
+        "Body-ache, pain, piercing pain, trembling"
+      ],
+      "decreased_signs": []
+    },
+    "pitta": {
+      "physical": [
+        "Yellowish or greenish tinge in skin",
+        "Yellow tinge in nails, eyes, face, skin",
+        "Profuse perspiration",
+        "Desire for cold",
+        "Aversion to food"
+      ],
+      "mental": [
+        "Anger",
+        "Envy"
+      ],
+      "digestive": [
+        "Burning sensation in cardiac region and throat",
+        "Foul sour eructations",
+        "Anorexia and thirst",
+        "Acid eructations",
+        "Loose motions frequently",
+        "Yellowish lustre",
+        "Passes undigested bluish or yellowish liquid stool with foetid odour"
+      ],
+      "sleep": "Normal",
+      "speech": "",
+      "memory": "",
+      "emotional": [
+        "Anger",
+        "Envy"
+      ],
+      "disease_tendency": [
+        "Piles (paittika / bleeding)",
+        "Grahani roga (paittika)",
+        "Panduroga (paittika)",
+        "Kamala (jaundice)",
+        "Raktapitta",
+        "Fever",
+        "Burning sensation"
+      ],
+      "aggravated_signs": [
+        "Yellow or greenish tinge in skin, eyes, nails, urine, stool",
+        "Burning sensation",
+        "Profuse sweating",
+        "Thirst and fever",
+        "Blood disorders (rakta dushti)"
+      ],
+      "decreased_signs": [
+        "White stools (obstruction of bile — Kumbhakamala)"
+      ]
+    },
+    "kapha": {
+      "physical": [
+        "Heavy body",
+        "Drowsiness",
+        "Excessive salivation",
+        "White tinge in nails, eyes, face, skin",
+        "Whitish complexion",
+        "Oedema",
+        "Sweetness of mouth"
+      ],
+      "mental": [
+        "Sluggishness",
+        "Lack of mental work",
+        "Lack of desire for women (in kaphaja disorders)"
+      ],
+      "digestive": [
+        "Sluggishness of digestion",
+        "Nausea and vomiting",
+        "Anorexia",
+        "Sliminess and sweetness in mouth",
+        "Cough, spitting and coryza",
+        "Stool broken with ama and mucus — heavy",
+        "Slow digestion (manda agni)"
+      ],
+      "sleep": "Excessive sleep; day-sleep tendency",
+      "speech": "Obstruction in speech and voice",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "Piles (kaphaja)",
+        "Grahani roga (kaphaja)",
+        "Panduroga (kaphaja)",
+        "Prameha",
+        "Oedema",
+        "Cough and dyspnoea",
+        "Phthisis (kaphaja)"
+      ],
+      "aggravated_signs": [
+        "White or pale tinge in nails, eyes, face, skin, urine and stool",
+        "Excessive salivation",
+        "Sweetness of mouth",
+        "Heavy, slimy and white urine and stool",
+        "Prameha signs"
+      ],
+      "decreased_signs": []
+    },
+    "dual_prakriti": {
+      "vata_pitta": [
+        "Combined etiological factors and characters of both vata and pitta",
+        "Bleeding piles with vata association: stool blackish, hard and rough; blood thin, reddish and frothy",
+        "Halimaka — green, blackish and yellow complexion with vata and pitta vitiation"
+      ],
+      "pitta_kapha": [
+        "Bleeding piles with kapha association: stool loose, white-yellow, unctuous; blood thick, fibrous, pale and slimy",
+        "Combined disorders of both pitta and kapha simultaneously"
+      ],
+      "vata_kapha": [
+        "Dry piles predominantly — vatika and kaphaja",
+        "Grahani roga with kapha propelled by vayu"
+      ]
+    },
+    "sama_prakriti": [
+      "Tridoshaja piles (sannipataja arsha) — has all etiological factors and symptoms similar to congenital piles",
+      "Tridoshaja panduroga — exhibiting symptoms of all three dosas, very troublesome",
+      "Tridoshaja grahani — when etiology and symptoms of vata, pitta and kapha join together",
+      "Generally considered most difficult to treat and often precursor to many diseases"
+    ]
+  }
+}

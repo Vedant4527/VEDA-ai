@@ -1,0 +1,2854 @@
+{
+  "metadata": {
+    "project": "VEDA Ayurvedic AI",
+    "source_text": "Ashtanga Hrdayam — Sutrasthana",
+    "chapters": [
+      "Chapter 6 — Annasvarupa Vijnaniya Adhyaya",
+      "Chapter 7 — Annaraksa Adhyaya"
+    ],
+    "translator": "Dr. R. Vidyanath",
+    "extraction_date": "2026-03-26",
+    "pages_covered": "Pages 1-66 (Book pages 88-153)",
+    "total_herbs": 25,
+    "total_food_items": 30,
+    "total_symptoms_mapped": 10,
+    "total_formulations": 15,
+    "total_viruddha_combinations": 32
+  },
+  "herbs_database": [
+    {
+      "id": "H001",
+      "sanskrit_name": "Haritaki",
+      "english_name": "Chebulic Myrobalan",
+      "latin_name": "Terminalia chebula",
+      "family": "Combretaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "fruit_drug",
+      "group": "Triphala / Ousadha Varga",
+      "rasa": [
+        "Madhura",
+        "Amla",
+        "Tikta",
+        "Katu",
+        "Kasaya"
+      ],
+      "rasa_predominant": "Kasaya",
+      "rasa_absent": [
+        "Lavana"
+      ],
+      "guna": [
+        "Ruksa",
+        "Laghu",
+        "Sara"
+      ],
+      "virya": "Usna",
+      "vipaka": "Madhura",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "prabhava": "Rasayana (rejuvenator)",
+      "therapeutic_uses": [
+        "Increases digestive power",
+        "Digests Ama",
+        "Increases intelligence",
+        "Stops aging",
+        "Enhances lifespan",
+        "Strengthens mind and sense organs"
+      ],
+      "indications": [
+        "Skin diseases (Kustha)",
+        "Discoloration",
+        "Hoarseness of voice",
+        "Chronic fevers",
+        "Intermittent fevers",
+        "Head diseases",
+        "Eye diseases",
+        "Anemia (Pandu)",
+        "Heart diseases (Hrdroga)",
+        "Jaundice",
+        "Amoebiasis",
+        "Emaciation (Karsya)",
+        "Oedema (Sopha)",
+        "Diarrhoea (Atisara)",
+        "Diabetes (Prameha)",
+        "Fainting",
+        "Vomiting",
+        "Worm infestation (Krmiroga)",
+        "Dyspnoea (Swasa)",
+        "Cough (Kasa)",
+        "Salivation",
+        "Hemorrhoids (Arsas)",
+        "Splenomegaly (Pliha)",
+        "Abdominal distension",
+        "Artificial poisoning (Garavisa)",
+        "Ascites (Udara)",
+        "Channel blockage (Srotorodha)",
+        "Tumors (Gulma)",
+        "Anorexia (Arochaka)",
+        "Urusthambha",
+        "Kaphaja roga",
+        "Vataja roga"
+      ],
+      "contraindications": [],
+      "best_season": "all",
+      "rasayana": true,
+      "notes": "Contains all 6 tastes except Lavana. Best taken in different seasons with different anupanas."
+    },
+    {
+      "id": "H002",
+      "sanskrit_name": "Amalaki",
+      "english_name": "Indian Gooseberry / Amla",
+      "latin_name": "Emblica officinalis / Phyllanthus emblica",
+      "family": "Phyllanthaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "fruit_drug",
+      "group": "Triphala / Ousadha Varga",
+      "rasa": [
+        "Madhura",
+        "Amla",
+        "Tikta",
+        "Katu",
+        "Kasaya"
+      ],
+      "rasa_predominant": "Amla",
+      "rasa_absent": [
+        "Lavana"
+      ],
+      "guna": [
+        "Guru",
+        "Ruksa"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Good for throat",
+        "Good for eyes",
+        "Good for heart",
+        "Relieves thirst",
+        "Reduces fever"
+      ],
+      "indications": [
+        "Pitta disorders",
+        "Kapha disorders",
+        "Vata disorders",
+        "Thirst",
+        "Fever"
+      ],
+      "contraindications": [],
+      "rasayana": true,
+      "notes": "Pitta + Kapha decrease due to Katu vipaka; Vata decreases due to Amla rasa. Similar to Haritaki."
+    },
+    {
+      "id": "H003",
+      "sanskrit_name": "Vibhitaki",
+      "english_name": "Beleric Myrobalan",
+      "latin_name": "Terminalia bellerica",
+      "family": "Combretaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "fruit_drug",
+      "group": "Triphala / Ousadha Varga",
+      "rasa": [
+        "Kasaya",
+        "Madhura"
+      ],
+      "rasa_predominant": "Kasaya",
+      "guna": [
+        "Laghu",
+        "Ruksa"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "dosha_effect": {
+        "vata": "neutral",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Relieves cough",
+        "Relieves dyspnoea",
+        "Treats throat infections",
+        "Fruit pulp promotes body growth",
+        "As collyrium — cures corneal ulcer"
+      ],
+      "indications": [
+        "Kasa",
+        "Swasa",
+        "Gala roga",
+        "Corneal ulcer (as anjana)"
+      ],
+      "notes": "Slightly inferior to Amalaki in overall properties."
+    },
+    {
+      "id": "H004",
+      "sanskrit_name": "Hingu",
+      "english_name": "Asafoetida",
+      "latin_name": "Ferula foetida / Ferula assa-foetida",
+      "family": "Apiaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "drug_spice",
+      "group": "Ousadha Varga",
+      "rasa": [
+        "Katu"
+      ],
+      "guna": [
+        "Laghu"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "increases",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Increases taste perception",
+        "Increases digestive power",
+        "Facilitates digestion process"
+      ],
+      "indications": [
+        "Anaha (flatulence)",
+        "Sula (colic pain)"
+      ],
+      "contraindications": [
+        "Pitta disorders"
+      ]
+    },
+    {
+      "id": "H005",
+      "sanskrit_name": "Pippali",
+      "english_name": "Long Pepper",
+      "latin_name": "Piper longum",
+      "family": "Piperaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "spice_drug",
+      "group": "Trikatu / Pancakola / Ousadha Varga",
+      "forms": {
+        "green_unripe": {
+          "rasa": [
+            "Madhura"
+          ],
+          "guna": [
+            "Guru",
+            "Snigdha"
+          ],
+          "virya": "Sita",
+          "vipaka": "Madhura",
+          "dosha_effect": {
+            "kapha": "increases"
+          }
+        },
+        "dried": {
+          "rasa": [
+            "Katu"
+          ],
+          "guna": [
+            "Snigdha"
+          ],
+          "vipaka": "Madhura",
+          "dosha_effect": {
+            "vata": "decreases",
+            "kapha": "decreases"
+          },
+          "actions": [
+            "Aphrodisiac",
+            "Relieves cough",
+            "Relieves dyspnoea"
+          ]
+        }
+      },
+      "therapeutic_uses": [
+        "Aphrodisiac",
+        "Rasayana (in controlled use)"
+      ],
+      "indications": [
+        "Kasa",
+        "Swasa",
+        "Vata disorders",
+        "Kapha disorders"
+      ],
+      "contraindications": [
+        "Excessive use outside Rasayana context"
+      ],
+      "rasayana": true,
+      "notes": "Part of Trikatu (with Sunthi + Marica). Also part of Pancakola."
+    },
+    {
+      "id": "H006",
+      "sanskrit_name": "Sunthi",
+      "english_name": "Dry Ginger",
+      "latin_name": "Zingiber officinale",
+      "family": "Zingiberaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "spice_drug",
+      "group": "Trikatu / Pancakola / Ousadha Varga",
+      "rasa": [
+        "Katu"
+      ],
+      "guna": [
+        "Laghu",
+        "Snigdha"
+      ],
+      "virya": "Usna",
+      "vipaka": "Madhura",
+      "dosha_effect": {
+        "vata": "decreases",
+        "kapha": "decreases",
+        "pitta": "neutral"
+      },
+      "therapeutic_uses": [
+        "Increases appetite",
+        "Aphrodisiac",
+        "Water absorbent (Grahi)",
+        "Good for heart",
+        "Relieves constipation",
+        "Increases taste perception"
+      ],
+      "indications": [
+        "Indigestion",
+        "Constipation",
+        "Vata disorders",
+        "Kapha disorders"
+      ],
+      "notes": "Fresh ginger (Ardraka) has similar properties. Part of Trikatu and Pancakola."
+    },
+    {
+      "id": "H007",
+      "sanskrit_name": "Marica",
+      "english_name": "Black Pepper",
+      "latin_name": "Piper nigrum",
+      "family": "Piperaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "spice_drug",
+      "group": "Trikatu / Ousadha Varga",
+      "rasa": [
+        "Katu"
+      ],
+      "guna": [
+        "Laghu"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "dosha_effect": {
+        "pitta": "increases",
+        "kapha": "decreases"
+      },
+      "notes": "Part of Trikatu."
+    },
+    {
+      "id": "H008",
+      "sanskrit_name": "Citraka",
+      "english_name": "Plumbago / Leadwort",
+      "latin_name": "Plumbago zeylanica",
+      "family": "Plumbaginaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "drug",
+      "group": "Pancakola / Ousadha Varga",
+      "therapeutic_uses": [
+        "Digestive stimulant (Agni-like property)"
+      ],
+      "indications": [
+        "Sopha (oedema)",
+        "Arsas (hemorrhoids)",
+        "Krmiroga (worms)",
+        "Kustha (skin diseases)"
+      ],
+      "notes": "Part of Pancakola. Properties similar to Agni."
+    },
+    {
+      "id": "H009",
+      "sanskrit_name": "Lasuna",
+      "english_name": "Garlic",
+      "latin_name": "Allium sativum",
+      "family": "Amaryllidaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "vegetable_drug",
+      "group": "Saka Varga",
+      "rasa": [
+        "Katu"
+      ],
+      "guna": [
+        "Tiksna",
+        "Sara",
+        "Guru",
+        "Snigdha"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "increases",
+        "kapha": "decreases",
+        "rakta": "vitiates"
+      },
+      "therapeutic_uses": [
+        "Cardiac tonic",
+        "Increases hair growth",
+        "Aphrodisiac",
+        "Increases taste perception and digestive power",
+        "Useful for fracture healing",
+        "Gives strength"
+      ],
+      "indications": [
+        "Kilasa (depigmentation)",
+        "Kustha (skin diseases)",
+        "Gulma",
+        "Arsas",
+        "Meha (diabetes)",
+        "Krmiroga",
+        "Kapha disorders",
+        "Vata disorders",
+        "Hikka",
+        "Pinasa",
+        "Swasa",
+        "Kasa"
+      ],
+      "contraindications": [
+        "Pitta disorders",
+        "Rakta disorders"
+      ],
+      "rasayana": true
+    },
+    {
+      "id": "H010",
+      "sanskrit_name": "Jivanti",
+      "english_name": "Leptadenia",
+      "latin_name": "Leptadenia reticulata",
+      "family": "Apocynaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "vegetable_drug",
+      "group": "Saka Varga / Jivaniya Pancamula",
+      "rasa": [
+        "Madhura"
+      ],
+      "virya": "Sita",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Good for eyes",
+        "Tridoshahara"
+      ],
+      "notes": "BEST among all leafy vegetables."
+    },
+    {
+      "id": "H011",
+      "sanskrit_name": "Satavari",
+      "english_name": "Asparagus",
+      "latin_name": "Asparagus racemosus",
+      "family": "Asparagaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "vegetable_drug",
+      "group": "Saka Varga / Jivaniya Pancamula",
+      "rasa": [
+        "Tikta"
+      ],
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Aphrodisiac",
+        "Tridoshahara"
+      ],
+      "notes": "Sprouts used. Also listed as Abhiru in Jivaniya Pancamula."
+    },
+    {
+      "id": "H012",
+      "sanskrit_name": "Vidari",
+      "english_name": "Indian Kudzu",
+      "latin_name": "Pueraria tuberosa",
+      "family": "Fabaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "vegetable_drug",
+      "group": "Saka Varga / Valli Pancamula",
+      "rasa": [
+        "Madhura"
+      ],
+      "guna": [
+        "Guru"
+      ],
+      "virya": "Sita",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases"
+      },
+      "therapeutic_uses": [
+        "Diuretic",
+        "Enlivening",
+        "Nourishing",
+        "Wholesome for throat",
+        "Aphrodisiac",
+        "Rejuvenator"
+      ]
+    },
+    {
+      "id": "H013",
+      "sanskrit_name": "Kakamaci",
+      "english_name": "Black Nightshade",
+      "latin_name": "Solanum nigrum",
+      "family": "Solanaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "vegetable_drug",
+      "group": "Saka Varga",
+      "guna": [
+        "Sara"
+      ],
+      "virya": "Usna",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Cures skin diseases",
+        "Increases semen",
+        "Rejuvenator",
+        "Good for voice"
+      ],
+      "contraindications": [
+        "Do not combine with Pippali or Marica",
+        "Do not combine with Honey or Jaggery",
+        "Do not use if cooked in vessel previously used for fish or Sunthi",
+        "Do not use if prepared separately and kept overnight"
+      ]
+    },
+    {
+      "id": "H014",
+      "sanskrit_name": "Punarnava",
+      "english_name": "Spreading Hogweed",
+      "latin_name": "Boerhavia diffusa",
+      "family": "Nyctaginaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "drug",
+      "group": "Madhyama Pancamula",
+      "dosha_effect": {
+        "vata": "decreases",
+        "kapha": "decreases"
+      },
+      "notes": "Part of Madhyama Pancamula."
+    },
+    {
+      "id": "H015",
+      "sanskrit_name": "Eranda",
+      "english_name": "Castor",
+      "latin_name": "Ricinus communis",
+      "family": "Euphorbiaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "drug",
+      "group": "Madhyama Pancamula",
+      "contraindications": [
+        "Firewood of Eranda should NOT be used to cook meat — causes death"
+      ],
+      "notes": "Part of Madhyama Pancamula. Castor oil (Eranda Taila) also dangerous when used to cook certain meats."
+    },
+    {
+      "id": "H016",
+      "sanskrit_name": "Goksura",
+      "english_name": "Puncture Vine / Tribulus",
+      "latin_name": "Tribulus terrestris",
+      "family": "Zygophyllaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "drug",
+      "group": "Laghu Pancamula / Kantaka Pancamula",
+      "rasa": [
+        "Madhura"
+      ],
+      "vipaka": "Madhura",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      }
+    },
+    {
+      "id": "H017",
+      "sanskrit_name": "Amrta / Guduchi",
+      "english_name": "Tinospora / Giloy",
+      "latin_name": "Tinospora cordifolia",
+      "family": "Menispermaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "drug",
+      "group": "Saka Varga / Valli Pancamula",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Anti-poisonous treatment (as Pralepa ingredient)"
+      ]
+    },
+    {
+      "id": "H018",
+      "sanskrit_name": "Haridra",
+      "english_name": "Turmeric",
+      "latin_name": "Curcuma longa",
+      "family": "Zingiberaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.7",
+      "category": "spice_drug",
+      "group": "Valli Pancamula",
+      "therapeutic_uses": [
+        "Anti-poisonous treatment (internal decoction)"
+      ],
+      "notes": "Also Daruharidra (Berberis arishtata) mentioned alongside."
+    },
+    {
+      "id": "H019",
+      "sanskrit_name": "Surasa / Tulsi",
+      "english_name": "Holy Basil",
+      "latin_name": "Ocimum sanctum",
+      "family": "Lamiaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "vegetable_drug",
+      "group": "Kuthera group / Saka Varga",
+      "rasa": [
+        "Katu"
+      ],
+      "guna": [
+        "Ruksa",
+        "Grahi",
+        "Vidahi",
+        "Tiksna",
+        "Laghu"
+      ],
+      "virya": "Usna",
+      "indications": [
+        "Hikka",
+        "Kasa",
+        "Visa (poisoning)",
+        "Swasa",
+        "Parswasula",
+        "Putigandha (bad breath)"
+      ]
+    },
+    {
+      "id": "H020",
+      "sanskrit_name": "Vasa / Vrsa",
+      "english_name": "Malabar Nut",
+      "latin_name": "Adhatoda vasica / Justicia adhatoda",
+      "family": "Acanthaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "vegetable_drug",
+      "group": "28 Tikta Vegetables / Saka Varga",
+      "indications": [
+        "Vomiting (Chardi)",
+        "Kasa",
+        "Bleeding disorders (Raktapitta)"
+      ]
+    },
+    {
+      "id": "H021",
+      "sanskrit_name": "Mandukaparni",
+      "english_name": "Brahmi / Centella",
+      "latin_name": "Centella asiatica",
+      "family": "Apiaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "vegetable_drug",
+      "group": "28 Tikta Vegetables / Saka Varga",
+      "rasa": [
+        "Tikta"
+      ],
+      "virya": "Sita",
+      "vipaka": "Katu",
+      "dosha_effect": {
+        "vata": "increases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      }
+    },
+    {
+      "id": "H022",
+      "sanskrit_name": "Brhati",
+      "english_name": "Indian Nightshade",
+      "latin_name": "Solanum indicum",
+      "family": "Solanaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "vegetable_drug",
+      "group": "Laghu Pancamula",
+      "rasa": [
+        "Madhura"
+      ],
+      "vipaka": "Madhura",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "increases slightly"
+      },
+      "therapeutic_uses": [
+        "Increases digestive power",
+        "Breaks hard stools"
+      ]
+    },
+    {
+      "id": "H023",
+      "sanskrit_name": "Twak",
+      "english_name": "Cinnamon",
+      "latin_name": "Cinnamomum zeylanicum",
+      "family": "Lauraceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "spice_drug",
+      "group": "Trijataka / Caturjataka",
+      "guna": [
+        "Tiksna",
+        "Ruksa"
+      ],
+      "virya": "Usna",
+      "dosha_effect": {
+        "pitta": "increases",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Increases taste perception",
+        "Increases digestive power"
+      ],
+      "notes": "Part of Trijataka (Twak+Patra+Ela) and Caturjataka."
+    },
+    {
+      "id": "H024",
+      "sanskrit_name": "Ela",
+      "english_name": "Cardamom",
+      "latin_name": "Elettaria cardamomum",
+      "family": "Zingiberaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "spice_drug",
+      "group": "Trijataka / Caturjataka",
+      "guna": [
+        "Tiksna",
+        "Ruksa"
+      ],
+      "virya": "Usna",
+      "dosha_effect": {
+        "pitta": "increases",
+        "kapha": "decreases"
+      },
+      "notes": "Part of Trijataka."
+    },
+    {
+      "id": "H025",
+      "sanskrit_name": "Nagakesara",
+      "english_name": "Ceylon Ironwood",
+      "latin_name": "Mesua ferrea",
+      "family": "Calophyllaceae",
+      "source": "Ashtanga Hrdayam Sutrasthana Ch.6",
+      "category": "drug",
+      "group": "Caturjataka",
+      "notes": "Added to Trijataka to make Caturjataka."
+    }
+  ],
+  "food_database": [
+    {
+      "id": "F001",
+      "sanskrit_name": "Rakta Sali",
+      "english_name": "Red Rice",
+      "latin_name": "Oryza sativa (red variety)",
+      "category": "grain",
+      "group": "Sukadhanya Varga",
+      "rasa": [
+        "Madhura",
+        "Kasaya"
+      ],
+      "guna": [
+        "Snigdha",
+        "Laghu"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Relieves thirst",
+        "Tridoshahara"
+      ],
+      "notes": "BEST among all cereals. Best variety of Sali rice."
+    },
+    {
+      "id": "F002",
+      "sanskrit_name": "Sastika Dhanya",
+      "english_name": "60-day Crop Rice",
+      "latin_name": "Oryza sativa (60-day)",
+      "category": "grain",
+      "group": "Sukadhanya Varga",
+      "rasa": [
+        "Madhura"
+      ],
+      "guna": [
+        "Snigdha",
+        "Grahi",
+        "Laghu",
+        "Sthira"
+      ],
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "notes": "Best among all Vrihi (paddy) varieties. Two types: Gaura (superior) and Asitagaura (inferior)."
+    },
+    {
+      "id": "F003",
+      "sanskrit_name": "Yava",
+      "english_name": "Barley",
+      "latin_name": "Hordeum vulgare",
+      "category": "grain",
+      "group": "Sukadhanya Varga",
+      "rasa": [
+        "Madhura"
+      ],
+      "guna": [
+        "Ruksa",
+        "Guru",
+        "Sara"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "dosha_effect": {
+        "pitta": "decreases",
+        "kapha": "decreases",
+        "vata": "increases slightly"
+      },
+      "therapeutic_uses": [
+        "Aphrodisiac",
+        "Increases strength",
+        "Anti-diuretic",
+        "Decreases fat"
+      ],
+      "indications": [
+        "Pinasa",
+        "Swasa",
+        "Kasa",
+        "Urusthambha",
+        "Kantharoga",
+        "Skin diseases (Twakroga)"
+      ],
+      "notes": "Increases faeces and flatus."
+    },
+    {
+      "id": "F004",
+      "sanskrit_name": "Godhuma",
+      "english_name": "Wheat",
+      "latin_name": "Triticum aestivum",
+      "category": "grain",
+      "group": "Sukadhanya Varga",
+      "rasa": [
+        "Madhura"
+      ],
+      "guna": [
+        "Guru",
+        "Snigdha",
+        "Sara"
+      ],
+      "virya": "Sita",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases"
+      },
+      "therapeutic_uses": [
+        "Aphrodisiac",
+        "Nourishes body",
+        "Increases strength",
+        "Fracture healing"
+      ]
+    },
+    {
+      "id": "F005",
+      "sanskrit_name": "Trna Dhanya",
+      "english_name": "Millets (Kahgu/Kodrava/Nivara/Syamaka)",
+      "latin_name": "Various",
+      "category": "grain",
+      "group": "Sukadhanya Varga",
+      "guna": [
+        "Laghu",
+        "Lekhana"
+      ],
+      "virya": "Sita",
+      "dosha_effect": {
+        "vata": "increases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      }
+    },
+    {
+      "id": "F006",
+      "sanskrit_name": "Mudga",
+      "english_name": "Green Gram / Mung Bean",
+      "latin_name": "Vigna radiata",
+      "category": "pulse",
+      "group": "Simbidhanya Varga",
+      "rasa": [
+        "Kasaya",
+        "Madhura"
+      ],
+      "guna": [
+        "Laghu",
+        "Grahi"
+      ],
+      "virya": "Sita",
+      "vipaka": "Katu",
+      "dosha_effect": {
+        "vata": "increases slightly",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Best post-shodhana diet",
+        "Good for ulcers, throat, eye disorders"
+      ],
+      "notes": "BEST among all pulses."
+    },
+    {
+      "id": "F007",
+      "sanskrit_name": "Kulattha",
+      "english_name": "Horse Gram",
+      "latin_name": "Macrotyloma uniflorum",
+      "category": "pulse",
+      "group": "Simbidhanya Varga",
+      "rasa": [
+        "Kasaya",
+        "Madhura"
+      ],
+      "virya": "Usna",
+      "vipaka": "Amla",
+      "dosha_effect": {
+        "vata": "decreases",
+        "kapha": "decreases"
+      },
+      "indications": [
+        "Urinary calculi (Asmarl)",
+        "Swasa",
+        "Pinasa",
+        "Kasa",
+        "Hemorrhoids (Arsas)",
+        "Kapha and Vata roga"
+      ],
+      "contraindications": [
+        "Excessive use causes Raktapitta"
+      ]
+    },
+    {
+      "id": "F008",
+      "sanskrit_name": "Masa",
+      "english_name": "Black Gram / Urad",
+      "latin_name": "Vigna mungo",
+      "category": "pulse",
+      "group": "Simbidhanya Varga",
+      "rasa": [
+        "Madhura"
+      ],
+      "guna": [
+        "Snigdha",
+        "Guru"
+      ],
+      "virya": "Usna",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "increases",
+        "kapha": "increases"
+      },
+      "therapeutic_uses": [
+        "Gives strength",
+        "Produces large quantity of semen"
+      ],
+      "notes": "Inferior among pulses. Worst in quality."
+    },
+    {
+      "id": "F009",
+      "sanskrit_name": "Nispava",
+      "english_name": "Hyacinth Bean / Field Bean",
+      "latin_name": "Dolichos lablab",
+      "category": "pulse",
+      "group": "Simbidhanya Varga",
+      "guna": [
+        "Guru",
+        "Sara",
+        "Vidahi"
+      ],
+      "dosha_effect": {
+        "vata": "increases",
+        "pitta": "increases",
+        "rakta": "increases"
+      },
+      "indications": [
+        "Eye diseases",
+        "Kapha roga",
+        "Oedema (Sopha)"
+      ]
+    },
+    {
+      "id": "F010",
+      "sanskrit_name": "Tila",
+      "english_name": "Sesame",
+      "latin_name": "Sesamum indicum",
+      "category": "pulse_oil",
+      "group": "Simbidhanya Varga",
+      "guna": [
+        "Guru"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "dosha_effect": {
+        "pitta": "increases",
+        "kapha": "increases"
+      },
+      "therapeutic_uses": [
+        "Good for skin and hair",
+        "Promotes strength",
+        "Increases intelligence"
+      ],
+      "notes": "Cold in touch despite Usna virya."
+    },
+    {
+      "id": "F011",
+      "sanskrit_name": "Manda",
+      "english_name": "Rice Gruel Water (thin)",
+      "latin_name": null,
+      "category": "food_preparation",
+      "group": "Krtanna Varga",
+      "guna": [
+        "Laghu"
+      ],
+      "dosha_effect": {
+        "vata": "decreases"
+      },
+      "therapeutic_uses": [
+        "Relieves thirst and exhaustion",
+        "Eliminates residual dosas post-shodhana",
+        "Digests Ama",
+        "Maintains dosa-dhatu equilibrium",
+        "Softens srotas",
+        "Induces sweating",
+        "Increases Agni"
+      ],
+      "notes": "MOST easily digestible food. Best among four gruels."
+    },
+    {
+      "id": "F012",
+      "sanskrit_name": "Peya",
+      "english_name": "Thin Rice Gruel",
+      "latin_name": null,
+      "category": "food_preparation",
+      "group": "Krtanna Varga",
+      "guna": [
+        "Laghu"
+      ],
+      "dosha_effect": {
+        "vata": "decreases"
+      },
+      "therapeutic_uses": [
+        "Relieves hunger/thirst/exhaustion/weakness",
+        "Good for abdominal disorders and fever",
+        "Increases Agni"
+      ],
+      "notes": "Wholesome for all. Second most digestible."
+    },
+    {
+      "id": "F013",
+      "sanskrit_name": "Vilepi",
+      "english_name": "Thick Rice Gruel / Porridge",
+      "latin_name": null,
+      "category": "food_preparation",
+      "group": "Krtanna Varga",
+      "therapeutic_uses": [
+        "Solidifies faeces",
+        "Good for heart",
+        "Relieves thirst",
+        "Increases appetite"
+      ],
+      "indications": [
+        "Ulcers",
+        "Eye disorders",
+        "Post-shodhana",
+        "Post-oleation therapy"
+      ]
+    },
+    {
+      "id": "F014",
+      "sanskrit_name": "Laja",
+      "english_name": "Puffed/Fried Paddy",
+      "latin_name": "Oryza sativa (puffed)",
+      "category": "food_preparation",
+      "group": "Krtanna Varga",
+      "guna": [
+        "Laghu"
+      ],
+      "virya": "Sita",
+      "dosha_effect": {
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "indications": [
+        "Thirst",
+        "Vomiting",
+        "Diarrhoea",
+        "Polyuria",
+        "Obesity",
+        "Kasa",
+        "Kapha and Pitta disorders"
+      ]
+    },
+    {
+      "id": "F015",
+      "sanskrit_name": "Saktu",
+      "english_name": "Roasted Barley Flour",
+      "latin_name": "Hordeum vulgare (roasted flour)",
+      "category": "food_preparation",
+      "group": "Krtanna Varga",
+      "guna": [
+        "Laghu"
+      ],
+      "therapeutic_uses": [
+        "Relieves appetite/thirst/fatigue",
+        "Good for eye disorders and wounds",
+        "Gives strength"
+      ],
+      "contraindications": [
+        "Do not drink water while eating",
+        "Do not take twice daily",
+        "Do not take at night or after food",
+        "Do not take without salt or jaggery",
+        "Do not take in excess"
+      ]
+    },
+    {
+      "id": "F016",
+      "sanskrit_name": "Patola",
+      "english_name": "Pointed Gourd",
+      "latin_name": "Trichosanthes diocia",
+      "category": "vegetable",
+      "group": "Saka Varga",
+      "rasa": [
+        "Tikta"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "dosha_effect": {
+        "vata": "increases slightly",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Cures worm infestations",
+        "Increases taste perception",
+        "Delightful"
+      ]
+    },
+    {
+      "id": "F017",
+      "sanskrit_name": "Karavellaka",
+      "english_name": "Bitter Melon",
+      "latin_name": "Momordica charantia",
+      "category": "vegetable",
+      "group": "Saka Varga",
+      "rasa": [
+        "Tikta"
+      ],
+      "vipaka": "Katu",
+      "dosha_effect": {
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Increases digestive power"
+      ],
+      "notes": "Best drug for mitigating Kapha."
+    },
+    {
+      "id": "F018",
+      "sanskrit_name": "Surana",
+      "english_name": "Elephant Foot Yam",
+      "latin_name": "Amorphophallus campanulatus",
+      "category": "vegetable",
+      "group": "Saka Varga",
+      "guna": [
+        "Visada",
+        "Laghu"
+      ],
+      "dosha_effect": {
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Increases digestive power",
+        "Increases taste perception"
+      ],
+      "indications": [
+        "Hemorrhoids (Arsas) — best specific drug"
+      ]
+    },
+    {
+      "id": "F019",
+      "sanskrit_name": "Mulaka (tender)",
+      "english_name": "Young Radish",
+      "latin_name": "Raphanus sativus (tender)",
+      "category": "vegetable",
+      "group": "Saka Varga",
+      "rasa": [
+        "Ksara slightly",
+        "Tikta slightly"
+      ],
+      "guna": [
+        "Laghu"
+      ],
+      "virya": "Usna",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "indications": [
+        "Gulma",
+        "Kasa",
+        "Ksaya",
+        "Swasa",
+        "Vrana",
+        "Slesma",
+        "Gala roga",
+        "Udavarta",
+        "Pinasa"
+      ],
+      "notes": "Tender root is tridosahara. Mature root increases all dosas."
+    },
+    {
+      "id": "F020",
+      "sanskrit_name": "Kusmanda",
+      "english_name": "Ash Gourd / Pumpkin",
+      "latin_name": "Cucurbita pepo",
+      "category": "vegetable",
+      "group": "Saka Varga",
+      "rasa": [
+        "Madhura"
+      ],
+      "guna": [
+        "Guru"
+      ],
+      "vipaka": "Madhura",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "increases"
+      },
+      "therapeutic_uses": [
+        "Cleanses urinary bladder",
+        "Aphrodisiac"
+      ],
+      "notes": "Best among creepers."
+    },
+    {
+      "id": "F021",
+      "sanskrit_name": "Draksa",
+      "english_name": "Grapes",
+      "latin_name": "Vitis vinifera",
+      "category": "fruit",
+      "group": "Phala Varga",
+      "rasa": [
+        "Madhura",
+        "Kasaya"
+      ],
+      "guna": [
+        "Snigdha",
+        "Guru"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases"
+      },
+      "therapeutic_uses": [
+        "Increases semen",
+        "Good for eyes",
+        "Diuretic/laxative",
+        "Relieves bitter taste"
+      ],
+      "indications": [
+        "Alcoholic toxicity",
+        "Thirst",
+        "Kasa",
+        "Swasa",
+        "Hoarseness",
+        "Chest injury"
+      ],
+      "notes": "BEST among all fruits."
+    },
+    {
+      "id": "F022",
+      "sanskrit_name": "Dadima (sweet)",
+      "english_name": "Sweet Pomegranate",
+      "latin_name": "Punica granatum",
+      "category": "fruit",
+      "group": "Phala Varga",
+      "rasa": [
+        "Madhura"
+      ],
+      "guna": [
+        "Laghu",
+        "Snigdha"
+      ],
+      "virya": "Sita",
+      "dosha_effect": {
+        "pitta": "decreases"
+      },
+      "indications": [
+        "Pitta-dominant Sannipata"
+      ],
+      "notes": "Sweet variety especially indicated in pitta conditions."
+    },
+    {
+      "id": "F023",
+      "sanskrit_name": "Amalika",
+      "english_name": "Tamarind (dried)",
+      "latin_name": "Tamarindus indica",
+      "category": "fruit",
+      "group": "Phala Varga",
+      "rasa": [
+        "Amla"
+      ],
+      "guna": [
+        "Laghu"
+      ],
+      "dosha_effect": {
+        "vata": "decreases",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Increases digestive power",
+        "Purgative"
+      ],
+      "indications": [
+        "Thirst (Trsna)",
+        "Fatigue (Srama)",
+        "Exhaustion (Klama)"
+      ]
+    },
+    {
+      "id": "F024",
+      "sanskrit_name": "Bilwa",
+      "english_name": "Bael Fruit",
+      "latin_name": "Aegle marmelos",
+      "category": "fruit",
+      "group": "Phala Varga / Brhat Pancamula",
+      "forms": {
+        "tender": {
+          "dosha_effect": {
+            "vata": "decreases",
+            "kapha": "decreases"
+          },
+          "actions": [
+            "Increases digestive power",
+            "Grahi"
+          ]
+        },
+        "ripe": {
+          "dosha_effect": {
+            "all": "increases"
+          },
+          "notes": "Not easily digestible; causes putrid flatus"
+        }
+      }
+    },
+    {
+      "id": "F025",
+      "sanskrit_name": "Haritaki (as fruit)",
+      "english_name": "Chebulic Myrobalan",
+      "latin_name": "Terminalia chebula",
+      "category": "fruit",
+      "group": "Phala Varga / Ousadha Varga",
+      "notes": "See herb entry H001 for full profile."
+    },
+    {
+      "id": "F026",
+      "sanskrit_name": "Narikela",
+      "english_name": "Coconut",
+      "latin_name": "Cocos nucifera",
+      "category": "fruit",
+      "group": "Phala Varga",
+      "rasa": [
+        "Madhura"
+      ],
+      "guna": [
+        "Guru"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "dosha_effect": {
+        "vata": "decreases",
+        "kapha": "increases"
+      },
+      "therapeutic_uses": [
+        "Gives strength",
+        "Relieves burning sensation",
+        "Increases semen"
+      ]
+    },
+    {
+      "id": "F027",
+      "sanskrit_name": "Amra (ripe)",
+      "english_name": "Ripe Mango",
+      "latin_name": "Mangifera indica",
+      "category": "fruit",
+      "group": "Phala Varga",
+      "guna": [
+        "Guru"
+      ],
+      "dosha_effect": {
+        "vata": "decreases"
+      },
+      "notes": "Tender fruit increases Vata/Pitta/Rakta. Ripe with Madhura+Amla rasa increases Kapha and Sukra."
+    },
+    {
+      "id": "F028",
+      "sanskrit_name": "Saindhava Lavana",
+      "english_name": "Rock Salt / Pink Salt",
+      "latin_name": "Halite / NaCl",
+      "category": "salt",
+      "group": "Ousadha Varga",
+      "rasa": [
+        "Lavana",
+        "Madhura slightly"
+      ],
+      "guna": [
+        "Laghu"
+      ],
+      "virya": "Usna slightly",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Aphrodisiac",
+        "Increases digestive power",
+        "No burning sensation"
+      ],
+      "notes": "BEST of all salts. Always preferred in Ayurvedic formulations."
+    },
+    {
+      "id": "F029",
+      "sanskrit_name": "Sauvarcala Lavana",
+      "english_name": "Black Salt",
+      "latin_name": "Kala Namak",
+      "category": "salt",
+      "group": "Ousadha Varga",
+      "guna": [
+        "Laghu"
+      ],
+      "vipaka": "Katu",
+      "therapeutic_uses": [
+        "Purifies belching",
+        "Relieves constipation",
+        "Increases digestive power"
+      ]
+    },
+    {
+      "id": "F030",
+      "sanskrit_name": "Vida Lavana",
+      "english_name": "Vida Salt",
+      "latin_name": "Vida Salt",
+      "category": "salt",
+      "group": "Ousadha Varga",
+      "therapeutic_uses": [
+        "Upward and downward movement of Kapha/Vata",
+        "Relieves constipation"
+      ],
+      "indications": [
+        "Anaha",
+        "Vistambha",
+        "Sula",
+        "Gaurava"
+      ]
+    }
+  ],
+  "symptom_mapper": [
+    {
+      "symptom_id": "S001",
+      "symptom_sanskrit": "Anaha",
+      "symptom_english": "Flatulence / Abdominal Distension",
+      "dosha_involved": [
+        "Vata",
+        "Kapha"
+      ],
+      "root_cause": "Obstruction of Apana Vata; weak Agni",
+      "foods_recommended": [
+        "Saindhava Lavana",
+        "Sunthi",
+        "Hingu",
+        "Trikatu"
+      ],
+      "foods_to_avoid": [
+        "Nispava",
+        "Kalaya",
+        "Rajamasa",
+        "Heavy legumes"
+      ],
+      "herbs": [
+        "Hingu",
+        "Citraka",
+        "Pancakola"
+      ],
+      "formulations": [
+        "Pancakola",
+        "Hingvastak churna",
+        "Vida Lavana preparation"
+      ],
+      "dietary_guideline": "Light, warm, easily digestible food. Avoid gas-forming pulses.",
+      "source": "AH Sutrasthana Ch.6-7"
+    },
+    {
+      "symptom_id": "S002",
+      "symptom_sanskrit": "Kasa",
+      "symptom_english": "Cough",
+      "dosha_involved": [
+        "Kapha",
+        "Vata"
+      ],
+      "root_cause": "Kapha accumulation in lungs; Vata derangement in Pranavaha Srotas",
+      "foods_recommended": [
+        "Yava",
+        "Kulattha",
+        "Laja",
+        "Pippali (dried)",
+        "Sunthi",
+        "Marica"
+      ],
+      "foods_to_avoid": [
+        "Heavy dairy",
+        "Fried foods",
+        "Cold foods",
+        "Fish"
+      ],
+      "herbs": [
+        "Pippali",
+        "Sunthi",
+        "Marica",
+        "Vasa",
+        "Surasa",
+        "Haritaki",
+        "Vibhitaki"
+      ],
+      "formulations": [
+        "Trikatu",
+        "Triphala",
+        "Matulunga stamens preparation"
+      ],
+      "dietary_guideline": "Warm, light, pungent foods. Avoid cold and heavy foods.",
+      "source": "AH Sutrasthana Ch.6"
+    },
+    {
+      "symptom_id": "S003",
+      "symptom_sanskrit": "Swasa",
+      "symptom_english": "Dyspnoea / Breathlessness",
+      "dosha_involved": [
+        "Kapha",
+        "Vata"
+      ],
+      "root_cause": "Obstruction of Pranavaha Srotas by Kapha; Vata derangement",
+      "foods_recommended": [
+        "Yava",
+        "Kulattha",
+        "Pippali",
+        "Sunthi",
+        "Marica"
+      ],
+      "foods_to_avoid": [
+        "Masa (black gram)",
+        "Nispava",
+        "Cold foods",
+        "Heavy foods"
+      ],
+      "herbs": [
+        "Pippali",
+        "Sunthi",
+        "Vasa",
+        "Surasa",
+        "Haritaki"
+      ],
+      "formulations": [
+        "Trikatu",
+        "Pancakola"
+      ],
+      "source": "AH Sutrasthana Ch.6"
+    },
+    {
+      "symptom_id": "S004",
+      "symptom_sanskrit": "Arsas",
+      "symptom_english": "Hemorrhoids / Piles",
+      "dosha_involved": [
+        "Vata",
+        "Pitta",
+        "Kapha (based on type)"
+      ],
+      "root_cause": "Weak Agni; irregular diet; constipation; Vata-Kapha in Apana region",
+      "foods_recommended": [
+        "Surana (best specific)",
+        "Mudga",
+        "Manda",
+        "Peya",
+        "Karavellaka"
+      ],
+      "foods_to_avoid": [
+        "Spicy foods",
+        "Excessive Yava",
+        "Masa (black gram)",
+        "Incompatible foods"
+      ],
+      "herbs": [
+        "Surana",
+        "Citraka",
+        "Haritaki",
+        "Lasuna (Kaphaja-Vataja type)"
+      ],
+      "formulations": [
+        "Pancakola",
+        "Yavaksara"
+      ],
+      "dietary_guideline": "Light, easily digestible. Surana is the best specific food-herb.",
+      "source": "AH Sutrasthana Ch.6"
+    },
+    {
+      "symptom_id": "S005",
+      "symptom_sanskrit": "Prameha",
+      "symptom_english": "Diabetes / Urinary Disorders",
+      "dosha_involved": [
+        "Kapha",
+        "Pitta"
+      ],
+      "root_cause": "Excess Kapha obstructing Medovaha Srotas; sweet/heavy diet",
+      "foods_recommended": [
+        "Yava",
+        "Trna Dhanya (millets)",
+        "Mudga",
+        "Kulattha",
+        "Old grains"
+      ],
+      "foods_to_avoid": [
+        "Masa (black gram)",
+        "Nispava",
+        "Sweet fruits",
+        "New grains",
+        "Dairy excess"
+      ],
+      "herbs": [
+        "Haritaki",
+        "Lasuna",
+        "Triphala"
+      ],
+      "dietary_guideline": "Light, dry, bitter foods. Avoid sweet and heavy foods.",
+      "source": "AH Sutrasthana Ch.6-7"
+    },
+    {
+      "symptom_id": "S006",
+      "symptom_sanskrit": "Raktapitta",
+      "symptom_english": "Bleeding Disorders",
+      "dosha_involved": [
+        "Pitta",
+        "Rakta"
+      ],
+      "root_cause": "Excess Pitta vitiating Rakta; pungent/sour/hot foods",
+      "foods_recommended": [
+        "Draksa (grapes)",
+        "Dadima (sweet pomegranate)",
+        "Rakta Sali",
+        "Mudga",
+        "Sita virya foods"
+      ],
+      "foods_to_avoid": [
+        "Kulattha (excessive)",
+        "Pungent spices",
+        "Sour foods",
+        "Fish",
+        "Garlic"
+      ],
+      "herbs": [
+        "Amalaki",
+        "Vasa",
+        "Triphala"
+      ],
+      "dietary_guideline": "Sweet, cold, light foods. Avoid all pungent, sour and hot substances.",
+      "source": "AH Sutrasthana Ch.6"
+    },
+    {
+      "symptom_id": "S007",
+      "symptom_sanskrit": "Agnimandya",
+      "symptom_english": "Low Digestive Fire / Indigestion",
+      "dosha_involved": [
+        "Kapha",
+        "Vata"
+      ],
+      "root_cause": "Weak Jatharagni; excess Kapha suppressing digestive fire",
+      "foods_recommended": [
+        "Sunthi",
+        "Hingu",
+        "Trikatu",
+        "Manda",
+        "Peya",
+        "Laja",
+        "Saktu"
+      ],
+      "foods_to_avoid": [
+        "Heavy foods",
+        "New grains",
+        "Excessive dairy",
+        "Cold foods"
+      ],
+      "herbs": [
+        "Hingu",
+        "Citraka",
+        "Sunthi",
+        "Pippali",
+        "Haritaki"
+      ],
+      "formulations": [
+        "Trikatu",
+        "Pancakola",
+        "Hingvastak"
+      ],
+      "dietary_guideline": "Light, warm, spiced foods. Ginger water as anupana.",
+      "source": "AH Sutrasthana Ch.6-7"
+    },
+    {
+      "symptom_id": "S008",
+      "symptom_sanskrit": "Gulma",
+      "symptom_english": "Abdominal Tumors / Masses",
+      "dosha_involved": [
+        "Vata",
+        "Pitta",
+        "Kapha"
+      ],
+      "root_cause": "Vitiated Apana Vata; obstruction of channels",
+      "foods_recommended": [
+        "Kulattha yusa",
+        "Mulaka (tender)",
+        "Pancakola preparations"
+      ],
+      "foods_to_avoid": [
+        "Gas-forming foods",
+        "Heavy legumes",
+        "Incompatible foods"
+      ],
+      "herbs": [
+        "Lasuna",
+        "Citraka",
+        "Pancakola",
+        "Haritaki",
+        "Pilu"
+      ],
+      "formulations": [
+        "Pancakola",
+        "Yavaksara",
+        "Lasuna preparations"
+      ],
+      "source": "AH Sutrasthana Ch.6"
+    },
+    {
+      "symptom_id": "S009",
+      "symptom_sanskrit": "Kustha",
+      "symptom_english": "Skin Diseases",
+      "dosha_involved": [
+        "Pitta",
+        "Kapha",
+        "Vata"
+      ],
+      "root_cause": "Vitiation of Rakta and Pitta; accumulation of Ama",
+      "foods_recommended": [
+        "Yava",
+        "Mudga",
+        "Bitter vegetables (Tikta saka)",
+        "Kakamaci"
+      ],
+      "foods_to_avoid": [
+        "Incompatible foods",
+        "Viruddha Ahara",
+        "Milk+fish combinations",
+        "Heavy oily foods"
+      ],
+      "herbs": [
+        "Haritaki",
+        "Triphala",
+        "Lasuna",
+        "Kakamaci",
+        "Citraka"
+      ],
+      "source": "AH Sutrasthana Ch.6"
+    },
+    {
+      "symptom_id": "S010",
+      "symptom_sanskrit": "Pinasa",
+      "symptom_english": "Chronic Nasal Catarrh / Rhinitis",
+      "dosha_involved": [
+        "Kapha",
+        "Vata"
+      ],
+      "root_cause": "Kapha accumulation in Nasavaha Srotas",
+      "foods_recommended": [
+        "Yava",
+        "Kulattha",
+        "Mulaka (tender)",
+        "Trikatu",
+        "Sunthi"
+      ],
+      "foods_to_avoid": [
+        "Cold foods",
+        "Dairy",
+        "Sweet foods",
+        "New grains"
+      ],
+      "herbs": [
+        "Lasuna",
+        "Surasa (Tulsi)",
+        "Sunthi",
+        "Haritaki"
+      ],
+      "source": "AH Sutrasthana Ch.6"
+    }
+  ],
+  "formulations_database": [
+    {
+      "id": "FM001",
+      "name": "Trikatu",
+      "type": "Churna (powder combination)",
+      "classical_reference": "AH Sutrasthana Ch.6",
+      "ingredients": [
+        {
+          "herb": "Sunthi (Dry Ginger)",
+          "latin": "Zingiber officinale",
+          "ratio": "1 part"
+        },
+        {
+          "herb": "Marica (Black Pepper)",
+          "latin": "Piper nigrum",
+          "ratio": "1 part"
+        },
+        {
+          "herb": "Pippali (Long Pepper)",
+          "latin": "Piper longum",
+          "ratio": "1 part"
+        }
+      ],
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "increases",
+        "kapha": "decreases"
+      },
+      "indications": [
+        "Obesity (Medoroga)",
+        "Indigestion (Agnimandya)",
+        "Cough (Kasa)",
+        "Dyspnoea (Swasa)",
+        "Filariasis",
+        "Coryza (Pinasa)"
+      ],
+      "contraindications": [
+        "Pitta disorders",
+        "Hyperacidity",
+        "Ulcers"
+      ]
+    },
+    {
+      "id": "FM002",
+      "name": "Triphala",
+      "type": "Churna (powder combination)",
+      "classical_reference": "AH Sutrasthana Ch.6",
+      "ingredients": [
+        {
+          "herb": "Haritaki",
+          "latin": "Terminalia chebula",
+          "ratio": "1 part"
+        },
+        {
+          "herb": "Amalaki",
+          "latin": "Emblica officinalis",
+          "ratio": "1 part"
+        },
+        {
+          "herb": "Vibhitaki",
+          "latin": "Terminalia bellerica",
+          "ratio": "1 part"
+        }
+      ],
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "indications": [
+        "Eye disorders",
+        "Skin diseases",
+        "Ulcer healing",
+        "Obesity",
+        "Diabetes (Prameha)",
+        "Kapha disorders",
+        "Rakta disorders"
+      ],
+      "rasayana": true,
+      "notes": "Excellent tridoshic rejuvenator."
+    },
+    {
+      "id": "FM003",
+      "name": "Trijataka",
+      "type": "Churna (aromatic combination)",
+      "classical_reference": "AH Sutrasthana Ch.6",
+      "ingredients": [
+        {
+          "herb": "Twak (Cinnamon)",
+          "latin": "Cinnamomum zeylanicum",
+          "ratio": "equal parts"
+        },
+        {
+          "herb": "Patra (Bay Leaf)",
+          "latin": "Cinnamomum tamala",
+          "ratio": "equal parts"
+        },
+        {
+          "herb": "Ela (Cardamom)",
+          "latin": "Elettaria cardamomum",
+          "ratio": "equal parts"
+        }
+      ],
+      "dosha_effect": {
+        "pitta": "increases slightly",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Increases taste perception",
+        "Increases digestive power"
+      ],
+      "notes": "Added to Nagakesara (Mesua ferrea) it becomes Caturjataka."
+    },
+    {
+      "id": "FM004",
+      "name": "Caturjataka",
+      "type": "Churna (aromatic combination)",
+      "classical_reference": "AH Sutrasthana Ch.6",
+      "ingredients": [
+        {
+          "herb": "Twak",
+          "latin": "Cinnamomum zeylanicum",
+          "ratio": "equal parts"
+        },
+        {
+          "herb": "Patra",
+          "latin": "Cinnamomum tamala",
+          "ratio": "equal parts"
+        },
+        {
+          "herb": "Ela",
+          "latin": "Elettaria cardamomum",
+          "ratio": "equal parts"
+        },
+        {
+          "herb": "Nagakesara",
+          "latin": "Mesua ferrea",
+          "ratio": "equal parts"
+        }
+      ],
+      "dosha_effect": {
+        "pitta": "increases slightly",
+        "kapha": "decreases"
+      },
+      "therapeutic_uses": [
+        "Digestive stimulant",
+        "Flavor enhancer"
+      ]
+    },
+    {
+      "id": "FM005",
+      "name": "Pancakola",
+      "type": "Herb group / Combination",
+      "classical_reference": "AH Sutrasthana Ch.6",
+      "ingredients": [
+        {
+          "herb": "Pippali (Long Pepper)",
+          "latin": "Piper longum",
+          "ratio": "equal parts"
+        },
+        {
+          "herb": "Pippalimula (Long Pepper Root)",
+          "latin": "Piper longum root",
+          "ratio": "equal parts"
+        },
+        {
+          "herb": "Cavya / Cavika",
+          "latin": "Piper chaba",
+          "ratio": "equal parts"
+        },
+        {
+          "herb": "Citraka",
+          "latin": "Plumbago zeylanica",
+          "ratio": "equal parts"
+        },
+        {
+          "herb": "Nagara / Sunthi (Dry Ginger)",
+          "latin": "Zingiber officinale",
+          "ratio": "equal parts"
+        }
+      ],
+      "dosha_effect": {
+        "vata": "decreases",
+        "kapha": "decreases"
+      },
+      "indications": [
+        "Tumors (Gulma)",
+        "Spleen disorders (Pliha)",
+        "Udara roga",
+        "Abdominal distension",
+        "Colic (Sula)"
+      ],
+      "notes": "Best digestive stimulant group."
+    },
+    {
+      "id": "FM006",
+      "name": "Brhat Pancamula",
+      "type": "Root group combination",
+      "classical_reference": "AH Sutrasthana Ch.6",
+      "ingredients": [
+        {
+          "herb": "Bilwa (Sriphala)",
+          "latin": "Aegle marmelos"
+        },
+        {
+          "herb": "Kasmari (Gambhari)",
+          "latin": "Gmelina arborea"
+        },
+        {
+          "herb": "Tarkari (Agnimantha)",
+          "latin": "Clerodendron phlomidis"
+        },
+        {
+          "herb": "Patala (Amogha)",
+          "latin": "Stereospermum suaveolens"
+        },
+        {
+          "herb": "Tintuka (Syonaka)",
+          "latin": "Oroxylum indicum"
+        }
+      ],
+      "rasa": [
+        "Kasaya",
+        "Tikta"
+      ],
+      "virya": "Usna",
+      "dosha_effect": {
+        "vata": "decreases",
+        "kapha": "decreases"
+      },
+      "notes": "Part of Dashamula when combined with Laghu Pancamula."
+    },
+    {
+      "id": "FM007",
+      "name": "Laghu Pancamula",
+      "type": "Root group combination",
+      "classical_reference": "AH Sutrasthana Ch.6",
+      "ingredients": [
+        {
+          "herb": "Brhati",
+          "latin": "Solanum indicum"
+        },
+        {
+          "herb": "Kantakari",
+          "latin": "Solanum xanthocarpum"
+        },
+        {
+          "herb": "Salparni",
+          "latin": "Desmodium gangeticum"
+        },
+        {
+          "herb": "Prsniparni",
+          "latin": "Uraria picta"
+        },
+        {
+          "herb": "Goksura",
+          "latin": "Tribulus terrestris"
+        }
+      ],
+      "rasa": [
+        "Madhura"
+      ],
+      "vipaka": "Madhura",
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "notes": "Tridoshic. Part of Dashamula."
+    },
+    {
+      "id": "FM008",
+      "name": "Madhyama Pancamula",
+      "type": "Root group combination",
+      "classical_reference": "AH Sutrasthana Ch.6",
+      "ingredients": [
+        {
+          "herb": "Bala",
+          "latin": "Sida cordifolia"
+        },
+        {
+          "herb": "Punarnava",
+          "latin": "Boerhavia diffusa"
+        },
+        {
+          "herb": "Eranda",
+          "latin": "Ricinus communis"
+        },
+        {
+          "herb": "Mudgaparni",
+          "latin": "Phaseolus trilobus"
+        },
+        {
+          "herb": "Masaparni",
+          "latin": "Phaseolus labialis"
+        }
+      ],
+      "guna": [
+        "Sara"
+      ],
+      "dosha_effect": {
+        "vata": "decreases",
+        "kapha": "decreases",
+        "pitta": "increases slightly"
+      }
+    },
+    {
+      "id": "FM009",
+      "name": "Jivaniya Pancamula",
+      "type": "Root group combination",
+      "classical_reference": "AH Sutrasthana Ch.6",
+      "ingredients": [
+        {
+          "herb": "Abhiru (Satavari)",
+          "latin": "Asparagus racemosus"
+        },
+        {
+          "herb": "Vira",
+          "latin": "Vetiveria zizanioides"
+        },
+        {
+          "herb": "Jivanti",
+          "latin": "Leptadenia reticulata"
+        },
+        {
+          "herb": "Jivaka",
+          "latin": "Asta varga herb"
+        },
+        {
+          "herb": "Rsabhaka",
+          "latin": "Asta varga herb"
+        }
+      ],
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases"
+      },
+      "therapeutic_uses": [
+        "Good for eyes",
+        "Aphrodisiac"
+      ]
+    },
+    {
+      "id": "FM010",
+      "name": "Trna Pancamula",
+      "type": "Grass group combination",
+      "classical_reference": "AH Sutrasthana Ch.6",
+      "ingredients": [
+        {
+          "herb": "Darbha",
+          "latin": "Desmostachya bipinnata"
+        },
+        {
+          "herb": "Kasa",
+          "latin": "Saccharum spontaneum"
+        },
+        {
+          "herb": "Iksu",
+          "latin": "Saccharum officinarum"
+        },
+        {
+          "herb": "Sara",
+          "latin": "Desmostachya bipinnata var."
+        },
+        {
+          "herb": "Sali",
+          "latin": "Oryza sativa"
+        }
+      ],
+      "dosha_effect": {
+        "pitta": "decreases"
+      }
+    },
+    {
+      "id": "FM011",
+      "name": "Valli Pancamula",
+      "type": "Creeper group combination",
+      "classical_reference": "AH Sutrasthana Ch.6 (Astanga Sangraha note)",
+      "ingredients": [
+        {
+          "herb": "Ajasrngi",
+          "latin": "Gymnema sylvestre"
+        },
+        {
+          "herb": "Haridra",
+          "latin": "Curcuma longa"
+        },
+        {
+          "herb": "Vidari",
+          "latin": "Pueraria tuberosa"
+        },
+        {
+          "herb": "Sariva",
+          "latin": "Hemidesmus indicus"
+        },
+        {
+          "herb": "Amrta (Guduchi)",
+          "latin": "Tinospora cordifolia"
+        }
+      ],
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "notes": "Tridoshic creeper group."
+    },
+    {
+      "id": "FM012",
+      "name": "Kantaka Pancamula",
+      "type": "Thorny plant group",
+      "classical_reference": "AH Sutrasthana Ch.6 (Astanga Sangraha note)",
+      "ingredients": [
+        {
+          "herb": "Swadarhstra (Goksura)",
+          "latin": "Tribulus terrestris"
+        },
+        {
+          "herb": "Abhiru (Satavari)",
+          "latin": "Asparagus racemosus"
+        },
+        {
+          "herb": "Saireyaka",
+          "latin": "Barleria prionitis"
+        },
+        {
+          "herb": "Himsra",
+          "latin": "Capparis sepiaria"
+        },
+        {
+          "herb": "Karamardaka",
+          "latin": "Carissa carandas"
+        }
+      ],
+      "dosha_effect": {
+        "vata": "decreases",
+        "pitta": "decreases",
+        "kapha": "decreases"
+      },
+      "notes": "Tridoshic thorny group."
+    },
+    {
+      "id": "FM013",
+      "name": "Anti-Poison Pralepa (External)",
+      "type": "External application",
+      "classical_reference": "AH Sutrasthana Ch.7",
+      "ingredients": [
+        {
+          "herb": "Sevya / Usira",
+          "latin": "Vetiveria zizanioides"
+        },
+        {
+          "herb": "Candana",
+          "latin": "Santalum album"
+        },
+        {
+          "herb": "Padmaka",
+          "latin": "Prunus cerasoides"
+        },
+        {
+          "herb": "Soma-valkakhadira",
+          "latin": "Acacia catechu"
+        },
+        {
+          "herb": "Talispatra",
+          "latin": "Taxus baccata"
+        },
+        {
+          "herb": "Kusta",
+          "latin": "Saussurea lappa"
+        },
+        {
+          "herb": "Amrta",
+          "latin": "Tinospora cordifolia"
+        },
+        {
+          "herb": "Nata / Granthitagara",
+          "latin": "Valeriana wallichi"
+        }
+      ],
+      "indications": [
+        "External poisoning — skin contact with poisonous food"
+      ],
+      "application": "Pralepa (external paste application)"
+    },
+    {
+      "id": "FM014",
+      "name": "Anti-Poison Internal Decoction",
+      "type": "Internal decoction",
+      "classical_reference": "AH Sutrasthana Ch.7",
+      "ingredients": [
+        {
+          "herb": "Haridra",
+          "latin": "Curcuma longa"
+        },
+        {
+          "herb": "Daruharidra",
+          "latin": "Berberis arishtata"
+        },
+        {
+          "herb": "Katabhi / Sirisa",
+          "latin": "Albizzia procera"
+        },
+        {
+          "herb": "Guda",
+          "latin": "Jaggery"
+        },
+        {
+          "herb": "Sinduvarita",
+          "latin": "Vitex negundo"
+        },
+        {
+          "herb": "Nispava",
+          "latin": "Dolichos lablab"
+        },
+        {
+          "herb": "Baspika / Hinguparvika",
+          "latin": "Gardenia gummifera"
+        },
+        {
+          "herb": "Tanduliyaka mula",
+          "latin": "Amaranthus spinosus root"
+        },
+        {
+          "herb": "Avalguja",
+          "latin": "Psoralea corylifolia"
+        }
+      ],
+      "indications": [
+        "Internal poisoning — when poison reaches stomach/intestines"
+      ],
+      "sequence": [
+        "First: Vamana (emesis)",
+        "Second: Virecana (purgation)",
+        "Third: Nasya",
+        "Fourth: Anjana",
+        "Fifth: This internal decoction (Pana)"
+      ]
+    },
+    {
+      "id": "FM015",
+      "name": "Yavaksara",
+      "type": "Alkaline preparation",
+      "classical_reference": "AH Sutrasthana Ch.6",
+      "ingredients": [
+        {
+          "herb": "Yava (barley ash)",
+          "latin": "Hordeum vulgare"
+        }
+      ],
+      "indications": [
+        "Gulma",
+        "Hrdroga (heart disease)",
+        "Grahani",
+        "Pandu (anemia)",
+        "Pliha (spleen)",
+        "Anaha",
+        "Gala roga",
+        "Swasa",
+        "Arsas",
+        "Kaphaja kasa"
+      ]
+    }
+  ],
+  "viruddha_ahara": {
+    "definition": "Foods that dislodge vitiated dosas from their normal locations but cannot expel them from the body, acting antagonistically to tissues. Also includes foods with mutually contradictory qualities, incompatible combinations, or incompatible methods of preparation.",
+    "types_of_incompatibility": [
+      {
+        "type": "Virya Viruddha",
+        "meaning": "Opposite potency",
+        "example": "Milk (Sita) + Horse gram (Usna)"
+      },
+      {
+        "type": "Samyoga Viruddha",
+        "meaning": "Incompatible combination",
+        "example": "Water not to be taken before/after Saktu"
+      },
+      {
+        "type": "Samskara Viruddha",
+        "meaning": "Incompatible preparation method",
+        "example": "Heated curd"
+      },
+      {
+        "type": "Desha Viruddha",
+        "meaning": "Incompatible by place",
+        "example": "Water from saline soil"
+      },
+      {
+        "type": "Kala Viruddha",
+        "meaning": "Incompatible by time",
+        "example": "Saktu at night"
+      },
+      {
+        "type": "Matra Viruddha",
+        "meaning": "Incompatible by dose",
+        "example": "Honey + Ghee in equal quantities"
+      },
+      {
+        "type": "Svabhava Viruddha",
+        "meaning": "Incompatible by inherent nature",
+        "example": "Yavaka"
+      },
+      {
+        "type": "Guna Viruddha",
+        "meaning": "Incompatible similar/dissimilar qualities",
+        "example": "Milk + Jackfruit (both sweet but still incompatible)"
+      }
+    ],
+    "consequences": [
+      "Boils",
+      "Oedema (Sopha)",
+      "Toxicity",
+      "Abscess",
+      "Tumors",
+      "Tuberculosis",
+      "Loss of vigor, strength, memory, intelligence, sense perception",
+      "Jwara",
+      "Raktapitta",
+      "Vata-vyadhi",
+      "Kustha",
+      "Prameha",
+      "Udara",
+      "Bhagandara",
+      "Grahani"
+    ],
+    "combinations": [
+      {
+        "id": "V001",
+        "food_1": "Meat of marshy animals",
+        "food_2": "Masa + Honey + Milk + Germinated seeds + Lotus stalks + Radish + Jaggery",
+        "type": "Samyoga Viruddha",
+        "severity": "High",
+        "consequence": "Multi-dosa vitiation"
+      },
+      {
+        "id": "V002",
+        "food_1": "Fish",
+        "food_2": "Milk",
+        "type": "Virya Viruddha",
+        "severity": "Very High",
+        "consequence": "Channel obstruction (Srotorodha); opposite potency — fish is hot, milk is cold; both Madhura rasa + Madhura vipaka"
+      },
+      {
+        "id": "V003",
+        "food_1": "Cilicima fish",
+        "food_2": "Milk",
+        "type": "Virya Viruddha",
+        "severity": "Critical",
+        "consequence": "Most dangerous fish-milk combination"
+      },
+      {
+        "id": "V004",
+        "food_1": "Sour substances / sour fruits",
+        "food_2": "Milk",
+        "type": "Virya Viruddha",
+        "severity": "High",
+        "consequence": "Dosa vitiation"
+      },
+      {
+        "id": "V005",
+        "food_1": "Kulattha / Varaka / Kahgu / Nispava / Makustaka",
+        "food_2": "Milk",
+        "type": "Virya Viruddha",
+        "severity": "High",
+        "consequence": "Dosa vitiation"
+      },
+      {
+        "id": "V006",
+        "food_1": "Milk",
+        "food_2": "Green leafy vegetables (Haritaka) / Radish (Mulaka)",
+        "type": "Samyoga Viruddha",
+        "severity": "High",
+        "consequence": "Dosa vitiation"
+      },
+      {
+        "id": "V007",
+        "food_1": "Varaha (boar) meat",
+        "food_2": "Swavidha (porcupine) meat",
+        "type": "Samyoga Viruddha",
+        "severity": "High",
+        "consequence": "Toxicity"
+      },
+      {
+        "id": "V008",
+        "food_1": "Prsata (spotted deer) or Kukkuta (hen) meat",
+        "food_2": "Dadhi (curd)",
+        "type": "Samyoga Viruddha",
+        "severity": "High",
+        "consequence": "Dosa vitiation"
+      },
+      {
+        "id": "V009",
+        "food_1": "Raw meat",
+        "food_2": "Bile juice",
+        "type": "Samyoga Viruddha",
+        "severity": "High",
+        "consequence": "Toxic"
+      },
+      {
+        "id": "V010",
+        "food_1": "Masa (black gram) soup",
+        "food_2": "Mulaka (radish)",
+        "type": "Samyoga Viruddha",
+        "severity": "Medium",
+        "consequence": "Dosa vitiation"
+      },
+      {
+        "id": "V011",
+        "food_1": "Sheep meat",
+        "food_2": "Kusumbha (Safflower)",
+        "type": "Samyoga Viruddha",
+        "severity": "Medium",
+        "consequence": "Dosa vitiation"
+      },
+      {
+        "id": "V012",
+        "food_1": "Germinated seeds (Virudhaka)",
+        "food_2": "Lotus stalks (Bisa)",
+        "type": "Samyoga Viruddha",
+        "severity": "Medium",
+        "consequence": "Dosa vitiation"
+      },
+      {
+        "id": "V013",
+        "food_1": "Lakuca phala",
+        "food_2": "Masa soup / Jaggery / Milk / Curd / Ghee",
+        "type": "Samyoga Viruddha",
+        "severity": "High",
+        "consequence": "All tridosa vitiation"
+      },
+      {
+        "id": "V014",
+        "food_1": "Kadali (Banana)",
+        "food_2": "Buttermilk / Curd / Tala phala",
+        "type": "Samyoga Viruddha",
+        "severity": "Medium",
+        "consequence": "Dosa vitiation"
+      },
+      {
+        "id": "V015",
+        "food_1": "Kakamaci (Black nightshade)",
+        "food_2": "Pippali or Marica (any pepper)",
+        "type": "Samyoga Viruddha",
+        "severity": "High",
+        "consequence": "Toxic"
+      },
+      {
+        "id": "V016",
+        "food_1": "Kakamaci",
+        "food_2": "Honey or Jaggery",
+        "type": "Samyoga Viruddha",
+        "severity": "High",
+        "consequence": "Toxic"
+      },
+      {
+        "id": "V017",
+        "food_1": "Kakamaci",
+        "food_2": "Vessel previously used for fish or Sunthi",
+        "type": "Samskara Viruddha",
+        "severity": "High",
+        "consequence": "Toxic"
+      },
+      {
+        "id": "V018",
+        "food_1": "Kakamaci",
+        "food_2": "Prepared separately but kept overnight",
+        "type": "Kala Viruddha",
+        "severity": "High",
+        "consequence": "Toxic"
+      },
+      {
+        "id": "V019",
+        "food_1": "Pippali",
+        "food_2": "Oil used for frying fish",
+        "type": "Samskara Viruddha",
+        "severity": "High",
+        "consequence": "Toxic"
+      },
+      {
+        "id": "V020",
+        "food_1": "Ghee",
+        "food_2": "Stored >10 days in bronze vessel",
+        "type": "Samskara Viruddha",
+        "severity": "High",
+        "consequence": "Toxic — must be discarded"
+      },
+      {
+        "id": "V021",
+        "food_1": "Bhallataka (Semecarpus anacardium) internally",
+        "food_2": "Hot substances or hot comforts",
+        "type": "Virya Viruddha",
+        "severity": "High",
+        "consequence": "Dangerous reaction"
+      },
+      {
+        "id": "V022",
+        "food_1": "Honey + Ghee + Muscle fat + Oil + Water",
+        "food_2": "Equal quantities of any 2, 3, 4, or all 5",
+        "type": "Matra Viruddha",
+        "severity": "Critical",
+        "consequence": "Fatal — causes death"
+      },
+      {
+        "id": "V023",
+        "food_1": "Honey",
+        "food_2": "Kamala bija (Lotus seeds)",
+        "type": "Samyoga Viruddha",
+        "severity": "High",
+        "consequence": "Toxic"
+      },
+      {
+        "id": "V024",
+        "food_1": "Madhvasava + Maireyasava + Sarkarasava",
+        "food_2": "All three together",
+        "type": "Samyoga Viruddha",
+        "severity": "High",
+        "consequence": "Toxic — three types of alcohol together"
+      },
+      {
+        "id": "V025",
+        "food_1": "Milk products",
+        "food_2": "Mantha (Saktu drink)",
+        "type": "Samyoga Viruddha",
+        "severity": "Medium",
+        "consequence": "Dosa vitiation"
+      },
+      {
+        "id": "V026",
+        "food_1": "Haridraka (yellow mushroom)",
+        "food_2": "Sarsapa (mustard) oil",
+        "type": "Samskara Viruddha",
+        "severity": "High",
+        "consequence": "Toxic"
+      },
+      {
+        "id": "V027",
+        "food_1": "Upodaka leaves (Basella rubra)",
+        "food_2": "Tila kalka (sesame paste)",
+        "type": "Samyoga Viruddha",
+        "severity": "High",
+        "consequence": "Causes diarrhoea (Atisara)"
+      },
+      {
+        "id": "V028",
+        "food_1": "Balaka (crane) meat",
+        "food_2": "Varuni (alcohol) + Kulmasa (steamed legume)",
+        "type": "Samyoga Viruddha",
+        "severity": "Very High",
+        "consequence": "Severe reaction"
+      },
+      {
+        "id": "V029",
+        "food_1": "Balaka (crane) meat",
+        "food_2": "Fried in Varaha vasa (boar fat)",
+        "type": "Samskara Viruddha",
+        "severity": "Fatal",
+        "consequence": "CAUSES INSTANTANEOUS DEATH"
+      },
+      {
+        "id": "V030",
+        "food_1": "Meat of Tittiri/Peacock/Godha/Lava/Kapinjala",
+        "food_2": "Cooked with Eranda firewood or Eranda oil",
+        "type": "Samskara Viruddha",
+        "severity": "Fatal",
+        "consequence": "CAUSES INSTANTANEOUS DEATH"
+      },
+      {
+        "id": "V031",
+        "food_1": "Milk",
+        "food_2": "Jackfruit (Panasa)",
+        "type": "Guna Viruddha",
+        "consequence": "Both sweet, cold, and sweet vipaka — yet incompatible due to similar qualities"
+      },
+      {
+        "id": "V032",
+        "food_1": "Payasa (milk pudding)",
+        "food_2": "Sura (alcohol) + Krsara (khichdi) together",
+        "type": "Samyoga Viruddha",
+        "severity": "High",
+        "consequence": "Dosa vitiation"
+      }
+    ],
+    "exceptions": [
+      "Persons doing regular vigorous exercise",
+      "Those regularly consuming unctuous (Snigdha) substances",
+      "Persons with strong digestive fire (Teekshna Agni)",
+      "Middle-aged and physically strong persons",
+      "When incompatible food is consumed in very small quantity",
+      "When the body has become gradually accustomed to the food over long time"
+    ],
+    "gradual_discontinuation_protocol": {
+      "description": "8-day protocol for gradually replacing unwholesome with wholesome diet",
+      "schedule": [
+        {
+          "days": "1-2",
+          "unwholesome_parts": 3,
+          "wholesome_parts": 1
+        },
+        {
+          "days": "3-4",
+          "unwholesome_parts": 2,
+          "wholesome_parts": 2
+        },
+        {
+          "days": "5-7",
+          "unwholesome_parts": 1,
+          "wholesome_parts": 3
+        },
+        {
+          "days": "8+",
+          "unwholesome_parts": 0,
+          "wholesome_parts": 4
+        }
+      ],
+      "note": "Sudden discontinuation also causes disease. Gradual transition is essential."
+    },
+    "source": "AH Sutrasthana Ch.7 — Annaraksa Adhyaya"
+  },
+  "daily_routine_protocols": {
+    "nidra_protocol": {
+      "title": "Nidra (Sleep) Regimen",
+      "source": "AH Sutrasthana Ch.7 — Annaraksa Adhyaya",
+      "importance": "All of happiness/misery, nourishment/emaciation, strength/weakness, virility/sterility, knowledge/ignorance, life/death depend on proper or improper sleep.",
+      "physiology": "Sleep arises from Tamas; Kapha obstructing internal channels after food causes sensory exhaustion leading to sleep.",
+      "effects_of_improper_sleep": [
+        {
+          "type": "Night vigil",
+          "effect": "Roughness",
+          "dosha": "Vata vitiation"
+        },
+        {
+          "type": "Day sleep",
+          "effect": "Unctuousness",
+          "dosha": "Kapha vitiation"
+        },
+        {
+          "type": "Dozing sitting",
+          "effect": "Neutral",
+          "dosha": "Neither"
+        }
+      ],
+      "day_sleep_indications": [
+        "Summer season (Grisma Rtu) — short nights cause Vata aggravation",
+        "After excessive study, long travel, vehicle riding",
+        "After alcohol, sexual activity, heavy physical labor",
+        "After anger, grief, fear",
+        "Dyspnoea, hiccup, diarrhoea patients",
+        "Old persons, children, weak and emaciated persons",
+        "Those with thirst, colic, insanity",
+        "Persons habitually sleeping in daytime"
+      ],
+      "day_sleep_contraindications": [
+        "Excessively obese persons",
+        "Those regularly consuming unctuous (oily) substances",
+        "Kapha prakriti persons",
+        "Kapha disorders (Kapha roga)",
+        "Artificial poisoning (Garavisa)"
+      ],
+      "complications_of_improper_sleep_timing": [
+        "Moha (delusion)",
+        "Jwara (fever)",
+        "Staimitya (lassitude)",
+        "Pinasa",
+        "Siroruk (headache)",
+        "Sopha (swelling)",
+        "Hrllasa (nausea)",
+        "Srotorodha (channel obstruction)",
+        "Agnimandya (low digestive power)"
+      ],
+      "treatment_for_complications": {
+        "improper_timing": [
+          "Upavasa (fasting)",
+          "Swedana (sudation)",
+          "Vamana (emesis)",
+          "Navana Nasya"
+        ],
+        "excessive_sleep": [
+          "Tiksna emetics",
+          "Tiksna Anjana",
+          "Nasya",
+          "Langhana (fasting)",
+          "Emotional arousal (anxiety, grief, fear, anger)"
+        ]
+      },
+      "sleeplessness_features": [
+        "Angamarda (body pains)",
+        "Sirogaurava (heavy head)",
+        "Jrmbha (yawning)",
+        "Jadyata (lassitude)",
+        "Glani (exhaustion)",
+        "Bhrama (giddiness)",
+        "Apakti (indigestion)",
+        "Tandra",
+        "Vata diseases"
+      ],
+      "sleeplessness_remedies": [
+        "Milk, alcoholic preparations, mutton juice, curds",
+        "Abhyanga (oil massage)",
+        "Udvartana (powder massage)",
+        "Snana (bath)",
+        "Murdha/Karna/Aksitarpana (oil to head/ears/eyes)",
+        "Comforting embrace",
+        "Pleasurable activities",
+        "Controlling senses and sexual indulgence"
+      ],
+      "sleep_types_7": [
+        "Kala-swabhava — Physiological night sleep",
+        "Amayakheda-prabhava — Disease complication sleep",
+        "Citta-kheda-prabhava — Mental exhaustion sleep",
+        "Deha-kheda-prabhava — Physical exhaustion sleep",
+        "Kapha-prabhava — Vitiated Kapha sleep",
+        "Agantuka — Indicative of bad prognosis (impending death)",
+        "Tamo-prabhava — Tamas predominance sleep"
+      ]
+    },
+    "maithuna_protocol": {
+      "source": "AH Sutrasthana Ch.7",
+      "seasonal_frequency": [
+        {
+          "season": "Hemanta + Sisira (winter)",
+          "frequency": "Daily",
+          "condition": "After prescribed aphrodisiacs"
+        },
+        {
+          "season": "Vasanta + Sarad (spring + autumn)",
+          "frequency": "Once in 3 days",
+          "condition": ""
+        },
+        {
+          "season": "Varsa + Grisma (rainy + summer)",
+          "frequency": "Once in a fortnight",
+          "condition": ""
+        }
+      ],
+      "post_coital_regimen": "Bath + sandalwood paste + cold breeze + sugar candy, milk, mutton soup, cold water, Sura/Prasanna (alcohol) → then sleep. Restores vigor quickly.",
+      "age_restrictions": {
+        "minimum_age": "16 years (tissues not fully developed before this age)",
+        "maximum_age": "70 years (body too weak beyond this age)"
+      }
+    }
+  }
+}

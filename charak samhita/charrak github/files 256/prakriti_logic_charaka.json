@@ -1,0 +1,138 @@
+{
+  "prakriti": {
+    "note": "The pages extracted (Ch. XI-XIV of Chikitsa Sthana) primarily cover disease treatment. Prakriti-defining symptoms are inferred from dosa-specific disease manifestations described in the text. Full Prakriti chapters (Vimana Sthana) are not in this extract. Data below is derived strictly from dosa characterisation within the extracted pages.",
+    "vata": {
+      "physical": [
+        "Thin-skinned body",
+        "Black or reddish tinge in nails, eyes, face, skin",
+        "Prominent thin and black streaks and veins",
+        "Unstable and mobile features"
+      ],
+      "mental": [],
+      "digestive": [
+        "Poor digestion",
+        "Anorexia",
+        "Obstruction in flatus, stool and urine",
+        "Tympanitic sound on percussion",
+        "Dry cough",
+        "Indigestion"
+      ],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "Chest wound and wasting",
+        "Vataja swelling (unstable, reddish/black, aggravated during day)",
+        "Vatodara - tympanitis, upward movement of vayu, body-ache",
+        "Pain in joints and bones",
+        "Constipation"
+      ],
+      "aggravated_signs": [
+        "Tearing pain in smaller joints",
+        "Upward movement of vayu",
+        "Body-ache",
+        "Obstruction in stool and urine",
+        "Blackish tinge in nails, eyes, face",
+        "Tympanitis",
+        "Dry cough",
+        "Debility"
+      ],
+      "decreased_signs": []
+    },
+    "pitta": {
+      "physical": [
+        "Green and yellow tinge in nails, eyes, face, skin",
+        "Blue, yellow, green or coppery streaks and veins"
+      ],
+      "mental": [],
+      "digestive": [
+        "Burning sensation in mouth and abdomen",
+        "Diarrhoea",
+        "Giddiness"
+      ],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "Pittaja swelling - soft, odorous, burning, suppuration",
+        "Pittodara - fever, thirst, burning, diarrhoea",
+        "Internal haemorrhage",
+        "Haemoptysis",
+        "Fever"
+      ],
+      "aggravated_signs": [
+        "Burning sensation",
+        "Fever",
+        "Thirst",
+        "Fainting",
+        "Diarrhoea",
+        "Giddiness",
+        "Sweating",
+        "Redness",
+        "Suppuration",
+        "Pungency in mouth",
+        "Yellow/green tinge in body"
+      ],
+      "decreased_signs": []
+    },
+    "kapha": {
+      "physical": [
+        "Whiteness in nails, eyes, face, skin",
+        "White streaks and veins",
+        "Heavy, stable physique",
+        "Pale complexion"
+      ],
+      "mental": [],
+      "digestive": [
+        "Poor digestion",
+        "Heaviness",
+        "Anorexia",
+        "Nausea",
+        "Vomiting"
+      ],
+      "sleep": "Oversleep",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "Kaphaja swelling - heavy, stable, pale, aggravated at night",
+        "Kaphodara - heavy, immobile abdomen",
+        "Cough and dyspnoea",
+        "Splenomegaly",
+        "Oedema"
+      ],
+      "aggravated_signs": [
+        "Heaviness",
+        "Anorexia",
+        "Indigestion",
+        "Body-ache",
+        "Numbness",
+        "Swelling in hands, feet, scrotum, thighs",
+        "Nausea",
+        "Oversleep",
+        "Cough",
+        "Dyspnoea",
+        "Whiteness in body",
+        "Hard and immobile abdomen"
+      ],
+      "decreased_signs": []
+    },
+    "dual_prakriti": {
+      "vata_pitta": [
+        "Kaksya (Herpes Zoster) - blisters arranged like sacred thread caused by both vata and pitta",
+        "Pidalika - severe swelling with burning, redness and intense pain around throat"
+      ],
+      "pitta_kapha": [
+        "Romantika (Measles) - small eruptions all over body with fever, burning, thirst, itching, salivation",
+        "Masirika (Chickenpox) - lentil-sized eruptions caused by pitta and kapha"
+      ],
+      "vata_kapha": [
+        "Bradhna (Inguinal Hernia) - intestinal loop displacement with symptoms of both dosas",
+        "Shipada (Filariasis) - vitiation of mamsa, kapha and vata"
+      ]
+    },
+    "sama_prakriti": []
+  }
+}

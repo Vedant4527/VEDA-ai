@@ -1,0 +1,154 @@
+{
+  "prakriti": {
+    "vata": {
+      "physical": [
+        "Roughness",
+        "Wasting",
+        "Emaciation",
+        "Reddish complexion"
+      ],
+      "mental": [
+        "Inopportune laughing, smiling, dancing, singing, weeping",
+        "Anxiety",
+        "Excessive movement of body parts"
+      ],
+      "digestive": [
+        "Aggravation after digestion of food"
+      ],
+      "sleep": "",
+      "speech": "Rough, feeble and unstable voice",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "Vatika prameha",
+        "Vataja kustha (kapala predominance)",
+        "Vatika phthisis after emaciation",
+        "Vatika unmada",
+        "Vatika apasmara"
+      ],
+      "aggravated_signs": [
+        "Roughness in skin",
+        "Wasting",
+        "Piercing pain",
+        "Contracture and extension",
+        "Hardness",
+        "Coarseness",
+        "Horripilation",
+        "Blackish and reddish colours in kustha",
+        "Dry parched body",
+        "Pain in sides",
+        "Headache",
+        "Hoarseness of voice",
+        "Diarrhoea",
+        "Yawning",
+        "Fever (from joints)"
+      ],
+      "decreased_signs": []
+    },
+    "pitta": {
+      "physical": [
+        "Yellowish lustre",
+        "Heat in body",
+        "Yellow froth in epilepsy",
+        "Yellow limbs, face and eyes"
+      ],
+      "mental": [
+        "Intolerance",
+        "Agitation",
+        "Wrath",
+        "Desire for shade and cold food"
+      ],
+      "digestive": [],
+      "sleep": "",
+      "speech": "Burning in palate and throat, aversion to speaking",
+      "memory": "",
+      "emotional": [
+        "Anger",
+        "Intolerance"
+      ],
+      "disease_tendency": [
+        "Pittaja prameha",
+        "Pittaja kustha (audumbara predominance)",
+        "Pittaja unmada",
+        "Pittaja apasmara"
+      ],
+      "aggravated_signs": [
+        "Heat",
+        "Redness",
+        "Discharge and suppuration in kustha",
+        "Fleshy smell",
+        "Moisture",
+        "Falling down of organs",
+        "Burning sensation in hands and feet",
+        "Haemoptysis",
+        "Yellow urine"
+      ],
+      "decreased_signs": []
+    },
+    "kapha": {
+      "physical": [
+        "Heaviness",
+        "Whiteness",
+        "Coldness",
+        "Unctuousness",
+        "Stability",
+        "White froth in epilepsy",
+        "Cold horripilation"
+      ],
+      "mental": [
+        "Slow speech and movements",
+        "Liking for women and loneliness",
+        "Liking for comfort"
+      ],
+      "digestive": [
+        "Anorexia",
+        "Aggravation on taking meals"
+      ],
+      "sleep": "Excessive sleep",
+      "speech": "Slow, obstructed and sterterous voice",
+      "memory": "",
+      "emotional": [
+        "Attachment",
+        "Contentment"
+      ],
+      "disease_tendency": [
+        "Kaphaja prameha (10 types)",
+        "Kaphaja kustha (mandala predominance)",
+        "Kaphaja unmada",
+        "Kaphaja apasmara"
+      ],
+      "aggravated_signs": [
+        "Whiteness of skin",
+        "Coldness",
+        "Itching",
+        "Stability of lesions",
+        "Raising of patches",
+        "Heaviness",
+        "Unctuousness",
+        "Eating away by maggots",
+        "Excessive salivation",
+        "Watery or sugarcane-like urine in prameha"
+      ],
+      "decreased_signs": []
+    },
+    "dual_prakriti": {
+      "vata_pitta": [
+        "Rsyajihva kustha arises from vata-pitta"
+      ],
+      "pitta_kapha": [
+        "Pundarika kustha arises from kapha-pitta",
+        "Difficult to treat"
+      ],
+      "vata_kapha": [
+        "Sidhma kustha arises from vata-kapha",
+        "Carmakhya, ekakustha, kitibha, vipadika, alasaka - predominantly vata-kapha"
+      ]
+    },
+    "sama_prakriti": [
+      "Kakanaka kustha - caused by all three dosas combined - incurable",
+      "Sannipataja unmada - caused by all three dosas - incurable",
+      "Sannipataja apasmara - incurable",
+      "Rajayaksma is wholly tridosaja"
+    ]
+  }
+}

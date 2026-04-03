@@ -1,0 +1,462 @@
+{
+  "foods": [
+    {
+      "id": "food_001",
+      "names": {
+        "sanskrit": "Sura / Madya",
+        "english": "Wine / Alcohol",
+        "hindi": "Sharab",
+        "gujarati": ""
+      },
+      "category": "Pana (Drinks)",
+      "properties": {
+        "rasa": ["Amla (Sour)", "Madhura (Sweet)", "Kashaya (Astringent)", "Tikta (Bitter)", "Katu (Pungent)"],
+        "virya": "Ushna (Hot)",
+        "vipaka": "",
+        "guna": ["Laghu (Light)", "Tikshna (Sharp)", "Sukshma (Fine)", "Ruksha (Rough)", "Vishada (Non-slimy)"]
+      },
+      "dosha_effect": {
+        "vata": "Alleviates vata when taken properly; aggravates when taken improperly",
+        "pitta": "Aggravates pitta due to sour and hot properties",
+        "kapha": "Alleviates kapha due to rough and hot properties"
+      },
+      "therapeutic_uses": [
+        "Improves relish and appetite",
+        "Cordial",
+        "Promotes voice and complexion",
+        "Satiating and bulk-promoting",
+        "Strength-promoting",
+        "Alleviates fear, grief and exertion",
+        "Hypnotic for the sleepless",
+        "Removes constipation",
+        "Anaesthetic in pain",
+        "Counteracts disorders caused by wine itself",
+        "Useful in removing obstruction of channels",
+        "Carminates wind",
+        "Stimulates digestive fire"
+      ],
+      "contraindications": [
+        "Persons predominant in vata and pitta who are weak",
+        "Those suffering from hunger and thirst",
+        "Those with anger and mental weakness",
+        "Not used without prescribed method",
+        "Not in excess"
+      ],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "After food; in proper quantity",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIV"
+      }
+    },
+    {
+      "id": "food_002",
+      "names": {
+        "sanskrit": "Dugdha",
+        "english": "Milk",
+        "hindi": "Doodh",
+        "gujarati": "Doodh"
+      },
+      "category": "Pana (Drinks) / Annapana",
+      "properties": {
+        "rasa": ["Madhura (Sweet)"],
+        "virya": "Sheeta (Cold)",
+        "vipaka": "Madhura",
+        "guna": ["Guru (Heavy)", "Snigdha (Unctuous)", "Shlakshna (Smooth)"]
+      },
+      "dosha_effect": {
+        "vata": "Alleviates vata",
+        "pitta": "Alleviates pitta",
+        "kapha": "May increase kapha"
+      },
+      "therapeutic_uses": [
+        "Used in vatika alcoholism when wine is stopped",
+        "Acts like boon when vata and pitta are predominant",
+        "Used in paittika dysuria",
+        "Used in paittika hridroga",
+        "Milk boiled with sunthi for digestion in paittika pinasa",
+        "Useful in diseases of head when wine is stopped"
+      ],
+      "contraindications": [
+        "Should be discontinued when strength is recovered and wine is resumed"
+      ],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIV"
+      }
+    },
+    {
+      "id": "food_003",
+      "names": {
+        "sanskrit": "Yava",
+        "english": "Barley",
+        "hindi": "Jau",
+        "gujarati": "Jav"
+      },
+      "category": "Dhanya (Grains)",
+      "properties": {
+        "rasa": ["Madhura (Sweet)", "Kashaya (Astringent)"],
+        "virya": "Sheeta (Cold)",
+        "vipaka": "Madhura",
+        "guna": ["Laghu (Light)", "Ruksha (Rough)"]
+      },
+      "dosha_effect": {
+        "vata": "Neutral to mildly aggravating",
+        "pitta": "Alleviates pitta",
+        "kapha": "Alleviates kapha"
+      },
+      "therapeutic_uses": [
+        "Wholesome in kaphaja constitution for drinking (barley and wheat preparations)",
+        "Prescribed in kaphaja alcoholism",
+        "Prescribed in kaphaja dysuria",
+        "Prescribed in kaphaja hridroga",
+        "Prescribed in kaphaja pinasa and kaphaja svarabheda",
+        "Used with yavani and sunthi in kaphaja disorders"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIV"
+      }
+    },
+    {
+      "id": "food_004",
+      "names": {
+        "sanskrit": "Sali",
+        "english": "Sali rice (fine variety)",
+        "hindi": "Basmati Chawal",
+        "gujarati": "Basmati Chawal"
+      },
+      "category": "Dhanya (Grains)",
+      "properties": {
+        "rasa": ["Madhura (Sweet)"],
+        "virya": "Sheeta (Cold)",
+        "vipaka": "Madhura",
+        "guna": ["Laghu (Light)", "Snigdha (slightly unctuous)"]
+      },
+      "dosha_effect": {
+        "vata": "Alleviates vata",
+        "pitta": "Alleviates pitta",
+        "kapha": "Neutral"
+      },
+      "therapeutic_uses": [
+        "Prescribed in vatika alcoholism",
+        "Prescribed in paittika alcoholism with sweetened and soured preparations",
+        "Used in paittika dysuria"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIV"
+      }
+    },
+    {
+      "id": "food_005",
+      "names": {
+        "sanskrit": "Mamsa (various animals)",
+        "english": "Meat (various - quail, partridge, rabbit, deer, goat etc.)",
+        "hindi": "Maans",
+        "gujarati": ""
+      },
+      "category": "Mamsa (Meat)",
+      "properties": {
+        "rasa": ["Madhura (Sweet)"],
+        "virya": "Ushna or Sheeta (depending on animal)",
+        "vipaka": "Madhura",
+        "guna": ["Guru (Heavy)", "Snigdha (Unctuous)"]
+      },
+      "dosha_effect": {
+        "vata": "Alleviates vata (domestic, aquatic and marshy meats)",
+        "pitta": "Wild animal meat alleviates pitta",
+        "kapha": "Wild animal meat dry-roasted alleviates kapha"
+      },
+      "therapeutic_uses": [
+        "Common quail, partridge, cock, peacock meats for vatika alcoholism",
+        "Rabbit, grey partridge, deer, quail for paittika alcoholism",
+        "Meat of wild animals for paittika hridroga",
+        "Meat of marshy animals and fishes for vatika conditions"
+      ],
+      "contraindications": [
+        "Meat of marshy animals and fish in excess causes dysuria"
+      ],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "After meals",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIV"
+      }
+    },
+    {
+      "id": "food_006",
+      "names": {
+        "sanskrit": "Dadima",
+        "english": "Pomegranate",
+        "hindi": "Anar",
+        "gujarati": "Dadam"
+      },
+      "category": "Phala (Fruits)",
+      "properties": {
+        "rasa": ["Madhura (Sweet)", "Amla (Sour)", "Kashaya (Astringent)"],
+        "virya": "Sheeta (Cold)",
+        "vipaka": "Madhura",
+        "guna": ["Laghu (Light)"]
+      },
+      "dosha_effect": {
+        "vata": "Alleviates vata",
+        "pitta": "Alleviates pitta",
+        "kapha": "Neutral"
+      },
+      "therapeutic_uses": [
+        "Pomegranate juice as drink in vatika alcoholism",
+        "Goat's meat soup with dadima for paittika alcoholism",
+        "Used for flavouring roasted meat in kaphaja alcoholism",
+        "Part of panchkamlaka for thirst in paittika alcoholism"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIV"
+      }
+    },
+    {
+      "id": "food_007",
+      "names": {
+        "sanskrit": "Mudga",
+        "english": "Green gram / Mung bean",
+        "hindi": "Moong",
+        "gujarati": "Mag"
+      },
+      "category": "Shimbi Dhanya (Legumes)",
+      "properties": {
+        "rasa": ["Madhura (Sweet)", "Kashaya (Astringent)"],
+        "virya": "Sheeta (Cold)",
+        "vipaka": "Madhura",
+        "guna": ["Laghu (Light)", "Ruksha (slightly dry)"]
+      },
+      "dosha_effect": {
+        "vata": "Neutral to slightly aggravating",
+        "pitta": "Alleviates pitta",
+        "kapha": "Alleviates kapha"
+      },
+      "therapeutic_uses": [
+        "Soup of mudga for kaphaja pinasa",
+        "Paste of mudga mixed with tila as poultice for pain and burning in wounds",
+        "Payasa prepared of mudga applied as poultice for wounds",
+        "Diet in paittika head disease"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIV"
+      }
+    },
+    {
+      "id": "food_008",
+      "names": {
+        "sanskrit": "Draksha / Mridvika",
+        "english": "Grapes",
+        "hindi": "Angur",
+        "gujarati": "Draksh"
+      },
+      "category": "Phala (Fruits)",
+      "properties": {
+        "rasa": ["Madhura (Sweet)", "Amla (Sour, slight)"],
+        "virya": "Sheeta (Cold)",
+        "vipaka": "Madhura",
+        "guna": ["Guru (Heavy)", "Snigdha (Unctuous)"]
+      },
+      "dosha_effect": {
+        "vata": "Alleviates vata",
+        "pitta": "Alleviates pitta",
+        "kapha": "Increases kapha slightly"
+      },
+      "therapeutic_uses": [
+        "Wine made of grapes wholesome for kaphaja and paittika constitution",
+        "Cold grape juice in severe thirst with aggravated vata and pitta in paittika alcoholism",
+        "Decoction with sugar for dysuria",
+        "Grape juice in paittika hridroga",
+        "Grape juice with seeds of ervaru, trapusa and vasa for dysuria and calculus"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIV"
+      }
+    },
+    {
+      "id": "food_009",
+      "names": {
+        "sanskrit": "Tila",
+        "english": "Sesame seeds",
+        "hindi": "Til",
+        "gujarati": "Tal"
+      },
+      "category": "Taila-producing (Oil seeds)",
+      "properties": {
+        "rasa": ["Madhura (Sweet)", "Tikta (Bitter)", "Kashaya (Astringent)"],
+        "virya": "Ushna (Hot)",
+        "vipaka": "Madhura",
+        "guna": ["Guru (Heavy)", "Snigdha (Unctuous)"]
+      },
+      "dosha_effect": {
+        "vata": "Alleviates vata",
+        "pitta": "Neutral to mildly aggravating",
+        "kapha": "May increase kapha"
+      },
+      "therapeutic_uses": [
+        "Sesamum seeds for poultice with linseed in vatika wounds",
+        "Barley powder with tila mixed with ghee for wound",
+        "Paste of linseed and sesamum roasted in milk for vata wounds with burning",
+        "Sesamum, amalaka, lotus pollens, madhuka and honey as paste for hair growth",
+        "Base oil for Anu Taila preparation"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXV"
+      }
+    },
+    {
+      "id": "food_010",
+      "names": {
+        "sanskrit": "Ghrita",
+        "english": "Ghee (Clarified butter)",
+        "hindi": "Ghee",
+        "gujarati": "Ghee"
+      },
+      "category": "Sneha (Fats)",
+      "properties": {
+        "rasa": ["Madhura (Sweet)"],
+        "virya": "Sheeta (Cold)",
+        "vipaka": "Madhura",
+        "guna": ["Guru (Heavy)", "Snigdha (Unctuous)", "Sheeta (Cold)", "Mrudu (Soft)"]
+      },
+      "dosha_effect": {
+        "vata": "Alleviates vata",
+        "pitta": "Alleviates pitta",
+        "kapha": "In small amounts beneficial; excess increases kapha"
+      },
+      "therapeutic_uses": [
+        "Pasted on long wounds with honey for uniting",
+        "100-times washed ghee for wounds predominant in raktapitta",
+        "Used in paittika hridroga",
+        "Used after meals and as snuff in hoarseness of voice",
+        "Used in paittika head disease",
+        "Preparation of numerous medicated ghees (Mayura, Mahamayura, etc.)"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "After meals (for vatika svarabheda)",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXV"
+      }
+    },
+    {
+      "id": "food_011",
+      "names": {
+        "sanskrit": "Patola",
+        "english": "Pointed gourd",
+        "hindi": "Parwal",
+        "gujarati": "Parval"
+      },
+      "category": "Shaka (Vegetables)",
+      "properties": {
+        "rasa": ["Tikta (Bitter)", "Kashaya (Astringent)"],
+        "virya": "Sheeta (Cold)",
+        "vipaka": "Katu",
+        "guna": ["Laghu (Light)", "Ruksha (Dry)"]
+      },
+      "dosha_effect": {
+        "vata": "Neutral",
+        "pitta": "Alleviates pitta",
+        "kapha": "Alleviates kapha"
+      },
+      "therapeutic_uses": [
+        "Decoction of guduchi, devadaru and patola for paittika alcoholism with cough",
+        "Soured soup of patola for kaphaja alcoholism",
+        "Soup of patola for kaphaja pinasa",
+        "Part of diet for paittika hridroga"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIV"
+      }
+    },
+    {
+      "id": "food_012",
+      "names": {
+        "sanskrit": "Iksu",
+        "english": "Sugarcane",
+        "hindi": "Ganna",
+        "gujarati": "Shero"
+      },
+      "category": "Phala / Shaka",
+      "properties": {
+        "rasa": ["Madhura (Sweet)"],
+        "virya": "Sheeta (Cold)",
+        "vipaka": "Madhura",
+        "guna": ["Guru (Heavy)", "Snigdha (Unctuous)"]
+      },
+      "dosha_effect": {
+        "vata": "Alleviates vata",
+        "pitta": "Alleviates pitta",
+        "kapha": "Increases kapha"
+      },
+      "therapeutic_uses": [
+        "Sugarcane juice with punarnava for calculus",
+        "Cold sugarcane juice in paittika hridroga",
+        "Used in paittika dysuria",
+        "Sugarcandy mixed with yavakshara for all types of dysuria"
+      ],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI"
+      }
+    }
+  ]
+}

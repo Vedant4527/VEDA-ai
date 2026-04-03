@@ -1,0 +1,781 @@
+{
+  "mappings": [
+    {
+      "disease_id": "disease_001",
+      "disease_name": "Arsha (Piles / Hemorrhoids)",
+      "herbs": [
+        {
+          "herb_name": "Haritaki",
+          "role": "primary",
+          "dosage_specific": "Impregnated with cow's urine and mixed with jaggery",
+          "anupana": "Jaggery / Buttermilk / Cow's urine",
+          "duration": ""
+        },
+        {
+          "herb_name": "Triphala",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Buttermilk / Decoction of triphala",
+          "duration": ""
+        },
+        {
+          "herb_name": "Pippali",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Cow's bile, haridra mixture",
+          "duration": ""
+        },
+        {
+          "herb_name": "Citraka",
+          "role": "primary",
+          "dosage_specific": "Oil prepared with citraka for fomentation",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Bilwa",
+          "role": "primary",
+          "dosage_specific": "Fruit pulp powder",
+          "anupana": "Hot water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Kutaja",
+          "role": "primary",
+          "dosage_specific": "Bark 4 kg boiled in rain water",
+          "anupana": "Goat's milk / liquid gruel-scum",
+          "duration": ""
+        },
+        {
+          "herb_name": "Haridra",
+          "role": "supporting",
+          "dosage_specific": "Powder applied with latex of snuhi as paste",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Sunthi (Dry Ginger)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Sidhu (wine)",
+          "duration": ""
+        },
+        {
+          "herb_name": "Trikatu",
+          "role": "supporting",
+          "dosage_specific": "Powder",
+          "anupana": "Rice scum, wine or hot water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Vidanga",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Danti",
+          "role": "supporting",
+          "dosage_specific": "Roots 40 gm",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Nimba",
+          "role": "supporting",
+          "dosage_specific": "Leaves and fruits",
+          "anupana": "Ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "Madhuka (Licorice)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Candana",
+          "role": "supporting",
+          "dosage_specific": "Decoction for tub bath",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Kutaja (Rasakriya - solid extract)",
+          "role": "primary",
+          "dosage_specific": "Appropriate dose and time",
+          "anupana": "Goat's milk or liquid gruel-scum",
+          "duration": ""
+        },
+        {
+          "herb_name": "Daruharidra",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Hingu",
+          "role": "supporting",
+          "dosage_specific": "Powder",
+          "anupana": "Hot water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Trivrt",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Decoction of triphala",
+          "duration": ""
+        },
+        {
+          "herb_name": "Bhallataka",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Karanja",
+          "role": "supporting",
+          "dosage_specific": "Tender leaves fried with ghee and oil, powdered",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": [
+        "Takrarista",
+        "Abhayarista",
+        "Dantyarista",
+        "Phalarista",
+        "Sarkara arista",
+        "Kanakarista",
+        "Kutajadi rasakriya",
+        "Hriberadi ghrta",
+        "Sunisannaka-cangeri-ghrta",
+        "Piccha basti (slimy enema)",
+        "Unctuous enema with pippali, madana, bilwa, madhuka, devadaru"
+      ],
+      "pathya": {
+        "diet_include": [
+          "Rakta Sali (red Sali rice)",
+          "Maha sali, kalama, langala, sita, sirada and sastika cereals",
+          "Buttermilk (takra) — especially for vata and kapha piles",
+          "Liquid gruel (yavagu)",
+          "Goat's milk",
+          "Soup of dried radish or horse gram",
+          "Soup of kapittha and bilwa",
+          "Meat of hare, deer, quail, partridge, black antelope (in bleeding piles)",
+          "Onion with meat soup",
+          "Tila with butter",
+          "Nagakesara with butter and sugar"
+        ],
+        "diet_avoid": [
+          "Heavy, sweet, cold, channel-blocking food",
+          "Meat of cow, fish, boar, buffalo",
+          "Decomposed, dried and foetid meat",
+          "Black gram soup in excess",
+          "Sugarcane juice in excess",
+          "Stale, putrified, cold and mixed up food",
+          "Items mentioned under etiological factors"
+        ],
+        "lifestyle_follow": [
+          "Regular bowel habits",
+          "Physical exercise in moderation",
+          "Anal region washed with hot water after defaecation",
+          "Fomentation before treatment",
+          "Tub bath in decoction of triphala, arka, varuna etc."
+        ],
+        "lifestyle_avoid": [
+          "Day-sleep",
+          "Sitting on uneven and hard seats",
+          "Excessive straining during defaecation",
+          "Suppression of natural urges",
+          "Excessive sexual intercourse"
+        ]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XIV (Arsha Chikitsa)"
+      }
+    },
+    {
+      "disease_id": "disease_002",
+      "disease_name": "Grahani Roga (Malabsorption Syndrome)",
+      "herbs": [
+        {
+          "herb_name": "Haritaki",
+          "role": "primary",
+          "dosage_specific": "With sunthi in hot water",
+          "anupana": "Hot water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Sunthi (Dry Ginger)",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Hot water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Ativisa",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Hot water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Musta",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Hot water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Pippali",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Warm water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Citraka",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Bilwa",
+          "role": "supporting",
+          "dosage_specific": "Pulp of bilwa fruits",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Devadaru",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Varupi (wine)",
+          "duration": ""
+        },
+        {
+          "herb_name": "Vaca",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Indrayava",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Kutaja (bark and seeds)",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Rice water / honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "Katurohini",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Candana",
+          "role": "supporting",
+          "dosage_specific": "80 gms",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Dhataki",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Trikatu",
+          "role": "supporting",
+          "dosage_specific": "40 gm",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Jyotismati",
+          "role": "supporting",
+          "dosage_specific": "Seeds percolated in warm water",
+          "anupana": "Warm water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Bhallataka",
+          "role": "supporting",
+          "dosage_specific": "2.56 kg",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Madhuka flowers",
+          "role": "primary",
+          "dosage_specific": "10.24 kg boiled in water 30.72 litres",
+          "anupana": "Honey",
+          "duration": "One month fermentation"
+        }
+      ],
+      "formulations": [
+        "Dasamaladya ghrta",
+        "Tryisanadya ghrta",
+        "Pancamiladya ghrta",
+        "Citrakadya gutika",
+        "Maricadya curna",
+        "Candanadya ghrta (paittika)",
+        "Nagaradya curna (paittika)",
+        "Bhinimbadya curna",
+        "Kiratadya curna",
+        "Takrarista",
+        "Madhukasava (kaphaja)",
+        "Duralabhasava",
+        "Malasava",
+        "Pindasava",
+        "Madhvarista",
+        "Ksara ghrta",
+        "Ksara gutika (Krsnatreya)",
+        "Fourth alkali (kutaja, ativisa, patha, duralabha, hingu, citraka)",
+        "Fifth alkali"
+      ],
+      "pathya": {
+        "diet_include": [
+          "Light diet like liquid gruel",
+          "Appetising formulations after cleansing stomach",
+          "Pancakola soup",
+          "Radish soup added with black pepper",
+          "Spiced meat-soup of wild animals with fat and sour pomegranates",
+          "Meat-soup of carnivorous animals with appetisers",
+          "Buttermilk (takra)",
+          "Sour gruel, wine and arista as post-meal drink",
+          "Sali rice",
+          "Green gram etc. with pomegranate, ghee, appetisers and astringent powders (paittika)",
+          "Light cereals with soup of dried radish or horse gram (kaphaja)"
+        ],
+        "diet_avoid": [
+          "Fasting",
+          "Eating during indigestion",
+          "Over-eating",
+          "Irregular eating",
+          "Heavy, cold, too rough and contaminated food"
+        ],
+        "lifestyle_follow": [
+          "Unction (sneha) before treatment",
+          "Fomentation and massage",
+          "Non-unctuous enema when vata is pacified",
+          "Purgation with castor oil or tilwaka ghrta",
+          "Regular ghee intake after cleansing"
+        ],
+        "lifestyle_avoid": [
+          "Sleeping just after meals",
+          "Sexual intercourse during active disease",
+          "Excessive travelling on foot"
+        ]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XV (Grahani Chikitsa)"
+      }
+    },
+    {
+      "disease_id": "disease_003",
+      "disease_name": "Panduroga (Anaemia)",
+      "herbs": [
+        {
+          "herb_name": "Lauha Bhasma (Iron powder)",
+          "role": "primary",
+          "dosage_specific": "Soaked with cow's urine for a week",
+          "anupana": "Milk / Honey and ghee",
+          "duration": "Week or more"
+        },
+        {
+          "herb_name": "Haritaki",
+          "role": "primary",
+          "dosage_specific": "Dipped in cow's urine",
+          "anupana": "Cow's urine / Jaggery and honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "Triphala",
+          "role": "primary",
+          "dosage_specific": "Decoction with cow's urine",
+          "anupana": "Cow's urine",
+          "duration": "One week"
+        },
+        {
+          "herb_name": "Trikatu",
+          "role": "supporting",
+          "dosage_specific": "Equal parts with triphala",
+          "anupana": "Honey and ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "Haridra",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "Daruharidra",
+          "role": "supporting",
+          "dosage_specific": "Bark 20 gms",
+          "anupana": "Cow's urine",
+          "duration": ""
+        },
+        {
+          "herb_name": "Guduchi",
+          "role": "supporting",
+          "dosage_specific": "Cold juice",
+          "anupana": "Honey",
+          "duration": "Every morning"
+        },
+        {
+          "herb_name": "Nimba",
+          "role": "supporting",
+          "dosage_specific": "Cold juice",
+          "anupana": "Honey",
+          "duration": "Every morning"
+        },
+        {
+          "herb_name": "Trivrt",
+          "role": "supporting",
+          "dosage_specific": "20 gms (paittika pandu)",
+          "anupana": "Sugar in double quantity",
+          "duration": ""
+        },
+        {
+          "herb_name": "Aragvadha",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Sugarcane juice / vidari / amalaka juice",
+          "duration": ""
+        },
+        {
+          "herb_name": "Danti",
+          "role": "supporting",
+          "dosage_specific": "20 gm paste",
+          "anupana": "Double quantity jaggery with cold water",
+          "duration": ""
+        },
+        {
+          "herb_name": "Silajatu",
+          "role": "supporting",
+          "dosage_specific": "320 gm impregnated with decoction of indrayava, triphala etc.",
+          "anupana": "Pomegranate juice / milk / water / sura",
+          "duration": "10, 20 or 30 days impregnation"
+        },
+        {
+          "herb_name": "Punarnava",
+          "role": "supporting",
+          "dosage_specific": "40 gms",
+          "anupana": "Buttermilk",
+          "duration": ""
+        },
+        {
+          "herb_name": "Matulunga",
+          "role": "supporting",
+          "dosage_specific": "Sprouts burnt and dipped in cow's urine",
+          "anupana": "Cow's urine",
+          "duration": ""
+        },
+        {
+          "herb_name": "Swarnaksiri",
+          "role": "supporting",
+          "dosage_specific": "Pounded with cow's urine 160 ml",
+          "anupana": "Cow's urine",
+          "duration": ""
+        },
+        {
+          "herb_name": "Manjistha",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Patha",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Vidanga",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Musta",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Swarnamaksika Bhasma",
+          "role": "supporting",
+          "dosage_specific": "200 gms",
+          "anupana": "Honey",
+          "duration": ""
+        }
+      ],
+      "formulations": [
+        "Navayasa curna (Krsnatreya)",
+        "Manduravataka",
+        "Yogaraja",
+        "Silajatuvataka",
+        "Punarnavamandura",
+        "Dadimadya ghrta",
+        "Katukadya ghrta",
+        "Pathyaghrta (100 haritaki fruits)",
+        "Dantighrta",
+        "Draksa ghrta",
+        "Haridra ghrta (buffalow's ghee)",
+        "Panchagavya ghrta",
+        "Mahatikta ghrta",
+        "Kalyanaka ghrta",
+        "Dhatryavaleha",
+        "Gauda arista",
+        "Bijakarista",
+        "Dhatryarista",
+        "Mandara vataka"
+      ],
+      "pathya": {
+        "diet_include": [
+          "Old sali rice, barley and wheat",
+          "Soups of green gram, pigeon pea and lentils",
+          "Meat soup of wild animals and birds",
+          "Cow's milk or buffalow's milk",
+          "Decoction of water boiled with laghu pancamila (kamala)",
+          "Juice of grapes and amalaka (kamala)",
+          "Cereals with rough, sour and pungent meat soups (Kumbhakamala)",
+          "Juice of matulunga with honey, pippali, marica and sunthi"
+        ],
+        "diet_avoid": [
+          "Alkaline, sour, salty, too hot, incompatible food",
+          "Excessive black gram, oil cake, tila and oil",
+          "Horse gram, kakamici and pigeon (during mandura/yogaraja treatment)",
+          "Pitta-aggravating items"
+        ],
+        "lifestyle_follow": [
+          "Unction with panchagavya, mahatikta or kalyanaka ghrta",
+          "Strong emesis and purgation after unction (panduroga)",
+          "Mild purgation with bitter drugs (kamala)",
+          "Iron preparations (bhasma) with cow's urine",
+          "Milk purga with cow's urine"
+        ],
+        "lifestyle_avoid": [
+          "Day-sleep",
+          "Suppression of natural urges",
+          "Exercise and sexual intercourse during active indigestion",
+          "Earth-eating"
+        ]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XVI (Panduroga Chikitsa)"
+      }
+    },
+    {
+      "disease_id": "disease_004",
+      "disease_name": "Kamala (Jaundice)",
+      "herbs": [
+        {
+          "herb_name": "Lauha Bhasma",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Honey and ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "Haritaki",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Jaggery and honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "Haridra",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "Honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "Daruharidra",
+          "role": "supporting",
+          "dosage_specific": "Kiliyaka 20 gm paste, decoction 200 ml",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Guduchi",
+          "role": "supporting",
+          "dosage_specific": "Cold juice",
+          "anupana": "Honey",
+          "duration": "Every morning"
+        },
+        {
+          "herb_name": "Nimba",
+          "role": "supporting",
+          "dosage_specific": "Cold juice",
+          "anupana": "Honey",
+          "duration": "Every morning"
+        },
+        {
+          "herb_name": "Trivrt",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Decoction of triphala",
+          "duration": ""
+        },
+        {
+          "herb_name": "Triphala",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Cow's urine",
+          "duration": "One week"
+        },
+        {
+          "herb_name": "Katurohini",
+          "role": "supporting",
+          "dosage_specific": "40 gms",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "Matulunga (sprouts)",
+          "role": "supporting",
+          "dosage_specific": "Burnt and pressed in cow's urine",
+          "anupana": "Cow's urine",
+          "duration": ""
+        }
+      ],
+      "formulations": [
+        "Panchagavya ghrta",
+        "Mahatikta ghrta",
+        "Kalyanaka ghrta",
+        "Katukadya ghrta",
+        "Draksa ghrta (old ghee with dried grapes)",
+        "Haridra ghrta",
+        "Buffalow's ghee with cow's urine and daruharidra",
+        "Dhatryavaleha",
+        "Dhatryarista"
+      ],
+      "pathya": {
+        "diet_include": [
+          "Old sali rice, barley and wheat",
+          "Soups of green gram, pigeon pea and lentils",
+          "Juice of grapes and amalaka",
+          "Milk boiled with Syama and trivrt for purgation",
+          "Rice cooked with milk after purgation"
+        ],
+        "diet_avoid": [
+          "Pitta-aggravating substances",
+          "Hot and sour things",
+          "Heavy oily food during acute phase"
+        ],
+        "lifestyle_follow": [
+          "Mild purgation with bitter drugs",
+          "Unction before purgation",
+          "Iron preparations with cow's urine"
+        ],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XVI (Panduroga Chikitsa)"
+      }
+    },
+    {
+      "disease_id": "disease_005",
+      "disease_name": "Halimaka",
+      "herbs": [
+        {
+          "herb_name": "Guduchi",
+          "role": "primary",
+          "dosage_specific": "Juice with buffalow's ghee and milk",
+          "anupana": "Milk",
+          "duration": ""
+        },
+        {
+          "herb_name": "Amalaka",
+          "role": "supporting",
+          "dosage_specific": "Juice with trivrt",
+          "anupana": "Amalaka juice",
+          "duration": ""
+        },
+        {
+          "herb_name": "Pippali",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Milk",
+          "duration": ""
+        },
+        {
+          "herb_name": "Madhuka",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Milk",
+          "duration": ""
+        },
+        {
+          "herb_name": "Bala",
+          "role": "supporting",
+          "dosage_specific": "",
+          "anupana": "Milk",
+          "duration": ""
+        }
+      ],
+      "formulations": [
+        "Draksa leha (said earlier)",
+        "Sweet ghrtas",
+        "Sustaining milk enemas with unctuous enemas",
+        "Abhayaleha (Agastyaharitaki)",
+        "Mardika (fermented formulation of grapes)"
+      ],
+      "pathya": {
+        "diet_include": [
+          "Sweet substances alleviating pitta and vata",
+          "Milk",
+          "Buffalow's ghee with guduchi juice and milk"
+        ],
+        "diet_avoid": [
+          "Pitta and vata aggravating substances"
+        ],
+        "lifestyle_follow": [
+          "Proper unction before purgation",
+          "Mostly sweet substances after purgation"
+        ],
+        "lifestyle_avoid": []
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XVI (Panduroga Chikitsa)"
+      }
+    }
+  ]
+}

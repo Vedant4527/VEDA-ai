@@ -1,0 +1,562 @@
+{
+  "foods": [
+    {
+      "id": "food_001",
+      "names": {
+        "sanskrit": "Shali",
+        "english": "Red/Boiled Shali rice",
+        "hindi": "Shali Chawal",
+        "gujarati": "Shali Chaval"
+      },
+      "category": "Dhanya (grain)",
+      "properties": {
+        "rasa": ["sweet"],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["light", "easily digestible"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": "neutral"
+      },
+      "therapeutic_uses": ["post-enema diet", "post-purgation diet", "diarrhoea", "post-emesis diet"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "after purification therapies",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "IV, VIII"
+      }
+    },
+    {
+      "id": "food_002",
+      "names": {
+        "sanskrit": "Yava",
+        "english": "Barley",
+        "hindi": "Jau",
+        "gujarati": "Jav"
+      },
+      "category": "Dhanya (grain)",
+      "properties": {
+        "rasa": ["sweet", "astringent"],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["light", "dry"]
+      },
+      "dosha_effect": {
+        "vata": "mild increase",
+        "pitta": "pacifies",
+        "kapha": "pacifies"
+      },
+      "therapeutic_uses": ["enema preparations", "hot water preparation post-enema", "digestive aid", "enema for vatika disorders"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "IV, VIII"
+      }
+    },
+    {
+      "id": "food_003",
+      "names": {
+        "sanskrit": "Kulattha",
+        "english": "Horse gram",
+        "hindi": "Kulith",
+        "gujarati": "Kulthi"
+      },
+      "category": "Shimbi dhanya (legume)",
+      "properties": {
+        "rasa": ["astringent", "sour"],
+        "virya": "hot",
+        "vipaka": "",
+        "guna": ["dry", "heavy"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "increases",
+        "kapha": "pacifies"
+      },
+      "therapeutic_uses": ["enema preparations for vata disorders", "calculus", "vatika disorders", "enema base liquid"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "III, IV, IX"
+      }
+    },
+    {
+      "id": "food_004",
+      "names": {
+        "sanskrit": "Madhu",
+        "english": "Honey",
+        "hindi": "Shahad",
+        "gujarati": "Madhu / Mahudo"
+      },
+      "category": "Krimi-ja dravya (bee product)",
+      "properties": {
+        "rasa": ["sweet", "astringent"],
+        "virya": "cold (in natural state)",
+        "vipaka": "pungent",
+        "guna": ["dry", "penetrating", "light"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": "pacifies"
+      },
+      "therapeutic_uses": ["enema preparations", "semen promotion", "diarrhoea", "excessive purgation recovery", "post-emesis recovery", "promotes digestive fire"],
+      "contraindications": ["never heat or cook honey", "not to be taken with equal quantity of ghee by weight"],
+      "incompatible_with": ["ghee in equal weight", "hot substances"],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "III-VIII (multiple)"
+      }
+    },
+    {
+      "id": "food_005",
+      "names": {
+        "sanskrit": "Ghrita",
+        "english": "Ghee (clarified butter)",
+        "hindi": "Ghee",
+        "gujarati": "Ghee"
+      },
+      "category": "Dugdha vikara (dairy product)",
+      "properties": {
+        "rasa": ["sweet"],
+        "virya": "cold",
+        "vipaka": "sweet",
+        "guna": ["unctuous", "heavy", "smooth", "soft"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": "increases (in excess)"
+      },
+      "therapeutic_uses": ["all enema preparations", "prolapsed rectum", "burns from excessive application", "semen promotion", "strength promotion", "post-emesis recovery", "heart disease", "all vatika and paittika conditions"],
+      "contraindications": [],
+      "incompatible_with": ["honey in equal weight by measure"],
+      "best_season": [],
+      "best_time": "with meals (for heart conditions and vata)",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "III-IX (multiple)"
+      }
+    },
+    {
+      "id": "food_006",
+      "names": {
+        "sanskrit": "Kshira",
+        "english": "Milk (cow's milk)",
+        "hindi": "Doodh",
+        "gujarati": "Dudh"
+      },
+      "category": "Dugdha (dairy)",
+      "properties": {
+        "rasa": ["sweet"],
+        "virya": "cold",
+        "vipaka": "sweet",
+        "guna": ["heavy", "unctuous", "smooth", "slimy"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": "increases"
+      },
+      "therapeutic_uses": ["pitta disorders", "diarrhoea (paittika)", "post-enema diet", "semen promotion", "strength promotion", "urinary disorders", "head disorders", "pregnancy"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "after enema returns; post-purification",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "III-IX (multiple)"
+      }
+    },
+    {
+      "id": "food_007",
+      "names": {
+        "sanskrit": "Takra",
+        "english": "Buttermilk",
+        "hindi": "Chach / Takra",
+        "gujarati": "Chhas"
+      },
+      "category": "Dugdha vikara (dairy product)",
+      "properties": {
+        "rasa": ["sour", "astringent", "sweet"],
+        "virya": "hot",
+        "vipaka": "sour",
+        "guna": ["light", "dry"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "mild increase",
+        "kapha": "pacifies"
+      },
+      "therapeutic_uses": ["diarrhoea", "atisara with kacchura gruel", "grahani", "digestive disorders"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "VIII"
+      }
+    },
+    {
+      "id": "food_008",
+      "names": {
+        "sanskrit": "Dadima",
+        "english": "Pomegranate",
+        "hindi": "Anar",
+        "gujarati": "Dadam"
+      },
+      "category": "Phala (fruit)",
+      "properties": {
+        "rasa": ["sweet", "sour", "astringent"],
+        "virya": "",
+        "vipaka": "",
+        "guna": ["light"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": "neutral"
+      },
+      "therapeutic_uses": ["vata aggravation post-purgation", "colic pain post-purgation", "hingu-amlavetasa formula", "enema base for goat meat basti", "heart disease"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "VI, IX"
+      }
+    },
+    {
+      "id": "food_009",
+      "names": {
+        "sanskrit": "Guda",
+        "english": "Jaggery",
+        "hindi": "Gur",
+        "gujarati": "Gol / Gur"
+      },
+      "category": "Ikshuvikara (sugarcane product)",
+      "properties": {
+        "rasa": ["sweet"],
+        "virya": "",
+        "vipaka": "sweet",
+        "guna": ["heavy", "unctuous"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "mild increase",
+        "kapha": "increases"
+      },
+      "therapeutic_uses": ["enema preparations (non-unctuous)", "basti preparations", "diarrhoea", "promotes strength"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "III, VIII"
+      }
+    },
+    {
+      "id": "food_010",
+      "names": {
+        "sanskrit": "Saindhava Lavana",
+        "english": "Rock salt",
+        "hindi": "Sendha Namak",
+        "gujarati": "Sanchal / Sindhalun"
+      },
+      "category": "Lavana (salt)",
+      "properties": {
+        "rasa": ["salty"],
+        "virya": "cold",
+        "vipaka": "sweet",
+        "guna": ["penetrating", "light", "unctuous"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "mild",
+        "kapha": "mild increase"
+      },
+      "therapeutic_uses": ["all enema preparations", "semen promotion basti", "appetiser", "digestive"],
+      "contraindications": ["excessive quantity causes burning and diarrhoea"],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "III-VIII (multiple)"
+      }
+    },
+    {
+      "id": "food_011",
+      "names": {
+        "sanskrit": "Mamsa rasa (Ajamamsa rasa)",
+        "english": "Goat meat soup",
+        "hindi": "Bakri ka yakhni",
+        "gujarati": ""
+      },
+      "category": "Mamsa (meat)",
+      "properties": {
+        "rasa": ["sweet", "salty"],
+        "virya": "hot",
+        "vipaka": "",
+        "guna": ["unctuous", "heavy", "nourishing"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "neutral",
+        "kapha": "mild increase"
+      },
+      "therapeutic_uses": ["base for enema preparations", "post-enema diet", "vatika disorders", "promotes strength", "promotes musculature"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "after enema returns",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "III, IV, VII"
+      }
+    },
+    {
+      "id": "food_012",
+      "names": {
+        "sanskrit": "Ikshu rasa",
+        "english": "Sugarcane juice",
+        "hindi": "Ganne ka ras",
+        "gujarati": "Sherdino ras"
+      },
+      "category": "Phala rasa (fruit juice)",
+      "properties": {
+        "rasa": ["sweet"],
+        "virya": "cold",
+        "vipaka": "sweet",
+        "guna": ["heavy", "unctuous", "slimy"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": "increases"
+      },
+      "therapeutic_uses": ["diarrhoea (in gruel preparations)", "pitta-alleviating enema", "promotes semen", "promotes strength"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "III, VIII"
+      }
+    },
+    {
+      "id": "food_013",
+      "names": {
+        "sanskrit": "Tila taila",
+        "english": "Sesame oil",
+        "hindi": "Til ka tel",
+        "gujarati": "Tal no tel"
+      },
+      "category": "Taila (oil)",
+      "properties": {
+        "rasa": ["sweet", "bitter", "pungent", "astringent"],
+        "virya": "hot",
+        "vipaka": "pungent",
+        "guna": ["penetrating", "unctuous", "heavy", "subtle"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "mild increase",
+        "kapha": "mild increase"
+      },
+      "therapeutic_uses": ["all anuvasana basti preparations", "massage", "strength promotion", "semen promotion", "base for medicated oils"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "III-IX (multiple)"
+      }
+    },
+    {
+      "id": "food_014",
+      "names": {
+        "sanskrit": "Ushnodaka",
+        "english": "Hot water (boiled water)",
+        "hindi": "Garam pani",
+        "gujarati": "Garam pani"
+      },
+      "category": "Pana (drink)",
+      "properties": {
+        "rasa": [],
+        "virya": "hot",
+        "vipaka": "",
+        "guna": ["light", "penetrating"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "mild increase",
+        "kapha": "pacifies"
+      },
+      "therapeutic_uses": ["post-enema", "post-emesis", "post-purgation", "digests unctuous substance", "breaks kapha", "carminates wind"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "early morning after enema; post-purification therapies",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "IV"
+      }
+    },
+    {
+      "id": "food_015",
+      "names": {
+        "sanskrit": "Mudga",
+        "english": "Green gram",
+        "hindi": "Moong",
+        "gujarati": "Mag"
+      },
+      "category": "Shimbi dhanya (legume)",
+      "properties": {
+        "rasa": ["sweet", "astringent"],
+        "virya": "cold",
+        "vipaka": "sweet",
+        "guna": ["light", "dry"]
+      },
+      "dosha_effect": {
+        "vata": "mild increase",
+        "pitta": "pacifies",
+        "kapha": "pacifies"
+      },
+      "therapeutic_uses": ["diarrhoea (as gruel base)", "post-purification diet", "recovery diet", "light convalescent food"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "VIII"
+      }
+    },
+    {
+      "id": "food_016",
+      "names": {
+        "sanskrit": "Sura / Asava",
+        "english": "Wine / Fermented drink",
+        "hindi": "Madira",
+        "gujarati": "Daru"
+      },
+      "category": "Madya (fermented)",
+      "properties": {
+        "rasa": ["sour", "astringent", "pungent"],
+        "virya": "hot",
+        "vipaka": "sour",
+        "guna": ["light", "penetrating", "dry"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "mild increase",
+        "kapha": "pacifies"
+      },
+      "therapeutic_uses": ["enema base for kaphaja-vatika disorders", "hiccup treatment", "goksura dysuria basti base", "kapha-alleviating enemas", "exhaustion post-enema"],
+      "contraindications": ["fever", "paittika conditions (in excess)"],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "VII, VIII"
+      }
+    },
+    {
+      "id": "food_017",
+      "names": {
+        "sanskrit": "Gomutram",
+        "english": "Cow's urine",
+        "hindi": "Gomutra",
+        "gujarati": "Gai no mutro"
+      },
+      "category": "Mutra (urine therapy)",
+      "properties": {
+        "rasa": ["salty", "pungent", "bitter"],
+        "virya": "hot",
+        "vipaka": "pungent",
+        "guna": ["penetrating", "light", "dry"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "mild increase",
+        "kapha": "pacifies"
+      },
+      "therapeutic_uses": ["enema preparations for kaphaja and tridoshaja disorders", "erandabasti (basti)", "anaemia", "alasaka", "helminthiasis", "prameha"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "III, IV, VIII, IX"
+      }
+    },
+    {
+      "id": "food_018",
+      "names": {
+        "sanskrit": "Bilva",
+        "english": "Bael fruit / Wood apple",
+        "hindi": "Bel",
+        "gujarati": "Bel"
+      },
+      "category": "Phala (fruit) / Aushadha (herb-fruit)",
+      "properties": {
+        "rasa": ["astringent", "bitter", "pungent"],
+        "virya": "hot",
+        "vipaka": "pungent",
+        "guna": ["dry", "light"]
+      },
+      "dosha_effect": {
+        "vata": "pacifies",
+        "pitta": "pacifies",
+        "kapha": "pacifies"
+      },
+      "therapeutic_uses": ["vatika disorders (basti base)", "diarrhoea", "enema preparations", "deficient enema application", "intestinal disorders", "digestive fire promotion"],
+      "contraindications": [],
+      "incompatible_with": [],
+      "best_season": [],
+      "best_time": "",
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Siddhisthana",
+        "chapter": "III, IV, VII, VIII, IX"
+      }
+    }
+  ]
+}

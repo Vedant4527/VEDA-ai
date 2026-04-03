@@ -1,0 +1,4975 @@
+[
+  {
+    "id": "herb_419",
+    "varga": "Phala Varga (Fruit group)",
+    "names": {
+      "sanskrit": "Kadali",
+      "synonyms": [
+        "Moca",
+        "Rambha",
+        "Ansumati",
+        "Ambusara",
+        "Varana",
+        "Phala",
+        "Mocaphala",
+        "Dirghapatrika",
+        "Palasika",
+        "Brhutpuspa",
+        "Muktasara"
+      ],
+      "latin": "Musa paradisiaca Linn. (Syn. Musa sapientum Linn.); Family: Musaceae",
+      "hindi": "Kela",
+      "gujarati": "Kela",
+      "english": "Banana"
+    },
+    "properties": {
+      "rasa": [
+        "Madhura",
+        "Kasaya"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "guna": [
+        "Guru",
+        "Snigdha",
+        "Sita"
+      ],
+      "prabhava": "Trsnanigrahana (checks excessive thirst); Triptikara (satiation effect). Note: Properties vary significantly with stage of fruit — unripe, semi-ripe, ripe — and plant part."
+    },
+    "dosha_effect": {
+      "vata": "Context-dependent; ripe fruit may mildly increase Vata in some forms",
+      "pitta": "Pittahara — ripe fruit pacifies Pitta",
+      "kapha": "Kaphakara — ripe fruit can increase Kapha; excess use not advised in Kapha disorders",
+      "note": "Dosha effects vary with stage of fruit (unripe / semi-ripe / ripe) and plant part used"
+    },
+    "benefits": [
+      "Brmhana (nutritive / anabolic)",
+      "Hrdya (cardiac tonic)",
+      "Trsnanigrahana (checks excessive thirst)",
+      "Stambhana (checks excessive discharge)",
+      "Triptikara (promotes satiation)",
+      "Raktapittahara (checks bleeding disorders)",
+      "Dahaprasamana (relieves burning sensation)",
+      "Grahi (absorbent)",
+      "Balya (strengthening)",
+      "Msansadhara (supports muscle tissue)"
+    ],
+    "indications": [
+      "Daha (burning sensation)",
+      "Raktapitta (intrinsic haemorrhage / bleeding disorders)",
+      "Atisara (diarrhoea)",
+      "Grahani (intestinal malabsorption / chronic diarrhoea)",
+      "Pradara (excessive vaginal discharge)",
+      "Sira (headache)",
+      "Prameha (urinary disorders / diabetes)",
+      "Netraroga (eye diseases)",
+      "Dourbalya (debility / weakness)",
+      "Ksaya (wasting diseases)",
+      "Jvara (fever)",
+      "Karnasrava (ear discharge)",
+      "Sitaroga (cold disorders)",
+      "Vrana (wounds)"
+    ],
+    "contraindications": [
+      "Excess use of ripe fruit not advised in Kapha-dominant conditions",
+      "Ripe fruit increases Kapha — caution in obesity, Kapha prakrti"
+    ],
+    "dosage": {
+      "powder_churna": "",
+      "juice_svarasa": "10–20 ml",
+      "ksara": "As per formulation",
+      "decoction": "",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Honey (Madhu) — with juice in dysentery; Ghee (Ghrta) — with ripe fruit in menorrhagia; Sugar and honey with Amalaki juice for pradara"
+      }
+    },
+    "key_formulations": [
+      "Kadali Ksara (alkali extract from leaf ash — primary formulation)",
+      "Pancamrta Parpati (Kadali leaves used as ingredient/adjuvant)",
+      "Rasayana and Bhaishajya Kalpana preparations using Kadali patra and svarasa"
+    ],
+    "part_used": "Fruit (ripe and unripe), Flowers (Puspa), Leaves (Patra), Stem/trunk (Kanda-stambha), Root (Mula), Watery fluid from stem (Rambha tovara rasa), Expressed juice (Svarasa), Alkali extract (Ksara) from leaf ash",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "1–9"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Carbohydrates — reducing sugars (3.6–24.6%), non-reducing sugars (0.0–11.6%)",
+        "Protein (0.4–1.7%)",
+        "Fat",
+        "Ash",
+        "Vitamin B group (rich source)",
+        "Moisture (60.1–79.8%)",
+        "Calorific value: 67–137 cal/100g"
+      ],
+      "keywords": [
+        "banana",
+        "Musa paradisiaca",
+        "antidiarrhoeal",
+        "haemostatic",
+        "nutritive",
+        "Grahi",
+        "Ksara"
+      ]
+    }
+  },
+  {
+    "id": "herb_420",
+    "varga": "Puspa Varga / Vanausadhi Varga",
+    "names": {
+      "sanskrit": "Kadamba",
+      "synonyms": [
+        "Priyaka",
+        "Nipa",
+        "Vrttapuspa",
+        "Halipriya",
+        "Alipriya",
+        "Girikadambaka",
+        "Vrttaviharaka",
+        "Pravrsenyia",
+        "Kutsitambha",
+        "Kadambari",
+        "Pulaki",
+        "Parvatahva"
+      ],
+      "latin": "Anthocephalus chinensis (Lamk.) A. Rich. (Syn. Anthocephalus indicus Miq., Anthocephalus cadamba (Roxb.) Miq.); Also: Mitragyna parviflora (Roxb.) Korth.; Family: Rubiaceae",
+      "hindi": "Kadamb, Kadam",
+      "gujarati": "Kadamba",
+      "english": "Kadamb tree / Cadamba"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta",
+        "Kasaya"
+      ],
+      "virya": "Sita",
+      "vipaka": "Katu",
+      "guna": [
+        "Ruksa",
+        "Laghu"
+      ],
+      "prabhava": "Tridosasamaka (balances all three doshas simultaneously); strong Vranasodhana-Vranaropana (wound-cleansing and healing) action"
+    },
+    "dosha_effect": {
+      "vata": "Tridosasamaka — balances Vata",
+      "pitta": "Tridosasamaka — balances Pitta; Dahaprasamana (relieves burning sensation)",
+      "kapha": "Tridosasamaka — balances Kapha",
+      "note": "Considered Tridosasamaka — one of few drugs that pacifies all three doshas"
+    },
+    "benefits": [
+      "Vedanasthapana (analgesic / pain-relieving)",
+      "Sothahara (anti-inflammatory)",
+      "Vranasodhana (wound-cleansing)",
+      "Vranaropana (wound-healing)",
+      "Dipana-Pacana (digestive stimulant)",
+      "Grahi (absorbent / checks diarrhoea)",
+      "Trsnanigrahana (controls thirst)",
+      "Chardinigrahana (checks vomiting)",
+      "Vistambhana (constipating)",
+      "Raktastambhana (haemostatic)",
+      "Kasahara (relieves cough)",
+      "Mutrajanana / Mutravireciraniya (diuretic)",
+      "Asmari-Sarkaranasana (dissolves urinary stones / gravel)",
+      "Sukrasodhana (purifies semen)",
+      "Stanyasodhana (purifies breast milk)",
+      "Yonidosahara (removes vaginal disorders)",
+      "Amapacana-Jvaraghna (digestive, antipyretic)",
+      "Visaghna (antitoxic)"
+    ],
+    "indications": [
+      "Vrana (ulcers / wounds)",
+      "Vranasotha (inflammatory swellings)",
+      "Vedana (pain)",
+      "Netrabhisyanda (conjunctivitis)",
+      "Mukharoga (mouth diseases — stomatitis, oral ulcers)",
+      "Atisara / Grahani (diarrhoea / malabsorption)",
+      "Jvariya pipasa (thirst in fever)",
+      "Raktaatisara (haemorrhagic diarrhoea)",
+      "Raktapitta (intrinsic haemorrhage)",
+      "Sotha (oedema)",
+      "Kasa (cough)",
+      "Asmari / Sarkara (urinary stones / gravel)",
+      "Mutrakrcchra (dysuria)",
+      "Sukrameha (spermatorrhoea)",
+      "Yonivyapada / Pradara (vaginal disorders / leucorrhoea)",
+      "Stanyaksaya (reduced breast milk)",
+      "Ksudraroga / Vyanga / Nyaccha (minor skin conditions)",
+      "Jvara / Jvaradaha (fever with burning sensation)",
+      "Dourbalya (debility)",
+      "Visa (poisoning)"
+    ],
+    "contraindications": [
+      "Not explicitly stated in classical text"
+    ],
+    "dosage": {
+      "powder_churna": "3–6 gm (bark powder)",
+      "decoction": "50–100 ml",
+      "juice": "3–6 gm (fruit juice)",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Jiraka (cumin) and sugar — for vomiting; warm water — for urinary stones"
+      }
+    },
+    "key_formulations": [
+      "Nyagrodhadi gana (Susruta Samhita)",
+      "Rodhradi gana (Susruta Samhita)",
+      "Vedanasthapana gana (Caraka Samhita)",
+      "Sukrasodhana gana (Caraka Samhita)",
+      "Varnanopaga gana (Caraka Samhita)"
+    ],
+    "part_used": "Bark (Tvak), Leaves (Patra), Fruits (Phala), Root (Mula)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "9–17"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Cinchotannic acid (active principle in bark)",
+        "Alkaloids",
+        "Steroids",
+        "Reducing sugars"
+      ],
+      "keywords": [
+        "Kadamba",
+        "Anthocephalus chinensis",
+        "wound healing",
+        "anti-inflammatory",
+        "Tridosasamaka",
+        "diuretic",
+        "antipyretic"
+      ]
+    }
+  },
+  {
+    "id": "herb_421",
+    "varga": "Phala Varga (Fruit group)",
+    "names": {
+      "sanskrit": "Kajutaka",
+      "synonyms": [
+        "Gucchapuspa",
+        "Sitaphala",
+        "Amraskara",
+        "Vrttapatra",
+        "Parvati",
+        "Kajuta",
+        "Purvagbija",
+        "Snigdhaphala"
+      ],
+      "latin": "Anacardium occidentale Linn.; Family: Anacardiaceae",
+      "hindi": "Kaju",
+      "gujarati": "Kaju",
+      "english": "Cashew nut / Cashew nut tree"
+    },
+    "properties": {
+      "rasa": [
+        "Madhura",
+        "Kasaya"
+      ],
+      "virya": "Usna",
+      "vipaka": "Madhura",
+      "guna": [
+        "Laghu",
+        "Snigdha"
+      ],
+      "prabhava": "Nadibalya-Mastiskabalya (specific nerve and brain strengthening action); Vesicant-counterirritant property of pericarp oil (Anacardiac acid)"
+    },
+    "dosha_effect": {
+      "vata": "Vatakaphahara — reduces Vata",
+      "pitta": "Usna virya may mildly aggravate Pitta — use with caution in Pitta-dominant conditions",
+      "kapha": "Vatakaphahara — reduces Kapha",
+      "note": "Primarily Vatakaphahara; Pitta caution due to Usna (hot) potency"
+    },
+    "benefits": [
+      "Brmhana-Balya-Dhatuvrddhikara (anabolic, strengthening, promotes tissue growth)",
+      "Krmighna (anthelmintic)",
+      "Vranaropana (wound healing)",
+      "Dipana (digestive stimulant)",
+      "Kusthaghna (skin disease remedy)",
+      "Arsaghna (relieves piles / haemorrhoids)",
+      "Jvaraghna (antipyretic)",
+      "Vedanasthapana (analgesic)",
+      "Raktasodhaka (blood purifier)",
+      "Nadibalya / Mastiskabalya (nerve and brain tonic)",
+      "Snehana (oleation)",
+      "Vrsya / Vajikarana (aphrodisiac)",
+      "Hrdya (cardiotonic)",
+      "Mutrala (diuretic)",
+      "Vesicant-counterirritant (pericarp oil)"
+    ],
+    "indications": [
+      "Dhatuksaya / Dourbalya (tissue wasting / debility)",
+      "Krmi (worm infestations)",
+      "Vrana (wounds)",
+      "Agnimandya / Anasya (digestive weakness / loss of appetite)",
+      "Sangrahani (malabsorption syndrome)",
+      "Arsa (piles / haemorrhoids)",
+      "Kustha / Svetakustha (skin diseases including vitiligo)",
+      "Gulma / Udararoga (abdominal tumours / diseases)",
+      "Nadidourbalya / Mastiskadourbalya (nerve and brain weakness)"
+    ],
+    "contraindications": [
+      "Caution in Pitta-dominant conditions due to Usna (hot) virya",
+      "Not explicitly contraindicated in classical text"
+    ],
+    "dosage": {
+      "powder_churna": "",
+      "decoction": "",
+      "kernel": "6–12 gm",
+      "oil": "3–6 gm",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Not specifically mentioned in text"
+      }
+    },
+    "key_formulations": [
+      "Mentioned in traditional anabolic and tonic preparations (no specific named formulation given in text)"
+    ],
+    "part_used": "Kernel (nut); Oil (from pericarp / cashew shell liquid)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "15–20"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Protein (21.2%)",
+        "Fat (16.9%)",
+        "Carbohydrates (22.3%)",
+        "Minerals — calcium, potassium, iron (2.4%)",
+        "Fixed oil from kernel (10–50%): Oleic acid (73%), Linoleic acid, Stearic acid, Palmitic acid, Glycerides",
+        "Pericarp shell oil: Anacardiac acid (chief vesicant), Cardol",
+        "Trunk gum"
+      ],
+      "keywords": [
+        "cashew",
+        "Anacardium occidentale",
+        "nerve tonic",
+        "anabolic",
+        "anthelmintic",
+        "Anacardiac acid",
+        "Rottlerin"
+      ]
+    }
+  },
+  {
+    "id": "herb_422",
+    "varga": "Vanausadhi Varga / Gulma Varga",
+    "names": {
+      "sanskrit": "Kakadani",
+      "synonyms": [
+        "Sakralata"
+      ],
+      "latin": "Cardiospermum halicacabum Linn.; Family: Sapindaceae",
+      "hindi": "Kanphuta, Kanphuti",
+      "gujarati": "Not recorded in source text",
+      "english": "Balloon vine / Heart seed"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksa"
+      ],
+      "prabhava": "Specific antidote action against Jangamavisa (animate poisons — snake bite, rat bite); Sannipataodarahara (specific action in Sannipata-type abdominal disorders)"
+    },
+    "dosha_effect": {
+      "vata": "Vatakaphahara / Tridosaghna — reduces Vata",
+      "pitta": "Tridosaghna — also acts in Pitta-related conditions",
+      "kapha": "Vatakaphahara — reduces Kapha",
+      "note": "Described as Vatakaphahara in primary action; also noted as Tridosaghna in some references"
+    },
+    "benefits": [
+      "Visaghna (antidote / detoxifying — especially for snake and rat poison)",
+      "Kasahara (relieves cough)",
+      "Jvaraghna (antipyretic)",
+      "Sannipataodarahara (relieves Sannipata-type abdominal disorders)"
+    ],
+    "indications": [
+      "Visa / Sthavara (non-animate / inanimate poisons)",
+      "Vrddhi roga (scrotal enlargement / hydrocele)",
+      "Khalitya (hair fall / baldness)",
+      "Pandu (anaemia)",
+      "Kamala (jaundice)",
+      "Udararoga / Sannipatodara (abdominal diseases)",
+      "Sarpa-musika-jangamavisa (snake bite, rat bite, animal poisons)",
+      "Jvara / Kasa (fever and cough)"
+    ],
+    "contraindications": [
+      "Not explicitly stated in classical text"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm",
+      "decoction": "",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Sour gruel (Amla kanji) — with pounded roots for snake poison; Ghee (Ghrta) processed with juice for rat-bite poison antidote"
+      }
+    },
+    "key_formulations": [
+      "Atalatakadi Kasaya (for cough with fever — Sajvarakasa)",
+      "Dasasvarasa Ghrta (for scrotal enlargement / Vrddhi)",
+      "Nilibhrgadi Taila (for scrotal enlargement)",
+      "Lagunadi Kasaya (for anaemia and jaundice)"
+    ],
+    "part_used": "Root; Leaves (also cooked and eaten as vegetable)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "18–22"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Not recorded in source text"
+      ],
+      "keywords": [
+        "balloon vine",
+        "Cardiospermum halicacabum",
+        "antidote",
+        "antipyretic",
+        "antivenomous",
+        "Visaghna",
+        "Vrddhi"
+      ]
+    }
+  },
+  {
+    "id": "herb_423",
+    "varga": "Guduchyadi Varga / Saka Varga",
+    "names": {
+      "sanskrit": "Kakamaci",
+      "synonyms": [
+        "Dhvanksaksamda",
+        "Kakamara",
+        "Jaghanaphalika",
+        "Sarvatikta",
+        "Rahuphriya",
+        "Vayasi",
+        "Ikkini",
+        "Rasayanavara",
+        "Gudaphala",
+        "Sundari",
+        "Gucchaphala",
+        "Vara"
+      ],
+      "latin": "Solanum nigrum Linn.; Family: Solanaceae",
+      "hindi": "Makoy, Makoi",
+      "gujarati": "Piludi",
+      "english": "Black nightshade"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta"
+      ],
+      "virya": "Anusna (slightly warm / neutral — not intensely hot)",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Snigdha"
+      ],
+      "prabhava": "Rasayana (rejuvenative); Yakrduttejaka (specific liver-stimulating and hepatoprotective action); antidote for Musikavisa (rat-bite poison)"
+    },
+    "dosha_effect": {
+      "vata": "Tridosaghna — pacifies Vata",
+      "pitta": "Tridosaghna — pacifies Pitta; Pittasaraka (promotes Pitta flow / cholagogue); Yakrduttejaka (liver stimulant)",
+      "kapha": "Tridosaghna — pacifies Kapha; Kaphaghna",
+      "note": "Tridosaghna — pacifies all three doshas; acts primarily on Pitta through liver stimulation and blood purification"
+    },
+    "benefits": [
+      "Sodhana (purifying)",
+      "Hrdya (cardiac tonic)",
+      "Raktasodhana (blood purifier)",
+      "Raktabharahrasaka (reduces blood pressure)",
+      "Vranasodhana (wound cleansing)",
+      "Vedanasthapana (analgesic)",
+      "Dipana (digestive stimulant)",
+      "Yakrduttejaka / Pittasaraka / Recana (liver stimulant, cholagogue, mild purgative)",
+      "Kaphaghna / Ksaghna (reduces Kapha)",
+      "Svasahara (relieves breathing disorders)",
+      "Hikkanigrahana (stops hiccup)",
+      "Mutrala (diuretic)",
+      "Svedajanana (diaphoretic)",
+      "Kusthaghna (skin disease remedy)",
+      "Visaghna (antitoxic)",
+      "Jvaraghna / Katupoustika (antipyretic, bitter tonic)",
+      "Rasayana (rejuvenative)"
+    ],
+    "indications": [
+      "Sotha (oedema / swelling)",
+      "Hrdroga (heart disease)",
+      "Kustha / Svitra (skin diseases including vitiligo)",
+      "Vatarakta (gout)",
+      "Amavata (rheumatoid arthritis)",
+      "Raktavikara (blood disorders)",
+      "Sandhivata (osteoarthritis)",
+      "Vrsanasotha (orchitis / testicular swelling)",
+      "Yakrchotha (liver enlargement)",
+      "Udararoga (abdominal diseases)",
+      "Karnasulah (earache)",
+      "Nasaroga (nasal diseases)",
+      "Netraroga (eye diseases)",
+      "Kustha-Svitra-Kilasa (leprosy, vitiligo)",
+      "Agnimandya / Chardi (digestive weakness, vomiting)",
+      "Yakrdvikara / Yakrdvrddhi (liver disorders, hepatomegaly)",
+      "Pliha vikara / Plihavrddhi (spleen disorders, splenomegaly)",
+      "Arsa (haemorrhoids / piles)",
+      "Jirnajvara (chronic fever)",
+      "Kasa / Svasa / Hikka / Svarabheda (cough, asthma, hiccup, hoarseness)",
+      "Vrkkaroga / Puyameha / Mutrakrcchra (kidney disease, purulent urine, dysuria)",
+      "Dourbalya (debility)",
+      "Visa / Ahiphenavisa (poisoning including opium poisoning)",
+      "Ksayaroga (wasting diseases / tuberculosis-like conditions)",
+      "Sitapitta / Kotha (urticaria)",
+      "Urustambha (stiffness / paralysis of thighs)",
+      "Cirrhosis of liver"
+    ],
+    "contraindications": [
+      "Not explicitly stated in classical text"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm (fruit powder)",
+      "juice_svarasa": "10–20 ml",
+      "arka": "20–50 ml",
+      "decoction": "",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Jaggery (Guda) with Marica and Pippali — for strength promotion; Ghee (Ghrta) — Kakamaci Ghrta used as Rasayana and rat-bite antidote"
+      }
+    },
+    "key_formulations": [
+      "Kakamaci Arka (Arka Makoya) — primary commercial formulation",
+      "Kakamaci Ghrta (ghee preparation)",
+      "Kakamaci Saka (vegetable preparation for urustambha)"
+    ],
+    "part_used": "Whole plant; Fruit",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "21–27"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Steroidal glyco-alkaloids: Solamargine, Solasomine, Solanigrine A and B (green fruits)",
+        "Total alkaloid content: 0.101–0.431%",
+        "Riboflavin: 0.59 mg/100g",
+        "Nicotinic acid: 0.92 mg/100g",
+        "Vitamin C: 11 mg/100g",
+        "Beta-carotene: 0.74 mg/100g",
+        "Calcium: 410 mg/100g",
+        "Iron: 20.5 mg/100g",
+        "Glucose and fructose in ripe fruit (15–20%)",
+        "Greenish yellow fixed oil in seeds (15–20%)"
+      ],
+      "keywords": [
+        "black nightshade",
+        "Solanum nigrum",
+        "hepatoprotective",
+        "Rasayana",
+        "anti-inflammatory",
+        "solamargine",
+        "solasomine",
+        "liver tonic"
+      ]
+    }
+  },
+  {
+    "id": "herb_424",
+    "varga": "Vanausadhi Varga / Ksudrausadhi Varga",
+    "names": {
+      "sanskrit": "Kakodumbara",
+      "synonyms": [
+        "Kakodumbarika",
+        "Phalugu",
+        "Jaghanephala",
+        "Kasthodumbara",
+        "Svitrab-haigajya",
+        "Malayu-Malapu",
+        "Mulakarkati",
+        "Stambhavrttika",
+        "Kharapatrn",
+        "Rajika",
+        "Ajaksi"
+      ],
+      "latin": "Ficus hispida Linn. f.; Family: Urticaceae",
+      "hindi": "Kathumar, Kathgular",
+      "gujarati": "Dedadavari",
+      "english": "Rough fig / Hairy fig"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta",
+        "Kasaya"
+      ],
+      "virya": "Sita",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksa"
+      ],
+      "prabhava": "Stanyajanana (galactagogue); specific traditional use in vitiligo (Svitra); Niyatakalikajvara-pratibandhaka (prevents recurrent periodic fever)"
+    },
+    "dosha_effect": {
+      "vata": "Vatapittasamaka — reduces Vata and Pitta",
+      "pitta": "Vatapittasamaka — reduces Pitta; Pittasaraka (promotes Pitta flow)",
+      "kapha": "Sita virya may mildly increase Kapha — not explicitly stated in text",
+      "note": "Primarily Vatapittasamaka; Kapha effect not clearly stated"
+    },
+    "benefits": [
+      "Kusthaghna (skin disease remedy)",
+      "Vranasodhana (wound cleansing)",
+      "Sothahara (anti-inflammatory)",
+      "Vamaka (emetic)",
+      "Recaka (purgative)",
+      "Pittasaraka (cholagogue)",
+      "Raktaprasadana (blood purifier)",
+      "Raktastambhana (haemostatic)",
+      "Stanyajanana (galactagogue — promotes breast milk)",
+      "Jvaraghna (antipyretic)",
+      "Niyatakalikajvara-pratibandhaka (prevents periodic / recurrent fever)",
+      "Balya-Vrsya-Brmhana (strengthening, aphrodisiac, anabolic)",
+      "Visaghna (antitoxic)",
+      "Katupoustika (bitter tonic)"
+    ],
+    "indications": [
+      "Kustha / Svitra / Kilasa (skin diseases, vitiligo, leucoderma)",
+      "Carmavikara (skin disorders)",
+      "Ksudraroga / Dadru (minor skin diseases, ringworm)",
+      "Vrana (ulcers / wounds)",
+      "Mukharoga / Upakusa (mouth diseases, pyorrhoea)",
+      "Gandamala (cervical lymphadenitis / scrofula)",
+      "Udararoga / Anaha (abdominal disorders, flatulence)",
+      "Arsa (haemorrhoids / piles)",
+      "Atisara (diarrhoea)",
+      "Vatavyadhi / Avabahuka (Vata disorders, shoulder paralysis)",
+      "Pandu / Kamala (anaemia, jaundice)",
+      "Raktavikara (blood disorders)",
+      "Raktapitta (intrinsic haemorrhage)",
+      "Sotha (oedema)",
+      "Sutikaroga / Stanyaksaya (post-natal disorders, reduced breast milk)",
+      "Pradara / Asrgdara (excessive vaginal discharge / metrorrhagia)",
+      "Visamajvara (intermittent / periodic fever)",
+      "Dourbalya (debility)",
+      "Visa / Alarkavisa (poisoning including rabies)"
+    ],
+    "contraindications": [
+      "Not explicitly stated in classical text"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm (bark powder)",
+      "decoction": "50–100 ml",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Honey (Madhu) — fruit juice with honey for Pradara; Rice-water (Tandulodaka) — root with rice-water for Raktapitta and rabies; Datura seeds combined with root for rabies antidote"
+      }
+    },
+    "key_formulations": [
+      "Classical preparations for Pradara, Raktapitta, Kustha, and Svitra (vitiligo) — no specific named proprietary formulation given in text"
+    ],
+    "part_used": "Root bark; Fruit; Latex",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "26–32"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Tannin (bark)",
+        "Glucoside (bark)",
+        "Wax (bark)",
+        "Saponin (bark)"
+      ],
+      "keywords": [
+        "Ficus hispida",
+        "rough fig",
+        "galactagogue",
+        "vitiligo",
+        "haemostatic",
+        "antipyretic",
+        "Stanyajanana",
+        "tannin"
+      ]
+    }
+  },
+  {
+    "id": "herb_425",
+    "varga": "Upavarga / Vanausadhi Varga",
+    "names": {
+      "sanskrit": "Kala, Khakasi",
+      "synonyms": [
+        "Sarsapika",
+        "Vanya Sarsapa",
+        "Kha-sabija"
+      ],
+      "latin": "Sisymbrium irio Linn.; Family: Cruciferae",
+      "hindi": "Khubakala, Khakasi, Khaksi",
+      "gujarati": "Not recorded in source text",
+      "english": "Hedge mustard"
+    },
+    "properties": {
+      "rasa": [
+        "Katu"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "guna": [
+        "Snigdha",
+        "Guru",
+        "Picchila"
+      ],
+      "prabhava": "Specific action in eruptive fevers (Visphota jvara, Masurika) — promotes early sequential appearance of eruptions and gradually lowers fever temperature; diaphoretic (Svedajanana) and Amapacana combined action"
+    },
+    "dosha_effect": {
+      "vata": "Vatasamaka — pacifies Vata; Vatanulomana (normalises Vata movement)",
+      "pitta": "Usna virya may mildly aggravate Pitta — no explicit contraindication stated",
+      "kapha": "Kaphanihsaraka — actively expels Kapha (expectorant)",
+      "note": "Primarily Vatasamaka and Kaphanihsaraka; Usna virya may affect Pitta"
+    },
+    "benefits": [
+      "Chedana / Kaphanihsaraka (expectorant — expels Kapha)",
+      "Amapacana (digests Ama — immature metabolites)",
+      "Svedajanana (diaphoretic — promotes sweating)",
+      "Jvaraghna (antipyretic)",
+      "Brmhana-Balya (anabolic, strengthening)",
+      "Vatanulomana (normalises Vata movement)",
+      "Trsnanigrahana (controls excessive thirst)",
+      "Chardinigrahana (controls vomiting)",
+      "Sothahara (anti-inflammatory)",
+      "Vedanasthapana (analgesic)"
+    ],
+    "indications": [
+      "Kasa (cough)",
+      "Jirnakasa (chronic cough)",
+      "Svarabheda (hoarseness / sore throat)",
+      "Svasa (asthma / breathing difficulties)",
+      "Jvara — especially Vatakaphajvara (cough-fever)",
+      "Visphota jvara (eruptive fevers — smallpox type)",
+      "Masurika (measles / chicken pox)",
+      "Tvagdosa (skin diseases)",
+      "Adhmana (flatulence / bloating)",
+      "Visucika (gastroenteritis / cholera-like condition)",
+      "Trsna (excessive thirst)",
+      "Netra-stana sotha (inflammatory swelling of eyes and breasts)",
+      "Dourbalya (debility)"
+    ],
+    "contraindications": [
+      "Excess use may aggravate Pitta due to Usna (hot) potency",
+      "No explicit classical contraindication stated"
+    ],
+    "dosage": {
+      "powder_churna": "3–6 gm (seed powder)",
+      "decoction": "",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Rose water (Gulab jal / aqua rose) — mixed with seed powder for flatulence and gastroenteritis"
+      }
+    },
+    "key_formulations": [
+      "Vanauspadi Kvatha (used in cough-fever)",
+      "Paka-majun preparations (Yunani tonic preparations incorporating seeds)",
+      "Seeds sprinkled on patient's bed in smallpox and eruptive fever (traditional practice)"
+    ],
+    "part_used": "Seeds",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "31–34"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Isorhamnetin (seeds)",
+        "Fixed oil (seeds): 18–20%",
+        "Vitamin A (leaves)",
+        "Vitamin C (leaves)",
+        "Protein (leaves)",
+        "Minerals (leaves)"
+      ],
+      "keywords": [
+        "hedge mustard",
+        "Sisymbrium irio",
+        "expectorant",
+        "diaphoretic",
+        "eruptive fever",
+        "isorhamnetin",
+        "Kaphanihsaraka"
+      ]
+    }
+  },
+  {
+    "id": "herb_426",
+    "varga": "Tikta Skanda Varga / Guduchyadi Varga",
+    "names": {
+      "sanskrit": "Kalamegha",
+      "synonyms": [
+        "Bhunimba",
+        "Kalpanatha",
+        "Yavtikta",
+        "Santhitti"
+      ],
+      "latin": "Andrographis paniculata (Burm.f.) Wall ex Nees; Family: Acanthaceae",
+      "hindi": "Kalamegh, Kalmeg, Kiryat",
+      "gujarati": "Lilu Kariyatu",
+      "english": "King of bitters / Andrographis / Creat"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksa"
+      ],
+      "prabhava": "Yakrduttejaka (specific hepatoprotective and liver-stimulating action); Visamajvara-pratibandhaka (prevents periodic / malarial fever); substitute and adulterant of Kiratatikta (Swertia chirayita)"
+    },
+    "dosha_effect": {
+      "vata": "Usna virya supports Vata pacification in Vatakapha conditions — not explicitly stated",
+      "pitta": "Kaphapittahara — pacifies Pitta; Pittasaraka (cholagogue); Yakrduttejaka (liver stimulant)",
+      "kapha": "Kaphapittahara — actively pacifies Kapha",
+      "note": "Primarily Kaphapittahara; main site of action is liver and blood"
+    },
+    "benefits": [
+      "Yakrduttejaka (liver stimulant / hepatoprotective)",
+      "Pittasaraka (cholagogue)",
+      "Recana (mild purgative / laxative)",
+      "Krmighna (anthelmintic)",
+      "Svedajanana (diaphoretic)",
+      "Kusthaghna (skin disease remedy)",
+      "Jvaraghna (antipyretic)",
+      "Visamajvara-pratibandhaka (prevents periodic / malarial fever)",
+      "Katupoustika (bitter tonic)",
+      "Raktasodhaka (blood purifier)",
+      "Antihistaminic"
+    ],
+    "indications": [
+      "Jvara (fever)",
+      "Visamajvara (intermittent / malarial fever)",
+      "Jirnajvara (chronic fever)",
+      "Yakrdvikara (liver disorders)",
+      "Krmiroga (worm infestations)",
+      "Agnimandya / Vibandha (digestive weakness, constipation)",
+      "Raktavikara (blood disorders)",
+      "Sotha (oedema / swelling)",
+      "Carmavikara (skin diseases)",
+      "Dourbalya (debility — especially post-fever weakness)",
+      "Allergic conditions",
+      "Abdominal diseases / Anasarca / Ascites",
+      "Cardiac disorders",
+      "Helminthic manifestations",
+      "Malaria and chronic fever (with Marica churna)"
+    ],
+    "contraindications": [
+      "Use with caution in pure Pitta conditions due to Usna virya and Katu vipaka",
+      "No explicit classical contraindication stated"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm",
+      "juice_svarasa": "5–10 ml",
+      "decoction": "20–40 ml",
+      "liquid_extract": "0.5 ml",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Marica churna (black pepper powder) — combined for malaria and chronic fever"
+      }
+    },
+    "key_formulations": [
+      "Liquid Extract Kalamegh (primary modern formulation)",
+      "Referenced in Caraka Samhita (Kalpa sthana)",
+      "Referenced in Kaiyadevanighantu (Taila Varga)"
+    ],
+    "part_used": "Whole plant",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "34–38"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Andrographolide (primary bitter lactone — chief active principle)",
+        "Andrographide",
+        "Kalmeghin (crystalline alkaloid)",
+        "Tannin",
+        "Volatile oil (small quantity)"
+      ],
+      "keywords": [
+        "andrographis",
+        "king of bitters",
+        "andrographolide",
+        "hepatoprotective",
+        "antimalarial",
+        "antipyretic",
+        "bitter tonic",
+        "Bhunimba"
+      ]
+    }
+  },
+  {
+    "id": "herb_427",
+    "varga": "Dhanya Varga (Grain / Pulse group)",
+    "names": {
+      "sanskrit": "Kalaya",
+      "synonyms": [
+        "Triputa",
+        "Khandika"
+      ],
+      "latin": "Lathyrus sativus Linn.; Family: Fabaceae (Papilionaceae)",
+      "hindi": "Khesari",
+      "gujarati": "Lang",
+      "english": "Grass pea / Chickling vetch"
+    },
+    "properties": {
+      "rasa": [
+        "Kasaya",
+        "Madhura"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "guna": [
+        "Laghu"
+      ],
+      "prabhava": "Vatakara (increases Vata) — excess use causes lathyrism (neurolathyrism — paralytic condition); Parinamasula-specific action"
+    },
+    "dosha_effect": {
+      "vata": "Vatajanana / Vatakara — increases Vata; aggravates Vata with excess or prolonged use",
+      "pitta": "Pittakaphajamaka — pacifies Pitta in moderate use",
+      "kapha": "Pittakaphajamaka — pacifies Kapha in moderate use",
+      "note": "IMPORTANT: Excess or regular consumption increases Vata and causes lathyrism — a neurotoxic paralytic disease. Use medicinally only in controlled doses."
+    },
+    "benefits": [
+      "Dahaprasamana (relieves burning sensation)",
+      "Sulaprasamana (relieves abdominal colic / pain)",
+      "Balya (strengthening — in moderate use)"
+    ],
+    "indications": [
+      "Sula (abdominal colic / pain)",
+      "Parinamasula (duodenal / peptic ulcer-type pain)",
+      "Vrana (wounds)",
+      "Amlapitta (hyperacidity / acid-peptic disease)"
+    ],
+    "contraindications": [
+      "EXPLICIT WARNING: Regular and excess consumption causes lathyrism (neurolathyrism) — a severe paralytic disease",
+      "Increases Vata — contraindicated in Vatavyadhi and Vata-dominant conditions",
+      "Used as adulterant in other pulses — food safety concern noted in text",
+      "Not suitable as a staple food"
+    ],
+    "dosage": {
+      "powder_churna": "5–10 gm (seed powder)",
+      "decoction": "",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Not specifically mentioned in text"
+      }
+    },
+    "key_formulations": [
+      "Kalaya curna gutika (named classical formulation)",
+      "Referenced in Bhavaprakasha Nighantu (Dhanya Varga)",
+      "Referenced in Kaiyadevanighantu (Dhanya Varga)",
+      "Referenced in Raja Nighantu (Savadi Varga)",
+      "Referenced in Chakradatta (Parinamasula Cikitsa)",
+      "Referenced in Vrndamadhava"
+    ],
+    "part_used": "Seeds (used as pulse / grain drug)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "37–42"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Protein (28.2%)",
+        "Carbohydrates (58.2%)",
+        "Starch — Amylose (30.3%), Amylopectin (69.7%)",
+        "Sucrose (1.5%)",
+        "Pentosans (6.5%)",
+        "Phytin (3.6%)",
+        "Lignin (1.5%)",
+        "Stachyose, Raffinose, Pectins",
+        "ODAP (Beta-N-oxalyl-L-alpha,beta-diaminopropionic acid) — neurotoxin causing lathyrism (implied by lathyrism reference; not named in text)"
+      ],
+      "keywords": [
+        "grass pea",
+        "Lathyrus sativus",
+        "lathyrism",
+        "ODAP",
+        "neurotoxin",
+        "Parinamasula",
+        "pulse",
+        "Vatakara"
+      ]
+    }
+  },
+  {
+    "id": "herb_428",
+    "varga": "Phala Varga (Fruit group) / Saka Varga",
+    "names": {
+      "sanskrit": "Kalinda",
+      "synonyms": [
+        "Krsnabija",
+        "Suvartula",
+        "Kalingaka",
+        "Kalinga",
+        "Mamsaphala",
+        "Citraphala",
+        "Citru-vallika",
+        "Citravallika",
+        "Madhuraphala",
+        "Trsnaphala"
+      ],
+      "latin": "Citrullus lanatus (Thunb.) Matsum. & Nakai (Syn. Citrullus vulgaris Schrad., Colocynthis citrullus (Linn.) Kuntze); Family: Cucurbitaceae",
+      "hindi": "Tarbuj, Kalinda",
+      "gujarati": "Not recorded in source text",
+      "english": "Watermelon"
+    },
+    "properties": {
+      "rasa": [
+        "Madhura"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "guna": [
+        "Guru"
+      ],
+      "prabhava": "Trsnanigrahana (strong thirst-quenching / refrigerant effect); Mutrala (diuretic action especially of seeds); Santarpana (deeply nourishing / replenishing)"
+    },
+    "dosha_effect": {
+      "vata": "Kaphavatasamaka (ripe) — reduces Vata",
+      "pitta": "Pittasamaka (ripe) — reduces Pitta; Pittajanana (unripe) — increases Pitta. Use only ripe fruit.",
+      "kapha": "Kaphavatasamaka (ripe) — reduces Kapha; excess Guru guna of pulp may increase Kapha",
+      "note": "Properties differ between unripe (Pittajanana) and ripe fruit (Pittasamaka, Kaphavatasamaka). Use ripe fruit only."
+    },
+    "benefits": [
+      "Santarpana (nourishing / satiating)",
+      "Trsnanigrahana (relieves excessive thirst)",
+      "Sramahara (relieves fatigue / exhaustion)",
+      "Balya (strengthening)",
+      "Dahaprasamana (relieves burning sensation)",
+      "Vrsya-virya-pustivivardhana (aphrodisiac, promotes semen and tissue strength)",
+      "Grahi (absorbent)",
+      "Mutrala (diuretic)",
+      "Refrigerant and cooling"
+    ],
+    "indications": [
+      "Mutrakrcchra (dysuria / painful urination)",
+      "Mutraghata (urinary obstruction / retention)",
+      "Daha (burning sensation — internal)",
+      "Trsna (excessive thirst)",
+      "Dourbalya (debility / weakness)",
+      "Urinary troubles — seeds used as diuretic"
+    ],
+    "contraindications": [
+      "Excess use of fruit pulp causes Ajirna (indigestion) — heavy (Guru) to digest",
+      "Excess pulp may cause abdominal discomfort",
+      "Unripe fruit increases Pitta — avoid in Pitta conditions",
+      "Caution in Kapha-dominant constitution due to Guru (heavy) guna of pulp"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm (seed kernel powder)",
+      "pulp": "3–6 gm (medicinal dose; pulp is edible)",
+      "decoction": "",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Not specifically mentioned in text"
+      }
+    },
+    "key_formulations": [
+      "No specific named formulation given in text",
+      "Referenced in Bhavaprakasha Nighantu (Amradiphala Varga)",
+      "Referenced in Kaiyadevanighantu (Osadhi Varga)",
+      "Referenced in Raja Nighantu (Mulakadi Varga)"
+    ],
+    "part_used": "Fruit pulp (Phala majja); Leaves (Patra); Seeds / Seed kernel (Bija / Bija majja)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "41–45"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Moisture (95.7%)",
+        "Carbohydrates (3.8%)",
+        "Citrulline (~0.17% in juice)",
+        "Pectin (rich source)",
+        "Calcium (0.01%)",
+        "Phosphorus (0.01%)",
+        "Iron (0.2 mg/100g)",
+        "Carotene (traces)",
+        "Protein (0.1%)",
+        "Fat (0.2%)"
+      ],
+      "keywords": [
+        "watermelon",
+        "Citrullus lanatus",
+        "citrulline",
+        "diuretic",
+        "refrigerant",
+        "Mutrakrcchra",
+        "thirst",
+        "pectin"
+      ]
+    }
+  },
+  {
+    "id": "herb_429",
+    "varga": "Puspa Varga / Jala Varga (Aquatic group)",
+    "names": {
+      "sanskrit": "Kamala",
+      "synonyms": [
+        "Padma",
+        "Nalina",
+        "Sahasrapatra",
+        "Satapatra",
+        "Pankeruha",
+        "Tamarasa",
+        "Visaprasuna",
+        "Puskara",
+        "Ambhoruha",
+        "Rajiva",
+        "Sarasa",
+        "Mahotpala",
+        "Kusesaya",
+        "Samvartika (tender leaf)",
+        "Padmini / Kamalini (whole plant)",
+        "Saluka / Karahitaka (rhizome)",
+        "Karnika / Varataka / Bijakosa (seed-case)",
+        "Padmabija / Kamalaksa (seeds)",
+        "Mrnala (stalk)",
+        "Bisa / Padmakarkati (underground rhizome)"
+      ],
+      "latin": "Nelumbo nucifera Gaertn. (Syns. Nymphaea nelumbo L., Nelumbium speciosum Willd.); Family: Nymphaeaceae",
+      "hindi": "Kamala / Purain (flower-plant); Kamalagarta (seeds); Murar (stalk); Bhen, Bhis, Bhansid (underground rhizome)",
+      "gujarati": "Kamal (flower); Lodha / Ghitelan (rhizome); Bhinse (underground rhizome)",
+      "english": "Sacred lotus / Indian lotus"
+    },
+    "properties": {
+      "rasa": [
+        "Kasaya",
+        "Madhura",
+        "Tikta"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "guna": [
+        "Laghu",
+        "Snigdha",
+        "Picchila"
+      ],
+      "prabhava": "Prajasthapana (foetus-stabilising / prevents miscarriage); Dahaprasamana gana leader (chief drug of cooling/burning-relieving group); Rasayana potential with cardiotonic and galactogogue actions"
+    },
+    "dosha_effect": {
+      "vata": "Kaphapittasamaka primarily; Sita virya may mildly increase Vata; Balya action counters Vata depletion",
+      "pitta": "Kaphapittasamaka — strongly pacifies Pitta; Dahaprasamana (relieves Pitta-type burning); Raktastambhana (checks Pitta-caused haemorrhage)",
+      "kapha": "Kaphapittasamaka — pacifies Kapha; Mutrala (diuretic) clears Kapha accumulation",
+      "note": "Primarily Kaphapittasamaka; Sita (cold) virya — use with caution in Vata-dominant conditions and cold seasons"
+    },
+    "benefits": [
+      "Dahaprasamana (relieves burning sensation)",
+      "Varnya (promotes skin lustre / complexion)",
+      "Tvagdosahara (clears skin diseases)",
+      "Medhya (brain / intellect tonic)",
+      "Simaka (pacifying / calming)",
+      "Chardinigrahana (controls vomiting)",
+      "Trsnanigrahana (controls thirst)",
+      "Stambhana / Raktastambhana (haemostatic)",
+      "Hrdya (cardiotonic)",
+      "Sonitasthapana (stabilises blood / haemostatic)",
+      "Prajasthapana (foetus-stabilising / prevents miscarriage)",
+      "Mutravirechaniya / Mutravirajniya (diuretic)",
+      "Jvaraghna (antipyretic)",
+      "Balya (strengthening)",
+      "Visaghna (antidote / antitoxic)",
+      "Stanyajanana (galactogogue — promotes breast milk)"
+    ],
+    "indications": [
+      "Daha (burning sensation — internal and external)",
+      "Vranavikara (wound disorders)",
+      "Mastiskadourbalya (brain weakness)",
+      "Manasika udvega / Anidra (mental anxiety, insomnia)",
+      "Vamana / Trsna (vomiting, thirst)",
+      "Atisara / Pravahika (diarrhoea, dysentery)",
+      "Hrdroga (heart disease)",
+      "Raktiatisara / Pradara / Raktarsa (bloody diarrhoea, excessive menstrual discharge, bleeding haemorrhoids)",
+      "Raktapitta (intrinsic haemorrhage)",
+      "Garbhasrava (threatened miscarriage / habitual abortion)",
+      "Mutrakrcchra / Paittika prameha (dysuria, Pitta-type urinary disorders / diabetes)",
+      "Carmaroga (skin diseases)",
+      "Jvara-daha-trsna (fever with burning and thirst)",
+      "Gudabhramsa (prolapse of rectum — tender leaves with sugar)",
+      "Raktarsa (bleeding piles — stamens with butter and sugar)",
+      "Pittaja kasa (Pitta-type cough — seed powder with honey)",
+      "Krimidanta (dental caries — root chewing)",
+      "Madatyaya (alcoholism — lotus stalk with Pippali and Haritaki in honey)"
+    ],
+    "contraindications": [
+      "Sita (cold) virya — use with caution in Vata-dominant conditions",
+      "Caution in cold seasons and in cold / Vata prakrti",
+      "Not explicitly contraindicated in classical text"
+    ],
+    "dosage": {
+      "powder_churna": "3–6 gm (seed powder)",
+      "juice_svarasa": "10–20 ml (root juice)",
+      "decoction": "",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Honey (Madhu) — seed powder with honey for Pittaja kasa; Sugar (Sarkara) — tender leaves with sugar for Gudabhramsa; butter + sugar for raktarsa; cold water for madatyaya preparation; sandal water (Chandanambu) externally for alcoholism-related burning"
+      }
+    },
+    "key_formulations": [
+      "Aravindasava (primary named classical formulation)",
+      "Utpaladi gana (Susruta Samhita)",
+      "Murtavirechaniya gana (Caraka Samhita)",
+      "Referenced in Cakradatta, Bangasena, Astanga Hrdaya, Bhavaprakasha, Kaiyadevanighantu, Raja Nighantu"
+    ],
+    "part_used": "Whole plant especially: Flowers (Puspa), Seeds (Padmabija), Root-rhizome (Mula / Kamala kanda), Stalk-stem (Nala / Mrnala), Tender leaves (Navapatra / Samvartika), Stamens (Kesara / Kinjalka), Torus / receptacle (vegetable use)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "43–53"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Resin (rhizome and seeds)",
+        "Glucose (rhizome and seeds)",
+        "Metarbin",
+        "Tannin",
+        "Fat",
+        "Nupharfin (alkaloid)",
+        "Nupharine (alkaloid)"
+      ],
+      "keywords": [
+        "sacred lotus",
+        "Nelumbo nucifera",
+        "Padma",
+        "haemostatic",
+        "cardiotonic",
+        "brain tonic",
+        "Prajasthapana",
+        "Aravindasava",
+        "nupharine",
+        "nupharfin"
+      ]
+    }
+  },
+  {
+    "id": "herb_430",
+    "varga": "Haritakyadi Varga / Krimighna Varga",
+    "names": {
+      "sanskrit": "Kampillaka",
+      "synonyms": [
+        "Raktanga",
+        "Recana",
+        "Karkasa",
+        "Raktacurnaka",
+        "Vireki",
+        "Raktasamana",
+        "Vranasodhana"
+      ],
+      "latin": "Mallotus philippinensis Muell.-Arg.; Family: Euphorbiaceae",
+      "hindi": "Kabila",
+      "gujarati": "Kamilo",
+      "english": "Kamala tree / Monkey face tree"
+    },
+    "properties": {
+      "rasa": [
+        "Katu"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksa",
+        "Tiksna"
+      ],
+      "prabhava": "Specific Krmighna against Sphitakrmi (tapeworm / large abdominal worms) — chief vermifuge action at higher doses; Rottlerin content gives dose-dependent purgative and styptic actions; drug identity is the glandular hair/powder of fruit (Rakta raja), not the whole fruit"
+    },
+    "dosha_effect": {
+      "vata": "Kaphavatasamaka — pacifies Kapha and Vata",
+      "pitta": "Usna virya and Katu vipaka may increase Pitta; Raktasodhaka (blood purifier) helps Pitta-related Raktavikara",
+      "kapha": "Kaphavatasamaka — actively pacifies Kapha",
+      "note": "Primarily Kaphavatasamaka; caution in Pitta disorders due to Usna virya; dose-dependent action — lower dose is styptic/haemostatic; higher dose is cathartic/vermifuge"
+    },
+    "benefits": [
+      "Krmighna / Krminiskasaka (anthelmintic — expels worms, especially Sphitakrmi / tapeworm)",
+      "Recana (purgative / cathartic — in higher dose)",
+      "Raktasodhaka (blood purifier)",
+      "Asmari-bhedana (dissolves / breaks urinary stones)",
+      "Garbhanirodha (contraceptive — mentioned in text)",
+      "Kusthaghna (skin disease remedy)",
+      "Jantughna (germicidal / antiseptic)",
+      "Visaghna (antitoxic)",
+      "Styptic (in lower dose)",
+      "Checks herpetic neuralgia (external application on herpes zoster vesicles)"
+    ],
+    "indications": [
+      "Krmiroga / Sphitakrmi (worm infestations, especially tapeworm)",
+      "Udararoga (abdominal diseases)",
+      "Grahani (malabsorption / chronic diarrhoea)",
+      "Vibandha / Anaha (constipation, flatulence)",
+      "Raktavikara (blood disorders)",
+      "Kustha (skin diseases including leprosy)",
+      "Asmari (urinary stones / calculus)",
+      "Prameha (urinary disorders / diabetes)",
+      "Carmavikara / Kandu / Pama / Kustha (skin conditions, itching, scabies)",
+      "Vrana / Ksata (wounds, injuries)",
+      "Herpes zoster vesicles (external powder application)"
+    ],
+    "contraindications": [
+      "Caution in Pitta-dominant conditions due to Usna virya and Katu vipaka",
+      "Dose-dependent: higher doses act as strong cathartic — precise dosing essential",
+      "No explicit classical contraindication stated"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm",
+      "fruit_hairs_rakta_raja": "0.5–1 gm",
+      "vermifuge_dose": "3–6 gm",
+      "child_dose": "625 mg",
+      "decoction": "",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Jaggery (Guda) — Kampillaka given with guda to expel all worms from bowels"
+      }
+    },
+    "key_formulations": [
+      "Referenced in Bhavaprakasha Nighantu (Haritakyadi Varga)",
+      "Referenced in Kaiyadevanighantu (Osadhi Varga)",
+      "Referenced in Dhanvantari Nighantu",
+      "Referenced in Bhavaprakasha (Krmirogadhikara, Gulmadhikara)",
+      "Referenced in Caraka Samhita (Cikitsa 5-130)"
+    ],
+    "part_used": "Fruit glandular hair-powder (Rakta raja / crimson powder covering ripe fruit capsule) — PRIMARY drug material; Flowers",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "52–58"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Rottlerin (primary active compound — also called Mallotoxin / Kamala)",
+        "Resinous colouring matter (majority of drug content)",
+        "Solubility profile: insoluble in cold water; partially soluble in alcohol; fully soluble in alkaline solution (gives red colour); fully soluble in ether (melon-like odour)",
+        "Quality test: wet finger with powder leaves bright yellow mark on white paper"
+      ],
+      "keywords": [
+        "kamala tree",
+        "Mallotus philippinensis",
+        "Rottlerin",
+        "anthelmintic",
+        "tapeworm",
+        "Krmighna",
+        "vermifuge",
+        "cathartic",
+        "herpes zoster"
+      ]
+    }
+  },
+  {
+    "id": "herb_431",
+    "varga": "Guduchyadi Varga / Granthibheda Varga",
+    "names": {
+      "sanskrit": "Kanchanara",
+      "synonyms": [
+        "Gandari",
+        "Camarika",
+        "Jugapatraka",
+        "Karbudara",
+        "Svalpakesari",
+        "Kovidara (white/red variety — Bauhinia purpurea)"
+      ],
+      "latin": "Bauhinia variegata Linn. (Syn. Phanera variegata (L.) Benth.); Also: Bauhinia purpurea L. (Kovidara); Bauhinia racemosa Lamk.; Family: Caesalpiniaceae",
+      "hindi": "Kachnar",
+      "gujarati": "Kapakati",
+      "english": "Orchid tree / Camel's foot tree / Mountain ebony"
+    },
+    "properties": {
+      "rasa": [
+        "Kasaya"
+      ],
+      "virya": "Sita",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksa"
+      ],
+      "prabhava": "Gandamalanasana — specific lymphagogue action against Gandamala (cervical lymphadenitis / scrofula); pre-eminent drug for all glandular diseases: Galaganda (goitre), Granthi (cystic swellings), Arbuda (tumours)"
+    },
+    "dosha_effect": {
+      "vata": "Kaphapittasamaka — Sita virya may mildly increase Vata; caution in Vata-dominant conditions",
+      "pitta": "Kaphapittasamaka — pacifies Pitta; Raktastambhana checks Pitta-caused haemorrhage",
+      "kapha": "Kaphapittasamaka — actively pacifies Kapha; Lekhana (scraping deposits); Medapanayana (reduces fat/lipids)",
+      "note": "Primarily Kaphapittasamaka; Lekhana and Medapanayana make it specific for Kapha-type accumulations and lipid disorders"
+    },
+    "benefits": [
+      "Gandamalanasana (dissolves cervical lymph gland enlargements)",
+      "Vranasodhana (wound cleansing)",
+      "Vranaropana (wound healing)",
+      "Kusthaghna (skin disease remedy)",
+      "Sothahara (anti-inflammatory)",
+      "Stambhana (checks excessive discharge)",
+      "Krmighna (anthelmintic)",
+      "Vamaka (emetic)",
+      "Raktastambhana (haemostatic)",
+      "Lasikagranthi-Sothahara (reduces lymphatic swellings)",
+      "Kasahara (relieves cough)",
+      "Mutrasangrahaniya (urinary astringent)",
+      "Artavasravahrasaka (reduces excessive menstrual flow)",
+      "Lekhana (scraping / reducing excess tissue)",
+      "Medapanayana (reduces fat / lipid-lowering)"
+    ],
+    "indications": [
+      "Galaganda (goitre)",
+      "Gandamala (cervical lymphadenitis / scrofula)",
+      "Granthi-Sotha (glandular / cystic swellings)",
+      "Vrana (ulcers / wounds)",
+      "Lasika-Granthi-Arbuda (lymphatic swellings, tumours)",
+      "Kustha (skin diseases)",
+      "Carmavikara (skin disorders)",
+      "Mukhapaka (stomatitis / mouth ulcers)",
+      "Atisara / Pravahika (diarrhoea / dysentery)",
+      "Arsa / Gudabhramsa / Parikartika (piles, rectal prolapse, rectal fissure)",
+      "Krmi (worm infestations)",
+      "Vibandha (constipation)",
+      "Raktapitta (intrinsic haemorrhage)",
+      "Prameha (urinary disorders / diabetes)",
+      "Raktapradara (menorrhagia / excessive menstrual bleeding)",
+      "Medoroga (obesity / lipid disorders)",
+      "Dadru (ringworm)",
+      "Kasa / Svasa (cough, asthma)",
+      "Pradara / Ksaya (leucorrhoea / wasting)",
+      "Mutrakrcchra (dysuria)",
+      "Masurika (pox — bark decoction with Svarnamaksika bhasma)"
+    ],
+    "contraindications": [
+      "Sita virya — caution in Vata-dominant conditions",
+      "Not explicitly contraindicated in classical text"
+    ],
+    "dosage": {
+      "powder_churna": "1–6 gm (bark powder)",
+      "decoction": "40–80 ml",
+      "flower_juice": "10–20 ml",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Sunthi (ginger) and sour gruel (Amla kanji) — bark pounded with these for Gandamala; Tandulodaka (rice-water) — bark in rice-water for Gandamala; Triphala — added to bark decoction for Galaganda; Buttermilk — Kovidara root-bark powder with buttermilk for Arsa"
+      }
+    },
+    "key_formulations": [
+      "Kanchanara Guggulu (primary formulation — for Galaganda, Gandamala, Granthi)",
+      "Kancaradi Kvatha",
+      "Kancana Gudika",
+      "Triphala Ghrta (alongside, in Gandamala management)",
+      "Vamanopaga gana (Caraka Samhita)",
+      "Urdhvabhagahara, Kasayavarga (Susruta Samhita)"
+    ],
+    "part_used": "Bark (Tvak) — primary; Flowers (Puspa)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "59–67"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Chemical composition not specifically analysed in text",
+        "Kasaya rasa implies tannins",
+        "Kovidara (B. purpurea) flowers: Grahi properties imply astringent tannin-type compounds"
+      ],
+      "keywords": [
+        "Kanchanara",
+        "Bauhinia variegata",
+        "lymphagogue",
+        "goitre",
+        "Gandamala",
+        "Kanchanara Guggulu",
+        "glandular",
+        "anti-lipidemic",
+        "Lekhana"
+      ]
+    }
+  },
+  {
+    "id": "herb_432",
+    "varga": "Jala Varga / Vanausadhi Varga (aquatic herb)",
+    "names": {
+      "sanskrit": "Kancata",
+      "synonyms": [],
+      "latin": "Ludwigia adscendens (L.) Hara (Syns. Jussiaea repens Linn., J. adscendens L.); Family: Onagraceae",
+      "hindi": "Not recorded in source text",
+      "gujarati": "Not recorded in source text",
+      "english": "Water primrose / Creeping water primrose"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta",
+        "Kasaya"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu"
+      ],
+      "prabhava": "Atisaraghna — specific anti-diarrhoeal action; Grahani action (malabsorption); external use on ulcers and skin complaints as paste or poultice"
+    },
+    "dosha_effect": {
+      "vata": "Vatapittahara — reduces Vata",
+      "pitta": "Vatapittahara — reduces Pitta",
+      "kapha": "Usna virya may mildly reduce Kapha; not explicitly stated in text",
+      "note": "Primarily Vatapittahara"
+    },
+    "benefits": [
+      "Sangrahi (absorbent / checks loose motions)",
+      "Atisaraghna (anti-diarrhoeal)",
+      "Sulahara (relieves abdominal colic / pain)"
+    ],
+    "indications": [
+      "Atisara (diarrhoea)",
+      "Raktaatisara (haemorrhagic diarrhoea with blood and griping)",
+      "Grahani (malabsorption / intestinal disorder)",
+      "Udarasulah (abdominal colic)",
+      "Skin complaints and ulcers (external use as paste or poultice)"
+    ],
+    "contraindications": [
+      "Not explicitly stated in classical text"
+    ],
+    "dosage": {
+      "powder_churna": "",
+      "decoction": "50–100 ml",
+      "juice_svarasa": "5–10 ml",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Butter — leaves combined with tender Bilva fruit (Aegle marmelos) mixed in butter for haemorrhagic diarrhoea"
+      }
+    },
+    "key_formulations": [
+      "Kancatadi Kvatha (primary named formulation)",
+      "Referenced in Cakradatta (3-38)",
+      "Referenced in Bangasena (Atisara 116)"
+    ],
+    "part_used": "Whole plant; Leaves",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "67–69"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Not recorded in source text"
+      ],
+      "keywords": [
+        "Kancata",
+        "Ludwigia adscendens",
+        "Jussiaea repens",
+        "anti-diarrhoeal",
+        "Grahani",
+        "aquatic herb",
+        "Atisaraghna"
+      ]
+    }
+  },
+  {
+    "id": "herb_433",
+    "varga": "Karpuradi Varga / Sugandhi Dravya Varga",
+    "names": {
+      "sanskrit": "Kankola",
+      "synonyms": [
+        "Karikola",
+        "Chandanamarica",
+        "Sthularnarica",
+        "Latukupipalah",
+        "Sapucchamarica",
+        "Navaparinitavadhuphalah",
+        "Madhavocitam",
+        "Kolaka",
+        "Kosaphala",
+        "Vrttaphala",
+        "Katuphala",
+        "Kola",
+        "Bahuphala"
+      ],
+      "latin": "Piper cubeba Linn.; Family: Piperaceae",
+      "hindi": "Kababchini, Shiralchini",
+      "gujarati": "Tadmire",
+      "english": "Cubeb / Tailed pepper / Cubabs"
+    },
+    "properties": {
+      "rasa": [
+        "Katu",
+        "Tikta"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksa",
+        "Tiksna"
+      ],
+      "prabhava": "Durgandhananasana (specific deodorant — removes body foul smell); Vajikarana-Artavajanana (specific aphrodisiac and emmenagogue); Kama-sampraharsa-janana (external stimulant to male genitalia — known as Hajbul-urus in Unani medicine); aromatic drug (Sugandhi dravya)"
+    },
+    "dosha_effect": {
+      "vata": "Kaphavatasamaka — reduces Kapha and Vata",
+      "pitta": "Usna virya may mildly increase Pitta — caution in Pitta conditions; not explicitly contraindicated",
+      "kapha": "Kaphavatasamaka — actively reduces Kapha; Slesmaniksaraka (expectorant)",
+      "note": "Primarily Kaphavatasamaka; Usna-Tiksna qualities give expectorant and stimulant actions"
+    },
+    "benefits": [
+      "Rocana (appetiser)",
+      "Dipana-Pacana (digestive stimulant)",
+      "Anulomana (normalises Vata movement)",
+      "Hrdya (cardiac tonic)",
+      "Slesmaniksaraka-Kaphaghna (expectorant, Kapha-reducing)",
+      "Vajikarana (aphrodisiac)",
+      "Artavajanana (emmenagogue — promotes menstruation)",
+      "Raktotkledaka (stimulates rakta dhatu)",
+      "Mutrala (diuretic)",
+      "Sothahara (anti-inflammatory)",
+      "Durgandhananasana (deodorant — removes foul smell)",
+      "Vranaropana (wound healing — oil externally)"
+    ],
+    "indications": [
+      "Sotha-Vedana / Rakta vikara (inflammatory painful conditions, blood disorders)",
+      "Mukharoga / Galaroga / Dantaroga (mouth, throat, dental diseases)",
+      "Siroroga / Sirahsula (head diseases, headache)",
+      "Dehadourgandhya (body foul odour)",
+      "Agnimandya / Aruci / Vistambha (digestive weakness, anorexia, constipation)",
+      "Arsa (haemorrhoids / piles)",
+      "Hrddourbalya (cardiac weakness)",
+      "Kasa / Svasa (cough, asthma)",
+      "Kastartava / Rajorodha (dysmenorrhoea, amenorrhoea)",
+      "Dhvajabhanga / Napumsakata (impotency, sexual dysfunction)",
+      "Jirnajvara (chronic fever)",
+      "Puyameha / Mutrakrcchra (gonorrhoea, urinary infection, dysuria)",
+      "Cardiac weakness, constipation, cystitis, lack of appetite",
+      "Respiratory disorders"
+    ],
+    "contraindications": [
+      "Usna virya — caution in Pitta-dominant conditions",
+      "Excess use not advised",
+      "Not explicitly contraindicated in classical text"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm",
+      "oil": "1–3 drops (up to 5–30 drops)",
+      "decoction": "",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Mixed with Dantamanjana (dental powder) for dental ailments; mixed with paste for external body application against foul smell; oil applied directly on wounds"
+      }
+    },
+    "key_formulations": [
+      "Referenced in Bhavaprakasha Nighantu (Karpuradi Varga 115)",
+      "Referenced in Kaiyadevanighantu (Osadhi Varga 1331–1332)",
+      "Referenced in Raja Nighantu (Candanadi Varga 79–80)",
+      "Referenced in Susruta Samhita (Sutra 45)",
+      "Part of aromatic compound preparations (Sugandhi dravya group)"
+    ],
+    "part_used": "Fruits (stalked drupes — Kababchini trade name)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "69–73"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Essential oil (Oil of Cubeb): 5–20% (avg. 13 ml per 100g fruits)",
+        "Cubebin (bitter resinous component)",
+        "Cubebol",
+        "Cubebic acid (chief therapeutic constituent)",
+        "Resinous matter: 6.4–8.5%",
+        "Gum, colouring matter, fixed oil, starch, nitrogenous substances"
+      ],
+      "keywords": [
+        "cubeb",
+        "Piper cubeba",
+        "Kababchini",
+        "tailed pepper",
+        "cubebic acid",
+        "expectorant",
+        "aphrodisiac",
+        "urogenital antiseptic",
+        "aromatic"
+      ]
+    }
+  },
+  {
+    "id": "herb_434",
+    "varga": "Vanausadhi Varga",
+    "names": {
+      "sanskrit": "Kandira",
+      "synonyms": [
+        "Kandakatuka",
+        "Toyavalli",
+        "Sukandaka",
+        "Kalavalli",
+        "Jaladhaniyaka (classical name)"
+      ],
+      "latin": "Ranunculus sceleratus Linn.; Family: Ranunculaceae",
+      "hindi": "Jaldhaniya, Devkandar",
+      "gujarati": "Not recorded in source text",
+      "english": "Celery-leaved crowfoot / Cursed crowfoot"
+    },
+    "properties": {
+      "rasa": [
+        "Katu",
+        "Tikta"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "guna": [
+        "Ruksa",
+        "Tiksna"
+      ],
+      "prabhava": "Visakta-Atitiksana (intensely irritant and vesicant — primary prabhava); Sphotajanana (vesicant / blister-producing externally); specific preventive and curative in plague (external paste on bubonic swellings); Rasagranthi-Sothahara (dissolves lymphatic glandular swellings)"
+    },
+    "dosha_effect": {
+      "vata": "Kaphavatasamaka — reduces Kapha and Vata",
+      "pitta": "Usna virya and Tiksna guna may increase Pitta; drug is intensely irritant — use with caution",
+      "kapha": "Kaphavatasamaka — reduces Kapha",
+      "note": "SAFETY FLAG: Intensely irritant, vesicant and toxic plant. Requires precaution for both oral and topical use."
+    },
+    "benefits": [
+      "Bihva / Raktotklesaka (stimulates / activates blood — irritant action)",
+      "Sphotajanana (vesicant — produces blisters externally)",
+      "Jantughna (germicidal / antiseptic — external)",
+      "Abhyantara Dipana-Pacana (internal digestive stimulant)",
+      "Krmighna (anthelmintic)",
+      "Rasagranthi-Sothahara (resolves lymphatic glandular swellings)",
+      "Artavajanana (emmenagogue)",
+      "Germicidal (external application)"
+    ],
+    "indications": [
+      "Udararoga (abdominal diseases)",
+      "Gulma (abdominal masses / tumours)",
+      "Pliha (splenic disorders)",
+      "Udarasulah (abdominal colic)",
+      "Agnimandya (digestive weakness)",
+      "Krmi (worm infestations)",
+      "Rasagranthi-Sotha (lymphatic glandular swellings)",
+      "Raktavikara (blood disorders)",
+      "Rajorodha (amenorrhoea / suppressed menstruation)",
+      "Dhvajabhanga (impotency — external oil application only)",
+      "Carmavikara (skin diseases — external)",
+      "Amavata (rheumatoid arthritis — external on joints)",
+      "Plague — external paste on bubonic swellings (preventive and curative)",
+      "Dysmenorrhoea",
+      "Ulcers and wounds (external — with strict precaution)"
+    ],
+    "contraindications": [
+      "SAFETY WARNING: Intensely irritant, vesicant and toxic plant",
+      "Oral use must be within strictly limited dose — precaution essential",
+      "External application must be restricted and supervised",
+      "Not for general or unsupervised use",
+      "External use on intact skin requires precautionary care due to vesicant nature"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm (whole plant / leaves — oral)",
+      "decoction": "",
+      "external": "Paste or oil preparation as required — restricted application",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Oil prepared from plant parts in sesame, mustard or coconut oil — for restricted external use only (impotency treatment — specific area, limited time)"
+      }
+    },
+    "key_formulations": [
+      "Referenced in Dhanvantari Nighantu and Raja Nighantu (Guduchyadi Varga 123–124)",
+      "Traditional oil preparation (Tailapaka vidhi) using plant parts — for restricted external use"
+    ],
+    "part_used": "Whole plant; Leaves",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "73–76"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Ranunculin (glycoside — converts to Protoanemonin, a vesicant; not named in text but implied by described irritant/toxic nature)",
+        "Chemical composition not specifically recorded in source text"
+      ],
+      "keywords": [
+        "Kandira",
+        "Ranunculus sceleratus",
+        "vesicant",
+        "toxic",
+        "plague",
+        "lymphatic",
+        "irritant",
+        "Jaladhaniyaka",
+        "protoanemonin"
+      ]
+    }
+  },
+  {
+    "id": "herb_435",
+    "varga": "Dhanya Varga (grain / cereal group)",
+    "names": {
+      "sanskrit": "Kanguka",
+      "synonyms": [
+        "Kangu",
+        "Kanguni-Irguni",
+        "Cinaka",
+        "Pitatandula",
+        "Vatala",
+        "Sukumaraka"
+      ],
+      "latin": "Setaria italica Beauv.; Family: Poaceae (Gramineae)",
+      "hindi": "Kanguni, Koni",
+      "gujarati": "Kang",
+      "english": "Italian millet / Foxtail millet"
+    },
+    "properties": {
+      "rasa": [
+        "Madhura",
+        "Kasaya"
+      ],
+      "virya": "Usna",
+      "vipaka": "Madhura",
+      "guna": [
+        "Laghu"
+      ],
+      "prabhava": "Vranaropana (specific wound and sinus-healing action); specific for Nadivrana (sinus wounds with pus discharge) using root with sugar; food-medicine dual utility (Dhanya Varga); sedative to gravid uterus in labour pain"
+    },
+    "dosha_effect": {
+      "vata": "Vatakaphahara — reduces Vata and Kapha",
+      "pitta": "Usna virya may mildly increase Pitta; not explicitly stated",
+      "kapha": "Vatakaphahara — reduces Kapha",
+      "note": "Primarily Vatakaphahara; food grain with medicinal properties — roots used medicinally"
+    },
+    "benefits": [
+      "Ropana / Vranaropana (wound healing)",
+      "Balya (strengthening)",
+      "Saraka / Anulomana (mild laxative, normalises Vata movement)",
+      "Vedanasthapana (analgesic)",
+      "Aphrodisiac (stated in text)",
+      "Diuretic and laxative (grains)",
+      "Sedative to gravid uterus (traditional — labour pain)"
+    ],
+    "indications": [
+      "Vrana (wounds / ulcers)",
+      "Nadivrana (sinus wounds with pus discharge)",
+      "Dourbalya (debility / weakness)",
+      "Garbhasrava (threatened miscarriage)",
+      "Sutikaroga (post-natal / puerperal conditions)",
+      "Amavata (rheumatoid arthritis — grains applied externally)",
+      "Labour pain (traditional use)",
+      "Rheumatic conditions (grains applied externally)"
+    ],
+    "contraindications": [
+      "Excess grain intake alone can cause diarrhoea",
+      "Not to be taken in excess as sole food",
+      "No other explicit contraindication stated"
+    ],
+    "dosage": {
+      "powder_churna": "3–6 gm (root powder mixed with equal sugar)",
+      "food_grain": "As dietary intake",
+      "decoction": "",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Sugar (Sarkara) — roots mixed with equal quantity of sugar for Nadivrana (sinus) treatment"
+      }
+    },
+    "key_formulations": [
+      "Compound wound-healing powder: Kanguka + Triphala + Lodhra (Symplocos racemosus) + Sravani/Mundi (Sphaeranthus indicus) + Dhava bark (Anogeissus latifolia) + Atakarnam — powder form for wounds",
+      "Referenced in Susruta Samhita (Sutra 37-27)",
+      "Referenced in Rajamartanda (26-15)"
+    ],
+    "part_used": "Seeds (grains) — primary food and medicine; Roots — medicinal (wound and sinus healing)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "76–79"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Moisture: 11.2%, Protein: 12.3%, Fat: 4.3%, Minerals: 3.3%, Crude fibres: 8.0%, Carbohydrates: 60–69%",
+        "Caloric value: 331 cal/100g",
+        "Calcium (Ca): 31 mg/100g",
+        "Magnesium (Mg): 120 mg/100g",
+        "Phosphorus (P): 290 mg/100g, Phytin P: 193 mg/100g",
+        "Iron (Fe): 12.9 mg/100g (ionizable Fe: 2.5 mg)",
+        "Potassium (K): 250 mg/100g",
+        "Copper (Cu): 0.35 mg/100g",
+        "Iodine and vitamins (unspecified) also present"
+      ],
+      "keywords": [
+        "foxtail millet",
+        "Setaria italica",
+        "Kanguni",
+        "Italian millet",
+        "wound healing",
+        "Nadivrana",
+        "food grain",
+        "Dhanya",
+        "Vranaropana"
+      ]
+    }
+  },
+  {
+    "id": "herb_436",
+    "varga": "Niryasa Varga / Rasausadhi Varga",
+    "names": {
+      "sanskrit": "Kankustha",
+      "synonyms": [
+        "Rangada (resin/niryasa)",
+        "Tamala (resin)",
+        "Tapiccha (tree/vrksa)"
+      ],
+      "latin": "Garcinia morella Desv. (Syn. Hebradendron cambogioides Graham); Also Garcinia hanbury Hook.f. (imported variety, Indochina); Family: Guttiferae (Clusiaceae)",
+      "hindi": "Tamal (tree); Ushare-revand (resin)",
+      "gujarati": "Revancini Shri (resin)",
+      "english": "Indian gamboge tree / Gamboge"
+    },
+    "properties": {
+      "rasa": [
+        "Katu",
+        "Tikta"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksa"
+      ],
+      "prabhava": "Tvravirecaka — drastic purgative action in higher dose (more potent than ordinary Virecana drugs); Raktabharahrasaka (hypotensive — reduces blood pressure); Morellin in seed coat is a germicide; specific action on Kosthagatavata (intestinal Vata disorders)"
+    },
+    "dosha_effect": {
+      "vata": "Kaphapittasamaka — useful in Vata-pitta disorders; Kosthagatavata (intestinal Vata) is a primary indication",
+      "pitta": "Kaphapittasamaka — reduces Pitta; Raktabharahrasaka (hypotensive)",
+      "kapha": "Kaphapittasamaka — reduces Kapha",
+      "note": "SAFETY FLAG: Drastic purgative — strict dosage control essential. Higher dose causes vomiting, nausea, severe griping. Frequently adulterated — use only genuine drug."
+    },
+    "benefits": [
+      "Recana (purgative — mild to moderate dose)",
+      "Tvravirecaka (drastic cathartic — higher dose)",
+      "Jantughna / Vranahara (germicidal, wound healing — sodhana and ropana)",
+      "Sothahara (anti-inflammatory)",
+      "Raktabharahrasaka (hypotensive — reduces blood pressure)",
+      "Krmighna (anthelmintic)"
+    ],
+    "indications": [
+      "Kosthagatavata / Kosthabaddhatah / Vibandha (intestinal Vata disorders, obstinate constipation)",
+      "Vibandha-janya Gulma / Udavarta / Sula (constipation-related abdominal masses, reverse Vata, colic)",
+      "Sotha (oedema)",
+      "Raktabhara (hypertension / high blood pressure)",
+      "Vrana (wounds / ulcers — external ointment)"
+    ],
+    "contraindications": [
+      "SAFETY WARNING: Drastic purgative — use strictly within prescribed dose (50–125 mg only)",
+      "Higher dose causes vomiting, nausea and severe griping",
+      "Frequently adulterated with wheat, rice, starch, sand — use only verified genuine drug",
+      "Antidote for adverse reaction: Sita virya, Madhura and Snigdha dravyas; decoction of Babula (Acacia arabica) root with Jiraka and Tankana"
+    ],
+    "dosage": {
+      "powder_churna": "",
+      "resin": "50–125 mg (notably small dose — drug is very potent)",
+      "decoction": "",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Warm water implied for purgative action; Sita virya / Madhura / Snigdha dravyas as corrective if adverse effects occur"
+      }
+    },
+    "key_formulations": [
+      "Referenced in Rasaratnasamuccaya (classical mineral-herbal text)",
+      "Incorporated in Uparasa group in Rasashastra context",
+      "Ointment preparation for wound and ulcer healing (external)"
+    ],
+    "part_used": "Resin (Niryasa / Rangada) — PRIMARY drug material; Seeds (contain fat similar to Kokam butter)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "79–82"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Three Garcinolic acids (resinous acids — primary purgative constituents)",
+        "Morellin (yellow colouring matter in seed coat, stem, leaves — germicidal)",
+        "Seeds: ~50% fat (similar to Kokam butter)",
+        "Drug resin: red-yellowish/orange colour, smooth, cylindrical, odourless, pungent with slight acid taste"
+      ],
+      "keywords": [
+        "Kankustha",
+        "Garcinia morella",
+        "gamboge",
+        "drastic purgative",
+        "Garcinolic acid",
+        "Morellin",
+        "hypotensive",
+        "germicide",
+        "Rasausadhi"
+      ]
+    }
+  },
+  {
+    "id": "herb_437",
+    "varga": "Guduchyadi Varga / Kasahara Varga",
+    "names": {
+      "sanskrit": "Kantakari",
+      "synonyms": [
+        "Vyaghri",
+        "Duhsparsa",
+        "Ksudra",
+        "Nidigodrika",
+        "Sveta Kantakari / Laksamana (white-flowered variety — separate Pumhsavana drug)"
+      ],
+      "latin": "Solanum surattense Burm. f. (Syn. Solanum xanthocarpum Schrad. & Wendl.); Family: Solanaceae",
+      "hindi": "Kateli, Chhoti Kateli, Rengoni",
+      "gujarati": "Bhoyaringani",
+      "english": "Yellow-berried nightshade"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta",
+        "Katu"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksa",
+        "Tiksna"
+      ],
+      "prabhava": "Pre-eminent Kasahara (anti-cough) drug in Ayurveda; key ingredient of Dasamula (ten-root formulation); Garbhasthapana-Pumhsavana (white-flowered Sveta Kantakari — promotes conception and traditional sex-determination in foetus); Sajnaaprabodhana (restores consciousness in epilepsy — fruit juice as nasal instillation)"
+    },
+    "dosha_effect": {
+      "vata": "Kaphavatasamaka — strongly reduces both Kapha and Vata; primary anti-Vata drug",
+      "pitta": "Usna virya and Katu vipaka may increase Pitta; Raktasodhaka (blood purifier) in Pitta blood disorders — use carefully",
+      "kapha": "Kaphavatasamaka — actively and strongly reduces Kapha; chief expectorant action",
+      "note": "Primarily Kaphavatasamaka; paradox: Solasodine shown to inhibit sperm motility pharmacologically — caution in male fertility despite Vajikarana claim"
+    },
+    "benefits": [
+      "Kasahara-Kanthya-Svasahara (anti-cough, throat-soothing, anti-asthmatic)",
+      "Hikkanigrahana (stops hiccup)",
+      "Mutrala (diuretic)",
+      "Garbhasavasankocaka (uterine contractor)",
+      "Vajikarana (aphrodisiac)",
+      "Garbhasthapana-Pumhsavana (Sveta variety — promotes conception, sex determination)",
+      "Jvaraghna (antipyretic)",
+      "Sajnaaprabodhana (restores consciousness — anti-epileptic action via nasal drop)",
+      "Vatahara (strongly reduces Vata)",
+      "Raktasodhaka (blood purifier)",
+      "Kothahara (anti-urticarial)",
+      "Vedanasthapana (analgesic)",
+      "Krmighna (anthelmintic)",
+      "Dipana-Pacana-Recana (digestive stimulant, mild purgative)",
+      "Expectorant — dislodges tenacious phlegm",
+      "Cardiotonic (glucoalkaloid fraction — positive inotropic effect)",
+      "Hypotensive (aqueous and alcoholic extracts)",
+      "Antiviral (Ranikhet disease virus)",
+      "Antibacterial (Staphylococcus aureus, Escherichia coli)"
+    ],
+    "indications": [
+      "Kasa — all types including Jirnabala kasa (chronic cough in children)",
+      "Svasa (asthma / bronchial asthma)",
+      "Parsvashula (chest / pleuritic pain)",
+      "Svarabheda (hoarseness)",
+      "Hikka (hiccup)",
+      "Asmari / Puyameha / Mutrakrcchra (urinary stones, gonorrhoea, dysuria)",
+      "Rajorodha / Kastaprasava (amenorrhoea, difficult labour)",
+      "Klaibya (impotency)",
+      "Garbhasrava (miscarriage / threatened abortion)",
+      "Agnimandya / Vibandha (digestive weakness, constipation)",
+      "Krmi (worms)",
+      "Raktacapa / Raktavikara (hypertension, blood disorders)",
+      "Kustha / Phiranga (skin diseases including syphilis)",
+      "Amavata (rheumatoid arthritis)",
+      "Carmavikara (skin disorders)",
+      "Jvara (fever — enteric and malarial)",
+      "Netrabhisyanda vataja (conjunctivitis)",
+      "Karnashula (earache)",
+      "Udavarta (reverse Vata / flatulence)",
+      "Apasmara (epilepsy — fruit juice nasal instillation)",
+      "Trsna (excessive thirst)",
+      "Alasa (lichen)",
+      "Pinasa (chronic coryza)",
+      "Vatavyadhi / Arsa (Vata diseases, piles)",
+      "Sutikaroga (puerperal ailments)",
+      "Hrdroga (heart disease)",
+      "Dropsy",
+      "Rheumatism (leaf juice with black pepper)"
+    ],
+    "contraindications": [
+      "Usna virya and Katu vipaka — caution in Pitta-dominant conditions",
+      "Pharmacological: Solasodine inhibits sperm motility — caution in male fertility treatment (paradox with Vajikarana claim)",
+      "Not explicitly contraindicated in classical text"
+    ],
+    "dosage": {
+      "powder_churna": "",
+      "decoction": "40–80 ml / 50–100 ml",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Honey (Madhu) — root decoction with Lavanga, Pippali, honey for cough and catarrh; Rock salt (Lavanavishesa) and Hingu — spasmodic cough; Wine — pounded root for vomiting; Pippali powder — added to whole plant juice for asthma; Ardraka and Amla — in Mudga soup with Kantakari decoction for all cough types; Guduchi and Sunthi — decoction combination for cough, asthma, paralysis; Buttermilk (Mathita) — vessel pasted with fruit, overnight, orally for piles; Hingu — with Kantakari fruit and barley for Udavarta"
+      }
+    },
+    "key_formulations": [
+      "Kantakarighrta",
+      "Vyaghritaila",
+      "Vyaghriharitaki",
+      "Nigddhakadi Kvatha",
+      "Dasamularista",
+      "Dasamula Kvatha (Kantakari is one of the ten roots)",
+      "Kantakaryadi Kvatha",
+      "Kantakaryavaleha",
+      "Vaghri / Laghu Pancamula Kvatha",
+      "Bhrgu Haritaki",
+      "Kantakari Taila",
+      "Brhatyadi Kasaya-Kvatha",
+      "Svayamguptadi Curnam (Cakradatta — dysuria)",
+      "Gana: Sothahara, Kasahara, Kanthya, Hikkanigrahana (Caraka Samhita)",
+      "Gana: Brhatyadi, Varunadi, Tvakpancamula (Susruta Samhita)",
+      "Dasamula, Laghupancamula"
+    ],
+    "part_used": "Whole plant (Kantakari pancanga); Roots (primary); Fruits (berries — juice as nasal drops, piles, throat, epilepsy); Stem, leaves, flowers (bitter, carminative, external use)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "82–96"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Solanine (alkaloid)",
+        "Solanicline (alkaloid)",
+        "Solasodine (steroidal alkaloid — 0.028% in S. surattense; glycoalkaloid content of fruits 3.5%; total alkaloid 1.1%)",
+        "Diosgenin (from fruits — source for cortisone and sex hormones)",
+        "Seed oil (19.3% yield): fatty acids oleic, linoleic, palmitic, stearic, arachidic",
+        "Sterols: carpesterol and sitosterol",
+        "Dried plant ash: 10.8%; potassium nitrate, carbonate, sulphate",
+        "Glucoalkaloid saponin fraction: positive inotropic cardiac effect (0.5–2 mg/kg)",
+        "Hypotensive effect of aqueous and alcoholic extracts (partly inhibited by atropine)",
+        "Antiviral activity against Ranikhet disease virus",
+        "Antibacterial against Staph. aureus and E. coli"
+      ],
+      "keywords": [
+        "Kantakari",
+        "Solanum surattense",
+        "yellow-berried nightshade",
+        "Dasamula",
+        "solasodine",
+        "diosgenin",
+        "anti-asthmatic",
+        "expectorant",
+        "Kasahara",
+        "cardiotonic",
+        "Vyaghri"
+      ]
+    }
+  },
+  {
+    "id": "herb_438",
+    "varga": "Guduchyadi Varga / Jvaraghna Varga",
+    "names": {
+      "sanskrit": "Kantaki Karanja",
+      "synonyms": [
+        "Kuberaksa",
+        "Karanja",
+        "Karanji",
+        "Lata Karanja"
+      ],
+      "latin": "Caesalpinia crista Linn. (Syn. Caesalpinia bonduc (L.) Roxb., C. bonducella (L.) Flem.); Family: Caesalpiniaceae",
+      "hindi": "Kantakaranj, Karanjuva",
+      "gujarati": "Kankach",
+      "english": "Fever nut / Bonduc nut"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta",
+        "Kasaya"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksa"
+      ],
+      "prabhava": "Visamajvaraghna — specific anti-malarial and anti-periodic fever action; Tridosasamaka; Garbhanirodhaka (contraceptive); Bonducin / Natin in seed kernel are primary active units"
+    },
+    "dosha_effect": {
+      "vata": "Tridosasamaka — balances Vata",
+      "pitta": "Tridosasamaka — balances Pitta; Dipana-Yakrduttejaka (liver stimulant)",
+      "kapha": "Tridosasamaka — balances Kapha; Kaphaghna-Svasahara",
+      "note": "Tridosasamaka; Garbhanirodhaka (contraceptive) — avoid in pregnancy"
+    },
+    "benefits": [
+      "Jvaraghna / Visamajvaraghna (antipyretic, specific anti-malarial / anti-periodic fever)",
+      "Kusthaghna / Kandughna (skin disease remedy, anti-pruritic)",
+      "Sothahara (anti-inflammatory)",
+      "Vedanasthapana (analgesic)",
+      "Raktasodhaka (blood purifier)",
+      "Garbhanirodhaka (contraceptive)",
+      "Pramehaghna (anti-diabetic)",
+      "Kaphaghna / Svasahara (Kapha-reducing, anti-asthmatic)",
+      "Dipana-Yakrduttejaka / Chardinigrahana (digestive, liver stimulant, checks vomiting)",
+      "Grahi (absorbent)",
+      "Sulaprasamana (relieves colic)",
+      "Krmighna (anthelmintic)",
+      "Anti-diarrhoeal (pharmacological)",
+      "Antimalarial (ethanolic seed kernel extract — confirmed pharmacologically)",
+      "Fungitoxic against Curvularia tuberculata"
+    ],
+    "indications": [
+      "Jvara / Visamajvara (fever, malarial / periodic fever — primary indication)",
+      "Kandu / Kustha (pruritus, skin diseases)",
+      "Carmavikara (skin disorders)",
+      "Raktadusti / Raktavikara (blood impurities / blood disorders)",
+      "Sotha / Vedana (swelling and pain)",
+      "Amavata / Sandhivata (rheumatoid arthritis, osteoarthritis)",
+      "Prameha (urinary disorders / diabetes)",
+      "Agnimandya / Gulma / Sula / Pravahika / Chardi (digestive weakness, abdominal masses, colic, dysentery, vomiting)",
+      "Arsa (piles / haemorrhoids)",
+      "Yakrt-Pliha vikara (liver and spleen disorders)",
+      "Krmi (worm infestations)",
+      "Snake bite (tender leaves)",
+      "Asthma",
+      "Inflammatory conditions (seeds and leaves as poultice)",
+      "Menstrual disorders (leaves and bark — emmenagogue)",
+      "Smallpox early stage (root bark water extract orally)"
+    ],
+    "contraindications": [
+      "Garbhanirodhaka — contraindicated in pregnancy (contraceptive action)",
+      "Pharmacological studies confirm effect on reproductive system",
+      "Not explicitly contraindicated otherwise in classical text"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm (seed kernel powder)",
+      "decoction": "",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Sour gruel (Amla kanji) — seed kernel with sour gruel in morning for dysentery; Warm water — seed kernel powder for Visamajvara / malaria; Marica (black pepper) — seed powder mixed with Marica for malaria; Sunthi, Hingu and rock salt — young leaves for anorexia and vomiting"
+      }
+    },
+    "key_formulations": [
+      "Visamajvaraghni Vati (primary formulation)",
+      "Saptaparnaghana Vati",
+      "Kuberaksa Vati",
+      "Referenced in Kaiyadevanighantu (Osadhi Varga 972–973)",
+      "Referenced in Bhavaprakasha Nighantu (Guduchyadi Varga 120, 122)",
+      "Referenced in Susruta Samhita (Sutra 45–46)",
+      "Referenced in Vaidyamanorama (6-6, 6-11)",
+      "Referenced in Siddhabhaisajya Manimala (4-510)"
+    ],
+    "part_used": "Seeds / Seed kernel (primary); Leaves; Bark (root bark)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "96–105"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Bonducin (non-alkaloidal bitter principle — white powder, insoluble in water, soluble in oils; mixture of complex resinous bodies)",
+        "Natin (alkaloid — bitter, soluble in alcohol and chloroform; present more in root bark)",
+        "Diosgenin: 0.08% (from seed kernel)",
+        "Fixed oil: 25.15% (seed kernel)",
+        "Phytosterols: two types including sitosterol (mp 122°–123°)",
+        "Fatty acids: palmitic, stearic, lignoceric, oleic, linoleic",
+        "Seed kernel: Bonducin glycoside, fixed oil 20%, alkaloids 23.4%, protein 20%, starch 36.5%",
+        "Saponin (in seeds)",
+        "Tannin, sugar, mucilage, gum resin (root bark and seeds)"
+      ],
+      "keywords": [
+        "Kantaki Karanja",
+        "Caesalpinia crista",
+        "fever nut",
+        "Bonducin",
+        "Natin",
+        "antimalarial",
+        "Visamajvara",
+        "Kuberaksa",
+        "contraceptive",
+        "anti-periodic"
+      ]
+    }
+  },
+  {
+    "id": "herb_439",
+    "varga": "Upavarga / Peya Varga (beverage group)",
+    "names": {
+      "sanskrit": "Kaphika",
+      "synonyms": [
+        "Kaphi",
+        "Hrdyapeya (heart-nourishing drink)"
+      ],
+      "latin": "Coffea arabica Linn.; Also Coffea bengalensis Roxb.; Family: Rubiaceae",
+      "hindi": "Kaphi",
+      "gujarati": "Bund, Bundadana",
+      "english": "Arabian coffee / Coffee"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta"
+      ],
+      "virya": "Usna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksa"
+      ],
+      "prabhava": "Nidranivaraka (specific sleep-preventing / wakefulness-promoting action due to caffeine); Hrdayottejaka-Hrdayabalya (cardiac stimulant and tonic); Nadyuttejaka-Sphurtida (nerve stimulant, promotes alertness); Srama-avasidanivarak-Soumanasyajanana (relieves fatigue and mental depression). DOSE-DEPENDENT REVERSAL: normal dose is beneficial; excess/higher dose provokes Vata, causes Dhatuksaya (tissue depletion) and addiction"
+    },
+    "dosha_effect": {
+      "vata": "Normal dose: Vatasamaka — reduces Vata; Excess dose: Vatavardhana — increases Vata (explicitly stated)",
+      "pitta": "Pittavadhaka — increases Pitta (explicitly stated in Dosakarma); Usna virya aggravates Pitta",
+      "kapha": "Kaphavatasamaka — reduces Kapha at normal dose",
+      "note": "IMPORTANT: Pittavadhaka is explicitly stated. Dose-dependent effects — normal dose beneficial, higher/excess dose harmful (Vatavardhana, Dhatuksaya, addiction). Not suitable for prolonged or excess use."
+    },
+    "benefits": [
+      "Hrdayottejaka / Hrdayabalya (cardiac stimulant and tonic)",
+      "Sothahara (anti-inflammatory)",
+      "Svasanottejaka / Kasahara / Svasahara (respiratory stimulant, anti-cough, anti-asthmatic)",
+      "Tivramutrala (potent diuretic)",
+      "Dipana-Vatanulomana-Grahi (digestive, normalises Vata, mildly astringent — normal dose)",
+      "VataJamaka-Nadyuttejaka-Sphurtida (Vata-reducing, nerve stimulant, promotes alertness — normal dose)",
+      "Nidranivaraka (prevents / reduces sleep)",
+      "Srama-avasidanivarak-Soumanasyajanana (relieves fatigue, prevents depression, promotes well-being)",
+      "Sarira-dhatu posana (nourishes body tissues — normal dose)",
+      "Jvaraghna (antipyretic)",
+      "Visaghna (antitoxic)",
+      "Stomachic, carminative, astringent"
+    ],
+    "indications": [
+      "Hrddourbalya / Hrdrogajanya Sotha (cardiac weakness, cardiac oedema)",
+      "Manasika avasada / Saithilya / Pralapa (mental depression, lassitude, delirium)",
+      "Sirahsula / Apanaka / Aksepaka (headache, migraine, epileptic-type fits)",
+      "Vataja roga / Sandhivata / Amavata (Vata diseases, osteoarthritis, rheumatoid arthritis)",
+      "Kasa / Kukkurakasa (cough, whooping cough)",
+      "Mutrakrcchra / Asmari (dysuria, urinary stones)",
+      "Visucika — Balaroga (gastroenteritis in children)",
+      "Visamajvara / Atisara / Pravahika (malarial fever, diarrhoea, dysentery)",
+      "Dantakrmi / Mukhadurgandhi (dental caries, bad breath)",
+      "Fatigue and mental exhaustion",
+      "Hypertension (diuretic action)"
+    ],
+    "contraindications": [
+      "Pittavadhaka — contraindicated in high Pitta conditions",
+      "Higher dose causes: Agnimandyakara (loss of appetite/digestive fire), Vistambha (constipation/flatulence), Vatavardhana (increases Vata), Dhatuksaya (tissue depletion)",
+      "Regular/prolonged use causes addiction",
+      "Toxic symptoms with excess use",
+      "Excess use not advised"
+    ],
+    "dosage": {
+      "powder_churna": "",
+      "decoction": "20–40 ml (leaf decoction)",
+      "seeds_caffeine": "120–300 mg",
+      "common_drink": "Standard cup of coffee",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Milk and sugar — standard infusion preparation (most common form)"
+      }
+    },
+    "key_formulations": [
+      "Referenced in Dravyaguna Vijnana Part II, p. 218",
+      "No separate classical formulation named; used as single drug"
+    ],
+    "part_used": "Leaves (for decoction); Seeds (for caffeine preparation and common coffee drink)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "105–108"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Caffeine (primary active constituent — responsible for stimulating effect; present in the bean/seed)"
+      ],
+      "keywords": [
+        "coffee",
+        "Coffea arabica",
+        "Kaphi",
+        "caffeine",
+        "cardiac stimulant",
+        "diuretic",
+        "nervous stimulant",
+        "Pittavadhaka",
+        "dose-dependent",
+        "Nidranivaraka"
+      ]
+    }
+  },
+  {
+    "id": "herb_440",
+    "varga": "Vidarigandhadi Varga / Vajikarana Varga",
+    "names": {
+      "sanskrit": "Kapikacchu",
+      "synonyms": [
+        "Vanari",
+        "Atmagurpta",
+        "Kandura",
+        "Markati",
+        "Svayamgupta",
+        "Satasimbi",
+        "Languli",
+        "Kundali",
+        "Canda",
+        "Durabhigraha",
+        "Kolasimbi / Sukarasimbi (related variety — Mucuna nigricans)"
+      ],
+      "latin": "Mucuna pruriens (L.) DC. (Text: Mucuna prurita Hook.); Also Mucuna nigricans Steud. (Kolasimbi variety); Family: Fabaceae (Papilionaceae)",
+      "hindi": "Kaunch, Kebanch",
+      "gujarati": "Kauncha, Kavach",
+      "english": "Cowhage / Cowitch / Velvet bean"
+    },
+    "properties": {
+      "rasa": [
+        "Madhura",
+        "Tikta"
+      ],
+      "virya": "Usna",
+      "vipaka": "Madhura",
+      "guna": [
+        "Guru",
+        "Snigdha"
+      ],
+      "prabhava": "Vrsya — pre-eminent aphrodisiac / Vajikarana drug in Ayurveda; specific Nadibalya (nerve-strengthening) and Vatahara; pod hairs (Simbiroma) specifically Krmighna (anthelmintic against intestinal worms); L-Dopa (1%) in seeds is the primary modern active compound responsible for anti-Parkinsonian and neuro-trophic actions"
+    },
+    "dosha_effect": {
+      "vata": "Vatasamaka / Vatahara — strongly reduces Vata; primary anti-Vata drug especially for Nadivata (nerve/motor Vata disorders)",
+      "pitta": "Kaphapittavardhaka — increases Kapha and Pitta (explicitly stated); Madhura vipaka moderates Pitta increase; use with caution in Pitta conditions",
+      "kapha": "Kaphapittavardhaka — increases Kapha (explicitly stated); Guru and Snigdha guna add to Kapha; caution in Kapha disorders",
+      "note": "IMPORTANT: Kaphapittavardhaka is explicitly stated — increases both Kapha and Pitta. Pod hairs cause intense skin irritation — handle with extreme care."
+    },
+    "benefits": [
+      "Vrsya (aphrodisiac — foremost action)",
+      "Balya-Brmhana (strengthening, anabolic)",
+      "Nadibalya (nerve strengthening / neuroprotective)",
+      "Artavajanana (emmenagogue — promotes menstruation)",
+      "Yonisankocaka (uterine contractor / vaginal astringent)",
+      "Mutrala (diuretic)",
+      "Krmighna (anthelmintic — especially pod hairs)",
+      "Vatahara (strongly reduces Vata)",
+      "Vrana-Visodhana (wound cleansing)",
+      "Garbhadharaka (foetus-retaining / prevents miscarriage)"
+    ],
+    "indications": [
+      "Klaibya / Sukraksaya / Kamasaitya (impotency, semen deficiency, reduced sexual desire)",
+      "Ksaya / Karsya / Dourbalya (wasting, emaciation, debility)",
+      "Kastartava (dysmenorrhoea / difficult menstruation)",
+      "Mutrakrcchra / Mutraghata (dysuria, urinary obstruction)",
+      "Vrkkaroga (kidney diseases)",
+      "Krmi / Gandupada-krmi (worm infestations including threadworms)",
+      "Vatavyadhi (Vata disorders — arm weakness / avabahuka / shoulder paralysis)",
+      "Nadidourbalya (nerve weakness / neuropathy)",
+      "Atisara (diarrhoea — root paste)",
+      "Raktapitta (intrinsic haemorrhage — seeds)",
+      "Dustavrana (infected / non-healing wounds)",
+      "Unmada (insanity — external rubbing / Gharsanam)",
+      "Male infertility and sperm deficiency",
+      "Pumsavana (conception of male child — root)"
+    ],
+    "contraindications": [
+      "Kaphapittavardhaka — contraindicated in Kapha and Pitta dominant conditions",
+      "Pod hairs cause intense skin irritation — extreme care during collection and use; handle only with trained skill",
+      "Guru guna — heavy to digest; caution in Mandagni (weak digestive fire)"
+    ],
+    "dosage": {
+      "powder_churna": "3–5 gm (seed powder)",
+      "pod_hairs_simbiroma": "125–250 mg",
+      "decoction": "50–100 ml (root decoction)",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Warm milk (Dherosna dugdha) — seed powder with Iksuraka and sugar in warm milk for Sukravardhana; Ghee (Ghrta) — pod hairs with ghee in mouth for worms and haematemesis; Wheat flour cooked with milk and ghee — Kapikacchu seeds in wheat flour, cooked, eaten followed by milk (aphrodisiac); Sugar — with Iksuraka powder in warm milk for sperm deficiency"
+      }
+    },
+    "key_formulations": [
+      "Vanari Gutika (aphrodisiac)",
+      "Masabaladi Pacana (for Vatavyadhi / arm weakness)",
+      "Vanari Vatika (Vajikarana / rativardhana yoga — Bhavaprakasha, Cikitsa 72/71-75)",
+      "Svayamguptadi Curnam (Cakradatta 33/17-18 — dysuria)",
+      "Atinagupta Bijatailam",
+      "Gana: Balya, Madhuraskandha (Caraka Samhita)",
+      "Gana: Vidarigandhadi, Vata-samsamana (Susruta Samhita)"
+    ],
+    "part_used": "Seeds (primary drug part); Roots; Pod hairs / irritating bristles (Simbiroma) — anthelmintic use",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "108–113"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "L-Dopa (Levodopa): 1% — primary pharmacologically significant compound; dopamine precursor; anti-Parkinsonian",
+        "Glutathione",
+        "Lecithin",
+        "Gallic acid",
+        "Glucoside",
+        "Alkaloids (total 0.53%): nicotine, prurianine, prurianidine",
+        "Protein: 25.03%, Fibres: 6.75%, Minerals: 6.95%",
+        "Phosphorus: 0.47%, Iron: 0.02%",
+        "Viscid white oil (seed kernel)"
+      ],
+      "keywords": [
+        "Kapikacchu",
+        "Mucuna pruriens",
+        "velvet bean",
+        "L-Dopa",
+        "levodopa",
+        "aphrodisiac",
+        "Vajikarana",
+        "Nadibalya",
+        "neuroprotective",
+        "anthelmintic",
+        "Vanari"
+      ]
+    }
+  },
+  {
+    "id": "herb_441",
+    "varga": "Phala Varga (Fruit group)",
+    "names": {
+      "sanskrit": "Kapittha",
+      "synonyms": [
+        "Kapipriya",
+        "Dadhiphala",
+        "Surabhicchada",
+        "Pushpaphala",
+        "Dadhittha",
+        "Grahiphala",
+        "Milura",
+        "Granthiphala",
+        "Kucaphala",
+        "Karavallabha",
+        "Vrttaphala",
+        "Dantasatha",
+        "Kapista"
+      ],
+      "latin": "Limonia elephantum (Correa) Panigrahi; Syn. Feronia limonia (Linn.) Swingle; Feronia elephantum Correa; Family: Rutaceae",
+      "hindi": "Kainth, Kait, Kavit",
+      "gujarati": "Kothu",
+      "english": "Elephant Wood-apple"
+    },
+    "properties": {
+      "rasa": [
+        "Kashaya",
+        "Amla"
+      ],
+      "virya": "Sita",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksha"
+      ],
+      "prabhava": "Tridosahara (ripe fruit allays all three doshas); Vatapitta-shamaka. Unripe fruit increases Vata-Pitta and reduces Kapha; ripe fruit pacifies Vata-Pitta or Tridosha. Durjara (heavy to digest)."
+    },
+    "dosha_effect": {
+      "vata": "Vata-shamaka (ripe fruit); unripe fruit may increase Vata",
+      "pitta": "Pitta-shamaka (ripe fruit); unripe fruit increases Pitta",
+      "kapha": "Kapha-hara (unripe fruit reduces Kapha); ripe fruit neutral to mildly Kapha-increasing in excess",
+      "note": "Dosha effects vary significantly with stage of fruit (unripe/ripe) and plant part used"
+    },
+    "benefits": [
+      "Lekhana (scraping — reduces fat and deposits)",
+      "Grahi (absorbent, checks excessive discharge)",
+      "Durjara-vistambhi (heavy to digest, mild constipating effect)",
+      "Rocana-hridya (appetite stimulant, cardiac tonic)",
+      "Trishnanigrahana (checks excessive thirst)",
+      "Kanthavishodhana-Kasahara (clears throat, relieves cough)",
+      "Vishaghna (antidote to poison)",
+      "Hikkanigrahana (checks hiccough)"
+    ],
+    "indications": [
+      "Aruchi (anorexia), Agnimandya (low digestive fire)",
+      "Kasa (cough), Svasa (asthma), Hikka (hiccough)",
+      "Visha (poisoning), Mushakadamsha (rat bite), Kanthagatavisha (throat poisoning)",
+      "Kanthavikara (throat disorders), Svarabheda (hoarseness)",
+      "Mutradosha (urinary disorders)",
+      "Vrana (wounds/ulcers)",
+      "Trishna (excessive thirst)",
+      "Atisara (diarrhoea), Pravahika (dysentery)",
+      "Arsha (haemorrhoids/piles)",
+      "Vyanga, Nyaccha, Nilika (skin discolouration conditions)",
+      "Chhardi (vomiting)"
+    ],
+    "contraindications": [
+      "Unripe fruit increases Vata and Pitta — avoid in Vata-Pitta dominant conditions",
+      "Drug is heavy (Durjara) — use cautiously in weak digestion"
+    ],
+    "dosage": {
+      "powder_churna": "Not specified",
+      "juice_svarasa": "Not specified",
+      "decoction": "50–100 ml",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Honey (Madhu) — for cough, hiccough, vomiting; Ghee (Ghrita) — processed with Kapittha for rat poisoning; Trikatu — with honey for chhardi and hikka; Curd (Dadhi) — with dhataki and badari leaves in pravahika; Sugar and honey — with fruit pulp in atisara"
+      }
+    },
+    "key_formulations": [
+      "Kapitthashtaka Churna (primary formulation)",
+      "Soup of Kapittha with Bilva — for piles (Charaka Samhita, Chikitsa 14/93)",
+      "Kapittha juice + Pippali + honey — for vomiting (Sushruta Samhita, Uttara 49/27; Ashtanga Hridayam, Chikitsa 6-12)",
+      "Kapittha + Amalaka juice + Pippali + honey — for hiccough",
+      "Ghrita processed with five parts Kapittha — for rat poisoning (Ashtanga Hridayam, Uttara 38-25)"
+    ],
+    "part_used": "Fruit (ripe and unripe), Leaves (Patra), Flowers (Pushpa), Bark (Tvak), Root (Mula), Gum (Niryasa), Seed (Bija), Oil (Taila)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "115–122"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Citric acid — fruit pulp contains abundant citric acid; dried pulp up to 15%",
+        "Mucilage — in fruit pulp",
+        "Potassium, calcium, iron salts — in ash",
+        "Volatile oil — 0.73% in leaves (similar to Bilva / Aegle marmelos)"
+      ],
+      "keywords": [
+        "Kapittha",
+        "Feronia limonia",
+        "wood-apple",
+        "Kasahara",
+        "Grahi",
+        "Tridosahara",
+        "antidote",
+        "digestive"
+      ]
+    }
+  },
+  {
+    "id": "herb_442",
+    "varga": "Phala Varga (Fruit group)",
+    "names": {
+      "sanskrit": "Karmarda",
+      "synonyms": [
+        "Karamarda",
+        "Panimarda",
+        "Karamla",
+        "Sushena",
+        "Krishnapaka"
+      ],
+      "latin": "Carissa congesta Wight. Syn. Carissa carandas Linn.; Also: Carissa opaca Stapf; Carissa villosa Roxb.; Family: Apocynaceae",
+      "hindi": "Karonda, Karorunda, Karwand",
+      "gujarati": "Not separately listed in source",
+      "english": "Karonda Berry / Karanda Plum"
+    },
+    "properties": {
+      "rasa": [
+        "Amla"
+      ],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "guna": [
+        "Guru",
+        "Sara"
+      ],
+      "prabhava": "Vata-shamaka, Pittakaphakara in excess. Stomachic (Dipana) and appetite-stimulating (Rocana) in normal use of ripe fruit. Rasa varies with ripeness: unripe=amla, semi-ripe=madhuramla, ripe=satiktamla."
+    },
+    "dosha_effect": {
+      "vata": "Vata-shamaka (reduces Vata)",
+      "pitta": "Pittakara in excess (increases Pitta due to amla rasa and ushna virya); Pittashamaka in normal moderate use",
+      "kapha": "Kaphakara — may increase Kapha due to Guru guna and Amla rasa in excess",
+      "note": "Medicinal properties vary considerably with ripeness stage of fruit"
+    },
+    "benefits": [
+      "Rocana-hridya (stimulates appetite, cardiac tonic)",
+      "Pachaka (digestive)",
+      "Trishna-shamaka (relieves excessive thirst)",
+      "Pittashamaka (relieves Pitta conditions in normal use)",
+      "Balya (strengthening, tonic)"
+    ],
+    "indications": [
+      "Aruchi (anorexia / loss of appetite)",
+      "Agnimandya (low digestive fire)",
+      "Raktapitta (bleeding disorders)",
+      "Prashitada (wasting / debility with loss of appetite)",
+      "Pittavikara (Pitta disorders)",
+      "Yakridvikara (liver disorders)",
+      "Kasa (cough), Svasa (asthma)",
+      "Vishamajvara (intermittent/malarial fever)",
+      "Dourbalya (debility / weakness)",
+      "Trishna (excessive thirst)",
+      "Pandu (anaemia / jaundice)"
+    ],
+    "contraindications": [
+      "Excess use increases Pitta and Kapha — avoid in Pitta-dominant conditions",
+      "Use ripe fruit in moderation"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm",
+      "juice_svarasa": "Not specified",
+      "decoction": "Not specified",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Not specifically stated. Taken as edible fruit or in food preparations (pickle, preserve)"
+      }
+    },
+    "key_formulations": [
+      "No specific named formulation listed in source entry",
+      "Referenced in Bhavaprakasha Nighantu, Amraphaladi Varga 81–82",
+      "Referenced in Raja Nighantu, Amradiphala Varga 207–208",
+      "Mentioned in Ashtanga Hridayam as dietary group herb"
+    ],
+    "part_used": "Fruits (primary), Roots",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "123–127"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Moisture: 18.2%",
+        "Protein: 2.3%",
+        "Fat: 9.6%",
+        "Carbohydrates: 67.1%",
+        "Mineral matter: 2.8%"
+      ],
+      "keywords": [
+        "Karmarda",
+        "Carissa carandas",
+        "Karonda",
+        "stomachic",
+        "digestive",
+        "tonic",
+        "Rocana",
+        "Balya",
+        "liver tonic"
+      ]
+    }
+  },
+  {
+    "id": "herb_443",
+    "varga": "Pushpa-Phala Varga",
+    "names": {
+      "sanskrit": "Karanja",
+      "synonyms": [
+        "Naktamala",
+        "Udakirya",
+        "Ghritapura",
+        "Snigdhapura",
+        "Gucchapushpaka",
+        "Ghritakaranja"
+      ],
+      "latin": "Pongamia pinnata (L.) Pierre; Syn. Derris indica (Lam.) Benn.; Cytisus pinnatus L.; Pongamia glabra Vent.; Family: Fabaceae (Papilionaceae)",
+      "hindi": "Papri, Karanji, Karnu",
+      "gujarati": "Not separately listed in source",
+      "english": "Pongam Tree / Indian Beech"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta",
+        "Kashaya"
+      ],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "guna": [
+        "Tikshna"
+      ],
+      "prabhava": "Kaphavata-shamaka. Notable Krimighna (anthelmintic) and Kushthahara (anti-dermatosis) actions. Karanjin — germicidal active constituent."
+    },
+    "dosha_effect": {
+      "vata": "Vata-shamaka (reduces Vata)",
+      "pitta": "Neutral to mildly Pitta-increasing (Tikshna guna and Ushna virya — use cautiously in high Pitta)",
+      "kapha": "Kapha-shamaka (reduces Kapha)",
+      "note": "Belongs to Upavisha group — toxic in overdose; requires caution in oral use"
+    },
+    "benefits": [
+      "Arshoghna (anti-haemorrhoidal)",
+      "Krimighna (anthelmintic, destroys worms)",
+      "Kushthahana-Kandughna (cures skin diseases, relieves itching)",
+      "Dipana-Pachana (kindles digestive fire, aids digestion)",
+      "Sothahara (anti-inflammatory)",
+      "Grahi (absorbent)",
+      "Chardinigrahana (checks vomiting)",
+      "Vishaghna (antidote)",
+      "Medohara (reduces fat/obesity)",
+      "Vranashodhana-Ropana (cleanses and heals wounds/ulcers)",
+      "Bhutaghna (destroys microbes/pathogens)",
+      "Romasanjana (promotes hair growth)"
+    ],
+    "indications": [
+      "Kandu, Pama, Kacchu, Vicharika (skin itching and eruptions)",
+      "Kushtha (leprosy and skin diseases), Shvitra (vitiligo)",
+      "Raktapitta (bleeding disorders)",
+      "Vajikarana (sexual weakness)",
+      "Upadamsha (sexually transmitted diseases)",
+      "Vrana, Vidradhi, Nadivrana, Vishphota (ulcers, abscesses, sinus wounds, blisters)",
+      "Krimi (intestinal worms)",
+      "Arsha (piles/haemorrhoids)",
+      "Yoniroga (gynaecological disorders)",
+      "Udavarta, Gulma (abdominal disorders)",
+      "Prameha (urinary/diabetic disorders)",
+      "Medoroga (obesity)",
+      "Netraroga (eye diseases)",
+      "Granthi (cysts/glandular swellings)",
+      "Visarpa (erysipelas)",
+      "Urustambha (stiffness of thighs)",
+      "Udararoga, Plihodara (abdominal diseases, splenic disorders)",
+      "Kesharoga (hair diseases)"
+    ],
+    "contraindications": [
+      "Toxic in overdose — use within strictly prescribed limits",
+      "Belongs to Upavisha group — caution in oral administration",
+      "Avoid in high Pitta conditions due to Tikshna and Ushna properties"
+    ],
+    "dosage": {
+      "powder_churna": "3–5 gm",
+      "juice_svarasa": "Not specified",
+      "decoction": "50–100 ml",
+      "oil_external": "External use only (seed oil)",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Not specifically stated; administered per disease indication"
+      }
+    },
+    "key_formulations": [
+      "Karanjadi Churna",
+      "Karanjadya Ghrita",
+      "Karanjadi Taila (primary external oil formulation)",
+      "Gana: Kandughna, Virechana, Katukaskandha, Tiktaskandha (Charaka Samhita)",
+      "Gana: Shyamadi, Shirovirechana, Kaphasamshamana, Aragvadhadi, Varunadi, Arkadi (Sushruta Samhita)"
+    ],
+    "part_used": "Fruit, Seeds, Seed kernel, Leaves, Oil (from seeds), Root",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "127–135"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Fixed oil (Pongamia oil / Karanja taila): 27–29% from seeds",
+        "Karanjin — primary active constituent, germicidal agent",
+        "Pongamol — found in seeds",
+        "Bitter alkaloid from bark — soluble in ether, alcohol and water",
+        "Oil solidifies at 80°C"
+      ],
+      "keywords": [
+        "Karanja",
+        "Pongamia pinnata",
+        "Karanjin",
+        "anthelmintic",
+        "antidiabetic",
+        "skin diseases",
+        "Kushthahana",
+        "Krimighna",
+        "Medohara"
+      ]
+    }
+  },
+  {
+    "id": "herb_444",
+    "varga": "Shaka Varga (Vegetable group)",
+    "names": {
+      "sanskrit": "Karavellaka",
+      "synonyms": [
+        "Karavella",
+        "Karavelli",
+        "Karavellaka-Susavi",
+        "Pitapushpa",
+        "Mandapi",
+        "Chiritacchada",
+        "Chiriparna",
+        "Jhrillaka",
+        "Sukshmavallis",
+        "Kantaphala",
+        "Ambuvalika"
+      ],
+      "latin": "Momordica charantia Linn.; Var. muricata (Willd.) Chakravarty also recognized; Family: Cucurbitaceae",
+      "hindi": "Karela",
+      "gujarati": "Kareli",
+      "english": "Bitter Gourd / Bitter Melon"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta",
+        "Katu"
+      ],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksha"
+      ],
+      "prabhava": "Kaphapittashamaka. Madhurikahrasaka — notable hypoglycaemic (blood sugar lowering) action. Primary prabhava: anti-diabetic."
+    },
+    "dosha_effect": {
+      "vata": "Mildly Vata-increasing in excess (Ruksha and Laghu gunas); use cautiously in high Vata",
+      "pitta": "Pittashamaka and Pittasaraka (reduces and moves Pitta)",
+      "kapha": "Kaphaghna — strongly reduces Kapha",
+      "note": "Avrishya (depressant of sexual desire) — avoid where aphrodisiac support required"
+    },
+    "benefits": [
+      "Pittasaraka (moves/eliminates Pitta)",
+      "Rocana-Dipana-Pachana (appetite stimulant, digestive)",
+      "Amadoshapachana (digests ama / undigested toxins)",
+      "Krimighna (anthelmintic)",
+      "Raktashodhaka-Sothahara (blood purifier, anti-inflammatory)",
+      "Hridya (cardiac tonic)",
+      "Avrishya (reduces sexual urge)",
+      "Kaphaghna (reduces Kapha)",
+      "Madhurikahrasaka (lowers blood sugar — anti-diabetic)",
+      "Artavajanana (emmenagogue — promotes menstruation)",
+      "Stanyashodhana (purifies breast milk)",
+      "Kushthahana (anti-dermatosis)",
+      "Jvaraghna (antipyretic)",
+      "Vishaghna (antidote to poison)",
+      "Medohara (reduces fat)",
+      "Vranashodhana-Ropana (wound cleansing and healing)",
+      "Dahaprashamana (relieves burning sensation)"
+    ],
+    "indications": [
+      "Kushtha, Udarda, Kotha (skin diseases and urticaria)",
+      "Vrana, Gambhiravrana (wounds, deep-seated ulcers)",
+      "Arsha (haemorrhoids)",
+      "Daha (burning sensation)",
+      "Aruchi, Agnimandya, Vibandha (anorexia, low digestion, constipation)",
+      "Amadosha, Visuchika (ama toxins, cholera-like conditions)",
+      "Yakridvikara (liver disorders)",
+      "Krimi (intestinal worms)",
+      "Sotha, Raktavikara (oedema, blood disorders)",
+      "Kasa, Svasa (cough, asthma)",
+      "Rajorodha (amenorrhoea / menstrual obstruction)",
+      "Stanyavikara (breast milk disorders)",
+      "Prameha, Madhumeha (diabetes / urinary disorders)",
+      "Jvara (fever)",
+      "Pandu (anaemia)",
+      "Vatarakta (gout)",
+      "Netravikara (eye diseases)",
+      "Yonibhramsha (prolapse of uterus)",
+      "Mashurika, Romantika (smallpox, skin eruptions)"
+    ],
+    "contraindications": [
+      "Avrishya — avoid where aphrodisiac/fertility support required",
+      "Tikta-Katu and Ushna — cautious use in high Vata or emaciated patients",
+      "Ruksha guna may aggravate Vata dryness in excess"
+    ],
+    "dosage": {
+      "powder_churna": "Not specified",
+      "juice_svarasa": "10–20 ml (standard); or 5–10 ml (concentrated)",
+      "decoction": "Not specified",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Fruit juice used directly or as vegetable (pathya shaka). Used in pharmaceutical anti-diabetic preparations as ingredient/adjuvant."
+      }
+    },
+    "key_formulations": [
+      "Numerous anti-diabetic formulations (specific yoga not named in Pandey entry)",
+      "Gana: Tiktaskandha (Charaka Samhita); Shekatoru (Sushruta Samhita)",
+      "Referenced in Charaka Samhita, Shaka Varga",
+      "Referenced in Sushruta Samhita, Sutra 44/2",
+      "Referenced in Cakradatta, Yonivyapat Chikitsa 16",
+      "Referenced in Bhavaprakasha, Jatharagnivaradhi 5/110",
+      "Referenced in Vrnda Madhava 44-35"
+    ],
+    "part_used": "Fruit (primary), Whole plant, Leaves, Roots",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "136–141"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Charantin — hypoglycaemic steroidal glycoside",
+        "Polypeptide-p (plant insulin) — insulin-like blood sugar lowering compound",
+        "Momordicin — bitter principle",
+        "Vicine — pyrimidine nucleoside",
+        "Cucurbitacins — bitter triterpenoids"
+      ],
+      "keywords": [
+        "Karavellaka",
+        "Momordica charantia",
+        "bitter gourd",
+        "hypoglycaemic",
+        "antidiabetic",
+        "Madhumeha",
+        "Krimighna",
+        "Medohara",
+        "Charantin"
+      ]
+    }
+  },
+  {
+    "id": "herb_445",
+    "varga": "Upavisha Varga (Auxiliary Poisons group)",
+    "names": {
+      "sanskrit": "Karavira",
+      "synonyms": [
+        "Ashvamaraka",
+        "Hayamaraka",
+        "Angulipatraka"
+      ],
+      "latin": "Nerium indicum Mill.; Syn. Nerium odorum Soland.; Varieties: Sveta Karavira (white-flowered), Rakta Karavira (red-flowered); Also Thevetia peruviana (Pers.) K. Schum. = Pita Karavira (yellow); Family: Apocynaceae",
+      "hindi": "Kaner, Kanail",
+      "gujarati": "Kaner, Karena",
+      "english": "Indian Oleander"
+    },
+    "properties": {
+      "rasa": [
+        "Katu",
+        "Tikta"
+      ],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksha",
+        "Tikshna"
+      ],
+      "prabhava": "UPAVISHA — inherently highly toxic (Tivravisha). Belongs to Upavisha Varga. Requires Shodhana (purification) before any clinical use. Hridya in controlled dose; cardiotoxic in overdose. Fatal in excess."
+    },
+    "dosha_effect": {
+      "vata": "Kaphavata-shamaka — reduces Vata and Kapha",
+      "pitta": "Neutral to mildly Pitta-increasing (Ushna virya + Tikshna guna)",
+      "kapha": "Kapha-shamaka (reduces Kapha)",
+      "note": "TOXIC DRUG — Fatal in overdose. Strict posological control mandatory. Must undergo Shodhana before internal use."
+    },
+    "benefits": [
+      "Hridya (cardiac tonic — in controlled dose only)",
+      "Raktashodhaka (blood purifier)",
+      "Svasaghna (relieves asthma/respiratory disorders)",
+      "Kushthahana-Svedajanana (cures skin diseases, induces sweating)",
+      "Kandughna (relieves itching)",
+      "Jvaraghna-Visamajvarapratibhandhaka (antipyretic, prevents intermittent fever)",
+      "Vranashodhana-Ropana (cleanses and heals wounds)",
+      "Sothahara (anti-inflammatory)",
+      "Dipana-Vidahi-Bhedana (stimulates digestion, caustic, laxative)"
+    ],
+    "indications": [
+      "Kandu, Pama, Kikkisha, Kacchu (itching, skin eruptions)",
+      "Vrana, Dushtavrana, Nadivrana (wounds, infected ulcers, sinus)",
+      "Bhagandara (anal fistula)",
+      "Palitya (premature greying of hair)",
+      "Indralupta (alopecia / baldness)",
+      "Upadamsha, Phiranga (syphilis and related STDs)",
+      "Ashmari, Sharkara (urinary calculi, gravel)",
+      "Netrabhishyanda, Netrakopa (conjunctivitis, eye inflammation)",
+      "Hrdroga, Raktavikara (heart disease, blood disorders)",
+      "Svasaroga (respiratory disorders)",
+      "Udararoga, Agnimandya, Vibandha (abdominal diseases, poor digestion, constipation)",
+      "Jvara, Visamajvara (fever, intermittent fever)",
+      "Tvagdosha, Carmavikara, Kshudraroga (skin disorders, minor skin diseases)"
+    ],
+    "contraindications": [
+      "TOXIC — Fatal in overdose; adversely affects heart and respiration",
+      "Must undergo Shodhana (purification) before any internal use",
+      "Strict posological supervision mandatory for all oral administration",
+      "Contraindicated in pregnancy, children without physician supervision",
+      "Thevetia peruviana (Pita Karavira) more toxic than Nerium — thevetin glucoside fatal even to horses",
+      "Avoid in high Pitta conditions"
+    ],
+    "dosage": {
+      "powder_churna": "30–125 mg only (very small dose — Upavisha drug)",
+      "juice_svarasa": "Not for internal use without purification",
+      "decoction": "Not specified",
+      "oil_external": "External use in oil preparations",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Cow's urine (Gomutra) — oil processed with Karavira root and aconite in gomutra for skin diseases; Milk — paste with Dugdhika pounded in milk for palitya"
+      }
+    },
+    "key_formulations": [
+      "Karaviradya Taila (primary formulation — external oil)",
+      "Karavira Yoga",
+      "Sveta Karaviradya Taila (white oleander variety)",
+      "Sveta Karavira Pallavadya Taila (using tender leaves)",
+      "Gana: Tiktaskandha, Kushthahana (Charaka Samhita)",
+      "Gana: Laksadi, Shirovirechana (Sushruta Samhita)",
+      "Referenced in Bhavaprakasha, Bhagandara 50/32",
+      "Referenced in Cakradatta, Bhagandara Chikitsa 46/21",
+      "Referenced in Cakradatta, Upadamsha Chikitsa 47/11"
+    ],
+    "part_used": "Root, Root-bark, Leaves",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "141–147"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Meriodorein — active principle from roots; bitter, non-crystalline, severe cardiac toxin, insoluble in water",
+        "Nariene — another active constituent from roots",
+        "Multiple cardiac glycosides from root, bark and seeds",
+        "Thevetin (Thevetia peruviana) — highly toxic glucoside; fatal to animals"
+      ],
+      "keywords": [
+        "Karavira",
+        "Nerium indicum",
+        "oleander",
+        "cardiac glycoside",
+        "toxic",
+        "Upavisha",
+        "Meriodorein",
+        "Kushthahana",
+        "Svasaghna"
+      ]
+    }
+  },
+  {
+    "id": "herb_446",
+    "varga": "Kanda Varga (Rhizome group)",
+    "names": {
+      "sanskrit": "Karcura",
+      "synonyms": [
+        "Vedhamukha",
+        "Dravida",
+        "Kalpaka",
+        "Karna",
+        "Gandhamulaka",
+        "Gandhasara",
+        "Jatila",
+        "Durlabha"
+      ],
+      "latin": "Curcuma zedoaria (Christm.) Roscoe; Syn. Curcuma zedoaria Rosc.; Family: Zingiberaceae",
+      "hindi": "Kachura, Narakachura",
+      "gujarati": "Satkachuro, Kachuro",
+      "english": "Zedoary"
+    },
+    "properties": {
+      "rasa": [
+        "Katu",
+        "Tikta"
+      ],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Tikshna"
+      ],
+      "prabhava": "Kaphavata-shamaka. Sugandhi kanda — notably aromatic rhizome with camphor-like odour. Strong anti-inflammatory (Sothashamaka) and anti-asthmatic (Svasahara). Do not confuse with Curcuma aromatica (Kasturi Manjal)."
+    },
+    "dosha_effect": {
+      "vata": "Vata-shamaka (reduces Vata)",
+      "pitta": "Neutral — Ushna virya and Tikshna guna suggest caution in high Pitta states",
+      "kapha": "Kapha-shamaka — Kaphaghna listed as primary karma",
+      "note": "Primary affinity: Kapha and Vata disorders"
+    },
+    "benefits": [
+      "Kaphaghna-Svasahara (removes Kapha, relieves asthma)",
+      "Uttejaka (stimulant)",
+      "Sothahara (anti-inflammatory)",
+      "Raktashodhaka (blood purifier)",
+      "Sothashamaka-Vedanasthapana (anti-inflammatory, analgesic)",
+      "Kushthahana (anti-dermatosis)",
+      "Rocana-Dipana-Pachana-Anulomana (appetiser, digestive, carminative, laxative)",
+      "Hriduttejaka (cardiac stimulant)",
+      "Krimighna (anthelmintic)",
+      "Artavajanana (emmenagogue — promotes menstruation)",
+      "Vajikarana (aphrodisiac)",
+      "Mutrajanana (diuretic)"
+    ],
+    "indications": [
+      "Kasa (cough), Svasa (asthma), Hikka (hiccough)",
+      "Sandhivata (rheumatoid arthritis), Sotha (oedema/inflammation)",
+      "Carmaroga (skin diseases)",
+      "Aruchi, Agnimandya, Adhman, Shula (anorexia, low digestion, bloating, colic)",
+      "Udararoga, Gulma (abdominal diseases, abdominal mass)",
+      "Arsha (piles/haemorrhoids)",
+      "Krimi (worms)",
+      "Hrid-dourbalya, Raktavikara (cardiac weakness, blood disorders)",
+      "Rajorodha, Kashtartava (menstrual obstruction, painful periods)",
+      "Prameha, Mutrakriccha (urinary disorders, dysuria)",
+      "Vrana, Nadivrana (wounds, sinus ulcers)",
+      "Galaganda (goitre)",
+      "Pliha vikrti (splenic disorders)"
+    ],
+    "contraindications": [
+      "Ushna virya and Tikshna guna — avoid in excess Pitta conditions",
+      "Artavajanana (emmenagogue) — caution in pregnancy",
+      "Not to be confused with Curcuma aromatica"
+    ],
+    "dosage": {
+      "powder_churna": "3–6 gm; or 1–2 gm in some preparations",
+      "juice_svarasa": "10–20 ml (leaf juice)",
+      "decoction": "Not specified",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Mustard oil (Sarshapa taila) — Karcura juice cooked in mustard oil with sindura for external taila; generally administered as churna and phanta (infusion)"
+      }
+    },
+    "key_formulations": [
+      "Karcura Taila — primary formulation; for nadivrana (sinus ulcer), dushtavrana (infected ulcers), visarpa; prepared by cooking expressed juice in mustard oil with sindura (Bhavaprakasha, Nadivranadhi 49-25)",
+      "Referenced in Bhavaprakasha Nighantu, Karpuradi Varga 94-95",
+      "Referenced in Kaiyadevanighantu, Oshadhi Varga 1388-1390",
+      "Referenced in Raja Nighantu, Pippalyadi Varga 117-118"
+    ],
+    "part_used": "Rhizome / Tuberous root (primary), Leaves",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "147–151"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Volatile oil: 3.79% (camphoraceous odour, yellowish-white, viscid)",
+        "Resin and sugar: 0.90%",
+        "Gum and organic acid: 15.22%",
+        "Starch: 17.20%",
+        "Crude fibre: 1.92%",
+        "Ash: 6.06%",
+        "Albuminoids (protein fraction)",
+        "Zedorin — sesquiterpene isolated from tubers",
+        "Curcumin and related substances"
+      ],
+      "keywords": [
+        "Karcura",
+        "Curcuma zedoaria",
+        "Zedoary",
+        "anti-inflammatory",
+        "Sothahara",
+        "Svasahara",
+        "Kaphaghna",
+        "Zedorin",
+        "aromatic rhizome"
+      ]
+    }
+  },
+  {
+    "id": "herb_447",
+    "varga": "Vanaspati Varga (Tree/Shrub group)",
+    "names": {
+      "sanskrit": "Karira",
+      "synonyms": [
+        "Krakanpatra",
+        "Granthika",
+        "Marubhuruha",
+        "Mriduphala",
+        "Tiksnasara",
+        "Hutashana",
+        "Ganthila",
+        "Jiraksha",
+        "Tiksnakantaka",
+        "Suphala",
+        "Shakapushpa",
+        "Apatra",
+        "Kantakinaksha"
+      ],
+      "latin": "Capparis decidua (Forssk.) Edgew.; Syn. Capparis aphylla Roth.; Sodada decidua Forssk.; Family: Capparidaceae",
+      "hindi": "Karil; Tent, Tenti (Brijbhumi U.P.)",
+      "gujarati": "Ker",
+      "english": "Desert Caper / Leafless Caper Bush"
+    },
+    "properties": {
+      "rasa": [
+        "Katu",
+        "Tikta"
+      ],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksha"
+      ],
+      "prabhava": "Kaphavata-shamaka. Drishthihita (beneficial for eyesight) when cooked in ghee. Arshoghna — notable anti-haemorrhoidal action. Ksara (alkali from fruit) is primary pharmaceutical preparation."
+    },
+    "dosha_effect": {
+      "vata": "Vata-shamaka (reduces Vata)",
+      "pitta": "Neutral to mildly Pitta-increasing (Ushna + Katu) — caution in high Pitta",
+      "kapha": "Kapha-shamaka (reduces Kapha)",
+      "note": "Very dry (Ruksha) drug — caution in Vata-dominant emaciated patients"
+    },
+    "benefits": [
+      "Arshoghna (anti-haemorrhoidal)",
+      "Rocana-Pachana-Bhedana (appetite stimulant, digestive, laxative)",
+      "Krimighna (anthelmintic)",
+      "Jantughna-Vranashodhana-Vedanasthapana (germicide, wound-cleanser, analgesic)",
+      "Uttejaka-Sothahara (stimulant, anti-inflammatory)",
+      "Svasahara (relieves asthma/respiratory disorders)",
+      "Svedajanana (diaphoretic — induces sweating)",
+      "Katupoushtika (bitter tonic, nourishing)",
+      "Vishaghna (antidote to poison)"
+    ],
+    "indications": [
+      "Arsha, Raktarsha (piles, bleeding piles)",
+      "Aruchi, Amadosha, Vibandha (anorexia, ama toxins, constipation)",
+      "Udararoga, Shula (abdominal diseases, colic pain)",
+      "Krimi (intestinal worms)",
+      "Hrid-dourbalya, Sotha (cardiac weakness, oedema)",
+      "Amavata, Sandhivata, Vatarakta (rheumatism, arthritis, gout)",
+      "Svasaroga (respiratory diseases)",
+      "Carmaroga (skin diseases)",
+      "Dourbalya (general debility)",
+      "Visha (poisoning)",
+      "Padapraharsha (tingling/paraesthesia in feet)"
+    ],
+    "contraindications": [
+      "Ushna and Tikshna — avoid in high Pitta or inflammatory conditions with burning",
+      "Very dry (Ruksha) — caution in Vata-dominant emaciated patients"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm",
+      "juice_svarasa": "Not specified",
+      "decoction": "50–100 ml",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Supernatant layer of curd (dadhi santana) — for bleeding piles in morning; Tepid water / wine / sour juice — with Karira ksara for piles; Curd with salt + yavakshara + jiraka + yavani + trikatu + hingu — laxative preparation swallowed at night; Ghee — Karira with other herbs for eye health"
+      }
+    },
+    "key_formulations": [
+      "Karira Ksara (alkali preparation from fruits with Arka patra and wine) — for piles",
+      "Karira fruits + salt + yavakshara + jiraka + yavani + trikatu + hingu in curd — laxative preparation",
+      "Stem-oil of Karira (extracted by patala yantra) — external use in vatarakta",
+      "Referenced in Bhavaprakasha Nighantu, Vatadi Varga 53",
+      "Referenced in Kaiyadevanighantu, Oshadhi Varga 375-376",
+      "Referenced in Sushruta Samhita, Sutra 45 and 46",
+      "Referenced in Siddha Bhaisajya Manimala 4-220; 4-490; 4-571",
+      "Referenced in Gada Nigraha, Arshorogadhikara 2/4-50/51"
+    ],
+    "part_used": "Root bark (primary), Fruits (tender and ripe), Stem-oil",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "151–157"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Two alkaloids from bark (unspecified)",
+        "Glucocapparis glucoside — from seeds",
+        "Bitter principle from root bark (resembling senegin from Senega plant)",
+        "Capric acid — from buds and unripe fruits",
+        "Glucoside — from buds and unripe fruits"
+      ],
+      "keywords": [
+        "Karira",
+        "Capparis decidua",
+        "Desert Caper",
+        "Arshoghna",
+        "Krimighna",
+        "Svasahara",
+        "laxative",
+        "anti-haemorrhoidal",
+        "Ksara"
+      ]
+    }
+  },
+  {
+    "id": "herb_448",
+    "varga": "Vanaspati Varga (Gall drug)",
+    "names": {
+      "sanskrit": "Karkatasrngi",
+      "synonyms": [
+        "Karkataśṛṅgī",
+        "Kuliravishanika"
+      ],
+      "latin": "Pistacia integerrima Stewart ex Brandis (tree host); Drug = Galls (insect-induced horn-shaped growth on branches); Family: Anacardiaceae",
+      "hindi": "Kakrasingi, Kakarhasingi",
+      "gujarati": "Not listed in source",
+      "english": "Crab's Claw Gall / Pistacia Galls"
+    },
+    "properties": {
+      "rasa": [
+        "Kashaya",
+        "Tikta"
+      ],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksha"
+      ],
+      "prabhava": "Kaphavata-shamaka. Premier Kasahara drug — strongest single action is cough and respiratory disease. Key ingredient in Balacaturbhadra (classical children's formulation). High tannin content (60%) explains astringent and haemostatic actions."
+    },
+    "dosha_effect": {
+      "vata": "Vatanulomana (regulates Vata — anulomana action)",
+      "pitta": "Neutral — not listed as Pittashamaka or Pittakara. Ushna virya present; moderate use safe.",
+      "kapha": "Strong Kapha-shamaka — Kaphaghna and Kaphanihsaraka (expectorant)",
+      "note": "The drug used is GALLS ONLY — not the tree itself. Galls are dull-red, horn-shaped, 3-6 inches."
+    },
+    "benefits": [
+      "Kasahara-Kaphaghna (relieves cough, removes Kapha)",
+      "Kaphanihsaraka (expectorant — expels Kapha from respiratory tract)",
+      "Hikkanigrahana (checks hiccough)",
+      "Sothahara-Raktarodhaka (anti-inflammatory, haemostatic)",
+      "Vrana-Ksata ropana (heals wounds and internal injuries)",
+      "Dipana-Vatanulomana-Grahi (digestive, regulates Vata, absorbent)",
+      "Garbhashayasotha-Sravarodhaka (reduces uterine inflammation and discharge)",
+      "Jvaraghna (antipyretic)",
+      "Katupoushtika (bitter tonic, nourishing)",
+      "Vajikarana (aphrodisiac)"
+    ],
+    "indications": [
+      "Svasa (asthma), Kasa (cough), Hikka (hiccough), Galashotha (throat inflammation)",
+      "Kshaya, Rajayakshma (consumption, tuberculosis)",
+      "Dantamula raktasrava, Vikara (bleeding gums, dental diseases)",
+      "Vrana, Kshata (wounds, internal injuries)",
+      "Agnimandya, Udavarta, Aruchi, Chhardi (poor digestion, upward Vata, anorexia, vomiting)",
+      "Atisara, Pravahika (diarrhoea, dysentery)",
+      "Balaroga, Dantodbheda janya vikara (children's diseases, teething troubles)",
+      "Pradara (leucorrhoea / excessive vaginal discharge)",
+      "Puyameha (gonorrhoea / purulent urinary discharge)",
+      "Jvara, Vatashlaishmikaajvara (fever, Vata-Kapha type fever)"
+    ],
+    "contraindications": [
+      "Ushna virya — cautious use in high Pitta or conditions with burning",
+      "Kashaya rasa may aggravate Vata if used in excess without appropriate anupana"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm",
+      "juice_svarasa": "Not applicable (gall drug — no juice)",
+      "decoction": "Not specified",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Honey (Madhu) — standard for cough, asthma, hiccough; Lukewarm water (Sukhosnajala) — alternative; Milk (Dugdha) — gall paste in milk for vajikarana; Ghee + honey — powder licked with ghee, sugar, honey followed by milk (Ashtanga Sangraha, Chikitsa 4/32); Oil — licked with oil for vataja kasa; Mustaka combination — for Kapha-induced vomiting (Charaka Samhita, Chikitsa 20-38)"
+      }
+    },
+    "key_formulations": [
+      "Shringyadi Churna (primary formulation)",
+      "Karkatadi Churna",
+      "Balacaturbhadra (classical children's formulation — key ingredient)",
+      "Gruel (yavagu) cooked with Karkataśṛṅgī — for asthma and hiccough (Charaka Samhita, Chikitsa 17-101)",
+      "Karkataśṛṅgī + radish seeds + honey + ghee — for children's asthma (Bangasena, Balaroga 62)",
+      "Gana: Kasahara, Hikkanigrahana (Charaka Samhita)",
+      "Gana: Kakolvadi (Sushruta Samhita)"
+    ],
+    "part_used": "Galls only (insect-induced horn-shaped growths on tree branches — dull-red, 3-6 inches; NOT the tree itself)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "158–162"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Tannin: 60% — primary active constituent; explains astringent and haemostatic actions",
+        "Essential oil: 1.3%",
+        "Mastic gum: 5%",
+        "Resinous substance",
+        "Crystalline acids",
+        "Crystalline hydrocarbons: 3–4%"
+      ],
+      "keywords": [
+        "Karkatasrngi",
+        "Pistacia integerrima",
+        "galls",
+        "Kasahara",
+        "tannin",
+        "Kaphaghna",
+        "Hikkanigrahana",
+        "Balacaturbhadra",
+        "children",
+        "respiratory"
+      ]
+    }
+  },
+  {
+    "id": "herb_449",
+    "varga": "Shaka Varga (Vegetable group)",
+    "names": {
+      "sanskrit": "Karkotaka",
+      "synonyms": [
+        "Karkotaki",
+        "Pitapushpa",
+        "Mahajalini",
+        "Bandhyakarkotaki (variety — Momordica cochinchinensis)"
+      ],
+      "latin": "Momordica dioica Roxb. ex Willd.; Syn. Momordica balsamina (Wall.) W. & A.; Bandhyakarkotaki = Momordica cochinchinensis Spreng.; Family: Cucurbitaceae",
+      "hindi": "Kokorha; Bankarela, Murela, Kakora",
+      "gujarati": "Not listed in source",
+      "english": "Spiny Gourd / Kakrol"
+    },
+    "properties": {
+      "rasa": [
+        "Katu",
+        "Tikta"
+      ],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "guna": [
+        "Ruksha",
+        "Laghu"
+      ],
+      "prabhava": "Tridoshaghna — allays all three doshas (rare property). Vatapittahara-Kaphahara for fruit specifically. Ashmarihara — specific action breaking and expelling urinary calculi; taken with milk for 10 days."
+    },
+    "dosha_effect": {
+      "vata": "Vata-hara (reduces Vata) — Tridoshaghna / Vatapittahara",
+      "pitta": "Pitta-hara (reduces Pitta) — Pittakaphahara listed for fruit",
+      "kapha": "Kapha-hara (reduces Kapha) — Tridoshaghna / Kaphahara",
+      "note": "Tridoshaghna — one of few herbs pacifying all three doshas. Root is Vamaka (emetic) — not for weak patients."
+    },
+    "benefits": [
+      "Dipana-Pachana (kindles digestive fire, aids digestion)",
+      "Pittasaraka (moves/eliminates Pitta)",
+      "Katupoushtika (bitter tonic, nutritive)",
+      "Raktashodhaka (blood purifier)",
+      "Anulomana (regulates downward movement of Vata)",
+      "Vamaka (emetic when root used as such)",
+      "Kushthahana (anti-dermatosis)",
+      "Keshya (promotes hair health)",
+      "Vranashodhana (cleanses wounds)"
+    ],
+    "indications": [
+      "Gulma (abdominal tumour/distension)",
+      "Shula (colic/abdominal pain)",
+      "Pittavikara (Pitta disorders)",
+      "Prameha (urinary/diabetic disorders)",
+      "Kasa, Svasa (cough, asthma)",
+      "Jvara (fever) — used as vegetable with parpata, gojihva, guduchi",
+      "Visha (poisoning) — Bandhyakarkotaki root with ghee for both types of poison",
+      "Vrana (wounds)",
+      "Kamala (jaundice) — root as nasya (nasal administration)",
+      "Ashmari, Ashmasharkara (urinary calculi, gravel) — with milk for 10 days",
+      "Shvipada (filaria) — Bandhyakarkotaki root + breast milk as nasya"
+    ],
+    "contraindications": [
+      "Root is Vamaka (emetic) — not for oral use in weak patients or where vomiting is contraindicated",
+      "Gomutra (goat urine) preparation — external nasya use only"
+    ],
+    "dosage": {
+      "powder_churna": "Root powder 3–5 gm",
+      "juice_svarasa": "Not specified",
+      "decoction": "Not specified",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Milk (Dugdha) — taken with milk for 10 days for urinary calculi; Ghee (Ghrita) — Bandhyakarkotaki root with ghee for poisoning; Breast milk (Stanya) — root pounded with breast milk as nasya for filaria; Goat's urine — root soaked in goat urine, pounded with sour gruel as nasya for poisoning"
+      }
+    },
+    "key_formulations": [
+      "No specifically named classical formulation (yoga) listed in source",
+      "Fruits used as Saka (vegetable in pathya diet) — Gana: Shaka (vegetable group)",
+      "Referenced in Raja Nighantu, Guducyadi Varga 63",
+      "Referenced in Bhavaprakasha Nighantu, Shaka Varga 86",
+      "Referenced in Ashtanga Sangraha, Uttara 50-44",
+      "Referenced in Charaka Samhita, Chikitsa 20-36"
+    ],
+    "part_used": "Root (primary — medicine), Fruit (as vegetable/dietary use)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "162–165"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Not specifically enumerated by Pandey in this entry",
+        "Momordica genus known to contain momordicin and charantin-class compounds (not mentioned in source)"
+      ],
+      "keywords": [
+        "Karkotaka",
+        "Momordica dioica",
+        "Spiny gourd",
+        "Tridoshaghna",
+        "Ashmarihara",
+        "urinary calculi",
+        "Kamala",
+        "jaundice",
+        "Vamaka"
+      ]
+    }
+  },
+  {
+    "id": "herb_450",
+    "varga": "Phala Varga (Fruit group)",
+    "names": {
+      "sanskrit": "Karmaranga",
+      "synonyms": [
+        "Sirala",
+        "Karimara",
+        "Karmaraka",
+        "Pittaphala",
+        "Karmara",
+        "Mudgaraka",
+        "Mudgaraphala",
+        "Dharaphala"
+      ],
+      "latin": "Averrhoa carambola Linn.; Family: Oxalidaceae",
+      "hindi": "Kamrakh",
+      "gujarati": "Not listed in source",
+      "english": "Carambola / Star Fruit"
+    },
+    "properties": {
+      "rasa": [
+        "Amla",
+        "Madhura"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "guna": [
+        "Laghu",
+        "Sara"
+      ],
+      "prabhava": "Kaphavata-shamaka. Rucivardhana — normalises and enhances taste, relieves tastelessness (aruci). Raktashodhaka. Unripe fruit: Kashaya-Amla; ripe fruit: Madhuramla."
+    },
+    "dosha_effect": {
+      "vata": "Vata-shamaka (reduces Vata)",
+      "pitta": "Neutral to mildly Pitta-increasing in excess — not listed as Pittashamaka or Pittakara",
+      "kapha": "Kapha-shamaka (reduces Kapha)"
+    },
+    "benefits": [
+      "Rucivardhana (normalises taste, stimulates appetite)",
+      "Hridya-Rocana (cardiac tonic, appetite stimulant)",
+      "Grahi (absorbent)",
+      "Raktashodhaka (blood purifier)",
+      "Arshoghna (anti-haemorrhoidal)"
+    ],
+    "indications": [
+      "Aruchi (anorexia / tastelessness)",
+      "Atisara (diarrhoea)",
+      "Raktadushti janya vikara (blood impurity diseases)",
+      "Arsha (haemorrhoids/piles)"
+    ],
+    "contraindications": [
+      "Excess use may increase Pitta — avoid in hyperacidity and bleeding disorders"
+    ],
+    "dosage": {
+      "powder_churna": "3–6 gm",
+      "juice_svarasa": "5–7 ml",
+      "decoction": "Not specified",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Fruits eaten directly or as pickle, jam, jelly, preserve, or refreshing drink"
+      }
+    },
+    "key_formulations": [
+      "No specific named formulation listed in source",
+      "Referenced in Bhavaprakasha Nighantu, Amrathaladi Varga 141"
+    ],
+    "part_used": "Fruit (primary)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "168–170"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Moisture: 93.0% (sweet variety)",
+        "Protein: 0.5%",
+        "Fat: 0.2%",
+        "Carbohydrate: 4.8%",
+        "Mineral matter: 0.2%",
+        "Iron: 0.6 mg per 100g",
+        "Vitamin A"
+      ],
+      "keywords": [
+        "Karmaranga",
+        "Averrhoa carambola",
+        "star fruit",
+        "Rucivardhana",
+        "Raktashodhaka",
+        "Arshoghna"
+      ]
+    }
+  },
+  {
+    "id": "herb_451",
+    "varga": "Vanaspati Varga (Tree/Shrub group)",
+    "names": {
+      "sanskrit": "Karpasi",
+      "synonyms": [
+        "Karpasa",
+        "Tundikeri",
+        "Samudrantaka",
+        "Acchadanaphala",
+        "Bhadra",
+        "Sthula",
+        "Picu",
+        "Badari-Badala",
+        "Randhaphala",
+        "Nagna",
+        "Carya"
+      ],
+      "latin": "Gossypium herbaceum Linn. (primary); also G. hirsutum L.; G. arboreum L.; G. barbadense L.; Family: Malvaceae",
+      "hindi": "Kapas",
+      "gujarati": "Kapasivina",
+      "english": "Cotton Plant"
+    },
+    "properties": {
+      "rasa": [
+        "Root bark: Katu, Kashaya",
+        "Seeds: Madhura"
+      ],
+      "virya": "Anushna (mildly warm)",
+      "vipaka": "Root bark: Katu; Seeds: Madhura",
+      "guna": [
+        "Root bark: Laghu, Tikshna",
+        "Seeds: Snigdha"
+      ],
+      "prabhava": "Seeds: Vatapittashamaka. Root bark: Vatapittavardhaka (INCREASES Vata and Pitta). Garbhashaya sankochaka-Artavajanana (root bark) — uterine contractor, emmenagogue. PROPERTIES ARE PART-DEPENDENT."
+    },
+    "dosha_effect": {
+      "vata": "Seeds: Vata-shamaka. Root bark: Vatapittavardhaka (increases Vata)",
+      "pitta": "Seeds: Pitta-shamaka. Root bark: Pitta-vardhaka (increases Pitta)",
+      "kapha": "Mildly Kapha-reducing (Katu + Tikshna in root bark)",
+      "note": "CRITICAL: Dosha effects are part-dependent. Root bark and seeds have OPPOSITE actions on Vata and Pitta."
+    },
+    "benefits": [
+      "Garbhashaya sankochaka-Artavajanana (root bark — uterine stimulant, emmenagogue)",
+      "Vedanasthapana (analgesic)",
+      "Vranaropana (wound healing)",
+      "Nadi poushtika-Balya (seeds — nerve tonic)",
+      "Stanyajanana-Vrishya (seeds — galactagogue, aphrodisiac)",
+      "Mutrajanana (seeds and leaves — diuretic)",
+      "Vishamajvaraghna (seeds — anti-intermittent fever)",
+      "Raktavardhaka (leaves — blood building)"
+    ],
+    "indications": [
+      "Kashtartava, Nashtartava (root — painful menstruation, amenorrhoea)",
+      "Stanyakshaya (seeds — deficient breast milk)",
+      "Klibatva (seeds — impotence)",
+      "Mutrakriccha (seeds and leaf juice — dysuria)",
+      "Yakridvikara, Kamala (flowers — liver disorders, jaundice)",
+      "Unmada, Apasmara (seeds — mania, epilepsy)",
+      "Pandu (leaves — anaemia)",
+      "Sarpavisha (seeds — snake bite)",
+      "Dhatturavisha (flowers and seeds — Datura poisoning)",
+      "Kushtha, Kapalakushtha (skin diseases, leprosy)"
+    ],
+    "contraindications": [
+      "Root bark is Vatapittavardhaka — avoid in Vata-Pitta dominant conditions",
+      "Emmenagogue — STRICTLY avoid in pregnancy"
+    ],
+    "dosage": {
+      "powder_churna": "Seeds powder 3–6 gm",
+      "juice_svarasa": "Not specified",
+      "decoction": "50–100 ml",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Not specifically stated per formulation"
+      }
+    },
+    "key_formulations": [
+      "Gana: Brihaniya (Charaka Samhita)",
+      "Gana: Vatasamshamana (Sushruta Samhita)",
+      "Referenced in Bhavaprakasha Nighantu, Guduchyadi Varga 150-152",
+      "Referenced in Cakradatta, Galagandadi Chikitsa 41-28",
+      "Referenced in Charaka Samhita, Chikitsa 29-136",
+      "Referenced in Sushruta Samhita, Uttara 49-27"
+    ],
+    "part_used": "Root, Root-bark (uterine action), Flowers, Seeds, Cotton (surgical dressing)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "171–177"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Seeds contain oil and demulcent properties (snigdha, picchila)",
+        "Gossypol — in seeds (known active compound, not mentioned by Pandey)"
+      ],
+      "keywords": [
+        "Karpasi",
+        "Gossypium herbaceum",
+        "cotton",
+        "emmenagogue",
+        "Artavajanana",
+        "Garbhashayasankochaka"
+      ]
+    }
+  },
+  {
+    "id": "herb_452",
+    "varga": "Karpuradi Varga (Aromatic group)",
+    "names": {
+      "sanskrit": "Karpura",
+      "synonyms": [
+        "Ghanasara",
+        "Candra",
+        "Himahva"
+      ],
+      "latin": "Cinnamomum camphora (L.) Nees & Eberm.; Also: Ocimum kilimandascharicum Guerke and Blumea species; Family: Lauraceae",
+      "hindi": "Kapur",
+      "gujarati": "Kapur",
+      "english": "Camphor"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta",
+        "Katu",
+        "Madhura"
+      ],
+      "virya": "Sita",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Tikshna"
+      ],
+      "prabhava": "Tridosahara — allays all three doshas (rare property). Hridayottejaka — specific cardiac stimulant. Dose-dependent: Vajikarana in low dose; Kamasadaka in high dose. Stanyakshayakara — decreases breast milk."
+    },
+    "dosha_effect": {
+      "vata": "Tridosahara — reduces Vata",
+      "pitta": "Tridosahara — reduces Pitta. Dahaprashamana despite Tikshna guna (due to Sita virya)",
+      "kapha": "Tridosahara — reduces Kapha. Kaphanihsaraka (expectorant)",
+      "note": "Tridosahara. Stanyakshayakara — avoid in nursing mothers."
+    },
+    "benefits": [
+      "Hridya-Hridayottejaka (cardiac tonic and stimulant)",
+      "Kaphanihsaraka-Kasaghna-Svasahara (expectorant, relieves cough, asthma)",
+      "Medhya-Vedanasthapana (intellect-promoting, analgesic)",
+      "Chakshushya (beneficial to eyes)",
+      "Mukhadourghandhyahara (removes oral malodour)",
+      "Trishnasamanakara (relieves thirst)",
+      "Jantughna-Aksepahara (germicidal, anticonvulsant)",
+      "Mutrajanana (diuretic)",
+      "Svedajanana (diaphoretic)",
+      "Dahaprashamana (relieves burning)",
+      "Vishaghna (antidote)"
+    ],
+    "indications": [
+      "Hrdroga, Hridayasaithilya (heart disease, cardiac weakness)",
+      "Amavata, Sandhishula (rheumatism, joint pain)",
+      "Kasa, Svasa, Parshvashula, Kantharoga (cough, asthma, chest pain, throat)",
+      "Carmavikara, Vicarika, Daha (skin diseases, eczema, burning)",
+      "Netravikara (eye diseases)",
+      "Dantashula (toothache)",
+      "Mastishkadourbalya (brain weakness)",
+      "Vata-vyadi, Kampa, Akshepa (nerve disorders, tremors, convulsions)",
+      "Atisara, Vishuchika (diarrhoea, cholera-like)",
+      "Medoroga (obesity)"
+    ],
+    "contraindications": [
+      "Stanyakshayakara — avoid in nursing mothers",
+      "Very small dose only (125-375 mg) — do not exceed"
+    ],
+    "dosage": {
+      "powder_churna": "125–375 mg (very small dose — aromatic, potent drug)",
+      "juice_svarasa": "Not applicable",
+      "decoction": "Not applicable",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Generally administered in milk, ghee, or honey depending on indication"
+      }
+    },
+    "key_formulations": [
+      "Karpura Rasa (Karpura Vati) — primary formulation",
+      "Karpurasava",
+      "Arkakarpura",
+      "Amritabindu",
+      "Pancaguna Taila",
+      "Referenced in Kaiyadevanighantu, Oshadhi Varga 1278-1290",
+      "Referenced in Bhavaprakasha Nighantu, Karpuradi Varga 2-4",
+      "Referenced in Cakradatta, Netraroga Chikitsa 59-77"
+    ],
+    "part_used": "Exudate / Extract — solid crystalline camphor from steam distillation; Camphor oil",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "177–184"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Camphor — crystalline ketonic substance from wood distillation",
+        "Camphor oil — volatile oil from distillation"
+      ],
+      "keywords": [
+        "Karpura",
+        "Cinnamomum camphora",
+        "camphor",
+        "Tridosahara",
+        "Hridayottejaka",
+        "cardiac",
+        "anticonvulsant",
+        "expectorant"
+      ]
+    }
+  },
+  {
+    "id": "herb_453",
+    "varga": "Trnadhanya Varga (Grass group)",
+    "names": {
+      "sanskrit": "Kasa",
+      "synonyms": [
+        "Svetacamara",
+        "Kaseksu",
+        "Iksura",
+        "Ikshvalika",
+        "Potagala",
+        "Dandeksu",
+        "Svadukanda",
+        "Ikshupushpaka",
+        "Vayaseksu",
+        "Ikshuvalika"
+      ],
+      "latin": "Saccharum spontaneum Linn.; Family: Poaceae (Gramineae)",
+      "hindi": "Kasa, Kans",
+      "gujarati": "Kansarho",
+      "english": "Thatch Grass / Wild Sugarcane"
+    },
+    "properties": {
+      "rasa": [
+        "Madhura",
+        "Kashaya"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "guna": [
+        "Laghu",
+        "Snigdha"
+      ],
+      "prabhava": "Vatapitta-shamaka. Key member of Trna-Panchamula group — classical diuretic formulation for Pitta-type dysuria."
+    },
+    "dosha_effect": {
+      "vata": "Vata-shamaka (reduces Vata)",
+      "pitta": "Pitta-shamaka (reduces Pitta)",
+      "kapha": "Neutral to mildly Kapha-increasing (Madhura rasa + Snigdha guna)"
+    },
+    "benefits": [
+      "Mutravirecaniya-Ashmanibhedana (diuretic, breaks urinary calculi)",
+      "Stanyajanana (galactagogue)",
+      "Dahaprashamana (relieves burning sensation)",
+      "Balya (strengthening)",
+      "Raktapittashamaka (checks bleeding disorders)",
+      "Grahi (absorbent)"
+    ],
+    "indications": [
+      "Mutrakriccha, Ashmari (dysuria especially Pitta-type, urinary calculi)",
+      "Raktapitta, Urohkshata (bleeding disorders, chest wound)",
+      "Raktarsha (bleeding piles)",
+      "Stanyakshaya (deficient breast milk)",
+      "Raktapradara (menorrhagia)",
+      "Daha (burning sensation)",
+      "Kshayaroga (consumption / wasting diseases)"
+    ],
+    "contraindications": [
+      "Mildly Kapha-increasing — caution in Kapha-dominant conditions"
+    ],
+    "dosage": {
+      "powder_churna": "Not specified",
+      "juice_svarasa": "Not specified",
+      "decoction": "50–100 ml",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Cold decoction with honey and sugar for Pitta-type dysuria"
+      }
+    },
+    "key_formulations": [
+      "Trina-panchamula Kvatha (key ingredient — classical diuretic group)",
+      "Kushavalcha",
+      "Kushyadya Ghrita",
+      "Gana: Mutraviracaniya, Stanyajanana (Charaka Samhita)",
+      "Gana: Trna-panchamula (Sushruta Samhita)"
+    ],
+    "part_used": "Root (primary)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "184–187"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Chemical composition not specified in this entry"
+      ],
+      "keywords": [
+        "Kasa",
+        "Saccharum spontaneum",
+        "thatch grass",
+        "Trnapanchamula",
+        "diuretic",
+        "Mutravirecaniya",
+        "Raktapittashamaka"
+      ]
+    }
+  },
+  {
+    "id": "herb_454",
+    "varga": "Vanaspati Varga (Tree/Shrub group)",
+    "names": {
+      "sanskrit": "Kasamarda",
+      "synonyms": [
+        "Arimarda",
+        "Kasari",
+        "Karkasha",
+        "Kasaghna",
+        "Kasamardika",
+        "Kalir",
+        "Kanaka",
+        "Janina",
+        "Dipaka"
+      ],
+      "latin": "Cassia occidentalis Linn.; Also Cassia sophera Linn.; Family: Caesalpiniaceae",
+      "hindi": "Kesondri, Kasouji",
+      "gujarati": "Kasondari",
+      "english": "Negro Coffee / Coffee Senna"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta",
+        "Madhura"
+      ],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "guna": [
+        "Ruksha",
+        "Laghu",
+        "Tikshna"
+      ],
+      "prabhava": "Kaphavata-shamaka, Pittasaraka. Kasaghna — name means destroyer of cough. Notable external anti-dermatosis: root paste is primary application for skin diseases."
+    },
+    "dosha_effect": {
+      "vata": "Vata-shamaka (reduces Vata)",
+      "pitta": "Pittasaraka (moves/drives Pitta — not Pittashamaka); Ushna virya may aggravate acute Pitta in excess",
+      "kapha": "Kapha-shamaka — Kaphaghna"
+    },
+    "benefits": [
+      "Kasaghna-Kaphaghna (relieves cough, removes Kapha)",
+      "Mutrala (diuretic)",
+      "Kushthahana (anti-dermatosis)",
+      "Jvaraghna (antipyretic)",
+      "Vishaghna (antidote)",
+      "Aksepashamana-Vedanasthapana (anticonvulsant, analgesic)",
+      "Dipana-Vatanulomana-Pittasaraka-Rechana (digestive, laxative)"
+    ],
+    "indications": [
+      "Kasa, Svasa, Hikka, Kukkurakasa (cough, asthma, hiccough, whooping cough)",
+      "Agnimandya, Pittavikara, Vibandha (low digestion, Pitta disorders, constipation)",
+      "Apasmara, Apatantraka, Akshepaka (epilepsy, tetany, convulsions)",
+      "Kushtha, Visarpa, Shvipada (skin diseases, erysipelas, filaria)",
+      "Vrana, Dadru, Carmavikara (wounds, ringworm, skin conditions)",
+      "Mutrakriccha, Iksumeha (dysuria, diabetic urinary disorder)"
+    ],
+    "contraindications": [
+      "Ushna virya and Pittasaraka — avoid in acute Pitta, hyperacidity, haemorrhagic conditions",
+      "Rechana property — caution in diarrhoea and dysentery"
+    ],
+    "dosage": {
+      "powder_churna": "Seeds powder 3–6 gm",
+      "juice_svarasa": "Leaf juice 10–20 ml",
+      "decoction": "Root decoction 40–80 ml",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Honey — soup with Shigru + Bhringaraja + dried radish for cough; Gomutra/Goghrta — root paste for filaria; Jambira juice — root paste for eczema"
+      }
+    },
+    "key_formulations": [
+      "Gana: Surasadi gana (Sushruta Samhita)",
+      "Root paste + gomutra/goghrta for filaria",
+      "Root pounded with sour gruel for ringworm and skin diseases",
+      "Seeds + radish + sulphur for sidhma",
+      "Referenced in Bhavaprakasha Nighantu, Shatavyadi Varga 43-44",
+      "Referenced in Cakradatta, Kushtha Chikitsa 50-25",
+      "Referenced in Charaka Samhita, Chikitsa 19-117"
+    ],
+    "part_used": "Seeds (primary), Leaves, Roots",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "187–192"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Leaves: Cathartine (laxative principle like senna)",
+        "Seeds: Tannic acid",
+        "Seeds: Fatty acids 2.5%",
+        "Seeds: Mucilage 36%",
+        "Seeds: Emodin",
+        "Seeds: Chryserobin",
+        "Seeds: Toccalbumin (toxic protein)"
+      ],
+      "keywords": [
+        "Kasamarda",
+        "Cassia occidentalis",
+        "Negro coffee",
+        "Kasaghna",
+        "Kaphaghna",
+        "Kushthahana",
+        "Aksepashamana"
+      ]
+    }
+  },
+  {
+    "id": "herb_455",
+    "varga": "Pushpa-Patra Varga",
+    "names": {
+      "sanskrit": "Kasani",
+      "synonyms": [
+        "Hinduba (Arabic name)",
+        "Kasani (Persian name)"
+      ],
+      "latin": "Cichorium intybus Linn. (wild); Cichorium endivia Linn. (cultivated); Family: Asteraceae (Compositae)",
+      "hindi": "Kasani",
+      "gujarati": "Not listed in source",
+      "english": "Wild Chicory / Wild Endive / Wild Succory"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta"
+      ],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksha"
+      ],
+      "prabhava": "Kaphapittahara. Yakriduttejaka-Pittasaraka — specific liver stimulant and cholagogue. Seeds have Nidrajanana (sedative) action — specific for insomnia."
+    },
+    "dosha_effect": {
+      "vata": "Neutral to mildly Vata-increasing in excess",
+      "pitta": "Pitta-hara — Kaphapittahara; Pittasaraka (cholagogue); Dahaprashamana",
+      "kapha": "Kapha-shamaka"
+    },
+    "benefits": [
+      "Yakriduttejaka-Pittasaraka (liver stimulant, cholagogue — primary)",
+      "Dipana-Trishnanigrahana (digestive, relieves thirst)",
+      "Hridya-Raktashodhaka (cardiac tonic, blood purifier)",
+      "Mutrala (diuretic)",
+      "Jvaraghna-Dahaprashamana (antipyretic, relieves burning)",
+      "Katupoushtika (bitter tonic)",
+      "Shamaka-Nidrajanana (sedative — seeds)",
+      "Sothahara (anti-inflammatory)"
+    ],
+    "indications": [
+      "Yakridvikara, Kamala (liver disorders, jaundice — primary)",
+      "Raktavikara (blood disorders)",
+      "Hrdroga, Hrddrava (heart disease, palpitations)",
+      "Daha, Trishna (burning sensation, thirst)",
+      "Paittika jvara, Jirna jvara (Pitta fever, chronic fever)",
+      "Mutrakriccha (dysuria)",
+      "Rajorodha (amenorrhoea — seeds as emmenagogue)",
+      "Agnimandya, Pittodara (low digestion, Pitta abdominal distension)",
+      "Mastishkodvega, Anidra (mental excitement, insomnia — seeds as sedative)"
+    ],
+    "contraindications": [
+      "Ushna virya — caution in acute Pitta with severe burning"
+    ],
+    "dosage": {
+      "powder_churna": "Root powder 3–6 gm; Seeds powder 3–6 gm",
+      "juice_svarasa": "Leaf juice 10–20 ml",
+      "decoction": "Arka 50–100 ml",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Not specifically stated"
+      }
+    },
+    "key_formulations": [
+      "Arka Kasani (primary named formulation — aqueous distillate)",
+      "Referenced in Dravyaguna Vijnana Part II, p. 550"
+    ],
+    "part_used": "Leaves (juice), Roots, Seeds",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "192–194"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Cichorin — from roots",
+        "Lactucin — from roots (bitter sesquiterpene lactone)",
+        "Intyrin — from roots",
+        "Seeds: yield an oil"
+      ],
+      "keywords": [
+        "Kasani",
+        "Cichorium intybus",
+        "chicory",
+        "Yakriduttejaka",
+        "cholagogue",
+        "hepatoprotective",
+        "sedative",
+        "Nidrajanana"
+      ]
+    }
+  },
+  {
+    "id": "herb_456",
+    "varga": "Kanda Varga (Tuber/Rhizome group)",
+    "names": {
+      "sanskrit": "Kaseruka",
+      "synonyms": [
+        "Kaderuka",
+        "Mustakrti",
+        "Svalpakanda",
+        "Vrishaparva",
+        "Cicotaka"
+      ],
+      "latin": "Scirpus grossus Linn.; Syn. Scirpus kysoor Roxb.; Family: Cyperaceae",
+      "hindi": "Kaseru",
+      "gujarati": "Gundari",
+      "english": "Greater Club-rush / Water Chestnut Sedge"
+    },
+    "properties": {
+      "rasa": [
+        "Madhura",
+        "Kashaya"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "guna": [
+        "Guru",
+        "Ruksha"
+      ],
+      "prabhava": "Kaphavatavardhaka, Pittashamaka. INCREASES Kapha and Vata while reducing Pitta — rare pharmacological profile. Shukrastambhana-Vrishya — checks premature ejaculation while aphrodisiac."
+    },
+    "dosha_effect": {
+      "vata": "Vatavardhaka — INCREASES Vata (caution in Vata disorders)",
+      "pitta": "Pitta-shamaka — reduces Pitta; Dahaprashamana",
+      "kapha": "Kaphavar dhaka — INCREASES Kapha (avoid in obesity, congestion)",
+      "note": "RARE PROFILE: Increases both Kapha and Vata while reducing Pitta. Vistambhi (constipating)."
+    },
+    "benefits": [
+      "Shukrastambhana-Vrishya (checks semen discharge, aphrodisiac)",
+      "Prajasthapana-Stanyajanana (stabilises pregnancy, promotes breast milk)",
+      "Mutrala (diuretic)",
+      "Dahaprashamana (relieves burning)",
+      "Balya (strengthening)",
+      "Hridya-Raktastambhana (cardiac tonic, haemostatic)",
+      "Trishnanigrahana-Chardinigrahana (relieves thirst, checks vomiting)",
+      "Vistambhi-Stambhana (constipating, checks excessive discharge)",
+      "Chakshushya (beneficial to eyes)"
+    ],
+    "indications": [
+      "Shukradourbalya (seminal weakness / spermatorrhoea)",
+      "Garbhasrava, Stanyakshaya (threatened abortion, deficient breast milk)",
+      "Mutrakriccha (dysuria)",
+      "Daha, Trishna, Pittajvara (burning, thirst, Pitta fever)",
+      "Dourbalya, Hrddourbalya (debility, cardiac weakness)",
+      "Trishna, Chhardi, Atisara, Vishuchika (thirst, vomiting, diarrhoea)",
+      "Netravikara (eye diseases)",
+      "Daha, Vishphota, Vranashotha (burning, blisters, wound inflammation)"
+    ],
+    "contraindications": [
+      "Kaphavatavardhaka — avoid in Kapha-dominant conditions (obesity, congestion, oedema)",
+      "Avoid in Vata disorders — increases Vata",
+      "Vistambhi — avoid in constipation"
+    ],
+    "dosage": {
+      "powder_churna": "5–10 gm (tuber)",
+      "juice_svarasa": "Not specified",
+      "decoction": "Not specified",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Not specifically stated"
+      }
+    },
+    "key_formulations": [
+      "Kaseruvadi Paya (primary named formulation — milk decoction)",
+      "Referenced in Bhavaprakasha Nighantu, Shakavarga 112-113",
+      "Referenced in Charaka Samhita, Chikitsa 25-94",
+      "Referenced in Cakradatta 53-7",
+      "Referenced in Sushruta Samhita, Uttara 12-10"
+    ],
+    "part_used": "Tuber (rhizomatous tuber — primary medicinal part)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "194–197"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Carbohydrates: 62–78%",
+        "Protein: 7.5–11.5%"
+      ],
+      "keywords": [
+        "Kaseruka",
+        "Scirpus grossus",
+        "sedge",
+        "Shukrastambhana",
+        "Vrishya",
+        "Garbhasthapana",
+        "Pittashamaka",
+        "Kaphavatavardhaka"
+      ]
+    }
+  },
+  {
+    "id": "herb_457",
+    "varga": "Vanaspati Varga (Climber group)",
+    "names": {
+      "sanskrit": "Kasthalata",
+      "synonyms": [
+        "Kalambaka",
+        "Darvilati",
+        "Haridravalli",
+        "Haridralata",
+        "Pitakastha",
+        "Kasthalata"
+      ],
+      "latin": "Coscinium fenestratum (Gaertn.) Colebr.; Family: Menispermaceae",
+      "hindi": "Kalamba, Jharh haldi",
+      "gujarati": "Not listed in source",
+      "english": "False Calumba / Turmeric Tree / Yellow Vine"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta"
+      ],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksha"
+      ],
+      "prabhava": "Kaphapittasamaka. High berberine content (up to 2.5%) — same alkaloid as Daruharidra. Substitute for Daruharidra (Berberis spp.) and Jateorhiza palmata (True Calumba)."
+    },
+    "dosha_effect": {
+      "vata": "Neutral — Ugra virya may mildly increase Vata in excess",
+      "pitta": "Pitta-shamaka — Kaphapittasamaka",
+      "kapha": "Kapha-shamaka"
+    },
+    "benefits": [
+      "Dipana-Pachana-Anulomana (digestive, carminative, laxative)",
+      "Pittasaraka (cholagogue)",
+      "Raktavardhaka-Raktashodhaka (blood building, purifier)",
+      "Jvaraghna (antipyretic)",
+      "Katupoushtika (bitter tonic)"
+    ],
+    "indications": [
+      "Agnimandya, Ajirna, Adhman (low digestion, indigestion, bloating)",
+      "Yakridvikara (liver disorders)",
+      "Krmiroga (intestinal worms)",
+      "Raktavikara (blood disorders)",
+      "Jvara, Jirnajvara (fever, chronic fever)",
+      "Dourbalya after fever (Jvaragrahani)",
+      "Vibandha (constipation)",
+      "Prameha (urinary/diabetic disorders)",
+      "Carmavikara (skin diseases)",
+      "Hypertension, anaemia"
+    ],
+    "contraindications": [
+      "Ugra virya — caution in acute Pitta conditions and pregnancy"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm",
+      "juice_svarasa": "Not specified",
+      "decoction": "50–100 ml",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Decoction used for enema (basti) in worms"
+      }
+    },
+    "key_formulations": [
+      "No specific formulation names in source",
+      "Decoction in fevers, chronic fever, debility after fever, grahani, worms (also as enema)",
+      "Referenced in Dravyaguna Vijnana Part III, p. 702"
+    ],
+    "part_used": "Root (primary), Stem (source of berberine)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "200–202"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Berberine: up to 2.5% from stem (same as Daruharidra/Berberis)",
+        "Ceryl alcohol",
+        "Hentriacontane",
+        "Sitosterol",
+        "Palmitic acid",
+        "Oleic acid",
+        "Sitosterol glucoside",
+        "Saponin",
+        "Resinous material"
+      ],
+      "keywords": [
+        "Kasthalata",
+        "Coscinium fenestratum",
+        "False Calumba",
+        "berberine",
+        "Daruharidra substitute",
+        "Jvaraghna",
+        "Pittasaraka"
+      ]
+    }
+  },
+  {
+    "id": "herb_458",
+    "varga": "Vanaspati Varga (Tree group)",
+    "names": {
+      "sanskrit": "Kataka",
+      "synonyms": [
+        "Pavahprasadi",
+        "Chakshushya",
+        "Ambuprasada",
+        "Udaphala",
+        "Chedaniva",
+        "Marica",
+        "Katephala"
+      ],
+      "latin": "Strychnos potatorum Linn.; Family: Loganiaceae",
+      "hindi": "Nirmali",
+      "gujarati": "Not listed in source",
+      "english": "Clearing Nut Tree / Nirmali"
+    },
+    "properties": {
+      "rasa": [
+        "Madhura",
+        "Kashaya",
+        "Tikta"
+      ],
+      "virya": "Sita",
+      "vipaka": "Madhura",
+      "guna": [
+        "Laghu",
+        "Vishada"
+      ],
+      "prabhava": "Vatakaphashamaka. Jalashodhaka (Variprasadana) — primary prabhava: seeds rubbed inside vessel clarify turbid water. Chakshushya — used extensively in eye complaints. Seeds do NOT contain strychnine (only trace brucine)."
+    },
+    "dosha_effect": {
+      "vata": "Vata-shamaka",
+      "pitta": "Neutral to mildly Pitta-reducing (Sita virya, Madhura vipaka)",
+      "kapha": "Kapha-shamaka",
+      "note": "Seeds confirmed to NOT contain strychnine. Contains only small quantity of brucine."
+    },
+    "benefits": [
+      "Chakshushya (beneficial to eyes — primary)",
+      "Jalashodhaka / Variprasadana (water clarifier — specific prabhava)",
+      "Vranasothapachana (reduces wound inflammation)",
+      "Dipana-Rucivardhaka-Stambhana (digestive, appetite stimulant, astringent)",
+      "Mutrajanana-Ashmanibhedana (diuretic, breaks urinary calculi)",
+      "Kushthahana (anti-dermatosis)"
+    ],
+    "indications": [
+      "Netravikara, Jirnabhishyanda (eye diseases, chronic conjunctivitis — primary)",
+      "Shukra disorders (seminal disorders)",
+      "Agnimandya, Aruchi, Atisara, Gulma (poor digestion, anorexia, diarrhoea)",
+      "Mutrakriccha, Puyameha, Ashmari, Sharkara (dysuria, gonorrhoea, urinary calculi)",
+      "Kushtha, Sarvakushtha (all types of skin diseases)",
+      "Trishna (excessive thirst)",
+      "Visha (poisoning)",
+      "Kamala (jaundice)",
+      "Pratishyaya (rhinitis)",
+      "Prameha (urinary/diabetic disorders)"
+    ],
+    "contraindications": [
+      "High dose (6 gm) is emetic — avoid in weak patients, pregnancy",
+      "Contains trace brucine — caution in children"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm (therapeutic); 6 gm (emetic dose only)",
+      "juice_svarasa": "Not applicable",
+      "decoction": "Not specified",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Seeds rubbed on inside of earthen vessel with water for purification (household use)"
+      }
+    },
+    "key_formulations": [
+      "Referenced in Bhavaprakasha Nighantu, Amrathaladi Varga 108",
+      "Referenced in Charaka Samhita, Chikitsa 26-252/253",
+      "Referenced in Bhavaprakasha, Netrarogadhikara 63-206",
+      "Referenced in Sushruta Samhita, Uttara 12-23",
+      "Referenced in Cakradatta 59-206",
+      "Referenced in Yoga Ratnahara p. 287"
+    ],
+    "part_used": "Seeds (primary and only part used)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "205–207"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Seeds do NOT contain strychnine (confirmed by Pandey)",
+        "Brucine — present in small quantity"
+      ],
+      "keywords": [
+        "Kataka",
+        "Strychnos potatorum",
+        "Clearing nut",
+        "Nirmali",
+        "Jalashodhaka",
+        "water purification",
+        "Chakshushya"
+      ]
+    }
+  },
+  {
+    "id": "herb_459",
+    "varga": "Vanaspati Varga (Tree group)",
+    "names": {
+      "sanskrit": "Katphala",
+      "synonyms": [
+        "Kataphala",
+        "Mahavalkala"
+      ],
+      "latin": "Myrica esculenta Buch.-Ham.; Family: Myricaceae",
+      "hindi": "Kayphal, Katphal",
+      "gujarati": "Kayphal",
+      "english": "Box Myrtle / Bayberry"
+    },
+    "properties": {
+      "rasa": [
+        "Kashaya",
+        "Tikta",
+        "Katu"
+      ],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Tikshna"
+      ],
+      "prabhava": "Kaphavatashamaka. Tivra Shirovirechana — very powerful head-evacuation drug; fine bark powder as nasya is primary use. Garbhashayasankochaka — uterine contractor. Gana: Shukrashodhana."
+    },
+    "dosha_effect": {
+      "vata": "Vata-shamaka",
+      "pitta": "Neutral to mildly Pitta-increasing; aqueous solution used topically in Pitta-type conjunctivitis",
+      "kapha": "Kapha-shamaka — powerful for Kapha in head region; Kaphanihsaraka (expectorant)"
+    },
+    "benefits": [
+      "Tivra Shirovirechana (powerful head-evacuation errhine — primary use)",
+      "Shukrashodhana (purifies semen)",
+      "Kandughna-Sothahara-Kothaprasha mana (relieves itching, anti-inflammatory)",
+      "Garbhashayasankochaka (uterine contractor)",
+      "Vedanasthapana-Nadibalya (analgesic, nerve tonic)",
+      "Dipana-Grahi-Shulaprashamana (digestive, absorbent, relieves colic)",
+      "Kaphanihsaraka-Svasahara (expectorant, asthma)",
+      "Sandhaniya-Hridya (tissue repair, cardiac tonic)"
+    ],
+    "indications": [
+      "Shirorog, Nasaroga, Kaphaja Shirorog (head diseases, nasal disorders — primary nasya)",
+      "Kasa, Svasa, Pratishyaya (cough, asthma, rhinitis)",
+      "Murcha (fainting — nasya as smelling salt)",
+      "Netraroga, Pittabhishyanda (eye diseases, Pitta conjunctivitis)",
+      "Aruchi, Agnimandya, Udarashula (anorexia, low digestion, colic)",
+      "Galaganda (goitre)",
+      "Shukradosha, Klibata (seminal disorders, impotence)",
+      "Ardita, Pakshagata, Vatarog (facial paralysis, hemiplegia)",
+      "Arsha (piles)",
+      "Mukharoga, Mukhapaka, Dantashula (oral diseases, mouth ulcers, toothache)",
+      "Garbhashaya-yonivikara (uterine and vaginal disorders)"
+    ],
+    "contraindications": [
+      "Tivra Shirovirechana — very powerful; avoid in children and elderly without guidance",
+      "Garbhashayasankochaka — STRICTLY contraindicated in pregnancy"
+    ],
+    "dosage": {
+      "powder_churna": "3–5 gm",
+      "juice_svarasa": "Not specified",
+      "decoction": "Not specified",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Honey for digestive complaints; Katphaladi Leha (with Pushkaramula + Karkataśṛṅgī + Pippali + honey) for kaphaja jvara; Aqueous solution for Pitta conjunctivitis; Used directly as fine powder for nasya"
+      }
+    },
+    "key_formulations": [
+      "Katphaladi Kvatha (decoction formulation)",
+      "Katphala Nasya (snuff preparation — primary use)",
+      "Katphaladi Churna",
+      "Katphaladi Leha — Katphala + Pushkaramula + Karkataśṛṅgī + Pippali + honey (Vrindamadhava 1-112)",
+      "Gana: Shukrashodhana, Sandhaniya, Vedanasthapana (Charaka Samhita)",
+      "Gana: Lodhradi, Surasadi (Sushruta Samhita)",
+      "Referenced in Kaiyadevanighantu, Oshadhi Varga 1135-39",
+      "Referenced in Charaka Samhita, Chikitsa 19-112"
+    ],
+    "part_used": "Bark (primary — all medicinal uses including nasya), Flowers",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "208–212"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Myricetin (hexahydroxy flavone) as glycoside myricitrin",
+        "Second glycoside: aglycone possibly quercetin (traces)",
+        "Tannin: 32.1% — high content",
+        "Moisture in bark: 10.5%"
+      ],
+      "keywords": [
+        "Katphala",
+        "Myrica esculenta",
+        "Box myrtle",
+        "Shirovirechana",
+        "nasya",
+        "Shukrashodhana",
+        "Kaphahara",
+        "tannin"
+      ]
+    }
+  },
+  {
+    "id": "herb_460",
+    "varga": "Aushadhi Varga (Rhizome drug)",
+    "names": {
+      "sanskrit": "Katuka",
+      "synonyms": [
+        "Katuki",
+        "Tikta",
+        "Katturohini",
+        "Krishnabheda",
+        "Matsyashakala",
+        "Patrangi",
+        "Kandaruha",
+        "Chakringi"
+      ],
+      "latin": "Picrorhiza kurroa Royle ex Benth.; Family: Scrophulariaceae; Note: substitute/adulterant for Gentiana kurroa Royle and Gentiana lutea Linn.",
+      "hindi": "Kutaki, Karuki, Karki",
+      "gujarati": "Kadu",
+      "english": "Kutki / Picrorhiza"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta"
+      ],
+      "virya": "Sita",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksha"
+      ],
+      "prabhava": "Kaphapittahara. Pittasaraka-Yakriduttejaka — premier hepatoprotective drug. Dose-dependent: 0.5-1 gm = bitter tonic; 3-6 gm = purgative. Kutkin — potent choleretic agent."
+    },
+    "dosha_effect": {
+      "vata": "Neutral — Sita virya + Ruksha may increase Vata in excess",
+      "pitta": "Pitta-hara — Kaphapittahara; Pittasaraka; Dahaprashamana",
+      "kapha": "Kapha-shamaka — Kaphaghna and Kaphanihsaraka"
+    },
+    "benefits": [
+      "Pittasaraka-Yakriduttejaka (cholagogue, liver stimulant — primary)",
+      "Rocana-Dipana-Rechana (appetite stimulant, digestive, purgative)",
+      "Krimighna (anthelmintic)",
+      "Raktashodhaka-Sothahara (blood purifier, anti-inflammatory)",
+      "Kaphanihsaraka-Kaphaghna (expectorant)",
+      "Pramehaghna (anti-diabetic)",
+      "Stanyashodhana (purifies breast milk)",
+      "Kushthahana (anti-dermatosis)",
+      "Dahaprashamana (relieves burning)",
+      "Jvaraghna-Visamajvara-pratibhandhaka (antipyretic, anti-malarial)",
+      "Katupoushtika-Lekhana (bitter tonic, fat-scraping)"
+    ],
+    "indications": [
+      "Yakridvikara (liver disorders — primary)",
+      "Kamala, Pittavikara (jaundice, Pitta disorders)",
+      "Aruchi, Agnimandya (anorexia, low digestive fire)",
+      "Vibandha, Anaha, Udararoga (constipation, bloating, abdominal diseases)",
+      "Hrdroga, Raktavikara (heart disease, blood disorders)",
+      "Kasa, Svasa (cough, asthma)",
+      "Prameha (urinary/diabetic disorders)",
+      "Stanyavikrti (breast milk disorders)",
+      "Carmaroga, Kushtha (skin diseases, leprosy)",
+      "Jvara, Vishamajvara (fever, malarial fever)",
+      "Medoroga (obesity)"
+    ],
+    "contraindications": [
+      "Rechana in high dose — avoid in diarrhoea, dysentery, dehydration",
+      "Ruksha + Sita — avoid in excess Vata, cold, emaciation"
+    ],
+    "dosage": {
+      "powder_churna": "Bitter tonic: 0.5–1 gm; General: 1–3 gm; Purgative: 3–6 gm",
+      "juice_svarasa": "Not applicable",
+      "decoction": "Not specified",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "As bitter tonic — with lukewarm water or honey"
+      }
+    },
+    "key_formulations": [
+      "Arogyavardhini Vati (primary classical formulation)",
+      "Katukadya Louha",
+      "Tiktadi Kvatha Ghrita",
+      "Mahayogaraja Guggulu",
+      "Jatyadi Ghrita",
+      "Tiktaka Ghrita",
+      "Triphala Ghrita",
+      "Panchatikta Guggulu",
+      "Panchatikta Ghrita",
+      "Nimbadi Churna",
+      "Sarvajvara Louha",
+      "Gana: Bhedaniya, Lekhaniya, Stanyashodhana, Tiktaskandha (Charaka Samhita)",
+      "Gana: Patoladi, Mustadi, Pippalyadi (Sushruta Samhita)"
+    ],
+    "part_used": "Root (rhizome) — dried rhizome pieces, greyish-brown, cylindrical",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "213–217"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Picrorhizin: 26.6% — primary active constituent; bitter crystalline glycoside",
+        "Cathartic acid — present in rhizome",
+        "Kutkin — potent choleretic agent (promotes bile flow)"
+      ],
+      "keywords": [
+        "Katuka",
+        "Picrorhiza kurroa",
+        "Kutki",
+        "hepatoprotective",
+        "Yakriduttejaka",
+        "Pittasaraka",
+        "cholagogue",
+        "Arogyavardhini"
+      ]
+    }
+  },
+  {
+    "id": "herb_461",
+    "varga": "Aushadhi Varga (Herb group)",
+    "names": {
+      "sanskrit": "Katunahi",
+      "synonyms": [
+        "Mamajjaka",
+        "Nahi",
+        "Naga-jihva",
+        "Tikshnapatra",
+        "Vitiksinika"
+      ],
+      "latin": "Enicostema hyssopifolium (Willd.) I.C. Verdoorn; Syn. Enicostema littorale Blume.; Family: Gentianaceae",
+      "hindi": "Not listed in source",
+      "gujarati": "Manejava",
+      "english": "Enicostema / Velvet Leaf"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta"
+      ],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "guna": [
+        "Laghu",
+        "Ruksha"
+      ],
+      "prabhava": "Kaphapittanashana. Visamajvarahnana — primary action: anti-malarial. Substitute for Kiratatikta (Swertia chirayita). Specifically effective anti-diabetic phytoagent."
+    },
+    "dosha_effect": {
+      "vata": "Neutral — allays Vata and Pitta stated in therapeutic uses",
+      "pitta": "Pitta-hara — Kaphapittanashana; text states allays pitta dosa",
+      "kapha": "Kapha-hara — Kaphapittanashana"
+    },
+    "benefits": [
+      "Visamajvarahnana (anti-malarial, intermittent fever — primary)",
+      "Dipana-Amapachana-Saraka (digestive, digests ama, laxative)",
+      "Yakriduttejaka (liver stimulant)",
+      "Krimighna (anthelmintic)",
+      "Raktashodhaka (blood purifier)",
+      "Sothahara (anti-inflammatory)",
+      "Kushthahana (anti-dermatosis)",
+      "Pramehaghna (anti-diabetic — specifically for diabetes mellitus)",
+      "Lekhana (emaciating — useful in obesity)",
+      "Vishaghna (antidote)"
+    ],
+    "indications": [
+      "Visamajvara (intermittent/malarial fever — primary)",
+      "Prameha, Madhumeha (diabetes mellitus — specifically noted)",
+      "Carmaroga (skin diseases)",
+      "Medoroga (obesity)",
+      "Visha (poisoning)",
+      "Vibandha (constipation)",
+      "Yakridvikara (liver disorders)",
+      "Krmiroga (worms)",
+      "Amadosha (ama toxins)"
+    ],
+    "contraindications": [
+      "Ushna virya — caution in acute Pitta",
+      "Lekhana — avoid in emaciated patients"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm",
+      "juice_svarasa": "Not specified",
+      "decoction": "50–100 ml",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Not specifically stated. Administered as powder, decoction, or solid extract (ghana)"
+      }
+    },
+    "key_formulations": [
+      "Mamajjaka Ghana Vati (primary named formulation)",
+      "Referenced in Dravyaguna Vijnana Part II, p. 704",
+      "Referenced in Sodhala Nighantu"
+    ],
+    "part_used": "Whole plant (Panchanga — all five parts)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "219–221"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Ophaleic acid (bitter organic acid)",
+        "Bitter glycoside (unspecified)",
+        "Swertiamarine (bitter iridoid glycoside — same as in Swertia chirayita)"
+      ],
+      "keywords": [
+        "Katunahi",
+        "Mamajjaka",
+        "Enicostema hyssopifolium",
+        "anti-malarial",
+        "anti-diabetic",
+        "Visamajvaraghna",
+        "Swertiamarine"
+      ]
+    }
+  },
+  {
+    "id": "herb_462",
+    "varga": "Vanaspati Varga (Tree group)",
+    "names": {
+      "sanskrit": "Aralu",
+      "synonyms": [
+        "Mahavriksha",
+        "Putivriksha",
+        "Ashvanimba",
+        "Dirghavrnta",
+        "Ashvakaranja",
+        "Katvanga"
+      ],
+      "latin": "Ailanthus excelsa Roxb.; Also Ailanthus malabarica DC.; Family: Simaroubaceae",
+      "hindi": "Arhu, Ghorhanim, Ghodakaranj, Arua",
+      "gujarati": "Aradusi",
+      "english": "Maharuk / Ailanthus"
+    },
+    "properties": {
+      "rasa": [
+        "Tikta",
+        "Kashaya"
+      ],
+      "virya": "Sita",
+      "vipaka": "Katu",
+      "guna": [
+        "Ruksha"
+      ],
+      "prabhava": "Kaphapittasamaka. Amahara (Upasoshana) — primary: digests and desiccates Ama; most efficacious for Amadosha. Specific for amoebic dysentery and giardiasis. DISTINCT FROM SHYONAKA (Oroxylum indicum)."
+    },
+    "dosha_effect": {
+      "vata": "Neutral — Kashaya + Ruksha may increase Vata in excess",
+      "pitta": "Pitta-shamaka — Kaphapittasamaka; Raktashodhaka, Raktastambhana",
+      "kapha": "Kapha-shamaka",
+      "note": "Aralu (Ailanthus excelsa) is DISTINCT from Shyonaka (Oroxylum indicum). Charaka Samhita Chikitsa 15-134 confirms they are two separate drugs."
+    },
+    "benefits": [
+      "Amahara-Upasoshana (digests and desiccates Ama — primary)",
+      "Dipana-Pachana-Grahi (digestive, absorbent for diarrhoea)",
+      "Jivanujanya Pravahika-Atisara (specific for amoebic/parasitic dysentery)",
+      "Raktashodhaka-Raktastambhana (blood purifier, haemostatic)",
+      "Raktabharahrasaka (reduces blood pressure)",
+      "Kasahara (relieves cough)",
+      "Sandhaniya (tissue-joining, wound healing)",
+      "Yonidoshahara (removes vaginal/uterine disorders)",
+      "Jvaranashaka-Visamajvara-pratibhandhaka (antipyretic, anti-malarial)",
+      "Vranashodhana (wound cleansing)",
+      "Vishaghna (antidote)"
+    ],
+    "indications": [
+      "Atisara, Pravahika, Grahani (diarrhoea, dysentery, malabsorption — primary)",
+      "Jivanujanya Pravahika, Atisara (amoebic dysentery, giardiasis — specifically noted)",
+      "Arsha, Bhagandara (haemorrhoids, fistula-in-ano)",
+      "Krmi (intestinal worms)",
+      "Raktavikara, Raktapitta (blood disorders, bleeding)",
+      "Jirnakasa, Urohkshata, Kshaya (chronic cough, chest injury, consumption)",
+      "Prameha, Kshaudrameha (urinary disorders, diabetes)",
+      "Yonivyapada (uterine/vaginal disorders)",
+      "Carmavikara (skin diseases)",
+      "Medoroga, Madhumeha (obesity, diabetes)",
+      "Balaroga (children's diseases), Karnashula (earache)"
+    ],
+    "contraindications": [
+      "Kashaya + Ruksha — caution in Vata conditions with dryness and emaciation"
+    ],
+    "dosage": {
+      "powder_churna": "1–3 gm",
+      "juice_svarasa": "Bark juice (putrapaka vidhi) 10–20 ml",
+      "decoction": "50–100 ml",
+      "extract": "Solid extract (Ghanasatva) 1 gm",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Not specifically stated"
+      }
+    },
+    "key_formulations": [
+      "Aralu Putapaka (primary — bark juice preparation)",
+      "Referenced in Ashtanga Nighantu 18-44",
+      "Referenced in Charaka Samhita, Sutra 25",
+      "Referenced in Sushruta Samhita, Uttara 32-3",
+      "Referenced in Ashtanga Hridayam, Chikitsa 9-80",
+      "Referenced in Sushruta Samhita, Uttara 40-81",
+      "Referenced in Vrindamadhava 3; 45-51"
+    ],
+    "part_used": "Bark (primary — juice and solid extract)",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "221–225"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Phytochemicals not enumerated by Pandey in this entry"
+      ],
+      "keywords": [
+        "Aralu",
+        "Katvanga",
+        "Ailanthus excelsa",
+        "Maharuk",
+        "Amahara",
+        "amoebic dysentery",
+        "Grahani",
+        "Raktashodhaka"
+      ]
+    }
+  },
+  {
+    "id": "herb_463",
+    "varga": "Shaka Varga (Spice/Vegetable group)",
+    "names": {
+      "sanskrit": "Lanka",
+      "synonyms": [
+        "Katuvira",
+        "Raktamarica",
+        "Pittakarini",
+        "Ujjvala",
+        "Kattuvira Lanka",
+        "Katurala Lanka"
+      ],
+      "latin": "Capsicum annuum Linn.; var. acuminatum Fingh.; Also Capsicum frutescens Linn. syn. C. minimum Roxb.; Family: Solanaceae",
+      "hindi": "Lalmirchi, Lalmiracha",
+      "gujarati": "Marachi",
+      "english": "Red Chilli / Red Pepper / Cayenne"
+    },
+    "properties": {
+      "rasa": [
+        "Katu"
+      ],
+      "virya": "Ushna",
+      "vipaka": "Katu",
+      "guna": [
+        "Tikshna",
+        "Laghu",
+        "Ruksha"
+      ],
+      "prabhava": "Kaphavatasamaka, Pittajanana — reduces Kapha and Vata but INCREASES Pitta. Lalaprasekajana — powerful salivatory stimulant. Dhatunashaka — tissue-depleting. CONTRAINDICATED in ALL Pitta conditions."
+    },
+    "dosha_effect": {
+      "vata": "Vata-shamaka (reduces Vata)",
+      "pitta": "Pittajanana — INCREASES Pitta. STRICTLY CONTRAINDICATED in all Pitta ailments. Vidahakara (causes burning throughout GI tract).",
+      "kapha": "Kapha-shamaka (reduces Kapha)",
+      "note": "CRITICAL WARNING: Pittajanana drug. Contraindicated in all Pitta conditions. Dhatunashaka — avoid in tissue depletion and wasting."
+    },
+    "benefits": [
+      "Lalaprasekajana-Vidahi (powerful salivatory stimulant)",
+      "Dipana-Pachana-Anulomana (digestive, carminative)",
+      "Hridayottejaka (cardiac stimulant)",
+      "Mutrala (diuretic)",
+      "Vajikarana (aphrodisiac)",
+      "Jvaraghna (antipyretic/antiperiodic)",
+      "Lekhana-Raktotkleshaka (emaciating, blood-activating)",
+      "Vatahara-Nidrajanana (reduces Vata, promotes sleep)"
+    ],
+    "indications": [
+      "Shirahshula Kaphaja (Kapha-type headache)",
+      "Amavata, Katishula, Parshvashula, Gridhrasi (rheumatism, back pain, sciatica — EXTERNAL use)",
+      "Galarogi, Kanthashula (throat diseases)",
+      "Carmaroga (skin diseases)",
+      "Aruchi, Agnimandya, Anaha, Vishuchika (anorexia, low digestion, bloating)",
+      "Hrddourbalya (cardiac weakness)",
+      "Mutraghata (urinary obstruction)",
+      "Kamavasada (sexual debility)",
+      "Visamajvara, Sannipatajvara (intermittent fever, tridoshic fever)",
+      "Medoroga (obesity)"
+    ],
+    "contraindications": [
+      "CONTRAINDICATED in ALL Pitta conditions — Pittajanana drug",
+      "Contraindicated in gastric catarrh, peptic ulcer, acid reflux, IBD",
+      "Vidahakara — avoid in burning sensations throughout GI",
+      "Dhatunashaka — STRICTLY avoid in tissue depletion, wasting, emaciation",
+      "Internal excess causes gastro-enteritis"
+    ],
+    "dosage": {
+      "powder_churna": "30–60 mg (very small dose)",
+      "juice_svarasa": "Not applicable",
+      "decoction": "Not applicable",
+      "timing": "Not specified",
+      "anupana": {
+        "general": "Used in curry powders and food. External: liniment, plaster, ointment, medicated wool. Oleoresin Capsici (B.P.C.) as pharmaceutical active ingredient."
+      }
+    },
+    "key_formulations": [
+      "Visamajvarahnani Vati (primary named formulation)",
+      "Lankasura (Tincture Capsicum)",
+      "Referenced in Atharva Samhita"
+    ],
+    "part_used": "Fruits (berries) — only part used",
+    "source_reference": {
+      "primary": "Dravyaguna Vijnana",
+      "author": "Dr. Gyanendra Pandey",
+      "page": "225–228"
+    },
+    "modern_research": {
+      "active_compounds": [
+        "Capsaicin: ~0.1% — primary active; responsible for pungency",
+        "Green fruit: Moisture 82.6%, Protein 2.9%, Fat 0.6%, Carbohydrate 6.1%, Fibre 6.8%",
+        "Vitamin C: 111 mg/100 gm, Carotene: 454 IU/100 gm",
+        "Dried fruits: Fixed oil 9-31%, Volatile oil 0.16-0.39%",
+        "Vitamin E: 2.4 mg/100 gm",
+        "Trace minerals: aluminium, barium, copper, lithium, silicon, manganese, titanium"
+      ],
+      "keywords": [
+        "Lanka",
+        "Capsicum annuum",
+        "red chilli",
+        "Pittajanana",
+        "Dhatunashaka",
+        "Capsaicin",
+        "Vajikarana",
+        "Kaphavatashamaka"
+      ]
+    }
+  }
+]

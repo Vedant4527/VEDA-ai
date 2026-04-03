@@ -1,0 +1,1497 @@
+{
+  "dataset_info": {
+    "name": "VEDA AyurMind AI — Diseases & Therapeutic Herbs Dataset",
+    "part": 1,
+    "part_description": "Diseases DIS-001 to DIS-060 (A to F)",
+    "total_parts": 3,
+    "version": "1.0.0",
+    "source_text": "Dravyaguna Vijnana — Therapeutic Indication of Drugs & Technical Medical Terminology",
+    "diseases_in_this_part": 60,
+    "last_updated": "2026-03-22",
+    "description": "Part 1 of 3 — Ayurvedic disease-herb mapping. Each entry includes disease ID, English name, Sanskrit name, category, description, herbs with botanical names, associated Sanskrit technical terms with meanings, and herb count.",
+    "schema_version": "veda-disease-v1",
+    "fields_explained": {
+      "id": "Unique disease identifier (DIS-001 format)",
+      "english_name": "Standard English name of the disease/condition",
+      "sanskrit_name": "Classical Ayurvedic Sanskrit name",
+      "category": "Medical system category for filtering/search",
+      "description": "Plain-language description for web users",
+      "herbs": "List of Ayurvedic herbs — name + botanical for cross-reference",
+      "associated_sanskrit_terms": "All Sanskrit technical terms directly related to this disease with English meanings",
+      "herb_count": "Total number of herbs listed"
+    }
+  },
+
+  "diseases": [
+
+    {
+      "id": "DIS-001",
+      "english_name": "Abortifacient",
+      "sanskrit_name": "Garbhapatakara",
+      "category": "Gynaecology & Obstetrics",
+      "description": "Substances or conditions that induce termination of pregnancy. Used in classical Ayurveda under specific therapeutic indications.",
+      "herbs": [
+        { "name": "Indravaruni", "botanical": "Citrullus colocynthis" },
+        { "name": "Gunja", "botanical": "Abrus precatorius" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Garbhapatana", "meaning": "Inducing abortion" },
+        { "term": "Garbhapatakara", "meaning": "Abortifacient" },
+        { "term": "Aparapatana", "meaning": "Expulsion of placenta; obstetrics" },
+        { "term": "Garbhasthapana", "meaning": "Promoting conception — opposing action" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-002",
+      "english_name": "Abscess",
+      "sanskrit_name": "Vidradhi",
+      "category": "Surgical & Inflammatory Conditions",
+      "description": "Localised collection of pus in body tissue; painful swelling with redness, heat and inflammation. Caused by bacterial infection and Pitta aggravation.",
+      "herbs": [
+        { "name": "Atasi", "botanical": "Linum usitatissimum" },
+        { "name": "Citraka", "botanical": "Plumbago zeylanica" },
+        { "name": "Dasamula", "botanical": "Ten-root combination" },
+        { "name": "Guggulu", "botanical": "Commiphora mukul" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Vidradhi", "meaning": "Abscess; localised purulent inflammation" },
+        { "term": "Shotha", "meaning": "Oedema; swelling; inflammation" },
+        { "term": "Dustavrana", "meaning": "Indolent, foul and sloughy ulcers" },
+        { "term": "Vranaropana", "meaning": "Wound-healer" },
+        { "term": "Shodhana", "meaning": "Purification; radical elimination of morbid substances" }
+      ],
+      "herb_count": 4
+    },
+
+    {
+      "id": "DIS-003",
+      "english_name": "Deficient Digestion",
+      "sanskrit_name": "Agnimandya",
+      "category": "Digestive Disorders",
+      "description": "Diminished digestive fire (Agni); impaired gastric function leading to sluggish digestion, bloating and accumulation of Ama (metabolic toxins). Equivalent to modern dyspepsia.",
+      "herbs": [
+        { "name": "Ajamoda", "botanical": "Apium graveolens" },
+        { "name": "Amalaki", "botanical": "Phyllanthus emblica" },
+        { "name": "Ardraka", "botanical": "Zingiber officinale" },
+        { "name": "Arka", "botanical": "Calotropis procera" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" },
+        { "name": "Jambu", "botanical": "Syzygium cumini" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Agnimandya", "meaning": "Achylla; dyspepsia (Mandagni); deficient digestive fire" },
+        { "term": "Ajirna", "meaning": "Indigestion" },
+        { "term": "Amadosha", "meaning": "Food intoxication associated with faulty digestion and impaired metabolism" },
+        { "term": "Dipana-Pacana", "meaning": "Gastro-stimulant and digestive" },
+        { "term": "Dipana", "meaning": "Gastro-stimulant; improving digestion" },
+        { "term": "Anulomana", "meaning": "Regulating bowel function; carminative" },
+        { "term": "Agnidrpana", "meaning": "Stimulating the factor of gastro-intestinal digestion" }
+      ],
+      "herb_count": 6
+    },
+
+    {
+      "id": "DIS-004",
+      "english_name": "Alcoholism",
+      "sanskrit_name": "Madatyaya",
+      "category": "Toxicology & Addiction",
+      "description": "Chronic excessive alcohol consumption causing physical and mental derangement; liver damage, cognitive impairment and bodily toxicity.",
+      "herbs": [
+        { "name": "Amlavetasa", "botanical": "Garcinia pedunculata" },
+        { "name": "Bharangi", "botanical": "Clerodendrum serratum" },
+        { "name": "Dadima", "botanical": "Punica granatum" },
+        { "name": "Draksa", "botanical": "Vitis vinifera" },
+        { "name": "Hingu", "botanical": "Ferula asafoetida" },
+        { "name": "Hribera", "botanical": "Pavonia odorata" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Madatyaya", "meaning": "Alcoholism; effect of excessive use of alcohol" },
+        { "term": "Madaka", "meaning": "Narcotic; intoxicating effect; exhilarating" },
+        { "term": "Mada", "meaning": "Nacrosis; intoxication state" },
+        { "term": "Shodhana", "meaning": "Purification; radical elimination of morbid substances" }
+      ],
+      "herb_count": 6
+    },
+
+    {
+      "id": "DIS-005",
+      "english_name": "Alopecia (Baldness)",
+      "sanskrit_name": "Indralupta",
+      "category": "Dermatology & Hair Disorders",
+      "description": "Loss of hair from scalp or body; patchy or complete baldness. In Ayurveda related to Pitta aggravation, Vata vitiation and weak Rakta dhatu.",
+      "herbs": [
+        { "name": "Bhallataka", "botanical": "Semecarpus anacardium" },
+        { "name": "Brhati", "botanical": "Solanum indicum" },
+        { "name": "Dhattura", "botanical": "Datura stramonium" },
+        { "name": "Goksura", "botanical": "Tribulus terrestris" },
+        { "name": "Gunja", "botanical": "Abrus precatorius" },
+        { "name": "Indravaruni", "botanical": "Citrullus colocynthis" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Indralupta", "meaning": "Baldness; alopecia" },
+        { "term": "Kesha", "meaning": "Promoting the growth of hair" },
+        { "term": "Tvacya", "meaning": "Promoting skin health; palliative for skin diseases" },
+        { "term": "Rasayana", "meaning": "Alterative; restorative; rejuvenation" }
+      ],
+      "herb_count": 6
+    },
+
+    {
+      "id": "DIS-006",
+      "english_name": "Rheumatic Arthritis",
+      "sanskrit_name": "Amavata",
+      "category": "Musculoskeletal & Joint Disorders",
+      "description": "Painful joint condition caused by accumulation of Ama (undigested metabolic toxins) in joints with Vata vitiation. Closely correlates with rheumatoid arthritis — features joint swelling, pain, stiffness, and systemic inflammation.",
+      "herbs": [
+        { "name": "Ajamoda", "botanical": "Apium graveolens" },
+        { "name": "Aragvadha", "botanical": "Cassia fistula" },
+        { "name": "Dasamula", "botanical": "Ten-root combination" },
+        { "name": "Dhanyaka", "botanical": "Coriandrum sativum" },
+        { "name": "Eranda", "botanical": "Ricinus communis" },
+        { "name": "Goksura", "botanical": "Tribulus terrestris" },
+        { "name": "Guggulu", "botanical": "Commiphora mukul" },
+        { "name": "Guduchi", "botanical": "Tinospora cordifolia" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Amavata", "meaning": "Rheumatic arthritis" },
+        { "term": "Amadosha", "meaning": "Food intoxication associated with faulty digestion and impaired metabolism" },
+        { "term": "Vatavyadhi", "meaning": "Group of diseases caused by aggravated Vata — pain, convulsion, paralysis" },
+        { "term": "Shotha", "meaning": "Oedema; swelling; inflammation" },
+        { "term": "Vedanasthapana", "meaning": "Analgesic; anodyne; local anaesthetic" },
+        { "term": "Vataghna", "meaning": "Anti-vata; indicated in diseases of nervous system" }
+      ],
+      "herb_count": 9
+    },
+
+    {
+      "id": "DIS-007",
+      "english_name": "Acid Gastritis (Hyperacidity)",
+      "sanskrit_name": "Amlapitta",
+      "category": "Digestive Disorders",
+      "description": "Characterised by hyperacidity, burning sensation in stomach and throat, abdominal pain, biliary nausea, sour eructations and abnormal gastric feeling. Equivalent to GERD and peptic conditions.",
+      "herbs": [
+        { "name": "Bhrngaraja", "botanical": "Eclipta alba" },
+        { "name": "Guduchi", "botanical": "Tinospora cordifolia" },
+        { "name": "Guggulu", "botanical": "Commiphora mukul" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" },
+        { "name": "Jambira", "botanical": "Citrus limon" },
+        { "name": "Jiraka", "botanical": "Cuminum cyminum" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Amlapitta", "meaning": "Acid gastritis; hyperacidity with burning sensation, abdominal pain and biliary nausea" },
+        { "term": "Amla", "meaning": "Sour; acidic" },
+        { "term": "Pitta-shamaka", "meaning": "Anti-bilious" },
+        { "term": "Dipana-Pacana", "meaning": "Gastro-stimulant and digestive" },
+        { "term": "Dahahara", "meaning": "Refrigerant; relieving burning sensation" }
+      ],
+      "herb_count": 6
+    },
+
+    {
+      "id": "DIS-008",
+      "english_name": "Anaemia",
+      "sanskrit_name": "Panduroga",
+      "category": "Haematological Disorders",
+      "description": "Deficiency of red blood cells or haemoglobin causing pallor, fatigue, weakness and breathlessness. In Ayurveda linked to impaired Rakta dhatu (blood tissue) formation and Pitta vitiation.",
+      "herbs": [
+        { "name": "Amalaki", "botanical": "Phyllanthus emblica" },
+        { "name": "Asana", "botanical": "Pterocarpus marsupium" },
+        { "name": "Citraka", "botanical": "Plumbago zeylanica" },
+        { "name": "Dadima", "botanical": "Punica granatum" },
+        { "name": "Danti", "botanical": "Baliospermum montanum" },
+        { "name": "Daruharidra", "botanical": "Berberis aristata" },
+        { "name": "Dasamula", "botanical": "Ten-root combination" },
+        { "name": "Haridra", "botanical": "Curcuma longa" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" },
+        { "name": "Iksu", "botanical": "Saccharum officinarum" },
+        { "name": "Gambhari", "botanical": "Gmelina arborea" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Panduroga", "meaning": "Anaemia" },
+        { "term": "Panduhara", "meaning": "Anti-anaemic; indicated in treatment of anaemia" },
+        { "term": "Pandughna", "meaning": "Anti-anaemic action" },
+        { "term": "Dhatupushtikara", "meaning": "Nourishing and promoting body tissues; nutrient tissue homologues" },
+        { "term": "Asra / Rakta", "meaning": "Blood" },
+        { "term": "Brnhana", "meaning": "Promoting body bulk" },
+        { "term": "Rasayana", "meaning": "Alterative; restorative; rejuvenation" }
+      ],
+      "herb_count": 11
+    },
+
+    {
+      "id": "DIS-009",
+      "english_name": "Anorexia",
+      "sanskrit_name": "Aruchi",
+      "category": "Digestive Disorders",
+      "description": "Loss of appetite; lack of desire to eat food; often accompanied by tastelessness and aversion to food. Related to Agnimandya in Ayurveda.",
+      "herbs": [
+        { "name": "Amlika", "botanical": "Tamarindus indica" },
+        { "name": "Amra", "botanical": "Mangifera indica" },
+        { "name": "Ardraka", "botanical": "Zingiber officinale" },
+        { "name": "Brhati", "botanical": "Solanum indicum" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Aruchi", "meaning": "Anorexia; anorectic" },
+        { "term": "Agnimandya", "meaning": "Achylla; dyspepsia; deficient digestive fire" },
+        { "term": "Rucya", "meaning": "Appetizer; increasing appetite" },
+        { "term": "Rucikara", "meaning": "Appetizing" },
+        { "term": "Dipana", "meaning": "Gastro-stimulant; improving digestion" },
+        { "term": "Asya-varanasya-mukha-virasati", "meaning": "Tastelessness of mouth; tasteless state of oral cavity" }
+      ],
+      "herb_count": 4
+    },
+
+    {
+      "id": "DIS-010",
+      "english_name": "Scrofula (Cervical Glandular Enlargement)",
+      "sanskrit_name": "Apaci",
+      "category": "Lymphatic & Glandular Disorders",
+      "description": "Tuberculous infection of cervical lymph nodes causing swelling and enlargement of neck glands. Chronic lymphadenopathy of the neck.",
+      "herbs": [
+        { "name": "Bhallataka", "botanical": "Semecarpus anacardium" },
+        { "name": "Bhrngaraja", "botanical": "Eclipta alba" },
+        { "name": "Girikarnika", "botanical": "Clitoria ternatea" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Apaci", "meaning": "Scrofula; glandular enlargement" },
+        { "term": "Gandamala", "meaning": "Cervical adenitis; chain of swollen glands in neck" },
+        { "term": "Granthiroga", "meaning": "Glandular enlargement, swelling and other symptoms" },
+        { "term": "Shodhana", "meaning": "Purification; radical elimination of morbid substances" }
+      ],
+      "herb_count": 3
+    },
+
+    {
+      "id": "DIS-011",
+      "english_name": "Aphrodisiac",
+      "sanskrit_name": "Vajikara",
+      "category": "Reproductive & Sexual Health",
+      "description": "Substances promoting sexual vigour, potency, libido and reproductive health. Vajikara herbs nourish Shukra dhatu (reproductive tissue) and enhance virility.",
+      "herbs": [
+        { "name": "Amalaki", "botanical": "Phyllanthus emblica" },
+        { "name": "Ankota", "botanical": "Alangium salvifolium" },
+        { "name": "Asvattha", "botanical": "Ficus religiosa" },
+        { "name": "Bhallataka", "botanical": "Semecarpus anacardium" },
+        { "name": "Godhuma", "botanical": "Triticum aestivum" },
+        { "name": "Goksura", "botanical": "Tribulus terrestris" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Vajikara", "meaning": "Aphrodisiac; sexual tonic" },
+        { "term": "Paramasya", "meaning": "Promoting optimum virility" },
+        { "term": "Shukraretas", "meaning": "Spermatogenetic" },
+        { "term": "Shukravikara", "meaning": "Seminal diseases" },
+        { "term": "Klaibya", "meaning": "Impotence" }
+      ],
+      "herb_count": 6
+    },
+
+    {
+      "id": "DIS-012",
+      "english_name": "Arthritis",
+      "sanskrit_name": "Sandhivata",
+      "category": "Musculoskeletal & Joint Disorders",
+      "description": "Inflammation of joints with pain, stiffness and reduced mobility. In Ayurveda primarily a Vata disorder involving joint spaces.",
+      "herbs": [
+        { "name": "Indravaruni", "botanical": "Citrullus colocynthis" },
+        { "name": "Guggulu", "botanical": "Commiphora mukul" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Sandhivishlesa", "meaning": "Dislocation of joint(s)" },
+        { "term": "Vatarakta", "meaning": "Disease caused by vitiation of Vata and Rakta; gout" },
+        { "term": "Vatavyadhi", "meaning": "Group of diseases caused by aggravated Vata — pain, convulsion, paralysis" },
+        { "term": "Vedanasthapana", "meaning": "Analgesic; anodyne; local anaesthetic" },
+        { "term": "Vataghna", "meaning": "Anti-vata; indicated in diseases of nervous system" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-013",
+      "english_name": "Asthma",
+      "sanskrit_name": "Svasa",
+      "category": "Respiratory Disorders",
+      "description": "Chronic respiratory condition with recurrent breathlessness, wheezing and chest tightness due to airway inflammation and mucus accumulation. Classified as Kapha-Vata disorder in Ayurveda.",
+      "herbs": [
+        { "name": "Aguru", "botanical": "Aquilaria agallocha" },
+        { "name": "Ankota", "botanical": "Alangium salvifolium" },
+        { "name": "Ardraka", "botanical": "Zingiber officinale" },
+        { "name": "Arka", "botanical": "Calotropis procera" },
+        { "name": "Asvagandha", "botanical": "Withania somnifera" },
+        { "name": "Bibhitaka", "botanical": "Terminalia bellirica" },
+        { "name": "Bharangi", "botanical": "Clerodendrum serratum" },
+        { "name": "Bhrngaraja", "botanical": "Eclipta alba" },
+        { "name": "Brhati", "botanical": "Solanum indicum" },
+        { "name": "Coraka", "botanical": "Angelica glauca" },
+        { "name": "Dasamula", "botanical": "Ten-root combination" },
+        { "name": "Devadaru", "botanical": "Cedrus deodara" },
+        { "name": "Guggulu", "botanical": "Commiphora mukul" },
+        { "name": "Haridra", "botanical": "Curcuma longa" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Svasa", "meaning": "Asthma; dyspnoea; bronchial asthma" },
+        { "term": "Svasahara", "meaning": "Anti-tussive; anti-asthmatic" },
+        { "term": "Kasa", "meaning": "Cough; bronchitis" },
+        { "term": "Chedana", "meaning": "Expectorant" }
+      ],
+      "herb_count": 14
+    },
+
+    {
+      "id": "DIS-014",
+      "english_name": "Excessive Digestion (Bhasmaka)",
+      "sanskrit_name": "Bhasmaka",
+      "category": "Digestive Disorders",
+      "description": "Pathological condition of excessively strong digestive fire causing rapid burning of food and body tissues (dhatus), leading to severe hunger, emaciation and debility.",
+      "herbs": [
+        { "name": "Apamarga", "botanical": "Achyranthes aspera" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Bhasmaka", "meaning": "Excessive hunger and digestion causing loss of dhatus, emaciation and debility" },
+        { "term": "Atyagni", "meaning": "Excessive hunger; Tiwagni" },
+        { "term": "Dhatupushtikara", "meaning": "Nourishing and promoting body tissues" }
+      ],
+      "herb_count": 1
+    },
+
+    {
+      "id": "DIS-015",
+      "english_name": "Boils",
+      "sanskrit_name": "Pidika",
+      "category": "Dermatology & Skin Conditions",
+      "description": "Painful pus-filled skin infections (furuncles) caused by bacterial infection of hair follicles. Represents Pitta-Rakta vitiation in Ayurveda.",
+      "herbs": [
+        { "name": "Arka", "botanical": "Calotropis procera" },
+        { "name": "Dhattura", "botanical": "Datura stramonium" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Pidika", "meaning": "Boil" },
+        { "term": "Visphota", "meaning": "Eruptive boils" },
+        { "term": "Dustavrana", "meaning": "Indolent, foul and sloughy ulcers" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-016",
+      "english_name": "Burn",
+      "sanskrit_name": "Agnidagdha",
+      "category": "Surgical & Trauma Conditions",
+      "description": "Tissue injury caused by heat, fire, chemicals or radiation; causes local destruction, pain and scarring.",
+      "herbs": [
+        { "name": "Asvattha", "botanical": "Ficus religiosa" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Agnidagdha", "meaning": "Burn" },
+        { "term": "Dahahara", "meaning": "Refrigerant; relieving burning sensation" },
+        { "term": "Vranaropana", "meaning": "Wound-healer" }
+      ],
+      "herb_count": 1
+    },
+
+    {
+      "id": "DIS-017",
+      "english_name": "Burning Sensation",
+      "sanskrit_name": "Daha",
+      "category": "Symptomatic Conditions",
+      "description": "Generalised or localised burning sensation in the body; often linked to Pitta aggravation, heat disorders or inflammatory states.",
+      "herbs": [
+        { "name": "Amalaki", "botanical": "Phyllanthus emblica" },
+        { "name": "Badari", "botanical": "Ziziphus jujuba" },
+        { "name": "Canaka", "botanical": "Cicer arietinum" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Dahahara", "meaning": "Refrigerant; relieving burning sensation" },
+        { "term": "Dahaprashamana", "meaning": "Relieving burning sensation" },
+        { "term": "Pitta-shamaka", "meaning": "Anti-bilious" },
+        { "term": "Vidahi", "meaning": "Causing burning sensation" }
+      ],
+      "herb_count": 3
+    },
+
+    {
+      "id": "DIS-018",
+      "english_name": "Urinary Calculus (Kidney Stone)",
+      "sanskrit_name": "Ashmari",
+      "category": "Urinary & Renal Disorders",
+      "description": "Hard mineral deposits forming in kidneys or urinary tract causing severe colicky pain, haematuria and urinary obstruction. Mutra-ashmari relates to urinary stones; Pitta-ashmari to gall bladder stones.",
+      "herbs": [
+        { "name": "Amlavetasa", "botanical": "Garcinia pedunculata" },
+        { "name": "Apamarga", "botanical": "Achyranthes aspera" },
+        { "name": "Bibhitaka", "botanical": "Terminalia bellirica" },
+        { "name": "Darbha", "botanical": "Desmostachya bipinnata" },
+        { "name": "Ervaru", "botanical": "Cucumis utilissimus" },
+        { "name": "Goksura", "botanical": "Tribulus terrestris" },
+        { "name": "Haridra", "botanical": "Curcuma longa" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" },
+        { "name": "Jati", "botanical": "Jasminum officinale" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Ashmari", "meaning": "Calculus; stone — Mutra-ashmari (urinary) and Pitta-ashmari (gall bladder)" },
+        { "term": "Sarkara-ashmari", "meaning": "Urinary gravel" },
+        { "term": "Mutravirecaniya", "meaning": "Promoting increased micturition" },
+        { "term": "Mutrakricchrahara", "meaning": "Indicated in dysuria" }
+      ],
+      "herb_count": 9
+    },
+
+    {
+      "id": "DIS-019",
+      "english_name": "Urinary Gravel",
+      "sanskrit_name": "Sarkara",
+      "category": "Urinary & Renal Disorders",
+      "description": "Small sand-like micro-calculi in the urine causing irritation, painful urination and gritty sensation during voiding.",
+      "herbs": [
+        { "name": "Ajamoda", "botanical": "Apium graveolens" },
+        { "name": "Apamarga", "botanical": "Achyranthes aspera" },
+        { "name": "Darbha", "botanical": "Desmostachya bipinnata" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Sarkara", "meaning": "Urinary gravel" },
+        { "term": "Sarkarashmari", "meaning": "Urinary gravel" },
+        { "term": "Ashmari", "meaning": "Calculus; stone" },
+        { "term": "Mutravirecaniya", "meaning": "Promoting increased micturition" }
+      ],
+      "herb_count": 3
+    },
+
+    {
+      "id": "DIS-020",
+      "english_name": "Chest Pain",
+      "sanskrit_name": "Parsvashula",
+      "category": "Cardiovascular & Chest Disorders",
+      "description": "Pain or discomfort in the chest region; may relate to cardiac, pulmonary, musculoskeletal or digestive causes. Includes Parsvashula (side/chest pain).",
+      "herbs": [
+        { "name": "Bala", "botanical": "Sida cordifolia" },
+        { "name": "Eranda", "botanical": "Ricinus communis" },
+        { "name": "Jivanti", "botanical": "Leptadenia reticulata" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Parsvashula", "meaning": "Colic pain occurring in the iliac or pelvic region of the abdomen; chest pain" },
+        { "term": "Hridroga", "meaning": "Heart diseases; heart trouble" },
+        { "term": "Hridshula", "meaning": "Heart pain; angina pectoris" },
+        { "term": "Hridya", "meaning": "Cardial; cardiac tonic" }
+      ],
+      "herb_count": 3
+    },
+
+    {
+      "id": "DIS-021",
+      "english_name": "Colic",
+      "sanskrit_name": "Sula",
+      "category": "Digestive Disorders",
+      "description": "Severe spasmodic abdominal pain caused by intestinal gas, obstruction, muscle spasm or Vata accumulation in digestive tract.",
+      "herbs": [
+        { "name": "Agastya", "botanical": "Sesbania grandiflora" },
+        { "name": "Ajamoda", "botanical": "Apium graveolens" },
+        { "name": "Amalaki", "botanical": "Phyllanthus emblica" },
+        { "name": "Amlavetasa", "botanical": "Garcinia pedunculata" },
+        { "name": "Apamarga", "botanical": "Achyranthes aspera" },
+        { "name": "Asvattha", "botanical": "Ficus religiosa" },
+        { "name": "Babbula", "botanical": "Acacia arabica" },
+        { "name": "Dhanvana", "botanical": "Grewia tiliaefolia" },
+        { "name": "Eranda", "botanical": "Ricinus communis" },
+        { "name": "Godhuma", "botanical": "Triticum aestivum" },
+        { "name": "Haridra", "botanical": "Curcuma longa" },
+        { "name": "Hingu", "botanical": "Ferula asafoetida" },
+        { "name": "Jiraka", "botanical": "Cuminum cyminum" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Sula", "meaning": "Colic; ache; pain; disease or symptom" },
+        { "term": "Antrashoola", "meaning": "Intestinal colic" },
+        { "term": "Udarashoola", "meaning": "Abdominal colic" },
+        { "term": "Kukshishula", "meaning": "Abdominal colic" },
+        { "term": "Anulomana", "meaning": "Regulating bowel function; carminative" },
+        { "term": "Vataghna", "meaning": "Anti-vata; indicated in diseases of nervous system" }
+      ],
+      "herb_count": 13
+    },
+
+    {
+      "id": "DIS-022",
+      "english_name": "Constipation",
+      "sanskrit_name": "Vibandha",
+      "category": "Digestive Disorders",
+      "description": "Infrequent or difficult bowel movements; hard, dry stools; straining during defecation. Caused by Vata aggravation in the colon (Purishavaha Srotas).",
+      "herbs": [
+        { "name": "Eranda", "botanical": "Ricinus communis" },
+        { "name": "Draksa", "botanical": "Vitis vinifera" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Vibandha", "meaning": "Constipation" },
+        { "term": "Anulomana", "meaning": "Regulating bowel function; carminative" },
+        { "term": "Bhedana", "meaning": "Purgation; purgative" },
+        { "term": "Mrduvirecaka", "meaning": "Laxative; mild purgative" },
+        { "term": "Virecana", "meaning": "Purgative; cathartic; purging" }
+      ],
+      "herb_count": 3
+    },
+
+    {
+      "id": "DIS-023",
+      "english_name": "Consumption (Tuberculosis)",
+      "sanskrit_name": "Rajayaksma",
+      "category": "Respiratory Disorders",
+      "description": "Wasting disease of the lungs; pulmonary tuberculosis with chronic cough, fever, haemoptysis, night sweats and progressive weight loss. The 'king of diseases' in Ayurveda.",
+      "herbs": [
+        { "name": "Arjuna", "botanical": "Terminalia arjuna" },
+        { "name": "Asvagandha", "botanical": "Withania somnifera" },
+        { "name": "Asvattha", "botanical": "Ficus religiosa" },
+        { "name": "Bala", "botanical": "Sida cordifolia" },
+        { "name": "Dasamula", "botanical": "Ten-root combination" },
+        { "name": "Draksa", "botanical": "Vitis vinifera" },
+        { "name": "Goksura", "botanical": "Tribulus terrestris" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Ksaya / Yaksma / Rajayaksma", "meaning": "Phthisis; consumption; tuberculosis; pulmonary tuberculosis" },
+        { "term": "Ksataksina", "meaning": "Wasting condition of body due to chest-wound" },
+        { "term": "Brnhana", "meaning": "Promoting body bulk" },
+        { "term": "Rasayana", "meaning": "Alterative; restorative; rejuvenation" },
+        { "term": "Bala", "meaning": "Promoting body strength; muscular strength; resistance to diseases; tonic" }
+      ],
+      "herb_count": 7
+    },
+
+    {
+      "id": "DIS-024",
+      "english_name": "Contraceptive",
+      "sanskrit_name": "Garbhanirodhaka",
+      "category": "Gynaecology & Reproductive Health",
+      "description": "Substances or preparations used to prevent conception. Classical Ayurvedic contraceptive herbs affect uterine receptivity or sperm viability.",
+      "herbs": [
+        { "name": "Japa", "botanical": "Hibiscus rosa-sinensis" },
+        { "name": "Candrasura", "botanical": "Lepidium sativum" },
+        { "name": "Haridra", "botanical": "Curcuma longa" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Garbhasthapana", "meaning": "Promoting conception (pregnancy) — opposing action" },
+        { "term": "Garbhapatakara", "meaning": "Abortifacient" },
+        { "term": "Punsavana", "meaning": "Measures prescribed for reversal of sex in foetus during pregnancy" }
+      ],
+      "herb_count": 3
+    },
+
+    {
+      "id": "DIS-025",
+      "english_name": "Coryza (Common Cold)",
+      "sanskrit_name": "Pratisyaya",
+      "category": "Respiratory & ENT Disorders",
+      "description": "Acute inflammation of nasal mucosa with running nose, sneezing, nasal congestion, and mild fever. Caused by Kapha and Vata vitiation in the nasal passages.",
+      "herbs": [
+        { "name": "Amlika", "botanical": "Tamarindus indica" },
+        { "name": "Ardraka", "botanical": "Zingiber officinale" },
+        { "name": "Citraka", "botanical": "Plumbago zeylanica" },
+        { "name": "Coraka", "botanical": "Angelica glauca" },
+        { "name": "Daruharidra", "botanical": "Berberis aristata" },
+        { "name": "Dhattura", "botanical": "Datura stramonium" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" },
+        { "name": "Jaya", "botanical": "Sesbania bispinosa" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Pinasa", "meaning": "Chronic rhinitis" },
+        { "term": "Pinasahara", "meaning": "Indicated in treatment of chronic rhinitis" },
+        { "term": "Nasaroga", "meaning": "Nasal diseases (E.N.T.)" },
+        { "term": "Kanthya", "meaning": "Curing and improving throat disorders; soothing to throat" }
+      ],
+      "herb_count": 8
+    },
+
+    {
+      "id": "DIS-026",
+      "english_name": "Cough",
+      "sanskrit_name": "Kasa",
+      "category": "Respiratory Disorders",
+      "description": "Forceful expulsion of air from lungs; dry or productive; acute or chronic. Classified into Vataja, Pittaja, Kaphaja, Ksataja (traumatic) and Kshayaja (consumptive) types in Ayurveda.",
+      "herbs": [
+        { "name": "Abhisuka", "botanical": "Prunus amygdalus" },
+        { "name": "Agastya", "botanical": "Sesbania grandiflora" },
+        { "name": "Aguru", "botanical": "Aquilaria agallocha" },
+        { "name": "Ahiphena", "botanical": "Papaver somniferum" },
+        { "name": "Ajagandha", "botanical": "Cleome viscosa" },
+        { "name": "Amalaki", "botanical": "Phyllanthus emblica" },
+        { "name": "Amlika", "botanical": "Tamarindus indica" },
+        { "name": "Ardraka", "botanical": "Zingiber officinale" },
+        { "name": "Arka", "botanical": "Calotropis procera" },
+        { "name": "Badari", "botanical": "Ziziphus jujuba" },
+        { "name": "Bharangi", "botanical": "Clerodendrum serratum" },
+        { "name": "Bhrngaraja", "botanical": "Eclipta alba" },
+        { "name": "Bibhitaka", "botanical": "Terminalia bellirica" },
+        { "name": "Brhati", "botanical": "Solanum indicum" },
+        { "name": "Citraka", "botanical": "Plumbago zeylanica" },
+        { "name": "Dasamula", "botanical": "Ten-root combination" },
+        { "name": "Devadaru", "botanical": "Cedrus deodara" },
+        { "name": "Draksa", "botanical": "Vitis vinifera" },
+        { "name": "Eranda", "botanical": "Ricinus communis" },
+        { "name": "Godhuma", "botanical": "Triticum aestivum" },
+        { "name": "Guduchi", "botanical": "Tinospora cordifolia" },
+        { "name": "Hapusa", "botanical": "Juniperus communis" },
+        { "name": "Harenuka", "botanical": "Vitex negundo" },
+        { "name": "Haridra", "botanical": "Curcuma longa" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" },
+        { "name": "Jivanti", "botanical": "Leptadenia reticulata" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Kasa", "meaning": "Cough; bronchitis" },
+        { "term": "Svasahara", "meaning": "Anti-tussive; anti-asthmatic" },
+        { "term": "Chedana", "meaning": "Expectorant" },
+        { "term": "Svasa", "meaning": "Asthma; dyspnoea; bronchial asthma" },
+        { "term": "Kulanasaka", "meaning": "Whooping cough" }
+      ],
+      "herb_count": 26
+    },
+
+    {
+      "id": "DIS-027",
+      "english_name": "Cyst / Tumour",
+      "sanskrit_name": "Arbuda",
+      "category": "Oncology & Neoplastic Conditions",
+      "description": "Abnormal growth of tissue; cystic or tumorous mass. Arbuda in Ayurveda refers to both benign and malignant growths arising from Tridosha imbalance.",
+      "herbs": [
+        { "name": "Danti", "botanical": "Baliospermum montanum" },
+        { "name": "Draksa", "botanical": "Vitis vinifera" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Arbuda", "meaning": "Tumour" },
+        { "term": "Karkatarbuda", "meaning": "Cancer" },
+        { "term": "Stanarbuda", "meaning": "Breast tumour" },
+        { "term": "Gulma", "meaning": "Abdominal lump caused by accumulation of wind and other causes" },
+        { "term": "Granthiroga", "meaning": "Glandular enlargement and swelling" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-028",
+      "english_name": "Diarrhoea",
+      "sanskrit_name": "Atisara",
+      "category": "Digestive Disorders",
+      "description": "Frequent loose or watery stools; acute or chronic; associated with fluid and electrolyte loss. Classified as Vataja, Pittaja, Kaphaja, Bhayaja (fear-induced), Shokaja (grief-induced) and Sannipataja types.",
+      "herbs": [
+        { "name": "Ahiphena", "botanical": "Papaver somniferum" },
+        { "name": "Ajamoda", "botanical": "Apium graveolens" },
+        { "name": "Amlika", "botanical": "Tamarindus indica" },
+        { "name": "Amra", "botanical": "Mangifera indica" },
+        { "name": "Arka", "botanical": "Calotropis procera" },
+        { "name": "Arjuna", "botanical": "Terminalia arjuna" },
+        { "name": "Ativisa", "botanical": "Aconitum heterophyllum" },
+        { "name": "Babbula", "botanical": "Acacia arabica" },
+        { "name": "Badari", "botanical": "Ziziphus jujuba" },
+        { "name": "Bibhitaka", "botanical": "Terminalia bellirica" },
+        { "name": "Bilva", "botanical": "Aegle marmelos" },
+        { "name": "Cangeri", "botanical": "Oxalis corniculata" },
+        { "name": "Calya", "botanical": "Hordeum vulgare" },
+        { "name": "Citraka", "botanical": "Plumbago zeylanica" },
+        { "name": "Dadima", "botanical": "Punica granatum" },
+        { "name": "Dasamula", "botanical": "Ten-root combination" },
+        { "name": "Dhanyaka", "botanical": "Coriandrum sativum" },
+        { "name": "Dhataki", "botanical": "Woodfordia fruticosa" },
+        { "name": "Duralabha", "botanical": "Fagonia cretica" },
+        { "name": "Eranda", "botanical": "Ricinus communis" },
+        { "name": "Gajapippali", "botanical": "Piper chaba" },
+        { "name": "Hapusa", "botanical": "Juniperus communis" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" },
+        { "name": "Hribera", "botanical": "Pavonia odorata" },
+        { "name": "Jambri", "botanical": "Citrus limon" },
+        { "name": "Jatiphala", "botanical": "Myristica fragrans" },
+        { "name": "Jivanti", "botanical": "Leptadenia reticulata" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Atisara", "meaning": "Diarrhoea; diarrhoeal complaints" },
+        { "term": "Atisara-Amatisara", "meaning": "Diarrhoea; dysentery; gastro-enteritis" },
+        { "term": "Grahi", "meaning": "Astringent property" },
+        { "term": "Grahaniroga", "meaning": "Disorders of intestinal tract; malabsorption syndrome; amoebiasis/colitis" },
+        { "term": "Pravahika", "meaning": "Sprue (Grahani)" }
+      ],
+      "herb_count": 27
+    },
+
+    {
+      "id": "DIS-029",
+      "english_name": "Bloody Diarrhoea",
+      "sanskrit_name": "Raktaatisara",
+      "category": "Digestive Disorders",
+      "description": "Diarrhoea with blood in stools; dysentery with bleeding; indicates intestinal mucosal damage and Pitta-Rakta vitiation.",
+      "herbs": [
+        { "name": "Badari", "botanical": "Ziziphus jujuba" },
+        { "name": "Candana", "botanical": "Santalum album" },
+        { "name": "Jambu", "botanical": "Syzygium cumini" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Atisara", "meaning": "Diarrhoea; diarrhoeal complaints" },
+        { "term": "Stambhaka (Rakta)", "meaning": "Haemostatic; styptic; anti-haemorrhagic" },
+        { "term": "Asra / Rakta", "meaning": "Blood" },
+        { "term": "Pitta-shamaka", "meaning": "Anti-bilious" }
+      ],
+      "herb_count": 3
+    },
+
+    {
+      "id": "DIS-030",
+      "english_name": "Diseases of Mouth",
+      "sanskrit_name": "Mukharoga",
+      "category": "ENT & Oral Diseases",
+      "description": "Various disorders of the oral cavity including stomatitis, ulcers, infections and inflammation of gums, tongue and buccal mucosa.",
+      "herbs": [
+        { "name": "Arimeda", "botanical": "Acacia leucophloea" },
+        { "name": "Daruharidra", "botanical": "Berberis aristata" },
+        { "name": "Draksa", "botanical": "Vitis vinifera" },
+        { "name": "Jivanti", "botanical": "Leptadenia reticulata" },
+        { "name": "Bakula", "botanical": "Mimusops elengi" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Mukharoga", "meaning": "Diseases of the oral cavity" },
+        { "term": "Mukhapaka", "meaning": "Stomatitis; Aphthas" },
+        { "term": "Mukhashodhana", "meaning": "Indicated or useful to cleanse the mouth" },
+        { "term": "Upakusha", "meaning": "Inflamed gums with haemorrhage and foul smell" }
+      ],
+      "herb_count": 5
+    },
+
+    {
+      "id": "DIS-031",
+      "english_name": "Stomatitis",
+      "sanskrit_name": "Mukhapaka",
+      "category": "ENT & Oral Diseases",
+      "description": "Inflammation of the mucous membrane lining the mouth; mouth sores, ulcers (aphthous ulcers) and pain on eating.",
+      "herbs": [
+        { "name": "Amara", "botanical": "Mangifera indica (kernel)" },
+        { "name": "Asvattha", "botanical": "Ficus religiosa" },
+        { "name": "Jati", "botanical": "Jasminum officinale" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Mukhapaka", "meaning": "Stomatitis; Aphthas" },
+        { "term": "Mukhashodhana", "meaning": "Useful to cleanse the mouth" },
+        { "term": "Dahahara", "meaning": "Refrigerant; relieving burning sensation" },
+        { "term": "Jihvajadya", "meaning": "Stiffness (palsy) of tongue" }
+      ],
+      "herb_count": 3
+    },
+
+    {
+      "id": "DIS-032",
+      "english_name": "Dental Diseases",
+      "sanskrit_name": "Dantaroga",
+      "category": "ENT & Oral Diseases",
+      "description": "Various disorders affecting teeth and supporting structures including caries, loose teeth, toothache, gum disease and dental sensitivity.",
+      "herbs": [
+        { "name": "Babbula", "botanical": "Acacia arabica" },
+        { "name": "Bakula", "botanical": "Mimusops elengi" },
+        { "name": "Dugdhika", "botanical": "Euphorbia hirta" },
+        { "name": "Arka", "botanical": "Calotropis procera" },
+        { "name": "Bakuci", "botanical": "Psoralea corylifolia" },
+        { "name": "Hingu", "botanical": "Ferula asafoetida" },
+        { "name": "Girikarnika", "botanical": "Clitoria ternatea" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Dantaroga", "meaning": "Dental diseases" },
+        { "term": "Dantya", "meaning": "Dentrifice; promoting teeth/dental health; curing dental ailments" },
+        { "term": "Caladanta", "meaning": "Loose teeth" },
+        { "term": "Upakusha", "meaning": "Inflamed gums with haemorrhage and foul smell" }
+      ],
+      "herb_count": 7
+    },
+
+    {
+      "id": "DIS-033",
+      "english_name": "Diseases of Throat",
+      "sanskrit_name": "Galaroga",
+      "category": "ENT & Oral Diseases",
+      "description": "Various disorders of the throat including tonsillitis, pharyngitis, laryngitis and diphtheria.",
+      "herbs": [
+        { "name": "Arka", "botanical": "Calotropis procera" },
+        { "name": "Erandakarkati", "botanical": "Momordica charantia" },
+        { "name": "Badari", "botanical": "Ziziphus jujuba" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Galaroga-shotha", "meaning": "Throat affections; tonsillitis; pharyngitis" },
+        { "term": "Rohini", "meaning": "Diphtheria; infectious disease of throat and air passage" },
+        { "term": "Kanthya", "meaning": "Curing, cleaning and improving throat disorders; soothing to throat" }
+      ],
+      "herb_count": 4
+    },
+
+    {
+      "id": "DIS-034",
+      "english_name": "Amenorrhoea (Absent Menstruation)",
+      "sanskrit_name": "Nastartava",
+      "category": "Gynaecology & Reproductive Health",
+      "description": "Absence of menstrual periods in women of reproductive age; primary (never started) or secondary (previously regular but stopped).",
+      "herbs": [
+        { "name": "Indravaruni", "botanical": "Citrullus colocynthis" },
+        { "name": "Japa", "botanical": "Hibiscus rosa-sinensis" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Nastartava", "meaning": "Amenorrhoea" },
+        { "term": "Kashtartava", "meaning": "Dysmenorrhoea" },
+        { "term": "Pradara", "meaning": "Excessive discharge of menstrual blood; menorrhagia" },
+        { "term": "Yosidvikara", "meaning": "Gynaecological disorders" },
+        { "term": "Yonidosa", "meaning": "Vaginal/uterine disorders" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-035",
+      "english_name": "Leucorrhoea (White Discharge)",
+      "sanskrit_name": "Svetapradara",
+      "category": "Gynaecology & Reproductive Health",
+      "description": "Abnormal white or yellowish vaginal discharge; may indicate infection, hormonal imbalance or uterine pathology. Related to Kapha vitiation.",
+      "herbs": [
+        { "name": "Daruharidra", "botanical": "Berberis aristata" },
+        { "name": "Dhataki", "botanical": "Woodfordia fruticosa" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Svetapradara", "meaning": "Leucorrhoea" },
+        { "term": "Pradara", "meaning": "Excessive discharge of menstrual blood" },
+        { "term": "Yonishotha", "meaning": "Vaginitis" },
+        { "term": "Yonivishodhana", "meaning": "Useful to cleanse the uterus" },
+        { "term": "Yosidvikara", "meaning": "Gynaecological disorders" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-036",
+      "english_name": "Menorrhagia (Heavy Menstrual Bleeding)",
+      "sanskrit_name": "Pradara",
+      "category": "Gynaecology & Reproductive Health",
+      "description": "Abnormally heavy or prolonged menstrual bleeding. Classified as Pitta-Rakta vitiation causing excessive flow from Artavavaha Srotas.",
+      "herbs": [
+        { "name": "Alabu", "botanical": "Lagenaria siceraria" },
+        { "name": "Amalaki", "botanical": "Phyllanthus emblica" },
+        { "name": "Apamarga", "botanical": "Achyranthes aspera" },
+        { "name": "Aruka", "botanical": "Prunus persica" },
+        { "name": "Atibala", "botanical": "Abutilon indicum" },
+        { "name": "Badari", "botanical": "Ziziphus jujuba" },
+        { "name": "Bala", "botanical": "Sida cordifolia" },
+        { "name": "Bhumyamalaki", "botanical": "Phyllanthus niruri" },
+        { "name": "Candana", "botanical": "Santalum album" },
+        { "name": "Daruharidra", "botanical": "Berberis aristata" },
+        { "name": "Guduchi", "botanical": "Tinospora cordifolia" },
+        { "name": "Japa", "botanical": "Hibiscus rosa-sinensis" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Pradara", "meaning": "Excessive discharge of menstrual blood; menorrhagia" },
+        { "term": "Stambhaka (Rakta)", "meaning": "Haemostatic; styptic; anti-haemorrhagic" },
+        { "term": "Raktapitta", "meaning": "Intrinsic haemorrhage due to vitiation of rakta and pitta" },
+        { "term": "Raktagulma", "meaning": "A lump formed in uterus due to accumulation of menstrual blood" },
+        { "term": "Yosidvikara", "meaning": "Gynaecological disorders" }
+      ],
+      "herb_count": 12
+    },
+
+    {
+      "id": "DIS-037",
+      "english_name": "Sterility / Infertility",
+      "sanskrit_name": "Bandhyatva",
+      "category": "Gynaecology & Reproductive Health",
+      "description": "Inability to conceive after regular unprotected intercourse; male or female reproductive failure. Related to deficient Shukra dhatu or Artava.",
+      "herbs": [
+        { "name": "Asthisamhara", "botanical": "Cissus quadrangularis" },
+        { "name": "Asvagandha", "botanical": "Withania somnifera" },
+        { "name": "Bakuci", "botanical": "Psoralea corylifolia" },
+        { "name": "Brhati (Sveta)", "botanical": "Solanum indicum var." },
+        { "name": "Dhataki", "botanical": "Woodfordia fruticosa" },
+        { "name": "Eranda", "botanical": "Ricinus communis" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Bandhyatva", "meaning": "Sterility" },
+        { "term": "Garbhasthapana", "meaning": "Promoting conception (pregnancy)" },
+        { "term": "Vajikara", "meaning": "Aphrodisiac; sexual tonic" },
+        { "term": "Shukraretas", "meaning": "Spermatogenetic" }
+      ],
+      "herb_count": 6
+    },
+
+    {
+      "id": "DIS-038",
+      "english_name": "Dysentery",
+      "sanskrit_name": "Pravahika",
+      "category": "Digestive Disorders",
+      "description": "Intestinal inflammation causing severe diarrhoea with blood and mucus, abdominal cramps and tenesmus (painful urge to defecate). Corresponds to amoebiasis and bacillary dysentery.",
+      "herbs": [
+        { "name": "Ajamoda", "botanical": "Apium graveolens" },
+        { "name": "Bakuci", "botanical": "Psoralea corylifolia" },
+        { "name": "Bhrngaraja", "botanical": "Eclipta alba" },
+        { "name": "Daruharidra", "botanical": "Berberis aristata" },
+        { "name": "Dugdhika", "botanical": "Euphorbia hirta" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Pravahika", "meaning": "Sprue (Grahani)" },
+        { "term": "Atisara", "meaning": "Diarrhoea; diarrhoeal complaints" },
+        { "term": "Grahaniroga", "meaning": "Disorders of intestinal tract; malabsorption syndrome" }
+      ],
+      "herb_count": 5
+    },
+
+    {
+      "id": "DIS-039",
+      "english_name": "Dysuria (Painful Urination)",
+      "sanskrit_name": "Mutrakriccha",
+      "category": "Urinary & Renal Disorders",
+      "description": "Painful, difficult or burning sensation during urination; may accompany UTI, urinary stones or prostatic conditions.",
+      "herbs": [
+        { "name": "Atibala", "botanical": "Abutilon indicum" },
+        { "name": "Apamarga", "botanical": "Achyranthes aspera" },
+        { "name": "Darbha", "botanical": "Desmostachya bipinnata" },
+        { "name": "Ela", "botanical": "Elettaria cardamomum" },
+        { "name": "Ervaru", "botanical": "Cucumis utilissimus" },
+        { "name": "Goksura", "botanical": "Tribulus terrestris" },
+        { "name": "Hapusa", "botanical": "Juniperus communis" },
+        { "name": "Jati", "botanical": "Jasminum officinale" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Mutrakricchrahara", "meaning": "Indicated in dysuria" },
+        { "term": "Ushnavata", "meaning": "Dysuria associated with burning sensation, yellow urine or haematuria" },
+        { "term": "Mutravirecaniya", "meaning": "Promoting increased micturition" },
+        { "term": "Baddhamutra", "meaning": "Anuria" }
+      ],
+      "herb_count": 8
+    },
+
+    {
+      "id": "DIS-040",
+      "english_name": "Ear Diseases (General)",
+      "sanskrit_name": "Karnaroga",
+      "category": "ENT Disorders",
+      "description": "Various disorders of the ear including otitis media, otitis externa, ear infections and discharge. Encompasses earache, deafness and tinnitus.",
+      "herbs": [
+        { "name": "Amlika", "botanical": "Tamarindus indica" },
+        { "name": "Apamarga", "botanical": "Achyranthes aspera" },
+        { "name": "Arka", "botanical": "Calotropis procera" },
+        { "name": "Bhurja", "botanical": "Betula utilis" },
+        { "name": "Brhati", "botanical": "Solanum indicum" },
+        { "name": "Catusparna", "botanical": "Premna corymbosa" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Karnaroga", "meaning": "Ear diseases" },
+        { "term": "Karnashoola", "meaning": "Earache; symptom or type of ear disorders" },
+        { "term": "Karnabadhirya", "meaning": "Deafness; ear disease" },
+        { "term": "Karnapuya", "meaning": "Otorrhoea; bleeding; pus formation in ear" },
+        { "term": "Karnanada", "meaning": "Tinnitus; a kind of ear disease" },
+        { "term": "Karnapidika", "meaning": "Furuncles in the ear" },
+        { "term": "Unanmantha", "meaning": "Swelling with itching in ear pinnae" }
+      ],
+      "herb_count": 6
+    },
+
+    {
+      "id": "DIS-041",
+      "english_name": "Deafness",
+      "sanskrit_name": "Karnabadhirya",
+      "category": "ENT Disorders",
+      "description": "Partial or complete loss of hearing; may be conductive or sensorineural. In Ayurveda often caused by Vata aggravation in the ear channel.",
+      "herbs": [
+        { "name": "Apamarga", "botanical": "Achyranthes aspera" },
+        { "name": "Bakuci", "botanical": "Psoralea corylifolia" },
+        { "name": "Bilva", "botanical": "Aegle marmelos" },
+        { "name": "Dasamula", "botanical": "Ten-root combination" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Karnabadhirya", "meaning": "Deafness; ear disease" },
+        { "term": "Karnanada", "meaning": "Tinnitus" },
+        { "term": "Vataghna", "meaning": "Anti-vata; indicated in diseases of nervous system" }
+      ],
+      "herb_count": 4
+    },
+
+    {
+      "id": "DIS-042",
+      "english_name": "Earache",
+      "sanskrit_name": "Karnashoola",
+      "category": "ENT Disorders",
+      "description": "Pain in the ear; may result from infection, inflammation, referred pain from teeth or jaw, or Vata vitiation in ear channels.",
+      "herbs": [
+        { "name": "Amlika", "botanical": "Tamarindus indica" },
+        { "name": "Apamarga", "botanical": "Achyranthes aspera" },
+        { "name": "Arka", "botanical": "Calotropis procera" },
+        { "name": "Bhurja", "botanical": "Betula utilis" },
+        { "name": "Brhati", "botanical": "Solanum indicum" },
+        { "name": "Ardraka", "botanical": "Zingiber officinale" },
+        { "name": "Asvattha", "botanical": "Ficus religiosa" },
+        { "name": "Devadaru", "botanical": "Cedrus deodara" },
+        { "name": "Draksa", "botanical": "Vitis vinifera" },
+        { "name": "Eranda", "botanical": "Ricinus communis" },
+        { "name": "Hingu", "botanical": "Ferula asafoetida" },
+        { "name": "Jambira", "botanical": "Citrus limon" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Karnashoola", "meaning": "Earache; symptom or type of ear disorders" },
+        { "term": "Karnapida", "meaning": "Earache; Karnarti" },
+        { "term": "Vedanasthapana", "meaning": "Analgesic; anodyne; local anaesthetic" }
+      ],
+      "herb_count": 12
+    },
+
+    {
+      "id": "DIS-043",
+      "english_name": "Otorrhoea (Ear Discharge)",
+      "sanskrit_name": "Karnapuya",
+      "category": "ENT Disorders",
+      "description": "Discharge of pus or fluid from the ear; indicates active infection or perforated eardrum.",
+      "herbs": [
+        { "name": "Dhava", "botanical": "Anogeissus latifolia" },
+        { "name": "Apamarga", "botanical": "Achyranthes aspera" },
+        { "name": "Bilva", "botanical": "Aegle marmelos" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Karnapuya", "meaning": "Otorrhoea; bleeding and pus formation in the ear" },
+        { "term": "Karnasrava", "meaning": "Ear discharge" },
+        { "term": "Dustavrana", "meaning": "Indolent, foul and sloughy ulcers" }
+      ],
+      "herb_count": 3
+    },
+
+    {
+      "id": "DIS-044",
+      "english_name": "Emaciation",
+      "sanskrit_name": "Karshya",
+      "category": "General Metabolic Disorders",
+      "description": "Excessive thinness, wasting of body mass and muscular atrophy. Caused by deficient nutrition, chronic illness or depleted Ojas (vital energy).",
+      "herbs": [
+        { "name": "Asvagandha", "botanical": "Withania somnifera" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Karshya", "meaning": "Emaciation; promoting slimming of the body" },
+        { "term": "Brnhana", "meaning": "Promoting body bulk" },
+        { "term": "Bala", "meaning": "Promoting body strength; muscular strength; tonic" },
+        { "term": "Dhatupushtikara", "meaning": "Nourishing and promoting body tissues" },
+        { "term": "Lekha", "meaning": "Aids in reducing corpulence — opposing action" }
+      ],
+      "herb_count": 1
+    },
+
+    {
+      "id": "DIS-045",
+      "english_name": "Epilepsy",
+      "sanskrit_name": "Apasmara",
+      "category": "Neurological Disorders",
+      "description": "Recurrent seizures from abnormal electrical brain activity; loss of consciousness, convulsions and post-ictal confusion. Classified as Vataja, Pittaja, Kaphaja and Sannipataja.",
+      "herbs": [
+        { "name": "Agastya", "botanical": "Sesbania grandiflora" },
+        { "name": "Brahmi", "botanical": "Bacopa monnieri" },
+        { "name": "Coraka", "botanical": "Angelica glauca" },
+        { "name": "Dasamula", "botanical": "Ten-root combination" },
+        { "name": "Jyotismati", "botanical": "Celastrus paniculatus" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Apasmara", "meaning": "Epilepsy; epileptic" },
+        { "term": "Apatantraka", "meaning": "A vatic disorder with fits of convulsions and loss of consciousness" },
+        { "term": "Unmada", "meaning": "Insanity; mental disease" },
+        { "term": "Medhya", "meaning": "Promoting memory and intellect" },
+        { "term": "Mastiskabalya", "meaning": "Brain tonic; promoting brain faculties" }
+      ],
+      "herb_count": 5
+    },
+
+    {
+      "id": "DIS-046",
+      "english_name": "Erysipelas",
+      "sanskrit_name": "Visarpa",
+      "category": "Dermatology & Skin Conditions",
+      "description": "Acute streptococcal skin infection with spreading red, swollen, warm and painful skin patches often with fever. In Ayurveda a Pitta-dominant spreading condition.",
+      "herbs": [
+        { "name": "Agnimantha", "botanical": "Premna mucronata" },
+        { "name": "Amalaki", "botanical": "Phyllanthus emblica" },
+        { "name": "Aragvadha", "botanical": "Cassia fistula" },
+        { "name": "Artagala", "botanical": "Barleria prionitis" },
+        { "name": "Asvagandha", "botanical": "Withania somnifera" },
+        { "name": "Bala", "botanical": "Sida cordifolia" },
+        { "name": "Bhurja", "botanical": "Betula utilis" },
+        { "name": "Candana", "botanical": "Santalum album" },
+        { "name": "Dadima", "botanical": "Punica granatum" },
+        { "name": "Daruharidra", "botanical": "Berberis aristata" },
+        { "name": "Dhava", "botanical": "Anogeissus latifolia" },
+        { "name": "Durva", "botanical": "Cynodon dactylon" },
+        { "name": "Gunja", "botanical": "Abrus precatorius" },
+        { "name": "Haridra", "botanical": "Curcuma longa" },
+        { "name": "Hribera", "botanical": "Pavonia odorata" },
+        { "name": "Iksu", "botanical": "Saccharum officinarum" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Visarpa", "meaning": "Erysipelas; spreading skin infection" },
+        { "term": "Granthi-Visarpa", "meaning": "Type of erysipelas causing glandular inflammation with high fever" },
+        { "term": "Jalakagardabha", "meaning": "Syndrome like erysipelas causing fever and swelling" },
+        { "term": "Varahadamstra", "meaning": "Syndrome causing skin inflammation with burning, redness and intense pain" },
+        { "term": "Dahahara", "meaning": "Refrigerant; relieving burning sensation" }
+      ],
+      "herb_count": 16
+    },
+
+    {
+      "id": "DIS-047",
+      "english_name": "Eye Diseases (General)",
+      "sanskrit_name": "Netraroga",
+      "category": "Ophthalmic Disorders",
+      "description": "Various disorders affecting the eyes including infections, inflammation, conjunctivitis, glaucoma, cataracts and visual defects. A major category in Ayurvedic Shalakya Tantra (ENT & ophthalmology).",
+      "herbs": [
+        { "name": "Artagala", "botanical": "Barleria prionitis" },
+        { "name": "Amalaki", "botanical": "Phyllanthus emblica" },
+        { "name": "Amlika", "botanical": "Tamarindus indica" },
+        { "name": "Apamarga", "botanical": "Achyranthes aspera" },
+        { "name": "Arka", "botanical": "Calotropis procera" },
+        { "name": "Babbula", "botanical": "Acacia arabica" },
+        { "name": "Bhrngaraja", "botanical": "Eclipta alba" },
+        { "name": "Bibhitaka", "botanical": "Terminalia bellirica" },
+        { "name": "Bilva", "botanical": "Aegle marmelos" },
+        { "name": "Caksusya", "botanical": "Euphrasia officinalis" },
+        { "name": "Candana", "botanical": "Santalum album" },
+        { "name": "Daruharidra", "botanical": "Berberis aristata" },
+        { "name": "Darbha", "botanical": "Desmostachya bipinnata" },
+        { "name": "Devadaru", "botanical": "Cedrus deodara" },
+        { "name": "Dronapuspi", "botanical": "Leucas aspera" },
+        { "name": "Eranda", "botanical": "Ricinus communis" },
+        { "name": "Girikarnika", "botanical": "Clitoria ternatea" },
+        { "name": "Guduchi", "botanical": "Tinospora cordifolia" },
+        { "name": "Harenuka", "botanical": "Vitex negundo" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" },
+        { "name": "Jivanti", "botanical": "Leptadenia reticulata" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Netraroga", "meaning": "Diseases of the eye; ophthalmic diseases" },
+        { "term": "Netrya", "meaning": "Beneficial to structure, function and prevention of eye ailments" },
+        { "term": "Caksushya", "meaning": "Beneficial to the eyes" },
+        { "term": "Drshtiprasadana", "meaning": "Improving and protecting vision" },
+        { "term": "Naktandhya", "meaning": "Night blindness" },
+        { "term": "Timira", "meaning": "Defects of vision; cataract" },
+        { "term": "Abhisvanda", "meaning": "Conjunctivitis" },
+        { "term": "Arma", "meaning": "Pterygium; a kind of eye disease" },
+        { "term": "Akajata", "meaning": "Staphyloma; a kind of eye disease" },
+        { "term": "Adhimantha", "meaning": "Glaucoma" },
+        { "term": "Paksmakopa", "meaning": "Entropion" },
+        { "term": "Pilla", "meaning": "Chronic eye disease resulting in watering, itching and blurred vision" }
+      ],
+      "herb_count": 21
+    },
+
+    {
+      "id": "DIS-048",
+      "english_name": "Conjunctivitis",
+      "sanskrit_name": "Abhisyanda",
+      "category": "Ophthalmic Disorders",
+      "description": "Inflammation of the conjunctiva causing redness, discharge, watering and irritation of the eye. Includes infective and allergic types.",
+      "herbs": [
+        { "name": "Danti", "botanical": "Baliospermum montanum" },
+        { "name": "Dhataki", "botanical": "Woodfordia fruticosa" },
+        { "name": "Eranda", "botanical": "Ricinus communis" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Abhisvanda", "meaning": "Conjunctivitis; a kind of eye disease" },
+        { "term": "Kukkunduraka", "meaning": "Ophthalmia neonatorum; inflammation of eye in new-born child" },
+        { "term": "Caksushya", "meaning": "Beneficial to the eyes" }
+      ],
+      "herb_count": 3
+    },
+
+    {
+      "id": "DIS-049",
+      "english_name": "Night Blindness",
+      "sanskrit_name": "Naktandhya",
+      "category": "Ophthalmic Disorders",
+      "description": "Inability to see well in dim light or darkness; often linked to Vitamin A deficiency and depleted Rasa and Rakta dhatu affecting the eyes.",
+      "herbs": [
+        { "name": "Agastya", "botanical": "Sesbania grandiflora" },
+        { "name": "Bhrngaraja", "botanical": "Eclipta alba" },
+        { "name": "Eranda", "botanical": "Ricinus communis" },
+        { "name": "Jivanti", "botanical": "Leptadenia reticulata" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Naktandhya", "meaning": "Night blindness" },
+        { "term": "Timira", "meaning": "Defects of vision; cataract" },
+        { "term": "Netrya", "meaning": "Beneficial to structure, function and prevention of eye ailments" }
+      ],
+      "herb_count": 4
+    },
+
+    {
+      "id": "DIS-050",
+      "english_name": "Fainting",
+      "sanskrit_name": "Murcha",
+      "category": "Neurological & Cardiovascular Disorders",
+      "description": "Transient loss of consciousness (syncope) from cardiac, neurological or metabolic causes. In Ayurveda caused by diminished Ojas and Pitta accumulation in Hridaya (heart).",
+      "herbs": [
+        { "name": "Amalaki", "botanical": "Phyllanthus emblica" },
+        { "name": "Ardraka", "botanical": "Zingiber officinale" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Murcha", "meaning": "Spells of fainting" },
+        { "term": "Bodhana", "meaning": "Awakening or arousing" },
+        { "term": "Hridya", "meaning": "Cardial; cardiac tonic" }
+      ],
+      "herb_count": 3
+    },
+
+    {
+      "id": "DIS-051",
+      "english_name": "Fever",
+      "sanskrit_name": "Jvara",
+      "category": "Febrile & Infectious Disorders",
+      "description": "Elevated body temperature above normal as the body's immune response to infection or inflammation. The most common disease in Ayurveda; classified into many types including Vataja, Pittaja, Kaphaja, Sannipataja and exogenous (agantuja) fevers.",
+      "herbs": [
+        { "name": "Agastya", "botanical": "Sesbania grandiflora" },
+        { "name": "Amalaki", "botanical": "Phyllanthus emblica" },
+        { "name": "Amra", "botanical": "Mangifera indica" },
+        { "name": "Aragvadha", "botanical": "Cassia fistula" },
+        { "name": "Ardraka", "botanical": "Zingiber officinale" },
+        { "name": "Bilva", "botanical": "Aegle marmelos" },
+        { "name": "Brhati", "botanical": "Solanum indicum" },
+        { "name": "Dadima", "botanical": "Punica granatum" },
+        { "name": "Darbha", "botanical": "Desmostachya bipinnata" },
+        { "name": "Dasamula", "botanical": "Ten-root combination" },
+        { "name": "Devadaru", "botanical": "Cedrus deodara" },
+        { "name": "Dhanvana", "botanical": "Grewia tiliaefolia" },
+        { "name": "Dhanyaka", "botanical": "Coriandrum sativum" },
+        { "name": "Dhattura", "botanical": "Datura stramonium" },
+        { "name": "Draksa", "botanical": "Vitis vinifera" },
+        { "name": "Eranda", "botanical": "Ricinus communis" },
+        { "name": "Guduchi", "botanical": "Tinospora cordifolia" },
+        { "name": "Harenuka", "botanical": "Vitex negundo" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" },
+        { "name": "Hribera", "botanical": "Pavonia odorata" },
+        { "name": "Jimuta", "botanical": "Luffa echinata" },
+        { "name": "Jiraka", "botanical": "Cuminum cyminum" },
+        { "name": "Jivanti", "botanical": "Leptadenia reticulata" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Jvara", "meaning": "Fever" },
+        { "term": "Jvaraghna", "meaning": "Antipyretic; antiperiodic; febrifuge" },
+        { "term": "Jirnajvara", "meaning": "Chronic fever" },
+        { "term": "Caturthika / Visamajvara", "meaning": "Malarial periodic / quartan fever" }
+      ],
+      "herb_count": 23
+    },
+
+    {
+      "id": "DIS-052",
+      "english_name": "Chronic Fever",
+      "sanskrit_name": "Jirnajvara",
+      "category": "Febrile & Infectious Disorders",
+      "description": "Persistent or recurring fever lasting more than two weeks; associated with debility, depleted Ojas and chronic infections or inflammatory states.",
+      "herbs": [
+        { "name": "Guduchi", "botanical": "Tinospora cordifolia" },
+        { "name": "Dasamula", "botanical": "Ten-root combination" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Jirnajvara", "meaning": "Chronic fever" },
+        { "term": "Jvaraghna", "meaning": "Antipyretic; antiperiodic; febrifuge" },
+        { "term": "Rasayana", "meaning": "Alterative; restorative; rejuvenation" }
+      ],
+      "herb_count": 2
+    },
+
+    {
+      "id": "DIS-053",
+      "english_name": "Malarial Fever",
+      "sanskrit_name": "Visamajvara",
+      "category": "Febrile & Infectious Disorders",
+      "description": "Intermittent fever caused by Plasmodium parasite transmitted by mosquito; periodic chills, rigors, high temperature and profuse sweating. Corresponds to Caturthika (quartan) and other periodic fevers.",
+      "herbs": [
+        { "name": "Ajagandha", "botanical": "Cleome viscosa" },
+        { "name": "Bhallataka", "botanical": "Semecarpus anacardium" },
+        { "name": "Bharangi", "botanical": "Clerodendrum serratum" },
+        { "name": "Bhustrana", "botanical": "Cymbopogon martinii" },
+        { "name": "Coraka", "botanical": "Angelica glauca" },
+        { "name": "Dronapuspi", "botanical": "Leucas aspera" },
+        { "name": "Guduchi", "botanical": "Tinospora cordifolia" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" },
+        { "name": "Hingu", "botanical": "Ferula asafoetida" },
+        { "name": "Jiraka-Sveta", "botanical": "Cuminum cyminum (white)" },
+        { "name": "Jiraka-Krsna", "botanical": "Carum carvi (black)" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Caturthika / Visamajvara", "meaning": "Malarial periodic / quartan fever" },
+        { "term": "Jvaraghna", "meaning": "Antipyretic; antiperiodic; febrifuge" }
+      ],
+      "herb_count": 11
+    },
+
+    {
+      "id": "DIS-054",
+      "english_name": "Filariasis",
+      "sanskrit_name": "Shlipada",
+      "category": "Parasitic & Infectious Disorders",
+      "description": "Parasitic disease caused by filarial worms causing lymphatic obstruction, progressive limb swelling and elephantiasis. Lymphoedema from worm invasion of lymphatic vessels.",
+      "herbs": [
+        { "name": "Arka", "botanical": "Calotropis procera" },
+        { "name": "Asana", "botanical": "Pterocarpus marsupium" },
+        { "name": "Bakuci", "botanical": "Psoralea corylifolia" },
+        { "name": "Bala", "botanical": "Sida cordifolia" },
+        { "name": "Citraka", "botanical": "Plumbago zeylanica" },
+        { "name": "Devadaru", "botanical": "Cedrus deodara" },
+        { "name": "Dhattura", "botanical": "Datura stramonium" },
+        { "name": "Eranda", "botanical": "Ricinus communis" },
+        { "name": "Guduchi", "botanical": "Tinospora cordifolia" },
+        { "name": "Haridra", "botanical": "Curcuma longa" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Jantughna", "meaning": "Anthelmintic; vermifuge; anti-microbial; antiparasitic; disinfectant" },
+        { "term": "Krmighna", "meaning": "Anthelmintic" },
+        { "term": "Shotha", "meaning": "Oedema; swelling; inflammation" }
+      ],
+      "herb_count": 11
+    },
+
+    {
+      "id": "DIS-055",
+      "english_name": "Fistula-in-ano",
+      "sanskrit_name": "Bhagandara",
+      "category": "Surgical & Ano-rectal Disorders",
+      "description": "Abnormal tunnel connecting the anal canal to surrounding skin; usually follows anorectal abscess and causes chronic infection and discharge.",
+      "herbs": [
+        { "name": "Guggulu", "botanical": "Commiphora mukul" },
+        { "name": "Haridra", "botanical": "Curcuma longa" },
+        { "name": "Jati", "botanical": "Jasminum officinale" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Bhagandara", "meaning": "Fistula-in-ano" },
+        { "term": "Nadivrana", "meaning": "Sinus or Fistula" },
+        { "term": "Gudaroga", "meaning": "Rectal ailments; proctological disorders" }
+      ],
+      "herb_count": 3
+    },
+
+    {
+      "id": "DIS-056",
+      "english_name": "Flatulence",
+      "sanskrit_name": "Adhmana",
+      "category": "Digestive Disorders",
+      "description": "Accumulation of gas in digestive tract causing abdominal distension, discomfort, rumbling and belching. Classic Vata disorder in the digestive system.",
+      "herbs": [
+        { "name": "Ajamoda", "botanical": "Apium graveolens" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" },
+        { "name": "Hingu", "botanical": "Ferula asafoetida" },
+        { "name": "Jiraka", "botanical": "Cuminum cyminum" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Adhmana", "meaning": "Disorder with excessive gas in stomach; vitiation of Vata" },
+        { "term": "Adhmanakara", "meaning": "Causing flatulence; abdominal abnormal condition" },
+        { "term": "Anaha", "meaning": "Stages of Adhmana; hardness in abdomen caused by wind in bowels" },
+        { "term": "Anulomana", "meaning": "Regulating bowel function; carminative" }
+      ],
+      "herb_count": 4
+    },
+
+    {
+      "id": "DIS-057",
+      "english_name": "Fracture (Bone)",
+      "sanskrit_name": "Asthibhagna",
+      "category": "Surgical & Trauma Conditions",
+      "description": "Break or crack in a bone from trauma, stress or pathological weakening. Ayurvedic treatment focuses on bone union and Asthi dhatu (bone tissue) regeneration.",
+      "herbs": [
+        { "name": "Amlika", "botanical": "Tamarindus indica" },
+        { "name": "Arjuna", "botanical": "Terminalia arjuna" },
+        { "name": "Asthisamhara", "botanical": "Cissus quadrangularis" },
+        { "name": "Asvattha", "botanical": "Ficus religiosa" },
+        { "name": "Dhataki", "botanical": "Woodfordia fruticosa" },
+        { "name": "Godhuma", "botanical": "Triticum aestivum" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Asthibhagna", "meaning": "Bone fracture" },
+        { "term": "Asthisandhatiya", "meaning": "Promoting healing of bone fractures" },
+        { "term": "Kikkisa", "meaning": "Stria gravidarum" }
+      ],
+      "herb_count": 6
+    },
+
+    {
+      "id": "DIS-058",
+      "english_name": "Galactogogue (Milk Promotion)",
+      "sanskrit_name": "Stanyajanana",
+      "category": "Gynaecology & Lactation",
+      "description": "Substances that promote or increase breast milk production in nursing mothers. Vital postpartum therapeutic in Ayurveda.",
+      "herbs": [
+        { "name": "Darbha", "botanical": "Desmostachya bipinnata" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Stanyajanana", "meaning": "Galactogogue" },
+        { "term": "Stanyashodhana", "meaning": "Galactodepurant; purifying breast milk" }
+      ],
+      "herb_count": 1
+    },
+
+    {
+      "id": "DIS-059",
+      "english_name": "Galactodepurant (Milk Purification)",
+      "sanskrit_name": "Stanyashodhana",
+      "category": "Gynaecology & Lactation",
+      "description": "Substances that purify or improve the quality of breast milk. Important in Ayurvedic paediatric care (Kaumarabhritya).",
+      "herbs": [
+        { "name": "Ajamoda", "botanical": "Apium graveolens" },
+        { "name": "Dasamula", "botanical": "Ten-root combination" },
+        { "name": "Guduchi", "botanical": "Tinospora cordifolia" },
+        { "name": "Haritaki", "botanical": "Terminalia chebula" },
+        { "name": "Jivakadyagana", "botanical": "Jivaka group of herbs" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Stanyashodhana", "meaning": "Galactodepurant; purifying breast milk" },
+        { "term": "Stanyajanana", "meaning": "Galactogogue" }
+      ],
+      "herb_count": 5
+    },
+
+    {
+      "id": "DIS-060",
+      "english_name": "Goitre",
+      "sanskrit_name": "Galaganda",
+      "category": "Endocrine Disorders",
+      "description": "Abnormal enlargement of the thyroid gland presenting as visible swelling at base of neck; may be diffuse or nodular. Related to Kapha and Vata vitiation causing glandular swelling.",
+      "herbs": [
+        { "name": "Ajagandha", "botanical": "Cleome viscosa" },
+        { "name": "Bala", "botanical": "Sida cordifolia" },
+        { "name": "Bharangi", "botanical": "Clerodendrum serratum" },
+        { "name": "Devadaru", "botanical": "Cedrus deodara" },
+        { "name": "Girikarnika", "botanical": "Clitoria ternatea" },
+        { "name": "Hamsapadi", "botanical": "Adiantum lunulatum" },
+        { "name": "Hastikarna", "botanical": "Dipterocarpus turbinatus" },
+        { "name": "Jalakumbhi", "botanical": "Pistia stratiotes" }
+      ],
+      "associated_sanskrit_terms": [
+        { "term": "Galaganda", "meaning": "Goitre; disease of thyroid gland" },
+        { "term": "Gandamala", "meaning": "Cervical adenitis; chain of swollen glands in neck" },
+        { "term": "Granthiroga", "meaning": "Glandular enlargement, swelling and other symptoms" }
+      ],
+      "herb_count": 8
+    }
+
+  ],
+
+  "part1_summary": {
+    "diseases_covered": 60,
+    "disease_range": "DIS-001 to DIS-060",
+    "alphabetical_range": "A (Abortifacient) to G (Goitre)",
+    "next_part": "Part 2 covers DIS-061 to DIS-120 (Gonorrhoea to Worms)",
+    "categories_in_this_part": [
+      "Gynaecology & Obstetrics",
+      "Surgical & Inflammatory Conditions",
+      "Digestive Disorders",
+      "Toxicology & Addiction",
+      "Dermatology & Hair Disorders",
+      "Musculoskeletal & Joint Disorders",
+      "Haematological Disorders",
+      "Lymphatic & Glandular Disorders",
+      "Reproductive & Sexual Health",
+      "Respiratory Disorders",
+      "Respiratory & ENT Disorders",
+      "ENT & Oral Diseases",
+      "Urinary & Renal Disorders",
+      "Cardiovascular & Chest Disorders",
+      "Symptomatic Conditions",
+      "Gynaecology & Reproductive Health",
+      "ENT Disorders",
+      "Neurological Disorders",
+      "Ophthalmic Disorders",
+      "Febrile & Infectious Disorders",
+      "Parasitic & Infectious Disorders",
+      "Ano-rectal Disorders",
+      "General Metabolic Disorders",
+      "Endocrine Disorders",
+      "Gynaecology & Lactation",
+      "Oncology & Neoplastic Conditions"
+    ]
+  }
+}

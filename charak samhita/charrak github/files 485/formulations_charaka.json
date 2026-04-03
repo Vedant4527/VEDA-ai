@@ -1,0 +1,993 @@
+{
+  "formulations": [
+    {
+      "id": "form_001",
+      "name": "Ashtanga Lavana",
+      "type": "Churna (Powder)",
+      "ingredients": [
+        {
+          "herb_name": "Sauvarcala (Black rock salt)",
+          "quantity": "1 part",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Jiraka (Cuminum cyminum)",
+          "quantity": "1 part",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Vrikshamla (Garcinia indica)",
+          "quantity": "1 part",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Amlavetasa (Garcinia pedunculata)",
+          "quantity": "1 part",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Twak (Cinnamomum zeylanicum)",
+          "quantity": "half part",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Ela (Elettaria cardamomum)",
+          "quantity": "half part",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Marica (Piper nigrum)",
+          "quantity": "half part",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Sharkara (Sugar)",
+          "quantity": "1 part",
+          "form": "powder"
+        }
+      ],
+      "preparation_method": "All drugs are powdered and mixed together",
+      "indications": [
+        "Kaphaja Madatyaya (Kaphaja Alcoholism)",
+        "Appetiser",
+        "Cleanser of channels"
+      ],
+      "dosage": "",
+      "anupana": "Sweet and sour juices; used as adjuvant to preparations of wheat and barley and meat",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXIV",
+        "verse": "164-188"
+      }
+    },
+    {
+      "id": "form_002",
+      "name": "Anu Taila",
+      "type": "Taila (Medicated Oil - Nasal)",
+      "ingredients": [
+        {
+          "herb_name": "Tila (Sesamum indicum) seeds",
+          "quantity": "base quantity",
+          "form": "impregnated with goat's milk, pounded"
+        },
+        {
+          "herb_name": "Madhuka (Glycyrrhiza glabra)",
+          "quantity": "",
+          "form": "powder added after pressing"
+        },
+        {
+          "herb_name": "Dashamula (Ten roots decoction)",
+          "quantity": "",
+          "form": "decoction for cooking oil"
+        },
+        {
+          "herb_name": "Rasna (Pluchea lanceolata)",
+          "quantity": "",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Saindhava (Rock salt)",
+          "quantity": "",
+          "form": "added at end"
+        }
+      ],
+      "preparation_method": "Sesamum seeds impregnated with goat's milk, pounded with same milk. Paste heated on mild fire, mixed with madhuka powder, pressed to extract oil. Oil cooked with decoction of dashamula with paste of rasna and madhuka. Saindhava salt added at end. Process repeated ten times.",
+      "indications": [
+        "Vatika Pinasa (Vatika Coryza)",
+        "Dryness of nasal passage",
+        "Dryness of sphgataka and eye"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI",
+        "verse": "127-136"
+      }
+    },
+    {
+      "id": "form_003",
+      "name": "Mayura Ghrita",
+      "type": "Ghrita (Medicated Ghee)",
+      "ingredients": [
+        {
+          "herb_name": "Peacock (without feathers, bile, intestines, faeces, beak, feet)",
+          "quantity": "",
+          "form": "decocted in water with dashamula and other drugs"
+        },
+        {
+          "herb_name": "Dashamula (Ten roots)",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Bala (Sida cordifolia)",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Rasna (Pluchea lanceolata)",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Triphala (Haritaki + Bibhitaka + Amalaka)",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Madhuka (Glycyrrhiza glabra)",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Ghee",
+          "quantity": "640 gm",
+          "form": "base"
+        },
+        {
+          "herb_name": "Milk",
+          "quantity": "equal to ghee",
+          "form": "liquid"
+        },
+        {
+          "herb_name": "Vitaliser drugs (Jivaka, Rishabhaka etc.)",
+          "quantity": "10 gm each",
+          "form": "paste"
+        }
+      ],
+      "preparation_method": "Peacock decocted with dashamula, bala, rasna, triphala and madhuka. Ghee 640 gm cooked with equal milk and paste of vitaliser drugs 10 gm each.",
+      "indications": [
+        "Head diseases",
+        "Facial paralysis",
+        "Diseases of ear, eye, nose, tongue, palate, mouth, throat",
+        "Supraclavicular disorders"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI",
+        "verse": "151-158"
+      }
+    },
+    {
+      "id": "form_004",
+      "name": "Mahamayura Ghrita",
+      "type": "Ghrita (Medicated Ghee)",
+      "ingredients": [
+        {
+          "herb_name": "Same decoction base as Mayura Ghrita",
+          "quantity": "",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Ghee",
+          "quantity": "640 gm",
+          "form": "base"
+        },
+        {
+          "herb_name": "Milk",
+          "quantity": "four times ghee",
+          "form": "liquid"
+        },
+        {
+          "herb_name": "Jivanti (Leptadenia reticulata)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Triphala",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Meda (Polygonatum cirrhifolium)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Mridvika / Draksha (Vitis vinifera)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Riddhi (Habenaria intermedia)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Parushaka (Grewia asiatica)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Samanga (Mimosa pudica)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Chavika (Piper chaba)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Bhargi (Clerodendrum serratum)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Devadaru (Cedrus deodara)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Kapikacchu (Mucuna pruriens)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Mahameda (Polygonatum verticillatum)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Shatavari (Asparagus racemosus)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Vidari (Pueraria tuberosa)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Iksu (Saccharum officinarum)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Gokshura (Tribulus terrestris)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Rishabhaka (Microstylis muscifera)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Shringataka (Trapa bispinosa)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Kasheruka (Scirpus kysoor)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Rasna (Pluchea lanceolata)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Salaparni (Desmodium gangeticum)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Tamalaki (Phyllanthus niruri)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Sukshmaila (Elettaria cardamomum)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Shati (Hedychium spicatum)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Pushkaramula (Inula racemosa)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Punarnava (Boerhavia diffusa)",
+          "quantity": "10 gm",
+          "form": "paste"
+        },
+        {
+          "herb_name": "Kakoli (Fritillaria roylei)",
+          "quantity": "10 gm",
+          "form": "paste"
+        }
+      ],
+      "preparation_method": "With the same decoction base as Mayura Ghrita, ghee 640 gm cooked with four times milk and paste of 10 gm each of the listed drugs. Used as snuff, intake, massage and enema.",
+      "indications": [
+        "All head diseases",
+        "Severe cough and dyspnoea",
+        "Stiffness of neck and back",
+        "Emaciation",
+        "Hoarseness of voice",
+        "Facial paralysis",
+        "Defects of vaginal track",
+        "Menstruation defects",
+        "Semen defects",
+        "Sterility in women"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI",
+        "verse": "159-168"
+      }
+    },
+    {
+      "id": "form_005",
+      "name": "Khadiradi Gutika",
+      "type": "Gutika (Pills / Tablets)",
+      "ingredients": [
+        {
+          "herb_name": "Khadira (Acacia catechu) heartwood",
+          "quantity": "4 kg",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Arimeda (Acacia arabica) heartwood",
+          "quantity": "8 kg",
+          "form": "decoction"
+        },
+        {
+          "herb_name": "Chandana (Santalum album)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Padmaka (Prunus cerasoides)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Usira (Vetiveria zizanioides)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Manjistha (Rubia cordifolia)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Dhataki (Woodfordia fruticosa)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Musta (Cyperus rotundus)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Prapaundarika (Nelumbo nucifera)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Yasti (Glycyrrhiza glabra)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Twak (Cinnamomum zeylanicum)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Ela (Elettaria cardamomum)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Kamalakeshara (Nelumbo nucifera stamen)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Lac",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Rasanjana (Berberis aristata extract)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Mamsi (Nardostachys jatamansi)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Lodhra (Symplocos racemosa)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Balaka (Pavonia odorata)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Haridra (Curcuma longa)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Daruharidra (Berberis aristata)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Priyanghu (Callicarpa macrophylla)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Vacha (Acorus calamus)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Yavasa (Alhagi pseudalhagi)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Aguru (Aquilaria agallocha)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Pattanga (Caesalpinia sappan)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Gairika (Red ochre)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Anjana (Antimony)",
+          "quantity": "10 gm",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Lavanga (Syzygium aromaticum)",
+          "quantity": "40 gm",
+          "form": "added after cooling"
+        },
+        {
+          "herb_name": "Nakha (Unguis odoratus)",
+          "quantity": "40 gm",
+          "form": "added after cooling"
+        },
+        {
+          "herb_name": "Kakkola (Piper cubeba)",
+          "quantity": "40 gm",
+          "form": "added after cooling"
+        },
+        {
+          "herb_name": "Jatikosa (Myristica fragrans)",
+          "quantity": "40 gm",
+          "form": "added after cooling"
+        },
+        {
+          "herb_name": "Camphor (Cinnamomum camphora)",
+          "quantity": "160 gm",
+          "form": "added after cooling"
+        }
+      ],
+      "preparation_method": "Khadira 4 kg and arimeda 8 kg washed and disintegrated, cooked in water 40.96 litres until reduced to 10.24 litres. Strained and again heated slowly until thickened. Then powders of listed drugs 10 gm each added. Brought down and cooled. Lavanga, nakha, kakkola, jatikosa 40 gm each and camphor 160 gm added. Pills made and dried.",
+      "indications": [
+        "Looseness, displacement, caries and organisms of teeth",
+        "Stomatitis",
+        "Foul smell from mouth",
+        "Stiffness of mouth",
+        "Anorexia",
+        "Discharge and coating in mouth",
+        "Sliminess",
+        "Abnormal voice",
+        "Dryness of throat",
+        "All diseases of teeth, mouth and throat"
+      ],
+      "dosage": "Kept in mouth",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI",
+        "verse": "199-207"
+      }
+    },
+    {
+      "id": "form_006",
+      "name": "Khadiradi Taila",
+      "type": "Taila (Medicated Oil)",
+      "ingredients": [
+        {
+          "herb_name": "Same decoction and paste as Khadiradi Gutika",
+          "quantity": "",
+          "form": "decoction + paste"
+        }
+      ],
+      "preparation_method": "Oil prepared with the decoction and paste of all the drugs used in Khadiradi Gutika.",
+      "indications": [
+        "All diseases of teeth, mouth and throat",
+        "Same as Khadiradi Gutika"
+      ],
+      "dosage": "",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI",
+        "verse": "199-207"
+      }
+    },
+    {
+      "id": "form_007",
+      "name": "Kalaka Churna",
+      "type": "Churna (Powder)",
+      "ingredients": [
+        {
+          "herb_name": "Soot (Kajjali)",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Yavakshara",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Patha (Cissampelos pareira)",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Trikatu (Pippali + Sunthi + Marica)",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Rasanjana (Berberis aristata extract)",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Tejohva (Zanthoxylum armatum)",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Triphala",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Lodhra (Symplocos racemosa)",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Chitraka (Plumbago zeylanica)",
+          "quantity": "equal parts",
+          "form": "powder"
+        }
+      ],
+      "preparation_method": "All drugs powdered and mixed. Powder mixed with honey.",
+      "indications": [
+        "Throat disorders",
+        "Diseases of teeth, mouth and throat"
+      ],
+      "dosage": "Kept in mouth",
+      "anupana": "Mixed with honey",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI",
+        "verse": "180-198"
+      }
+    },
+    {
+      "id": "form_008",
+      "name": "Pitaka Churna",
+      "type": "Churna (Powder)",
+      "ingredients": [
+        {
+          "herb_name": "Realgar (Manahshila)",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Yavakshara",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Orpiment (Haritala)",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Rock salt (Saindhava)",
+          "quantity": "equal parts",
+          "form": "powder"
+        },
+        {
+          "herb_name": "Daruharidra (Berberis aristata) bark",
+          "quantity": "equal parts",
+          "form": "powder"
+        }
+      ],
+      "preparation_method": "All drugs powdered and mixed. Mixed with honey and suspended in ghee-scum.",
+      "indications": [
+        "Diseases of throat and mouth"
+      ],
+      "dosage": "Kept in mouth",
+      "anupana": "Mixed with honey, suspended in ghee-scum",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI",
+        "verse": "180-198"
+      }
+    },
+    {
+      "id": "form_009",
+      "name": "Mahanila Taila",
+      "type": "Taila (Medicated Oil)",
+      "ingredients": [
+        {
+          "herb_name": "Adityavalli root",
+          "quantity": "400 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Black Saireyaka root",
+          "quantity": "400 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Surasa (Ocimum sanctum) leaves",
+          "quantity": "400 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Black Shana leaves",
+          "quantity": "400 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Bhringaraja (Eclipta alba)",
+          "quantity": "400 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Kakamachi (Solanum nigrum)",
+          "quantity": "400 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Madhuka (Glycyrrhiza glabra)",
+          "quantity": "400 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Devadaru (Cedrus deodara)",
+          "quantity": "400 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Pippali (Piper longum)",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Triphala",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Anjana (Antimony)",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Prapaundarika (Nelumbo nucifera)",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Manjistha (Rubia cordifolia)",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Lodhra (Symplocos racemosa)",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Black Aguru (Aquilaria agallocha)",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Water lily (Nymphaea)",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Mango seeds",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Black mud",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Lotus stalk",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Red Chandana (Pterocarpus santalinus)",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Nili (Indigofera tinctoria)",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Bhallataka (Semecarpus anacardium) nuts",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Kasisa (Iron sulphate)",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Madayantika (Lawsonia inermis)",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Somaraji (Psoralea corylifolia)",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Asana (Pterocarpus marsupium)",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Shastra (Iron powder)",
+          "quantity": "200 gm",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Bibhitaka (Terminalia bellirica) oil",
+          "quantity": "2.56 gm",
+          "form": "oil base"
+        },
+        {
+          "herb_name": "Amalaka (Emblica officinalis) juice",
+          "quantity": "four times bibhitaka oil",
+          "form": "juice"
+        }
+      ],
+      "preparation_method": "All drugs pounded. Oil of bibhitaka with four times amalaka juice cooked on fire or heated in sun with paste until liquid is dried up. Filtered and stored in iron vessel.",
+      "indications": [
+        "All diseases of head",
+        "Greying of hair",
+        "Eye diseases",
+        "Life-span promotion"
+      ],
+      "dosage": "Used as intake, snuff and head-massage",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI",
+        "verse": "256-276"
+      }
+    },
+    {
+      "id": "form_010",
+      "name": "Sukhavati Varti",
+      "type": "Varti (Collyrium Stick)",
+      "ingredients": [
+        {
+          "herb_name": "Kataka (Strychnos potatorum) fruit",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Conch (Shankha)",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Rock salt (Saindhava)",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Trikatu",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Sarkara (Sugar)",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Samudraphena (Sepia officinalis)",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Rasanjana (Berberis aristata extract)",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Honey",
+          "quantity": "",
+          "form": "binding"
+        },
+        {
+          "herb_name": "Vidanga (Embelia ribes)",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Realgar (Manahshila)",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Crust of hen's egg",
+          "quantity": "",
+          "form": "pounded"
+        }
+      ],
+      "preparation_method": "All drugs pounded together and made into stick.",
+      "indications": [
+        "Blurred vision",
+        "Patala (covering on eye)",
+        "Cataract",
+        "Dirt in eye"
+      ],
+      "dosage": "Applied to eye as paste (after rubbing stick)",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI",
+        "verse": "224-255"
+      }
+    },
+    {
+      "id": "form_011",
+      "name": "Drishtiprada Varti",
+      "type": "Varti (Collyrium Stick)",
+      "ingredients": [
+        {
+          "herb_name": "Triphala",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Crust of hen's egg",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Kasisa (Iron sulphate)",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Iron powder",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Nilotpala (Nymphaea stellata)",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Vidanga (Embelia ribes)",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Samudraphena (Sepia officinalis)",
+          "quantity": "",
+          "form": "pounded"
+        },
+        {
+          "herb_name": "Goat's milk",
+          "quantity": "",
+          "form": "liquid for pounding and impregnation"
+        }
+      ],
+      "preparation_method": "All drugs pounded with goat's milk and impregnated with the same in a copper vessel for a week. Again pounded with goat's milk and made into stick.",
+      "indications": [
+        "Blindness with completely closed pupils",
+        "Revives vision"
+      ],
+      "dosage": "Applied to eyes",
+      "anupana": "",
+      "contraindications": [],
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Chikitsasthana",
+        "chapter": "XXVI",
+        "verse": "224-255"
+      }
+    }
+  ]
+}

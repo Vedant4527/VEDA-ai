@@ -1,0 +1,850 @@
+{
+  "mappings": [
+    {
+      "disease_id": "disease_017",
+      "disease_name": "Vataja Atisara (Diarrhoea caused by Vata)",
+      "herbs": [
+        {
+          "herb_name": "pippali",
+          "role": "primary — decoction group 1",
+          "dosage_specific": "",
+          "anupana": "rice water",
+          "duration": ""
+        },
+        {
+          "herb_name": "sunthi",
+          "role": "primary — decoction group 1 and 2",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "dhanyaka",
+          "role": "primary — decoction group 1",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "bhutika",
+          "role": "primary — decoction group 1",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "haritaki",
+          "role": "primary — decoction group 1; also to induce stool in amatisara",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "vaca",
+          "role": "primary — decoction group 1; also boiled water group 1",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "hribera",
+          "role": "primary — decoction group 2",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "bhadramusta",
+          "role": "primary — decoction group 2",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "bilva",
+          "role": "primary — decoction group 2; also enema",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "prshniparni",
+          "role": "primary — decoction group 3",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "goksura",
+          "role": "primary — decoction group 3",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "lajjalu",
+          "role": "primary — decoction group 3",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "kantakari",
+          "role": "primary — decoction group 3",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "prativisha",
+          "role": "primary — boiled water group 1",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "musta",
+          "role": "primary — boiled water group 2",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "parpataka",
+          "role": "primary — boiled water group 2",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "salaparni",
+          "role": "adjunct group — food and drink drugs",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "bala",
+          "role": "adjunct — food and drink drugs",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "hingu",
+          "role": "adjunct — food and drink drugs",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "jiraka",
+          "role": "adjunct — food and drink drugs",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "vrksamla",
+          "role": "adjunct — food and drink drugs",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "sour pomegranate",
+          "role": "adjunct — food and drink drugs",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Vatika-specific decoctions (3 groups)", "Unctuous enema of dasamula and bilva", "Dasamula vata-alleviating formulations"],
+      "pathya": {
+        "diet_include": ["buttermilk", "sour gruel", "saturating drinks", "wine", "gruel", "paste gruel", "khada", "soups", "rice with meat-soup with appetisers and astringents", "soup of radish and badara (after ama is digested)", "vegetables of upodika, ksirini, yavani, vastuka", "curd with pomegranates", "sali rice with bilva and yamaka", "meat-soup of peacock, partridge, cock and quail"],
+        "diet_avoid": ["rough food", "deficient food", "sharp irritants", "wine (causative)", "cold and dry foods"],
+        "lifestyle_follow": ["vata-alleviating measures", "psychotherapeutic measures (exhilaration, consolation) if fear/anxiety-related", "unctuous enema when prolapse occurs"],
+        "lifestyle_avoid": ["excessive wind exposure", "excessive sun exposure", "excessive exercise", "suppression of urges", "sexual intercourse (excessive)"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XIX"
+      }
+    },
+    {
+      "disease_id": "disease_018",
+      "disease_name": "Pittaja Atisara (Diarrhoea caused by Pitta)",
+      "herbs": [
+        {
+          "herb_name": "musta",
+          "role": "primary — cooling water preparation",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "parpataka",
+          "role": "primary — cooling water preparation",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "usira",
+          "role": "primary — cooling water preparation",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "sariva",
+          "role": "primary — cooling water preparation",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "candana",
+          "role": "primary — cooling water preparation",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "kiratatiktaka",
+          "role": "primary — cooling water preparation",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "udicya",
+          "role": "primary — cooling water preparation",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "kutaja (seeds and bark)",
+          "role": "primary — with ativisha",
+          "dosage_specific": "seeds 40 gm decoction",
+          "anupana": "honey with rice water",
+          "duration": ""
+        },
+        {
+          "herb_name": "ativisha",
+          "role": "primary — with kutaja",
+          "dosage_specific": "",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "rasanjana",
+          "role": "primary — formulation group 1",
+          "dosage_specific": "",
+          "anupana": "honey and rice water",
+          "duration": ""
+        },
+        {
+          "herb_name": "daruharidra bark",
+          "role": "primary — formulation group 2",
+          "dosage_specific": "",
+          "anupana": "honey and rice water",
+          "duration": ""
+        },
+        {
+          "herb_name": "duralabha",
+          "role": "primary — formulation group 2",
+          "dosage_specific": "",
+          "anupana": "honey and rice water",
+          "duration": ""
+        },
+        {
+          "herb_name": "lodhra",
+          "role": "primary — formulation group 3",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "utpala",
+          "role": "primary — formulation group 3",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "mocarasa",
+          "role": "primary — formulation group 4",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "katphala",
+          "role": "primary — formulation group 6",
+          "dosage_specific": "",
+          "anupana": "honey and rice water",
+          "duration": ""
+        },
+        {
+          "herb_name": "palasa seeds",
+          "role": "evacuative (in milk)",
+          "dosage_specific": "decoction",
+          "anupana": "warm milk after",
+          "duration": ""
+        },
+        {
+          "herb_name": "satavari",
+          "role": "primary — for bloody diarrhoea (raktatisara)",
+          "dosage_specific": "paste or ghee cooked",
+          "anupana": "milk diet",
+          "duration": ""
+        },
+        {
+          "herb_name": "nilotpala",
+          "role": "supportive — for raktatisara",
+          "dosage_specific": "",
+          "anupana": "goat's milk",
+          "duration": ""
+        },
+        {
+          "herb_name": "priyanguka",
+          "role": "haemostatic — for raktatisara",
+          "dosage_specific": "paste",
+          "anupana": "honey then rice water",
+          "duration": ""
+        },
+        {
+          "herb_name": "black sesamum",
+          "role": "haemostatic",
+          "dosage_specific": "with one-fifth sugar",
+          "anupana": "goat's milk",
+          "duration": ""
+        },
+        {
+          "herb_name": "candana",
+          "role": "supportive — for thirst and burning",
+          "dosage_specific": "with sugar and honey",
+          "anupana": "rice water",
+          "duration": ""
+        },
+        {
+          "herb_name": "kutaja seeds (indrayava)",
+          "role": "primary — 40 gm decoction",
+          "dosage_specific": "40 gm",
+          "anupana": "meat-soup diet",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Piccha Basti (Slimy Enema)", "Satavari Ghrta", "Kutaja Ghrta (Sixfold)", "Nyagrodha Ghee Preparation"],
+      "pathya": {
+        "diet_include": ["goat's milk cooked with honey and sugar (food, drink and anal washing)", "boiled red sali rice with above milk", "meat-soup of pigeon fried in ghee with sugar", "food with meat-soup of cold wild rabbits, birds, animals with ghee and sugar", "blood of deer or goat fried in ghee", "soup of kasmarya fruit with sugar", "milk diet", "meat-soup of grey partridge", "astringent meat-soups (after drug digestion)", "water boiled with cooling herbs (musta, parpataka, usira etc.)"],
+        "diet_avoid": ["sour substances", "salty substances", "pungent substances", "alkaline substances", "hot and irritant things", "pitta-vitiating food and drinks"],
+        "lifestyle_follow": ["lightening and digestive measures", "cold sprinklings on anus for inflammation", "unctuous enema if pain recurs after dietitic management", "piccha basti if unctuous enema insufficient"],
+        "lifestyle_avoid": ["anger", "envy", "exposure to fire and scorching sun", "hot winds"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XIX"
+      }
+    },
+    {
+      "disease_id": "disease_019",
+      "disease_name": "Kaphaja Atisara (Diarrhoea caused by Kapha)",
+      "herbs": [
+        {
+          "herb_name": "bilva (dried pieces — karkajika)",
+          "role": "primary — decoction group 1",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "musta",
+          "role": "primary — decoction group 1",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "haritaki",
+          "role": "primary — decoction group 1",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "sunthi",
+          "role": "primary — all groups",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "vaca",
+          "role": "primary — decoction group 2",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "vidanga",
+          "role": "primary — decoction group 2",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "bhutika",
+          "role": "primary — decoction group 2",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "devadaru",
+          "role": "primary — decoction group 2",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "kustha",
+          "role": "primary — decoction group 3",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "ativisha",
+          "role": "primary — decoction group 3",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "patha",
+          "role": "primary — decoction group 3",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "cavya",
+          "role": "primary — decoction group 3",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "katurohini",
+          "role": "primary — decoction group 3",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "pippali",
+          "role": "primary — decoction group 4; also linctus",
+          "dosage_specific": "",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "pippalimula",
+          "role": "primary — decoction group 4",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "citraka",
+          "role": "primary — decoction group 4",
+          "dosage_specific": "",
+          "anupana": "buttermilk",
+          "duration": ""
+        },
+        {
+          "herb_name": "gajapippali",
+          "role": "primary — decoction group 4",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "asita jiraka (black cumin)",
+          "role": "primary — powder formulation",
+          "dosage_specific": "equal quantity",
+          "anupana": "juice of matulunga",
+          "duration": ""
+        },
+        {
+          "herb_name": "marica",
+          "role": "primary — powder formulation",
+          "dosage_specific": "equal quantity",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "dhataki flowers",
+          "role": "primary — double quantity",
+          "dosage_specific": "double of one item",
+          "anupana": "honey with sunthi",
+          "duration": ""
+        },
+        {
+          "herb_name": "rasanjana",
+          "role": "primary",
+          "dosage_specific": "one part",
+          "anupana": "honey with sunthi",
+          "duration": ""
+        },
+        {
+          "herb_name": "kapittha",
+          "role": "primary — khada formulation group 4; also fruit pulp",
+          "dosage_specific": "fruit pulp",
+          "anupana": "trikatu, honey and sugar",
+          "duration": ""
+        },
+        {
+          "herb_name": "bilva (tender fruits)",
+          "role": "primary — linctus and diet",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": ["Kaphaja Atisara Decoctions (4 groups)", "Piccha Basti (kaphaja)", "Kapha-alleviating khadas (4 groups)"],
+      "pathya": {
+        "diet_include": ["lightening and digestion stimulating herbs initially", "kapha-alleviating food and drinks after lightening fails"],
+        "diet_avoid": ["heavy food", "sweet food", "cold food", "unctuous food", "oversaturation"],
+        "lifestyle_follow": ["lightening first", "digestion stimulation", "kapha-alleviating measures", "piccha basti for obstruction with vata and kapha"],
+        "lifestyle_avoid": ["day-sleep", "sedentary lifestyle", "idleness", "oversaturation"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XIX"
+      }
+    },
+    {
+      "disease_id": "disease_024",
+      "disease_name": "Vataja Chardi (Vomiting caused by Vata)",
+      "herbs": [
+        {
+          "herb_name": "haritaki",
+          "role": "primary — purgative for downward movement",
+          "dosage_specific": "powder",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "dhanyaka",
+          "role": "primary — ghee preparation",
+          "dosage_specific": "",
+          "anupana": "curd and pomegranate juice",
+          "duration": ""
+        },
+        {
+          "herb_name": "sunthi",
+          "role": "primary — ghee preparation",
+          "dosage_specific": "",
+          "anupana": "curd and pomegranate juice",
+          "duration": ""
+        },
+        {
+          "herb_name": "rock salt (saindhava)",
+          "role": "adjunct",
+          "dosage_specific": "",
+          "anupana": "ghee",
+          "duration": ""
+        },
+        {
+          "herb_name": "trikatu",
+          "role": "adjunct — with three salts",
+          "dosage_specific": "",
+          "anupana": "ample ghee",
+          "duration": ""
+        }
+      ],
+      "formulations": [],
+      "pathya": {
+        "diet_include": ["meat-soups of partridge, peacock and common quail (well-processed)", "soup of kola, kulattha, paddy, bilvadi and barley", "ghee with rock salt (for palpitation)", "ghee with dhanyaka and sunthi with curd and pomegranate", "unctuous and favourite food with meat-soup or vegetable soup soured with curd and pomegranates"],
+        "diet_avoid": ["irritant drugs", "fasting", "grief and fear-inducing situations"],
+        "lifestyle_follow": ["lightening measures first except in vatika type", "pacificatory measures in debilitated patients"],
+        "lifestyle_avoid": ["excessive physical exercise", "grief", "fear", "fasting"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XX"
+      }
+    },
+    {
+      "disease_id": "disease_025",
+      "disease_name": "Pittaja Chardi (Vomiting caused by Pitta)",
+      "herbs": [
+        {
+          "herb_name": "trivrta",
+          "role": "primary — purgative",
+          "dosage_specific": "",
+          "anupana": "juice of draksa, vidari or sugarcane",
+          "duration": ""
+        },
+        {
+          "herb_name": "galena (anjana)",
+          "role": "primary — powder",
+          "dosage_specific": "powder",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "water lily",
+          "role": "primary — powder",
+          "dosage_specific": "seed pulp",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "jujube (badara) seed pulp",
+          "role": "primary — linctus",
+          "dosage_specific": "",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "parched paddy",
+          "role": "primary — linctus and gruel",
+          "dosage_specific": "",
+          "anupana": "honey and sugar",
+          "duration": ""
+        },
+        {
+          "herb_name": "haritaki",
+          "role": "primary",
+          "dosage_specific": "",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "grapes (draksa)",
+          "role": "supportive — cold grape juice",
+          "dosage_specific": "very cold juice",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "usira",
+          "role": "primary — overnight water preparation",
+          "dosage_specific": "",
+          "anupana": "rice water",
+          "duration": ""
+        },
+        {
+          "herb_name": "swarnagairika (ochre)",
+          "role": "primary — with balaka",
+          "dosage_specific": "",
+          "anupana": "rice water",
+          "duration": ""
+        },
+        {
+          "herb_name": "candana (sandal)",
+          "role": "primary — paste",
+          "dosage_specific": "best white sandal with amalaka juice",
+          "anupana": "honey (mixed)",
+          "duration": ""
+        },
+        {
+          "herb_name": "kharjura (dates)",
+          "role": "primary — linctus",
+          "dosage_specific": "fruit pulp",
+          "anupana": "sugarcandy, honey and pippali",
+          "duration": ""
+        },
+        {
+          "herb_name": "coconut",
+          "role": "supportive — linctus",
+          "dosage_specific": "",
+          "anupana": "sugarcandy, honey and pippali",
+          "duration": ""
+        },
+        {
+          "herb_name": "jujube fruits",
+          "role": "supportive — linctus",
+          "dosage_specific": "",
+          "anupana": "sugarcandy, honey and pippali",
+          "duration": ""
+        },
+        {
+          "herb_name": "jambu tender leaves",
+          "role": "primary — decoction",
+          "dosage_specific": "very cold",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "amra tender leaves",
+          "role": "primary — decoction",
+          "dosage_specific": "very cold",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "green gram",
+          "role": "adjunct — overnight water",
+          "dosage_specific": "overnight water with pippali",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "gudici",
+          "role": "adjunct — overnight water",
+          "dosage_specific": "overnight water",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": [],
+      "pathya": {
+        "diet_include": ["churned drink", "liquid gruel of parched paddy with honey and sugar", "sali rice with soup of green gram", "meat-soup of wild animals", "old wheat, sali rice and barley with soup (for kaphaja type)"],
+        "diet_avoid": ["food during indigestion", "pungent food", "sour food", "burning and hot food"],
+        "lifestyle_follow": ["lightening in beginning", "emesis with sweet drugs if pitta is excessive in stomach", "purgation with trivrta"],
+        "lifestyle_avoid": ["heat exposure"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XX"
+      }
+    },
+    {
+      "disease_id": "disease_026",
+      "disease_name": "Kaphaja Chardi (Vomiting caused by Kapha)",
+      "herbs": [
+        {
+          "herb_name": "pippali",
+          "role": "primary — emesis decoction group 1",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "sarsapa (mustard)",
+          "role": "primary — emesis decoction group 1",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "nimba",
+          "role": "primary — emesis decoction group 1",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "triphala",
+          "role": "primary — powder formulation group 2",
+          "dosage_specific": "",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "vidanga",
+          "role": "primary — powder formulation group 2",
+          "dosage_specific": "",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "plava",
+          "role": "primary — powder formulation group 3",
+          "dosage_specific": "with sunthi",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "jamba fruits",
+          "role": "primary — powder formulation group 1",
+          "dosage_specific": "",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "badara (jujube) fruits",
+          "role": "primary — powder formulation group 1",
+          "dosage_specific": "",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "karkatasrigi",
+          "role": "primary — powder formulation group 2",
+          "dosage_specific": "with musta",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "duralabha",
+          "role": "primary — powder formulation group 3",
+          "dosage_specific": "",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "realgar (manasila)",
+          "role": "primary — controlling severe vomiting",
+          "dosage_specific": "with juice of bijapuraka",
+          "anupana": "",
+          "duration": ""
+        },
+        {
+          "herb_name": "marica",
+          "role": "primary — controlling severe vomiting",
+          "dosage_specific": "",
+          "anupana": "honey",
+          "duration": ""
+        },
+        {
+          "herb_name": "honey",
+          "role": "anupana",
+          "dosage_specific": "",
+          "anupana": "",
+          "duration": ""
+        }
+      ],
+      "formulations": [],
+      "pathya": {
+        "diet_include": ["old wheat, sali rice and barley with soup of patola and nimba (cooked in buttermilk, soured with fruit, spiced with pungent substances)", "meat-soups", "roasted meat of wild animals", "old madhu, sidhu and arista (fermented beverages)", "syrups of grapes, kapittha and bijapuraka"],
+        "diet_avoid": ["unctuous heavy food", "too heavy food", "uncooked food"],
+        "lifestyle_follow": ["emesis first to clean seat of kapha and ama"],
+        "lifestyle_avoid": ["oversleep"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XX"
+      }
+    },
+    {
+      "disease_id": "disease_028",
+      "disease_name": "Dvishtarthaja Chardi (Psychic/Disgusting Vomiting)",
+      "herbs": [],
+      "formulations": [],
+      "pathya": {
+        "diet_include": ["favourite talk and consolation", "exhilaration", "common stories", "amorous movements", "favourite odours (earth, flower, fermented beverage, sour fruits)", "vegetables, edibles, syrups, well-processed sadava, raga and leha", "vegetable and meat-soups", "parched grains", "various chewables", "fruits", "roots with smell, colour and taste"],
+        "diet_avoid": ["disgusting, antagonistic, unclean, putrified, loathsome objects"],
+        "lifestyle_follow": ["psychotherapeutic measures", "favourite sensory inputs (smell, taste, touch, sound, vision) — even if unsuitable — to pacify disease"],
+        "lifestyle_avoid": ["psychological stress", "disgusting environments"]
+      },
+      "source": {
+        "text": "Charaka Samhita",
+        "sthana": "Cikitsasthana",
+        "chapter": "XX"
+      }
+    }
+  ]
+}
