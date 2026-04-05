@@ -1,0 +1,2188 @@
+{
+  "metadata": {
+    "title": "Prakriti Logic — Charaka Samhita (Cleaned)",
+    "source_text": "Charaka Samhita",
+    "cleaning_summary": {
+      "TOTAL_ENTRIES": 46,
+      "DUPLICATES_REMOVED": 0,
+      "ENTRIES_FLAGGED": 13,
+      "IDs_RENUMBERED": "yes",
+      "prakriti_entries": 42,
+      "reference_entries": 4
+    }
+  },
+  "entries": [
+    {
+      "type": "prakriti",
+      "dosha": "Vata",
+      "source": "Charaka Samhita - Chikitsasthana - I - Rasayana",
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "gulma",
+        "udavarta",
+        "vatika hridroga",
+        "vatika disorders",
+        "hardness of bowels",
+        "constipation"
+      ],
+      "aggravated_signs": [
+        "muscles relaxed",
+        "joints loosened",
+        "blood burnt",
+        "marrow immature",
+        "semen absent",
+        "ojas deteriorated",
+        "malaise",
+        "depression",
+        "drowsiness",
+        "lassitude",
+        "lack of enthusiasm",
+        "dyspnoea",
+        "incapability in physical and mental activities",
+        "loss of memory",
+        "loss of intellect",
+        "loss of lustre"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_001",
+      "needs_review": true
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Pitta",
+      "source": "Charaka Samhita - Chikitsasthana - I - Rasayana",
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "pandu (anaemia)",
+        "kamala (jaundice)",
+        "paittika hridroga",
+        "skin disorders with burning"
+      ],
+      "aggravated_signs": [],
+      "decreased_signs": [],
+      "id": "prakriti_002",
+      "needs_review": true
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Kapha",
+      "source": "Charaka Samhita - Chikitsasthana - I - Rasayana",
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "prameha",
+        "shotha (oedema)",
+        "kaphaja hridroga",
+        "spleen disorders",
+        "obstructive conditions",
+        "kapha disorders alleviated by bhallataka"
+      ],
+      "aggravated_signs": [
+        "fat becomes abundant and liquified"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_003",
+      "needs_review": true
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Vata",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Dryness in throat and mouth (in vatika disorders)",
+        "Blackish and reddish complexion tendency",
+        "Roughness in body"
+      ],
+      "mental": [
+        "Anxiety",
+        "Fear",
+        "Mental detraction",
+        "Restlessness"
+      ],
+      "digestive": [
+        "Obstruction in faeces and flatus",
+        "Colic pain",
+        "Hardness in bowels",
+        "Constipation",
+        "Variable appetite - gulma aggravates in empty stomach, becomes mild on taking food"
+      ],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [
+        "Anxiety",
+        "Fear",
+        "Grief"
+      ],
+      "disease_tendency": [
+        "Jwara (vatika fever) - fever with shivering, pain in heart, abdomen, sides, shoulders and head",
+        "Vatika gulma",
+        "Udavarta (upward movement of vayu)",
+        "Sciatica",
+        "Vatika raktapitta (downward type with rough-hot quality)"
+      ],
+      "aggravated_signs": [
+        "Fever rises and falls (vishamajwara pattern)",
+        "Pain in joints and bones",
+        "Lack of perspiration",
+        "Obstruction in dosas and faeces",
+        "Dryness of throat and mouth",
+        "Blackish and reddish complexion",
+        "Delirium",
+        "Heaviness",
+        "Giddiness"
+      ],
+      "decreased_signs": [
+        "Lightness",
+        "Reduced pain",
+        "Normal digestion"
+      ],
+      "id": "prakriti_004"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Pitta",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Reddishness on face and body",
+        "Sweating",
+        "Burning sensation",
+        "Tenderness"
+      ],
+      "mental": [
+        "Anger",
+        "Intense agitation"
+      ],
+      "digestive": [
+        "Excessive thirst",
+        "Burning sensation",
+        "Acidity",
+        "Diarrhoea",
+        "Poor digestion"
+      ],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [
+        "Anger",
+        "Passion"
+      ],
+      "disease_tendency": [
+        "Paittika jwara",
+        "Raktapitta (internal haemorrhage)",
+        "Paittika gulma",
+        "Halimaka",
+        "Jaundice",
+        "Erysipelas (visarpa)"
+      ],
+      "aggravated_signs": [
+        "Fever with burning sensation and thirst",
+        "Yellow urine and eyes",
+        "Red eyes",
+        "Reddish face and body",
+        "Burning sensation",
+        "Excessive sweating",
+        "Tendency to bleed from upper passages",
+        "Ochre-like or black or cow-urine-like colour in raktapitta",
+        "Pain aggravating during digestion of food"
+      ],
+      "decreased_signs": [
+        "Reduced burning sensation",
+        "Normal urine colour",
+        "Reduced thirst"
+      ],
+      "id": "prakriti_005"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Kapha",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Heaviness",
+        "Coldness",
+        "Hardness with elevation (in gulma)",
+        "Stiffness"
+      ],
+      "mental": [
+        "Drowsiness",
+        "Dullness"
+      ],
+      "digestive": [
+        "Anorexia",
+        "Nausea",
+        "Excessive salivation",
+        "Heaviness in abdomen",
+        "Poor digestion"
+      ],
+      "sleep": "Excessive sleep, drowsiness",
+      "speech": "",
+      "memory": "",
+      "emotional": [
+        "Attachment",
+        "Excessive sleep"
+      ],
+      "disease_tendency": [
+        "Kaphaja jwara",
+        "Kaphaja gulma",
+        "Kaphaja raktapitta (upward type with viscous, pale, unctuous, slimy blood)",
+        "Cough",
+        "Dyspnoea"
+      ],
+      "aggravated_signs": [
+        "Cold sensation",
+        "Cough",
+        "Anorexia",
+        "Drowsiness",
+        "Hardness with elevation (gulma)",
+        "Mild pain",
+        "Cold fever",
+        "Malaise",
+        "Nausea",
+        "Lassitude",
+        "Excessive salivation",
+        "Polyuria",
+        "Absence of emaciation in fever",
+        "Fever does not mature even in a week"
+      ],
+      "decreased_signs": [
+        "Reduced heaviness",
+        "Improved appetite",
+        "Lightness in body"
+      ],
+      "id": "prakriti_006"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Vata",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Roughness",
+        "Wasting",
+        "Emaciation",
+        "Reddish complexion"
+      ],
+      "mental": [
+        "Inopportune laughing, smiling, dancing, singing, weeping",
+        "Anxiety",
+        "Excessive movement of body parts"
+      ],
+      "digestive": [
+        "Aggravation after digestion of food"
+      ],
+      "sleep": "",
+      "speech": "Rough, feeble and unstable voice",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "Vatika prameha",
+        "Vataja kustha (kapala predominance)",
+        "Vatika phthisis after emaciation",
+        "Vatika unmada",
+        "Vatika apasmara"
+      ],
+      "aggravated_signs": [
+        "Roughness in skin",
+        "Wasting",
+        "Piercing pain",
+        "Contracture and extension",
+        "Hardness",
+        "Coarseness",
+        "Horripilation",
+        "Blackish and reddish colours in kustha",
+        "Dry parched body",
+        "Pain in sides",
+        "Headache",
+        "Hoarseness of voice",
+        "Diarrhoea",
+        "Yawning",
+        "Fever (from joints)"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_007"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Pitta",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Yellowish lustre",
+        "Heat in body",
+        "Yellow froth in epilepsy",
+        "Yellow limbs, face and eyes"
+      ],
+      "mental": [
+        "Intolerance",
+        "Agitation",
+        "Wrath",
+        "Desire for shade and cold food"
+      ],
+      "digestive": [],
+      "sleep": "",
+      "speech": "Burning in palate and throat, aversion to speaking",
+      "memory": "",
+      "emotional": [
+        "Anger",
+        "Intolerance"
+      ],
+      "disease_tendency": [
+        "Pittaja prameha",
+        "Pittaja kustha (audumbara predominance)",
+        "Pittaja unmada",
+        "Pittaja apasmara"
+      ],
+      "aggravated_signs": [
+        "Heat",
+        "Redness",
+        "Discharge and suppuration in kustha",
+        "Fleshy smell",
+        "Moisture",
+        "Falling down of organs",
+        "Burning sensation in hands and feet",
+        "Haemoptysis",
+        "Yellow urine"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_008"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Kapha",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Heaviness",
+        "Whiteness",
+        "Coldness",
+        "Unctuousness",
+        "Stability",
+        "White froth in epilepsy",
+        "Cold horripilation"
+      ],
+      "mental": [
+        "Slow speech and movements",
+        "Liking for women and loneliness",
+        "Liking for comfort"
+      ],
+      "digestive": [
+        "Anorexia",
+        "Aggravation on taking meals"
+      ],
+      "sleep": "Excessive sleep",
+      "speech": "Slow, obstructed and sterterous voice",
+      "memory": "",
+      "emotional": [
+        "Attachment",
+        "Contentment"
+      ],
+      "disease_tendency": [
+        "Kaphaja prameha (10 types)",
+        "Kaphaja kustha (mandala predominance)",
+        "Kaphaja unmada",
+        "Kaphaja apasmara"
+      ],
+      "aggravated_signs": [
+        "Whiteness of skin",
+        "Coldness",
+        "Itching",
+        "Stability of lesions",
+        "Raising of patches",
+        "Heaviness",
+        "Unctuousness",
+        "Eating away by maggots",
+        "Excessive salivation",
+        "Watery or sugarcane-like urine in prameha"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_009"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Vata",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Thin-skinned body",
+        "Black or reddish tinge in nails, eyes, face, skin",
+        "Prominent thin and black streaks and veins",
+        "Unstable and mobile features"
+      ],
+      "mental": [],
+      "digestive": [
+        "Poor digestion",
+        "Anorexia",
+        "Obstruction in flatus, stool and urine",
+        "Tympanitic sound on percussion",
+        "Dry cough",
+        "Indigestion"
+      ],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "Chest wound and wasting",
+        "Vataja swelling (unstable, reddish/black, aggravated during day)",
+        "Vatodara - tympanitis, upward movement of vayu, body-ache",
+        "Pain in joints and bones",
+        "Constipation"
+      ],
+      "aggravated_signs": [
+        "Tearing pain in smaller joints",
+        "Upward movement of vayu",
+        "Body-ache",
+        "Obstruction in stool and urine",
+        "Blackish tinge in nails, eyes, face",
+        "Tympanitis",
+        "Dry cough",
+        "Debility"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_010",
+      "needs_review": true
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Pitta",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Green and yellow tinge in nails, eyes, face, skin",
+        "Blue, yellow, green or coppery streaks and veins"
+      ],
+      "mental": [],
+      "digestive": [
+        "Burning sensation in mouth and abdomen",
+        "Diarrhoea",
+        "Giddiness"
+      ],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "Pittaja swelling - soft, odorous, burning, suppuration",
+        "Pittodara - fever, thirst, burning, diarrhoea",
+        "Internal haemorrhage",
+        "Haemoptysis",
+        "Fever"
+      ],
+      "aggravated_signs": [
+        "Burning sensation",
+        "Fever",
+        "Thirst",
+        "Fainting",
+        "Diarrhoea",
+        "Giddiness",
+        "Sweating",
+        "Redness",
+        "Suppuration",
+        "Pungency in mouth",
+        "Yellow/green tinge in body"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_011",
+      "needs_review": true
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Kapha",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Whiteness in nails, eyes, face, skin",
+        "White streaks and veins",
+        "Heavy, stable physique",
+        "Pale complexion"
+      ],
+      "mental": [],
+      "digestive": [
+        "Poor digestion",
+        "Heaviness",
+        "Anorexia",
+        "Nausea",
+        "Vomiting"
+      ],
+      "sleep": "Oversleep",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "Kaphaja swelling - heavy, stable, pale, aggravated at night",
+        "Kaphodara - heavy, immobile abdomen",
+        "Cough and dyspnoea",
+        "Splenomegaly",
+        "Oedema"
+      ],
+      "aggravated_signs": [
+        "Heaviness",
+        "Anorexia",
+        "Indigestion",
+        "Body-ache",
+        "Numbness",
+        "Swelling in hands, feet, scrotum, thighs",
+        "Nausea",
+        "Oversleep",
+        "Cough",
+        "Dyspnoea",
+        "Whiteness in body",
+        "Hard and immobile abdomen"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_012"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Vata",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Lean body",
+        "Roughness of body",
+        "Reddishness in skin",
+        "Dryness of stool",
+        "Hardness in bowels",
+        "Tendency toward oedema",
+        "Blackish or reddish tinge in nails, eyes, face, skin"
+      ],
+      "mental": [
+        "Anxiety",
+        "Fear",
+        "Easily irritable",
+        "Difficulty in management"
+      ],
+      "digestive": [
+        "Irregular digestion (vishama agni)",
+        "Stasis of food",
+        "Tympanitis during and after digestion",
+        "Greed for every food item",
+        "Cutting pain in abdomen",
+        "Suspicion of vatagulma or heart disease",
+        "Passes stool as liquid, dried, thin, undigested, with sound and froth frequently"
+      ],
+      "sleep": "Poor or disturbed",
+      "speech": "Voice feeble, hoarse, depressed, mingled and broken (in vatika disorders)",
+      "memory": "",
+      "emotional": [
+        "Anxiety",
+        "Fear",
+        "Anger",
+        "Grief"
+      ],
+      "disease_tendency": [
+        "Piles (vatika)",
+        "Grahani roga (vatika)",
+        "Panduroga (vatika)",
+        "Cough and dyspnoea",
+        "Body-ache and pain",
+        "Retention of flatus, urine and stool",
+        "Tympanitis"
+      ],
+      "aggravated_signs": [
+        "Blackish or reddish tinge in nails, eyes, face, skin, urine and stool",
+        "Coarseness",
+        "Dry, hard, rough constipated stool",
+        "Upward movement of vayu (udavarta)",
+        "Body-ache, pain, piercing pain, trembling"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_013"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Pitta",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Yellowish or greenish tinge in skin",
+        "Yellow tinge in nails, eyes, face, skin",
+        "Profuse perspiration",
+        "Desire for cold",
+        "Aversion to food"
+      ],
+      "mental": [
+        "Anger",
+        "Envy"
+      ],
+      "digestive": [
+        "Burning sensation in cardiac region and throat",
+        "Foul sour eructations",
+        "Anorexia and thirst",
+        "Acid eructations",
+        "Loose motions frequently",
+        "Yellowish lustre",
+        "Passes undigested bluish or yellowish liquid stool with foetid odour"
+      ],
+      "sleep": "Normal",
+      "speech": "",
+      "memory": "",
+      "emotional": [
+        "Anger",
+        "Envy"
+      ],
+      "disease_tendency": [
+        "Piles (paittika / bleeding)",
+        "Grahani roga (paittika)",
+        "Panduroga (paittika)",
+        "Kamala (jaundice)",
+        "Raktapitta",
+        "Fever",
+        "Burning sensation"
+      ],
+      "aggravated_signs": [
+        "Yellow or greenish tinge in skin, eyes, nails, urine, stool",
+        "Burning sensation",
+        "Profuse sweating",
+        "Thirst and fever",
+        "Blood disorders (rakta dushti)"
+      ],
+      "decreased_signs": [
+        "White stools (obstruction of bile — Kumbhakamala)"
+      ],
+      "id": "prakriti_014"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Kapha",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Heavy body",
+        "Drowsiness",
+        "Excessive salivation",
+        "White tinge in nails, eyes, face, skin",
+        "Whitish complexion",
+        "Oedema",
+        "Sweetness of mouth"
+      ],
+      "mental": [
+        "Sluggishness",
+        "Lack of mental work",
+        "Lack of desire for women (in kaphaja disorders)"
+      ],
+      "digestive": [
+        "Sluggishness of digestion",
+        "Nausea and vomiting",
+        "Anorexia",
+        "Sliminess and sweetness in mouth",
+        "Cough, spitting and coryza",
+        "Stool broken with ama and mucus — heavy",
+        "Slow digestion (manda agni)"
+      ],
+      "sleep": "Excessive sleep; day-sleep tendency",
+      "speech": "Obstruction in speech and voice",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "Piles (kaphaja)",
+        "Grahani roga (kaphaja)",
+        "Panduroga (kaphaja)",
+        "Prameha",
+        "Oedema",
+        "Cough and dyspnoea",
+        "Phthisis (kaphaja)"
+      ],
+      "aggravated_signs": [
+        "White or pale tinge in nails, eyes, face, skin, urine and stool",
+        "Excessive salivation",
+        "Sweetness of mouth",
+        "Heavy, slimy and white urine and stool",
+        "Prameha signs"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_015"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Vata",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "hikka (hiccup)",
+        "swasa (dyspnoea)",
+        "kasa (cough) — vataja type",
+        "pain in cardiac region, sides, chest",
+        "hoarseness",
+        "dryness"
+      ],
+      "aggravated_signs": [
+        "rough food",
+        "cold food",
+        "astringent food",
+        "fasting",
+        "exertion",
+        "suppression of urges",
+        "excessive sexual intercourse"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_016",
+      "needs_review": true
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Pitta",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "paittika kasa (pitta-type cough)",
+        "burning sensation",
+        "yellowness in sputum and eyes",
+        "thirst",
+        "fainting"
+      ],
+      "aggravated_signs": [
+        "pungent food",
+        "hot food",
+        "burning food",
+        "sour food",
+        "alkaline substances",
+        "anger",
+        "heat of fire",
+        "heat of sun"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_017",
+      "needs_review": true
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Kapha",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "kaphaja kasa (kapha-type cough)",
+        "loss of appetite",
+        "heaviness",
+        "viscous phlegm",
+        "horripilation",
+        "swasa (dyspnoea)"
+      ],
+      "aggravated_signs": [
+        "heavy food",
+        "slimy food",
+        "sweet food",
+        "unctuous food",
+        "over-sleep",
+        "sedentary habit"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_018",
+      "needs_review": true
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Vata",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "vataja atisara (diarrhoea caused by vata)",
+        "vataja chardi (vomiting caused by vata)",
+        "bhayashokaja atisara (diarrhoea from fear and anxiety)",
+        "kshayaja kasa (wasting cough)",
+        "prolapse of rectum",
+        "tympanitis"
+      ],
+      "aggravated_signs": [
+        "excessive wind exposure",
+        "excessive sun exposure",
+        "rough and deficient food",
+        "sharp things",
+        "wine (excessive)",
+        "sexual intercourse (excessive)",
+        "suppression of urges",
+        "fasting",
+        "fear and anxiety",
+        "physical exertion"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_019",
+      "needs_review": true
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Pitta",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "pittaja atisara (diarrhoea caused by pitta)",
+        "raktatisara (bloody diarrhoea)",
+        "pittaja chardi (vomiting caused by pitta)",
+        "anal inflammation",
+        "burning sensation",
+        "haemorrhage"
+      ],
+      "aggravated_signs": [
+        "sour, salty, pungent, alkaline and hot substances (excessive)",
+        "constant exposure to fire",
+        "scorching sun",
+        "hot winds",
+        "anger",
+        "envy",
+        "psychological stress"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_020",
+      "needs_review": true
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Kapha",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [],
+      "mental": [],
+      "digestive": [],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "kaphaja atisara (diarrhoea caused by kapha)",
+        "kaphaja chardi (vomiting caused by kapha)",
+        "idleness",
+        "nausea",
+        "excessive salivation",
+        "pravahika (dysentery)"
+      ],
+      "aggravated_signs": [
+        "heavy, sweet, cold and unctuous food (excessive)",
+        "oversaturation",
+        "freedom from mental work",
+        "day-sleep",
+        "idleness"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_021",
+      "needs_review": true
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Vata",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Lean body",
+        "Dryness of body"
+      ],
+      "mental": [
+        "Restlessness",
+        "Giddiness",
+        "Mental confusion"
+      ],
+      "digestive": [
+        "Irregular digestion",
+        "Retention of flatus, urine and stool tendency"
+      ],
+      "sleep": "Disturbed, sleeplessness tendency",
+      "speech": "Rough, hoarse",
+      "memory": "",
+      "emotional": [
+        "Fear",
+        "Anxiety",
+        "Restlessness"
+      ],
+      "disease_tendency": [
+        "Vatika visarpa",
+        "Vatika trsna",
+        "Vatika poisoning effects — cardiac pain, upward movement of vayu, stiffness, dilataion of blood vessels, pain in bone joints, giddiness, twisting and blackishness in body",
+        "Darvikara snake bite aggravates vata",
+        "Uccitinga and scorpion poison predominant in vata"
+      ],
+      "aggravated_signs": [
+        "Pricking pain",
+        "Colic pain",
+        "Body-ache",
+        "Cramps",
+        "Shivering",
+        "Feeling of darkness",
+        "Cough",
+        "Breaking pain in bones",
+        "Looseness in joints",
+        "Trembling",
+        "Anorexia",
+        "Indigestion",
+        "Lachrymation",
+        "Feeling as if ants crawling on body",
+        "Blackish or reddish patches",
+        "Thin clear reddish discharge"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_022"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Pitta",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Medium build",
+        "Excessive sweating",
+        "Internal heat"
+      ],
+      "mental": [
+        "Delirium tendency",
+        "Desire for cold things",
+        "Confusion under fever"
+      ],
+      "digestive": [
+        "Strong digestion",
+        "Burning in stomach"
+      ],
+      "sleep": "Sleeplessness during aggravation",
+      "speech": "",
+      "memory": "",
+      "emotional": [
+        "Anger",
+        "Impatience",
+        "Excitement"
+      ],
+      "disease_tendency": [
+        "Paittika visarpa",
+        "Paittika trsna",
+        "Paittika poisoning — loss of consciousness, hot expiration, heart-burning, pungent taste in mouth, tearing of flesh, swelling red or yellow",
+        "Mandali snake bite aggravates pitta",
+        "Pitta — agent of absorption of body fluid causing trsna"
+      ],
+      "aggravated_signs": [
+        "Fever",
+        "Thirst",
+        "Fainting",
+        "Confusion",
+        "Vomiting",
+        "Excessive sweating",
+        "Internal heat",
+        "Delirium",
+        "Headache",
+        "Congestion of eyes",
+        "Sleeplessness",
+        "Giddiness",
+        "Intense desire for cold",
+        "Green and yellow coloration in eyes, urine and stool",
+        "Raised eruptions with intense burning and tearing pain, suppurating quickly"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_023"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Kapha",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Heavy build",
+        "Unctuousness",
+        "Whiteness in complexion"
+      ],
+      "mental": [
+        "Drowsiness",
+        "Sleep",
+        "Lethargy"
+      ],
+      "digestive": [
+        "Low digestive power",
+        "Sweetness in mouth",
+        "Sliminess in mouth"
+      ],
+      "sleep": "Excessive sleep, drowsiness",
+      "speech": "",
+      "memory": "",
+      "emotional": [
+        "Attachment",
+        "Depression"
+      ],
+      "disease_tendency": [
+        "Kaphaja visarpa",
+        "Kaphaja trsna — stiffness, anorexia, indigestion, lassitude, vomiting",
+        "Kaphaja poisoning — vomiting, anorexia, nausea, salivation, excitement, heaviness, cold and sweetness of mouth",
+        "Rajiman snake bite aggravates kapha",
+        "Insects, hornets etc. predominant in kapha"
+      ],
+      "aggravated_signs": [
+        "Cold",
+        "Cold fever",
+        "Heaviness",
+        "Sleep",
+        "Drowsiness",
+        "Anorexia",
+        "Sweetness of mouth",
+        "Sliminess in mouth",
+        "Spitting",
+        "Vomiting",
+        "Lassitude",
+        "Feeling of wetness",
+        "Loss of digestive power",
+        "Debility",
+        "Pale reddish swollen skin",
+        "White-pale discharge from eruptions",
+        "Whiteness in nails, eyes, face, skin, urine and stool"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_024"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Vata",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Body becomes coarse, rough and cold",
+        "Body is emaciated",
+        "Dry body type"
+      ],
+      "mental": [
+        "Frequent delirium",
+        "Mental confusion",
+        "Fear",
+        "Gets intoxicated quickly",
+        "Vacantness in heart"
+      ],
+      "digestive": [
+        "Hardness of bowels",
+        "Dry stool passed with difficulty and delay",
+        "Poor digestion",
+        "Variable appetite"
+      ],
+      "sleep": "Vigil (sleeplessness) prominent",
+      "speech": "Indistinct and excessive speech in intoxication; hoarseness",
+      "memory": "Memory and confusion alternating",
+      "emotional": [
+        "Grief",
+        "Fear",
+        "Trembling",
+        "Delirium"
+      ],
+      "disease_tendency": [
+        "Vatika alcoholism from rough old wine",
+        "Hiccup",
+        "Dyspnoea",
+        "Tremors in head",
+        "Pain in sides",
+        "Vigil and frequent delirium in madatyaya",
+        "Vatika wound: stiff, hard, excruciating pain, throbbing",
+        "Udavarta",
+        "Vatika dysuria: pain in groins, pelvis, penis; scanty frequent urination",
+        "Vatika hridroga: palpitation, wasting, tearing, obstructed movement",
+        "Vatika pratisyaya: watery discharge, hoarseness",
+        "Vatika svarabheda"
+      ],
+      "aggravated_signs": [
+        "Stiffness",
+        "Obstruction in channels",
+        "Retention of stool, urine and flatus",
+        "Intense pain",
+        "Tympanitis",
+        "Constipation",
+        "Emaciation"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_025"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Pitta",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Greenish or yellowish complexion",
+        "Heat in body",
+        "Pyrexia",
+        "Inflammation"
+      ],
+      "mental": [
+        "Anger (is a causative factor for pitta-type disorders)",
+        "Terror",
+        "Mental confusion",
+        "Feeling of darkness and distress"
+      ],
+      "digestive": [
+        "Diarrhoea",
+        "Burning in stomach",
+        "Thirst",
+        "Sour and pungent taste in mouth"
+      ],
+      "sleep": "Normal to slightly disturbed",
+      "speech": "Distorted speech",
+      "memory": "",
+      "emotional": [
+        "Anger",
+        "Terror",
+        "Burning sensations"
+      ],
+      "disease_tendency": [
+        "Paittika alcoholism: thirst, burning, fever, sweating, fainting, diarrhoea, giddiness",
+        "Paittika wound: thirst, confusion, fever, sweating, burning, foul smell",
+        "Paittika dysuria: yellow or bloody urine, burning, frequent",
+        "Paittika hridroga: darkness, distress, burning, terror, heat, pyrexia, yellowishness",
+        "Paittika pratisyaya: inflammation of nose, fever, yellow discharge",
+        "Paittika svarabheda"
+      ],
+      "aggravated_signs": [
+        "Burning sensation",
+        "Yellow discolouration",
+        "Fever",
+        "Bleeding",
+        "Inflammation",
+        "Thirst"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_026"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Kapha",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Heavy",
+        "Unctuous",
+        "Stiffness",
+        "Heaviness in body"
+      ],
+      "mental": [
+        "Drowsiness",
+        "Excessive sleep",
+        "Dullness",
+        "Lethargy"
+      ],
+      "digestive": [
+        "Anorexia",
+        "Nausea",
+        "Vomiting",
+        "Sliminess in mouth",
+        "Excessive salivation",
+        "Poor appetite"
+      ],
+      "sleep": "Excessive sleep and drowsiness",
+      "speech": "Normal or heavy",
+      "memory": "Dull",
+      "emotional": [
+        "Contentment",
+        "Lethargy",
+        "Excessive drowsiness"
+      ],
+      "disease_tendency": [
+        "Kaphaja alcoholism: vomiting, anorexia, nausea, drowsiness, stiffness, heaviness, coldness",
+        "Kaphaja wound: much sliminess, heavy, unctuous, wet, mild pain, pale, chronic",
+        "Kaphaja dysuria: heaviness and swelling in bladder and penis, slimy urine",
+        "Kaphaja hridroga: obstructed movement, heavy and dull, salivation, fever, cough, drowsiness",
+        "Kaphaja pratisyaya: viscous discharge, excessive salivation, heaviness, itching",
+        "Kaphaja svarabheda"
+      ],
+      "aggravated_signs": [
+        "Heaviness",
+        "Sliminess",
+        "White discolouration",
+        "Viscous discharge",
+        "Drowsiness",
+        "Coldness",
+        "Excessive salivation"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_027"
+    },
+    {
+      "type": "reference",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "data": {
+        "vatika_constitution_drinking": {
+          "food_before": "Unctuous and hot food",
+          "procedure_before": "Massage, anointing, bath, dressing, incense, afterpaste",
+          "wine_type": "Wine made of jaggery or flour"
+        },
+        "paittika_constitution_drinking": {
+          "food_before": "Sweet, unctuous and cold food",
+          "procedure_before": "Various cooling regimens",
+          "wine_type": "Wine made of grapes and honey"
+        },
+        "kaphaja_constitution_drinking": {
+          "food_before": "Preparations of barley and wheat with meat of wild animals",
+          "procedure_before": "Hot regimens",
+          "wine_type": "Wine with black pepper flavouring"
+        }
+      },
+      "id": "reference_001"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Vata",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Rough and dry skin when vayu is in twak",
+        "Cracked skin when vayu is in twak",
+        "Benumbed and thin skin when vayu is in twak",
+        "Body parts dry up when vayu is aggravated",
+        "Emaciation (leanness) when vayu is in rakta",
+        "Wasting of body parts in vatika disorders"
+      ],
+      "mental": [
+        "Delirium when vayu is vitiated",
+        "Mental confusion when vayu is vitiated",
+        "Fear as a causative and associated factor",
+        "Diminution of intellect when vyana is covered by prana",
+        "Diminution of memory when vyana is covered by prana",
+        "Diminution of strength when vyana is covered by prana"
+      ],
+      "digestive": [
+        "Anorexia as symptom of vitiated vayu",
+        "Gurgling sound in intestines when vayu in pakvasaya",
+        "Meteorism when vayu in pakvasaya",
+        "Hardness in bowels when vayu in pakvasaya",
+        "Belching when vayu in amasaya",
+        "Thirst when vayu in amasaya",
+        "Digestive fire diminishes in vyana covered by samana",
+        "Diarrhoea when prana is covered by apana"
+      ],
+      "sleep": "Sleeplessness is a symptom of vitiated vayu (vata in asthi/majja)",
+      "speech": "Speech becomes feeble and impeded in ardita (facial paralysis); stammering and dumbness when samana is covered by prana",
+      "memory": "Diminution of memory when vyana is covered by prana",
+      "emotional": [
+        "Fear as causative factor in vata aggravation",
+        "Anxiety as causative factor",
+        "Grief as causative factor"
+      ],
+      "disease_tendency": [
+        "Contractures",
+        "Stiffness in joints",
+        "Tearing in bones and joints",
+        "Horripilation",
+        "Delirium",
+        "Stiffness in hands, back and head",
+        "Limping",
+        "Crippledness",
+        "Humpedness",
+        "Drying of organs",
+        "Sleeplessness",
+        "Destruction of foetus, sperms and ovum",
+        "Pulsation",
+        "Numbness in organs",
+        "Crookedness of body parts",
+        "Tearing and piercing pain",
+        "Distress",
+        "Convulsion",
+        "Mental confusion",
+        "Exhaustion",
+        "Facial paralysis (Ardita)",
+        "Sciatica (Gridhrasi)",
+        "Opisthotonus (Bahirayama)",
+        "Emprosthotonus (Antaryama)",
+        "Lock-jaw (Hanugraha)",
+        "Urustambha (thigh stiffness)"
+      ],
+      "aggravated_signs": [
+        "Roughness (Raukshya)",
+        "Coldness (Shaitya)",
+        "Dryness of organs",
+        "Blackness in skin (in vatarakta)",
+        "Aversion to cold",
+        "Dilatation of vessels",
+        "Quivering and breaking pain in limbs",
+        "Retention of urine and stool",
+        "Constipation",
+        "Desire for warmth",
+        "Stiffness",
+        "Pain aggravated by rough and cold things",
+        "Aggravation and diminution patterns"
+      ],
+      "decreased_signs": [
+        "Longevity diminished",
+        "Strength diminished",
+        "Dhatus (tissues) waste away",
+        "Semen deficiency",
+        "Ojas deficiency"
+      ],
+      "id": "prakriti_028"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Pitta",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Burning sensation when pitta covers vayu",
+        "Thirst when pitta covers vayu",
+        "Excessive sweating when samana is covered by pitta",
+        "Redness and inflammation in vata-pitta conditions",
+        "Yellow colour of urine and stool when apana covered by pitta",
+        "Heat in anus and penis when apana covered by pitta"
+      ],
+      "mental": [
+        "Giddiness when pitta covers vayu",
+        "Feeling of darkness when pitta covers vayu",
+        "Fainting when pitta covers vayu",
+        "Narcosis in paittika type vatarakta"
+      ],
+      "digestive": [
+        "Burning after meals in paittika vatarakta",
+        "Burning sensation in navel and chest when udana covered by pitta",
+        "Excessive menstrual discharge when apana covered by pitta"
+      ],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [
+        "Restlessness from heat affliction when samana covered by pitta"
+      ],
+      "disease_tendency": [
+        "Burning sensation disorders",
+        "Fever (Jwara)",
+        "Erysipelas",
+        "Anaemia",
+        "Jaundice",
+        "Inflammatory conditions with heat"
+      ],
+      "aggravated_signs": [
+        "Burning sensation",
+        "Thirst",
+        "Pain with heat",
+        "Giddiness",
+        "Feeling of darkness",
+        "Fainting",
+        "Aggravation by pungent, sour, salty and hot things",
+        "Desire for cold",
+        "Redness",
+        "Inflammation",
+        "Tearing and dryness",
+        "Sweating"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_029"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Kapha",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Coldness when kapha covers vayu",
+        "Heaviness when kapha covers vayu",
+        "Unctuousness in kapha type vatarakta",
+        "Absence of sweating when samana covered by kapha",
+        "Excessive coldness of body parts when samana covered by kapha",
+        "Heaviness in body when vyana covered by kapha"
+      ],
+      "mental": [
+        "Drowsiness as feature of vata-kapha conditions (Gridhrasi)",
+        "Fainting and drowsiness when vyana covered by samana",
+        "Delirium when vyana covered by samana"
+      ],
+      "digestive": [
+        "Poor digestion when samana covered by kapha",
+        "Anorexia in kapha-vata conditions",
+        "Stool passed as broken associated with ama and kapha (mucus) when apana covered by kapha",
+        "Heavy stool when apana covered by kapha",
+        "Appearance of kaphaja meha when apana covered by kapha"
+      ],
+      "sleep": "Excessive sleep (Nidra) - mentioned as prodrome of Urustambha",
+      "speech": "Obstruction in speech and voice when udana covered by kapha; abnormal complexion and debility",
+      "memory": "",
+      "emotional": [
+        "Brooding over - prodrome of Urustambha"
+      ],
+      "disease_tendency": [
+        "Urustambha (thigh stiffness - primarily Kapha-Medas obstruction)",
+        "Heaviness and swelling disorders",
+        "Kapha-type meha (urinary disorders)",
+        "Vata-Kapha type sciatica (Gridhrasi)"
+      ],
+      "aggravated_signs": [
+        "Coldness",
+        "Heaviness",
+        "Pain reduced by pungent, dry and hot things",
+        "Particular desire for fasting and exertion",
+        "Feeling of wetness",
+        "Unctuousness",
+        "Numbness",
+        "Mild pain",
+        "Drowsiness",
+        "Horripilation",
+        "Excessive coldness",
+        "Itching and moistening (in kapha-rakta type vatarakta)"
+      ],
+      "decreased_signs": [
+        "Malaise",
+        "Loss of agni",
+        "Loss of immunity",
+        "Loss of strength"
+      ],
+      "id": "prakriti_030"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Vata",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Frothy, thin, rough menstrual discharge with sound (female)",
+        "Frothy, thin, rough semen ejaculated with difficulty and in little quantity (male)",
+        "Looseness of penis in impotency",
+        "Emaciation and debility",
+        "Roughness in body and skin",
+        "Hardness and numbness of affected parts"
+      ],
+      "mental": [
+        "Anxiety",
+        "Grief",
+        "Fear",
+        "Suspicion"
+      ],
+      "digestive": [
+        "Vatika disorders aggravate after digestion (on empty stomach)",
+        "Derangement of apana vata — drug taken before meals",
+        "Derangement of samana — drug taken during mid-meal",
+        "Derangement of vyana and udana — drug taken after meals",
+        "Derangement of prana vayu — drug administered between morsels"
+      ],
+      "sleep": "",
+      "speech": "Feebleness of voice (in child taking rough breast milk)",
+      "memory": "",
+      "emotional": [
+        "Anxiety",
+        "Fear",
+        "Grief",
+        "Suspicion"
+      ],
+      "disease_tendency": [
+        "Yonivyapada (vatika type)",
+        "Pradara (vatika type)",
+        "Shukra Dosha (vatika type)",
+        "Klaibya (impotency)",
+        "Stanya dosha (vatika type)",
+        "Vatika head disorder",
+        "Coryza in children (from vatika breast milk)",
+        "Retention of stool, urine and wind in children"
+      ],
+      "aggravated_signs": [
+        "End of day and night (aggravation time)",
+        "Rainy season (primary season)",
+        "Last phase of life-span",
+        "After digestion / empty stomach"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_031"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Pitta",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Bluish, yellow, very hot, foetid menstrual or semen discharge",
+        "Burning sensation during ejaculation or in genital tract",
+        "Inflammation and fever in affected parts",
+        "Abnormal colour (blue, yellow, black) in secretions",
+        "Cadaverous smell in discharges",
+        "Perspiration",
+        "Thirst",
+        "Redness"
+      ],
+      "mental": [
+        "Mental confusion",
+        "Anger"
+      ],
+      "digestive": [
+        "Paittika disorders aggravate during digestion (midday, midnight)",
+        "Pitta located in seat of kapha needs specific treatment"
+      ],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [
+        "Mental confusion",
+        "Anger"
+      ],
+      "disease_tendency": [
+        "Yonivyapada (paittika type)",
+        "Pradara (paittika type)",
+        "Shukra Dosha (paittika type)",
+        "Stanya dosha (paittika type — abnormal colour and foul odour in milk)",
+        "Jaundice",
+        "Vatarakta",
+        "Internal haemorrhage (Raktapitta)"
+      ],
+      "aggravated_signs": [
+        "Middle of day and night (midday, midnight)",
+        "Autumn season (primary season)",
+        "Middle phase of life-span",
+        "During digestion"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_032"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Kapha",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Slimy, cold, pale secretions",
+        "Heaviness in affected parts",
+        "Mild pain",
+        "Viscous and unctuous discharges",
+        "Swelling of face and eyes"
+      ],
+      "mental": [
+        "Dullness",
+        "Excessive sleep"
+      ],
+      "digestive": [
+        "Kaphaja disorders aggravate just after meals",
+        "Kaphaja disorders appear in beginning of day and night"
+      ],
+      "sleep": "Excessive sleep tendency",
+      "speech": "Salivation",
+      "memory": "",
+      "emotional": [
+        "Dullness"
+      ],
+      "disease_tendency": [
+        "Yonivyapada (kaphaja type)",
+        "Pradara (kaphaja type)",
+        "Shukra Dosha (kaphaja type — exceedingly slimy semen)",
+        "Stanya dosha (kaphaja type — unctuous, slimy, heavy breast milk)",
+        "Bronchial asthma",
+        "Salivation",
+        "Cough",
+        "Vomiting",
+        "Anorexia",
+        "Dyspnoea",
+        "Glandular disorders (ganda)"
+      ],
+      "aggravated_signs": [
+        "Beginning of day and night (morning and early evening)",
+        "Spring season (primary season)",
+        "First phase of life-span (childhood)",
+        "Just after meals"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_033"
+    },
+    {
+      "type": "reference",
+      "source": "Charaka Samhita - Chikitsasthana - 30",
+      "data": {
+        "time_of_drug_administration_by_vata_subtype": {
+          "apana_vata": "Before meals",
+          "samana_vata": "During mid-meal",
+          "vyana_and_udana_vata": "After meals",
+          "prana_vata": "Between morsels",
+          "general_kaphaja": "Frequently (for dyspnoea, cough, thirst)"
+        },
+        "dosha_aggravation_by_season": {
+          "vata": "Rainy season (Varsha)",
+          "pitta": "Autumn (Sharada)",
+          "kapha": "Spring (Vasanta)"
+        },
+        "dosha_aggravation_by_time_of_day": {
+          "vata": "End of day and night",
+          "pitta": "Middle of day and night (midday and midnight)",
+          "kapha": "Beginning of day and night"
+        },
+        "dosha_aggravation_by_digestion_state": {
+          "vata": "After digestion (empty stomach)",
+          "pitta": "During digestion",
+          "kapha": "Just after meals"
+        },
+        "dosha_aggravation_by_age": {
+          "kapha": "First phase of life (childhood)",
+          "pitta": "Middle phase of life (adult)",
+          "vata": "Last phase of life (old age)"
+        },
+        "treatment_route_by_site": {
+          "oral_route": "Destroys diseases of amasaya (upper GIT)",
+          "nasal_route": "Destroys diseases of head",
+          "anal_route": "Destroys diseases of pakvasaya (lower GIT)",
+          "local_application": "For erysipelas, boils and other part-specific disorders"
+        },
+        "regional_food_suitability": {
+          "Bahlikas_Pahlavas_Chinese_Yavanas": [
+            "Meat",
+            "Wheat",
+            "Madhvika wine",
+            "Weapons"
+          ],
+          "Prachyadesha (east)": [
+            "Fish"
+          ],
+          "Sindhu": [
+            "Milk"
+          ],
+          "Ashmaka_Avanti": [
+            "Oily preparations",
+            "Sour preparations"
+          ],
+          "Malaya": [
+            "Tubers",
+            "Roots",
+            "Fruits"
+          ],
+          "South": [
+            "Liquid gruel"
+          ],
+          "Northwest": [
+            "Churned drink (butter milk)"
+          ],
+          "Madhyadesha (central)": [
+            "Barley",
+            "Wheat",
+            "Milk products"
+          ]
+        }
+      },
+      "id": "reference_002"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Vata",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "rough body",
+        "light body",
+        "cold body",
+        "dry body",
+        "excessive roughness and lightness"
+      ],
+      "mental": [
+        "fear",
+        "anxiety",
+        "agitation",
+        "instability"
+      ],
+      "digestive": [
+        "stimulated digestive fire (irregular)",
+        "hard bowels",
+        "retention of faeces",
+        "retention of flatus",
+        "retention of urine",
+        "tendency toward constipation",
+        "poor digestion from dryness"
+      ],
+      "sleep": "disturbed sleep, sleeplessness",
+      "speech": "excessive speech",
+      "memory": "",
+      "emotional": [
+        "fear",
+        "grief",
+        "wrath",
+        "anxiety"
+      ],
+      "disease_tendency": [
+        "vata disorders",
+        "vatika gulma",
+        "vatika disorders of abdomen",
+        "tympanitis",
+        "colic pain",
+        "retention of flatus, faeces, urine, semen",
+        "trembling",
+        "convulsions",
+        "stiffness in sides, back, waist",
+        "pain in joints",
+        "numbness in body parts",
+        "udavarta",
+        "bodyache"
+      ],
+      "aggravated_signs": [
+        "roughness in body",
+        "hardness of bowels",
+        "retention of urine and faeces",
+        "tympanitis",
+        "distension",
+        "pain",
+        "cutting pain in anal region"
+      ],
+      "decreased_signs": [
+        "weakness",
+        "debility",
+        "less movement"
+      ],
+      "id": "prakriti_034"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Pitta",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "hot body",
+        "burning sensation in body",
+        "tendency toward heat"
+      ],
+      "mental": [
+        "anger",
+        "irritability"
+      ],
+      "digestive": [
+        "good digestive fire",
+        "tendency toward pitta disorders in digestion",
+        "aggravated pitta causes purgative drug to go upwards if kapha is deficient"
+      ],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [
+        "anger",
+        "irritability"
+      ],
+      "disease_tendency": [
+        "paittika fever",
+        "paittika cough",
+        "burning sensation",
+        "internal haemorrhage (upward)",
+        "jaundice (kamala, halimaka)",
+        "anaemia",
+        "prameha",
+        "skin disorders",
+        "vatarakta",
+        "erysipelas (visarpa)"
+      ],
+      "aggravated_signs": [
+        "burning sensation",
+        "thirst",
+        "mental confusion",
+        "giddiness",
+        "fainting",
+        "pitta in vomit during emesis"
+      ],
+      "decreased_signs": [
+        "decreased digestive fire",
+        "pallor",
+        "loss of heat"
+      ],
+      "id": "prakriti_035"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Kapha",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "heavy body",
+        "unctuous body",
+        "cold body tendency",
+        "soft body",
+        "stable body"
+      ],
+      "mental": [
+        "steady",
+        "slow",
+        "attached",
+        "greedy"
+      ],
+      "digestive": [
+        "deficient digestive fire",
+        "slow digestion",
+        "tendency toward ama",
+        "soft bowels",
+        "kapha-predominant persons vomit easily"
+      ],
+      "sleep": "excessive sleep, drowsiness",
+      "speech": "slow measured speech",
+      "memory": "good long-term memory",
+      "emotional": [
+        "attachment",
+        "greed",
+        "possessiveness"
+      ],
+      "disease_tendency": [
+        "kapha disorders",
+        "gulma (kapha type)",
+        "coryza",
+        "bronchial asthma",
+        "kustha",
+        "prameha",
+        "swelling",
+        "goitre",
+        "filaria",
+        "anorexia",
+        "nausea",
+        "indigestion",
+        "salivation",
+        "obesity"
+      ],
+      "aggravated_signs": [
+        "salivation",
+        "nausea",
+        "distension",
+        "horripilation",
+        "heaviness in body",
+        "drowsiness",
+        "vomiting",
+        "coryza",
+        "non-elimination of wind"
+      ],
+      "decreased_signs": [
+        "dryness",
+        "deficiency of kapha causes emetic drug to go downwards",
+        "decreased cohesion"
+      ],
+      "id": "prakriti_036"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Vata",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "lean body frame",
+        "dry skin",
+        "rough skin",
+        "cold extremities",
+        "variable appetite",
+        "cracking joints",
+        "tendency to trembling"
+      ],
+      "mental": [
+        "quick grasping",
+        "quick forgetting",
+        "enthusiastic",
+        "anxious tendency"
+      ],
+      "digestive": [
+        "variable digestive fire (vishama agni)",
+        "tendency to constipation",
+        "hard bowels",
+        "tendency to tympanitis"
+      ],
+      "sleep": "light and irregular sleep",
+      "speech": "fast, quick speech",
+      "memory": "quick to learn, quick to forget",
+      "emotional": [
+        "fear",
+        "anxiety",
+        "loneliness"
+      ],
+      "disease_tendency": [
+        "vatika disorders",
+        "constipation",
+        "tympanitis",
+        "pain in bones and joints",
+        "trembling",
+        "udavarta (reverse movement of vata)",
+        "vatabasti",
+        "ardhavabhedaka (migraine)"
+      ],
+      "aggravated_signs": [
+        "body-ache",
+        "fever",
+        "tympanitis",
+        "feeling of cold",
+        "stiffness",
+        "pain in thigh",
+        "pain in sides",
+        "cramps",
+        "burning sensation",
+        "retention of flatus, urine and faeces",
+        "pain in navel and pelvis",
+        "anal swelling"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_037"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Pitta",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "medium build",
+        "warm body",
+        "soft skin",
+        "tendency to sweating",
+        "reddish or yellowish complexion",
+        "sharp eyes"
+      ],
+      "mental": [
+        "sharp intellect",
+        "decisive",
+        "good leadership",
+        "anger tendency",
+        "critical nature"
+      ],
+      "digestive": [
+        "strong digestive fire (tikshna agni)",
+        "good appetite",
+        "tendency to burning sensation",
+        "tendency to loose stools"
+      ],
+      "sleep": "moderate and sound sleep",
+      "speech": "sharp, precise speech",
+      "memory": "sharp, focused memory",
+      "emotional": [
+        "anger",
+        "jealousy",
+        "passion"
+      ],
+      "disease_tendency": [
+        "paittika disorders",
+        "burning sensation",
+        "skin disorders (pitta-type)",
+        "jaundice",
+        "anaemia",
+        "internal haemorrhage",
+        "diarrhoea (paittika)",
+        "fever",
+        "heart disease (pitta)"
+      ],
+      "aggravated_signs": [
+        "burning sensation",
+        "redness",
+        "thirst",
+        "mental confusion",
+        "feeling of darkness",
+        "fever",
+        "impurity in blood or stool",
+        "yellow or red discoloration",
+        "diarrhoea",
+        "menorrhagia"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_038"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Kapha",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "heavy build",
+        "soft and oily skin",
+        "pale complexion",
+        "large frame",
+        "tendency to weight gain",
+        "strong endurance"
+      ],
+      "mental": [
+        "calm and stable",
+        "slow to anger",
+        "loyal",
+        "possessive tendency",
+        "attachment"
+      ],
+      "digestive": [
+        "slow digestive fire (manda agni)",
+        "slow digestion",
+        "tendency to heaviness after food",
+        "tendency to reduced appetite"
+      ],
+      "sleep": "heavy, prolonged sleep",
+      "speech": "slow, melodious speech",
+      "memory": "slow to learn, slow to forget (good long-term memory)",
+      "emotional": [
+        "attachment",
+        "greed",
+        "calmness"
+      ],
+      "disease_tendency": [
+        "kaphaja disorders",
+        "obesity",
+        "prameha (diabetes)",
+        "poor digestion",
+        "anorexia",
+        "drowsiness",
+        "heaviness",
+        "oedema",
+        "salivation",
+        "mucous excess"
+      ],
+      "aggravated_signs": [
+        "drowsiness",
+        "cold fever",
+        "lassitude",
+        "salivation",
+        "anorexia",
+        "heaviness",
+        "fainting",
+        "malaise",
+        "cold and clammy skin",
+        "white precipitates in urine",
+        "mucous in stool"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_039"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Vata",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [
+        "Lean and thin body",
+        "Dry skin",
+        "Rough constitution",
+        "Lax joints"
+      ],
+      "mental": [
+        "Fear",
+        "Anxiety",
+        "Excessive mental activity",
+        "Dullness when aggravated"
+      ],
+      "digestive": [
+        "Variable digestive fire",
+        "Tendency to constipation",
+        "Retention of faeces",
+        "Tympanitis",
+        "Anorexia"
+      ],
+      "sleep": "Light and disturbed sleep",
+      "speech": "Quick speech",
+      "memory": "Short-term good; long-term poor",
+      "emotional": [
+        "Fear",
+        "Anxiety",
+        "Depression when imbalanced"
+      ],
+      "disease_tendency": [
+        "Contracture (Akshepaka)",
+        "Ankylosis",
+        "Dislocation",
+        "Pain in extremities",
+        "Retention of faeces",
+        "Tympanitis (Adhmana)",
+        "Anorexia",
+        "Cutting pain",
+        "Udavarta (reverse movement of Vata)",
+        "Stiffness (Stambha)",
+        "Gulma",
+        "Inguinal hernia",
+        "Heart disease (Hridroga)",
+        "Flatulence"
+      ],
+      "aggravated_signs": [
+        "Pain all over the body",
+        "Constipation",
+        "Trembling",
+        "Deafness",
+        "Retention of urine and faeces",
+        "Stiffness in knee, thigh, shanks",
+        "Insanity (Unmada)",
+        "Loss of strength"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_040"
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Pitta",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [],
+      "mental": [],
+      "digestive": [
+        "Strong digestive fire",
+        "Tendency to burning sensation in digestive tract"
+      ],
+      "sleep": "",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "Burning sensation (Daha)",
+        "Haemorrhage (Raktapitta)",
+        "Internal haemorrhage",
+        "Prameha",
+        "Dysuria (Mutrakrichra)",
+        "Inflammation of urinary bladder",
+        "Cutting pain",
+        "Paittika disorders"
+      ],
+      "aggravated_signs": [
+        "Burning sensation",
+        "Haemorrhage from orifices",
+        "Excessive heat",
+        "Pallor turning to yellow"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_041",
+      "needs_review": true
+    },
+    {
+      "type": "prakriti",
+      "dosha": "Kapha",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "physical": [],
+      "mental": [],
+      "digestive": [
+        "Slow and dull digestive fire",
+        "Tendency to indigestion",
+        "Nausea"
+      ],
+      "sleep": "Heavy and prolonged sleep",
+      "speech": "",
+      "memory": "",
+      "emotional": [],
+      "disease_tendency": [
+        "Kustha (skin disorders)",
+        "Prameha (urinary disorders)",
+        "Obesity",
+        "Splenomegaly (Plihodara)",
+        "Indigestion",
+        "Alasaka (intestinal torpor)",
+        "Vishuchika"
+      ],
+      "aggravated_signs": [
+        "Excessive sleep",
+        "Drowsiness",
+        "Nausea",
+        "Vomiting",
+        "Body heaviness",
+        "Pallor",
+        "Itching",
+        "Eczema",
+        "Loss of digestive fire"
+      ],
+      "decreased_signs": [],
+      "id": "prakriti_042",
+      "needs_review": true
+    },
+    {
+      "type": "reference",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "data": {
+        "description": "Etiological factors (Vihara / behavioural causes) described in this section causing disease states",
+        "causes": []
+      },
+      "id": "reference_003"
+    },
+    {
+      "type": "reference",
+      "source": "Charaka Samhita - Chikitsasthana",
+      "data": {
+        "description": "Ever-ill persons described in Charaka Samhita Siddhisthana Chapter XI",
+        "types": [],
+        "common_causes": [
+          "Suppression of impelled natural urges",
+          "Not taking meals in time",
+          "Excreting and moving untimely"
+        ],
+        "management": [
+          "Phalavartti (suppository) as first step",
+          "Non-unctuous enema with punarnava, eranda, danti, citraka, devadaru, trivrita, kantakari and brhat panchamula decoction in cow's urine with oil, ghee and five salts",
+          "Diet with meat soup of wild animals",
+          "Unctuous enema with Danti oil",
+          "Bala-Rasna-Madanaphala-Bilva decoction enema for strength and complexion"
+        ]
+      },
+      "id": "reference_004"
+    }
+  ]
+}
